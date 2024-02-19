@@ -13,7 +13,7 @@ function parseJSON(jsonData) {
         const parsedObj = {};
         const htmlContent = generateHtmlFromJson(obj);
         for (const [key, value] of Object.entries(obj)) {
-            const formattedKey = key.toLowerCase().replace(/\s+/g, '_');
+            const formattedKey = key.toLowerCase().replace(/[\s-]+/g, '_');
             parsedObj[formattedKey] = value;
         }
         parsedObj['contractionData'] = htmlContent;
@@ -56,8 +56,8 @@ function generateHtmlFromJson(data) {
 
     let html = "<ul>";
     keysToInclude.forEach(key => {
-        if (data.hasOwnProperty(key) && data[key] !== "") {
-            html += `<li><span class="field-label">${key} -> </span>${data[key]}</li>`;
+        if (data[key]) {
+            html += `<li><span class="field-label" style="font-weight: 150;">"${key} -> </span>${data[key]}</li>`;
         }
     });
     html += "</ul>";
@@ -109,14 +109,9 @@ const filteredCharacters = computed(() => {
 }
 
 .card-container {
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  flex-direction: row;
-  flex-wrap: wrap;
-  flex-grow: 1;
-  justify-content: center;
-  gap: 20px;
-  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-gap: 20px;
+  justify-content: space-between;
 }
 </style>

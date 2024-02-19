@@ -10,13 +10,12 @@
       </div>
       <div class="card-body">
         <!-- New data fields -->
-        <p v-if="character.relevant"><span class="field-label">Relevant?</span> {{ character.relevant }}</p>
-        <p v-if="character.selfReferral"><span class="field-label">Self-referral:</span> {{ character.selfReferral }}</p>
+        <p v-if="character.self_referral"><span class="field-label">Self-referral:</span> {{ character.self_referral }}</p>
         <p v-if="character.vocabulary"><span class="field-label">Vocabulary:</span> {{ character.vocabulary }}</p>
         <p v-if="character.cussing"><span class="field-label">Cussing:</span> {{ character.cussing }}</p>
-        <p v-if="character.feelingOfSpeech"><span class="field-label">Feeling of speech:</span> {{ character.feelingOfSpeech }}</p>
+        <p v-if="character.feeling_of_speech"><span class="field-label">Feeling of speech:</span> {{ character.feeling_of_speech }}</p>
+        <p v-if="character.referral_to_others"><span class="field-label">Referral to others:</span> {{ character.referral_to_others }}</p>
         <p v-if="character.contractions"><span class="field-label">Contractions:</span> {{ character.contractions }}</p>
-        <p v-if="character.referralToOthers"><span class="field-label">Referral to others:</span> {{ character.referralToOthers }}</p>
         <p v-if="contractions" v-html="contractions"></p>
 
         <!-- End of new data fields -->
@@ -46,8 +45,7 @@
     border: 1px solid #393939;
     border-radius: 10px;
     padding: 20px;
-    margin-bottom: 20px;
-    flex: 1 1 500px;
+    width: 100%;
   }
 
   .category-labels {
@@ -68,7 +66,7 @@
   }
 
   .field-label {
-    font-weight: lighter;
+    font-weight: 150;
   }
   
   .card-body {
