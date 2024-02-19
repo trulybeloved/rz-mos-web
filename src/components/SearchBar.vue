@@ -3,7 +3,7 @@
     <input 
       type="text" 
       v-model="searchTerm" 
-      placeholder="Search characters..." 
+      placeholder="Search..." 
       class="search-input"
     />
   </template>
@@ -25,6 +25,7 @@
     border-radius: 10px;
     font-size: 16px;
     outline: none;
+    max-width: 1000px;
   }
   </style>
   

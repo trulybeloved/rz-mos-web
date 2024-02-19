@@ -78,9 +78,7 @@ const filteredCharacters = computed(() => {
   filtered.sort((a, b) => {
     const nameA = a.character.toLowerCase();
     const nameB = b.character.toLowerCase();
-    if (nameA < nameB) return -1;
-    if (nameA > nameB) return 1;
-    return 0;
+    return (nameA < nameB) ? -1 : 1;
   });
 
   return filtered;
