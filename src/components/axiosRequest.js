@@ -1,5 +1,5 @@
 // http.js
-import axios from 'axios';
+import axios from 'axios'
 
 export const makeHttpRequest = async (url, method = 'get', data = null, headers = {}) => {
   try {
@@ -7,12 +7,12 @@ export const makeHttpRequest = async (url, method = 'get', data = null, headers 
       method,
       url,
       data,
-      headers,
-    });
-    return response.data;
+      headers
+    })
+    return response.data
   } catch (error) {
     // Handle error appropriately
-    console.error('HTTP request error:', error);
-    throw error;
+    console.error('HTTP request error:', error)
+    throw error
   }
-};
+}

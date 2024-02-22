@@ -15,7 +15,7 @@ const router = createRouter({
       path: '/words',
       name: 'words',
       component: WordsView
-    },
+    }
   ]
 })
 

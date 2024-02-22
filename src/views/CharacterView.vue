@@ -1,5 +1,5 @@
 <script setup>
-import CharacterDeck from '@/components/CharacterDeck.vue';
+import CharacterDeck from '@/components/CharacterDeck.vue'
 </script>
 
 <template>

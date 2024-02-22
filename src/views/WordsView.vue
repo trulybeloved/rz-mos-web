@@ -1,5 +1,5 @@
 <script setup>
-import WordsDeck from '@/components/WordsDeck.vue';
+import WordsDeck from '@/components/WordsDeck.vue'
 </script>
 
 <template>
