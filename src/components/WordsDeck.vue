@@ -4,18 +4,31 @@ import { ref, computed } from 'vue'
 import { makeHttpRequest } from './axiosRequest.js'
 
 const mos_words = await makeHttpRequest(
-  'https://storage.googleapis.com/rezero-search-public-assets/manual-of-style-data/manual-of-style.json'
+  'https://storage.googleapis.com/rezero-search-public-assets/manual-of-style-data/manual-of-style-raw.json'
 )
 
 function parseJSON(jsonData) {
-  const parsedData = []
-
-  for (const [key, value] of Object.entries(jsonData)) {
-    // console.log(key, value);
+  
+  const outerArray = jsonData.map((obj) => {
     const parsedObj = {}
-    parsedObj[key] = value
-    parsedData.push(parsedObj)
-  }
+    for (const [key, value] of Object.entries(obj)) {
+      const newArray = []
+      for (const [key2, value2] of Object.entries(value)) {
+        const formattedKey = key2.toLowerCase().replace(/[\s-]+/g, '_')
+        newArray[formattedKey] = value2
+      }
+      parsedObj[key] = newArray
+    }
+    return parsedObj
+  })
+
+  const parsedData = []
+  outerArray.forEach((obj) => {
+    for (const [, value] of Object.entries(obj)) {
+      parsedData.push(value)
+    }
+  })
+
   return parsedData
 }
 
@@ -24,15 +37,28 @@ const parsedWords = parseJSON(mos_words)
 const searchTerm = ref('')
 
 const filteredWords = computed(() => {
+
   let filtered = parsedWords.filter((wordEntry) => {
-    return Object.entries(wordEntry).some(
-      ([key, value]) =>
-        key.toLowerCase().includes(searchTerm.value.toLowerCase()) ||
-        value.toLowerCase().includes(searchTerm.value.toLowerCase())
-    )
-  })
+    const japanese = wordEntry.japanese;
+    const english = wordEntry.english;
+    const usedFor = wordEntry.used_for;
+    const notes = wordEntry.notes;
+
+    if (
+      (japanese && (typeof japanese === 'string') && japanese.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
+      (english && (typeof english === 'string') && english.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
+      (usedFor && (typeof usedFor === 'object') && usedFor.toString().toLowerCase().includes(searchTerm.value.toLowerCase())) ||
+      (notes && (typeof notes === 'string') && notes.toLowerCase().includes(searchTerm.value.toLowerCase()))
+    ) {
+      return true;
+    } else {
+      return false;
+    }
+  });
+  
   return filtered
 })
+
 </script>
 
 <template>
@@ -42,10 +68,15 @@ const filteredWords = computed(() => {
     </div>
 
     <div class="words-container">
-      <div v-for="(word, index) in filteredWords" :key="index" class="word-entry">
-        <div v-for="(en, jp) in word" :key="jp" class="word-pair">
-          <span class="japnaese">{{ jp }}</span
-          >: <span class="english">{{ en }}</span>
+      <div v-for="(wordEntry, index) in filteredWords" :key="index" class="word-entry">
+        <div class="word-details">
+          <span class="japanese"> {{ wordEntry.japanese }}&nbsp;:&nbsp;</span>
+          <span class="english">{{ wordEntry.english }} </span>
+          <span v-if="wordEntry.used_for" class="used-for"><br> Used for : |</span> 
+          <span v-for="(usedFor, index) in wordEntry.used_for" :key="index" class="used-for">| {{ usedFor }} |</span> 
+          <span v-if="wordEntry.used_for" class="used-for">|</span>
+          <span v-if="wordEntry.notes" class="notes"><br>Notes: {{ wordEntry.notes }}</span>
+
         </div>
       </div>
     </div>
@@ -75,11 +106,25 @@ const filteredWords = computed(() => {
   border-radius: 5px;
 }
 
-.word-pair {
-  font-size: 20px;
-  padding: 10px;
+.word-details {
+  padding: 0.5rem;
 }
 
-.japnaese {
+.japanese {
+  font-size: 2em;
+}
+
+.english {
+  font-size: 1.4em;
+}
+
+.used-for {
+  font-size: 1.1em;
+  color: #a5a5a5;
+}
+
+.notes {
+  font-size: 1.1em;
+  color: #a5a5a5;
 }
 </style>

@@ -21,7 +21,6 @@ function parseJSON(jsonData) {
     parsedObj['contractionData'] = htmlContent
     parsedData.push(parsedObj)
   }
-  console.log(parsedData)
   return parsedData
 }
 
