@@ -253,7 +253,7 @@
 
     {
         "character": "Aldebaran",
-        "name_in_jp": "アル",
+        "name_in_jp": "アル / アルデバラン",
         "japanese_speech_quirks": [
             "Pronoun – “オレ”",
             "Very casual speech",
@@ -546,7 +546,7 @@
     },
 
     {
-        "character": "Vincent Vollachia (aka Abel)",
+        "character": "Vincent Vollachia / Abel",
         "name_in_jp": "ヴィンセント・ヴォラキア (アベル)",
         "japanese_speech_quirks": [
             "Pronoun – “俺” (“余” while on the throne)",
