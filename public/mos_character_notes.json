@@ -1,0 +1,1234 @@
+[
+    {
+        "character": "Beatrice",
+        "name_in_jp": "ベアトリス",
+        "japanese_speech_quirks": [
+            "Pronoun – “ベティ” (basically her name in short)",
+            "Uses “かしら” and “のよ” / ”なのよ” nearly always interchangeably (one sentence will have the former, the next will have the latter)"
+        ],
+        "english_speech_quirks": [
+            "Refers to herself as Betty (when “ベティ” is used)",
+            "Uses intermediate-level vocabulary (not overly complex)",
+            "Uses contractions such as “I’m” / “don’t”, etc often, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
+            "“かしら” quirk should be translated as “, I suppose” at the end of sentences",
+            "“のよ” / “なのよ” quirk should be translated as “, in fact” at the end of sentences"
+        ],
+        "notes": []
+    },
+    
+    {
+        "character":"Emilia",
+        "name_in_jp":"エミリア",
+        "japanese_speech_quirks":
+        [
+            "Pronoun – “私”",
+            "Elongates the word “すごく” as “すごーく”",
+            "Not really a quirk but she does use the phrase “そこまでよ” a lot",
+            "Uses old timey vocabulary from time to time"
+        ],
+        "english_speech_quirks":
+        [
+            "Pronoun – “I”",
+            "Simple vocabulary",
+            "Uses contractions such as “I’m” / “don’t”, etc often, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
+            "“すごーく” quirk should be translated as “reaaally”",
+            "“そこまでよ” should be translated as “That’s enough”",
+            "Old timey vocabulary should have weird-ass word choices (dunderhead, etc)"
+
+        ],
+        "notes":
+        [
+            "Eye color should be translated as “amethyst” (紫紺)",
+            "Has a sort of catch-phrase with “ごめん、ちょっと何言ってるのかわかんない”, translated as “Sorry, I’ve got no idea what you’re talking about”",
+            "Kind of another as introduction with “私はエミリア、ただのエミリアよ。”, translated as “I’m Emilia, just Emilia”",
+            "At times referred to as “氷結の魔女” (Witch of Glaciation)",
+            "Referred to often as “エミリアたん” (Emilia-tan) by Subaru",
+            "Referred to as “リア” (Lia) by Puck",
+            "Referred to as “エミリー” (Emily) by Annerose, also uses that name for herself in Arc 7",
+            "Refers to Fortuna as “母様” (Mother)"
+        ]
+        
+    },
+
+    {
+        "character": "Clind",
+        "name_in_jp": "クリンド",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”"
+        ],
+        "english_speech_quirks": [
+            "Very polite and formal speech",
+            "No contractions",
+            "Ends almost every sentence with a statement in kanji, the format should be “Dialogue. Statement.”",
+            "Refers to Roswaal with “旦那様” should always be translated as “Master” or “the Master”.",
+            "Refers to anyone above him with with “sama” 様",
+            "When using his “power” will say the word “憂鬱” should always be translated to “Tristitia”"
+        ],
+        "notes": []
+    },
+
+    {
+        "character": "Frederica Baumann",
+        "name_in_jp": "フレデリカ・バウマン",
+        "japanese_speech_quirks": [
+            "Pronoun – “わたくし”"
+        ],
+        "english_speech_quirks": [
+            "Very polite speech",
+            "No contractions unless speaking like an older person",
+            "Will rarely slip into a way of speaking that is like an older person (Ryuzu)",
+            "Refers to everyone above her with “sama” 様",
+            "Refers to Roswaal with “旦那様” should always to translated as “Master” or “the Master”.",
+            "Will very rarely in private refer to Petra with “chan” ちゃん",
+            "Uses Garf for Garfiel"
+        ],
+        "notes": [
+            "Eye color should written as “emerald” or “emerald-green”"
+        ]
+    },
+
+    {
+        "character": "Garfiel Tinzel",
+        "name_in_jp": "ガーフィール・ティンゼル",
+        "japanese_speech_quirks": [
+            "Pronoun – “俺様”"
+        ],
+        "english_speech_quirks": [
+            "Uses of “俺様” shall be localized as “my amazin’ self”",
+            "When “俺様たち” is used when appropriate use “our amazin’ selves”",
+            "Use contractions whenever possible, such as “don’t(‘cha)” / “’n”/ “(y’)ain’t” / “-in’”, etc",
+            "“you” to be stylized as “ya”, except in “you’re” and “you’ve”",
+            "“your(s)” to be stylized as “yer(s)”",
+            "Uses “Captain” for Natsuki Subaru",
+            "Uses “Ottobro” for Otto Suwen",
+            "Uses “姉貴” for Frederica should be translated to “Sis”",
+            "Refers to Roswaal with “野郎” Should be translated as “that bastard Roswaal”, “Roswaal the bastard” or “the bastard Roswaal”",
+            "Use ‘Nanna’ when saying 婆ちゃん",
+            "Use ‘Granny’ when saying ババア"
+        ],
+        "notes": [
+            "Eye color should written as “emerald” or “emerald-green”"
+        ]
+    },
+
+    {
+        "character": "Louis Arneb (Arc 7)",
+        "name_in_jp": "ルイ・アルネブ",
+        "japanese_speech_quirks": [
+            "Pronoun – “私たち” (prior to Arc 7)"
+        ],
+        "english_speech_quirks": [
+            "“うー” - “Uu”",
+            "“あうー” - “Auu”",
+            "“あー” - “Aa”",
+            "“あーうー” - “Aauu”",
+            "You get the point."
+        ],
+        "notes": [
+            "Her teleport skill, noted by the expression “転移”, should be translated as “transfer”",
+            "From Arc 8, Chapter 23 onward うあう should be treated as a name, referring to Subaru"
+        ]
+    },
+
+    {
+        "character": "Natsuki Subaru",
+        "name_in_jp": "ナツキ・スバル (菜月・昴)",
+        "japanese_speech_quirks": [
+            "Pronoun – “俺”",
+            "Casual speech"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “’n” / “y’all”, “ain’t” is used scarcely (never “y’ain’t”)",
+            "Relatively simple speaking style, avoid very complicated words",
+            "His “kind-of” catch-phrase, “馬鹿か、俺は。いや、馬鹿だ俺は”, should always be TL’d as “Am I an idiot? No, I am definitely an idiot.”",
+            "May be “バカ” at times instead of “馬鹿”",
+            "Has another sort of catch-phrase, “運命様、上等だ”, which has been TLd on multiple instances as “Bring it on, oh inevitable fate”",
+            "Al also uses this phrase more than once",
+            "HAS YET ANOTHER sort of catch-phrase, “俺が必ずお前を救ってみせる”, which has a bunch of variations (e.g. with “助ける” rather than “救う”, for Shaula in Arc 6 Chapter 70), and has been TLd as “I, no matter what, will save you”",
+            "Has a bit of a gag with Emilia with old-timey expressions, to which he replies “Who even says X these days” (...ってきょうび聞かねぇな)",
+            "Calls Cecilus “Ceci” (セッシー)"
+        ],
+        "notes": []
+    },
+
+    {
+        "character": "Otto Suwen",
+        "name_in_jp": "オットー・スーウェン",
+        "japanese_speech_quirks": [
+            "Pronoun – “僕”"
+        ],
+        "english_speech_quirks": [
+            "Avoids any contractions entirely",
+            "Well-spoken and polite"
+        ],
+        "notes": [
+            "Referred to as Ottobro by Garfiel (オットー)",
+            "Referred to as Internal Affairs Minister from time to time (内政官) by Roswaal",
+            "Referred with sama(様) by Frederica, and pre-arc 7 Rem",
+            "Referred with san(さん) by Petra",
+            "Referred with kun(くん) by Roswaal, and Emilia"
+        ]
+    },
+
+    {
+        "character": "Petra Leyte",
+        "name_in_jp": "ペトラ・レイテ",
+        "japanese_speech_quirks": [
+            "Pronoun – “わたし”"
+        ],
+        "english_speech_quirks": [
+            "Polite speech",
+            "Uses contractions but not very often (post arc 4)",
+            "Very slight child like way of speaking"
+        ],
+        "notes": [
+            "Refers to all the maids with “nee-sama” 姉様",
+            "Refers to Clind with “nii-sama”",
+            "Refers to everyone above her with “sama” 様 except Otto he gets the “san”",
+            "Will sometimes drop “sama” with Subaru",
+            "Refers to Roswaal with “旦那様” should always to translated as “Master” or “the Master”.",
+            "Referred to as “嬢様” in Arc 7, to be localized as “Lady Petra”",
+            "As of Arc 7 Chapter 76 many characters she referred to with “sama” are now referred with san, such as, Garf, Emilia, and many others."
+        ]
+    },
+
+    {
+        "character": "Ram",
+        "name_in_jp": "ラム",
+        "japanese_speech_quirks": [
+            "Pronoun – Own name in third person",
+            "Uses “姉” to refer to herself when talking about Rem Should be translated as “older sister”",
+            "Very curt with people, but speaks politely",
+            "Uses “ください”, “馬鹿ね” from time-to-time"
+        ],
+        "english_speech_quirks": [
+            "Referring to herself as third person should be kept as-is",
+            "Uses some contractions such as “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
+            "Uses “Kindly” whenever “ください” is employed",
+            "Uses “such a fool” whenever “馬鹿ね” is employed",
+            "Uses Garf for Garfiel"
+        ],
+        "notes": [
+            "Referred to as “nee-sama” (姉様) by a plethora of people (Subaru, Rem, Petra…) - should be kept as spoken because we’re weebs",
+            "Has a sort-of catch-phrase with “剣を握るものは剣に、魔に縋るものは魔に、炎に委ねるものは炎に。そして、鬼に願うものは鬼に、拠り所にしたそれに滅ぼされる” - “Those who wield the sword fall to the sword, those who cling to evil fall to evil, those who yield to fire fall to fire. And, those who wish for the Oni fall to the Oni, destroyed by what they rely on.”",
+            "Uses a lot of “おぞましい” (disgusting)",
+            "Eye color should be written as “light-crimson”",
+            "Hair color should be written as “pink”"
+        ]
+    },
+
+    {
+        "character": "Rem",
+        "name_in_jp": "レム",
+        "japanese_speech_quirks": [
+            "Pronoun – “私” (uses own name, “レム”, pre-Arc 7)"
+        ],
+        "english_speech_quirks": [
+            "Refers to herself using “Rem” pre-Arc 7",
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
+            "Is a tad more curt to Subaru, but is curt overall"
+        ],
+        "notes": [
+            "Uses Garf for Garfiel pre-Arc 7",
+            "Refers to Otto with sama 様(pre-Arc 7)"
+        ]
+    },
+
+    {
+        "character": "Roswaal L. Mathers",
+        "name_in_jp": "ロズワール・L・メイザース",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”",
+            "Elongates syllables here and there with ー"
+        ],
+        "english_speech_quirks": [
+            "Uses contractions such as “I’m” / “don’t”, etc often, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
+            "Words with elongated syllables should be stylized by repeating a vowel and inserting a til-de (e.g.: “さーく” becomes “plaaan~”)"
+        ],
+        "notes": [
+            "Referred to as the Head Magician of the Court (筆頭宮廷魔導師)",
+            "Referred to as Ros-chi (ロズっち) by Subaru sometimes"
+        ]
+    },
+
+    {
+        "character": "Aldebaran",
+        "name_in_jp": "アル",
+        "japanese_speech_quirks": [
+            "Pronoun – “オレ”",
+            "Very casual speech",
+            "Refers to Priscilla as “姫”"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t” / “y’all” / “ain’t”, “y’know” / “gonna”, etc, but does not use “-in’” / “y’ain’t” / “’n”",
+            "Relatively simple speaking style, tone should be laid-back",
+            "Calls almost everyone “bro” or “missy” (should this be “sis” instead?)",
+            "Calls Priscilla “Princess” (capitalized)"
+        ],
+        "notes": [
+            "Full name is Aldebaran (アルデバラン)",
+            "Uses “俺” once in the Third Trial, might happen again"
+        ]
+    },
+
+    {
+        "character": "Heinkel Astrea",
+        "name_in_jp": "ハインケル・アストレア",
+        "japanese_speech_quirks": [
+            "Pronoun – “俺”",
+            "Casual, crude style of speech"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t” but does not use  “gonna” / “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”, etc"
+        ],
+        "notes": [
+            "Eye color should be written as “sky-blue”",
+            "Hair color should be witten as “blazing red”"
+        ]
+    },
+
+    {
+        "character": "Priscilla Barielle",
+        "name_in_jp": "プリシラ・バーリエル",
+        "japanese_speech_quirks": [
+            "Pronoun – “妾”",
+            "Very high-and-mighty, horribly arrogant style of speech",
+            "Likes to use “凡愚” (foolish commoner) and “凡夫” (simpleton)",
+            "Has a little catch-phrase, “この世界は全て、妾にとって都合のよいようにできておる”",
+            "Another is “大義である”"
+        ],
+        "english_speech_quirks": [
+            "Contractions are not used at all, not even in questions",
+            "Convey arrogance through tone and wording",
+            "Prefer “shall/shall not” to “will/will not”",
+            "Scarce use of “mine” / “mine self”",
+            "Her little catchphrase should be TL’d as “Everything in this world is made for my convenience”",
+            "The other often-spoken phrase should be “Your work was for a great cause” (if standalone)"
+        ],
+        "notes": [
+            "Her pronoun usually trips up MTL tools"
+        ]
+    },
+
+    {
+        "character": "Schult",
+        "name_in_jp": "シュルト",
+        "japanese_speech_quirks": [
+            "Pronoun – “僕”"
+        ],
+        "english_speech_quirks": [
+            "No contractions",
+            "Very formal speech, simple words preferred"
+        ],
+        "notes": [
+            "Refers to almost everyone with Sama (様)",
+            "Often stutters words"
+        ]
+    },
+
+    {
+        "character": "Anastasia Hoshin",
+        "name_in_jp": "アナスタシア・ホーシン",
+        "japanese_speech_quirks": [
+            "Pronoun – “ウチ”",
+            "Kansai dialect",
+            "Refers to others as “子ぉ(ら)” a lot (often translated as “child”/”children”)"
+        ],
+        "english_speech_quirks": [
+            "Use contractions whenever possible, all of them “I’m” / “don’t(’cha)” / “-in’” / “kinda” / “tho” / “‘bout” / “‘em” / “‘cause” / “(y’)ain’t” / “y’all” / “’n” / “y’know”",
+            "Use contractions whenever possible, such as “don’t(‘cha)” / “’n”/ “(y’)ain’t” / “gotta” / “in’” / “y’all”",
+            "“you” to be stylized as “ya”, except in “you’re” and “you’ve”",
+            "“your(s)” to be stylized as “yer(s)”"
+        ],
+        "notes": [
+            "Referred to as “Ana” by Eridna (アナ)",
+            "Referred to as “Ana-bo” by Ricardo Welkin (アナ坊)",
+            "Sometimes referred as She-fox (女狐) by Priscilla"
+        ]
+    },
+
+    {
+        "character": "Eridna",
+        "name_in_jp": "襟ドナ",
+        "japanese_speech_quirks": [
+            "Pronoun – “ボク”"
+        ],
+        "english_speech_quirks": [
+            "No contractions whatsoever",
+            "Somewhat complex speech"
+        ],
+        "notes": [
+            "Also called “襟巻きのエキドナ” at times (translated differently, as “Scarfdona”)"
+        ]
+    },
+
+    {
+        "character": "Julius Juukulius",
+        "name_in_jp": "ユリウス・ユークリウス",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”"
+        ],
+        "english_speech_quirks": [
+            "No contractions whatsoever",
+            "Polite and semi-formal speech",
+            "Can be polite to the point of belittlement"
+        ],
+        "notes": [
+            "Can use the name Juli (ユーリ) when he does his pronoun becomes 俺",
+            "His Spirits’ names are as follows:",
+            "イア (fire) - Ia",
+            "アロ (wind) - Aro",
+            "クア (ground) - Qua",
+            "イク (water) - Ik",
+            "イン (yin) - In",
+            "ネス (yang) - Ness"
+        ]
+    },
+
+    {
+        "character": "Julius Juukulius",
+        "name_in_jp": "ユリウス・ユークリウス",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”"
+        ],
+        "english_speech_quirks": [
+            "No contractions whatsoever",
+            "Polite and semi-formal speech",
+            "Can be polite to the point of belittlement"
+        ],
+        "notes": [
+            "Can use the name Juli (ユーリ) when he does his pronoun becomes 俺",
+            "His Spirits’ names are as follows:",
+            "イア (fire) - Ia",
+            "アロ (wind) - Aro",
+            "クア (ground) - Qua",
+            "イク (water) - Ik",
+            "イン (yin) - In",
+            "ネス (yang) - Ness"
+        ]
+    },
+
+    {
+        "character": "Felix Argyle",
+        "name_in_jp": "フェリックス・アーガイル",
+        "japanese_speech_quirks": [
+            "Pronoun – “フェリちゃん” (nickname with chan at the end)",
+            "Will frequently use にゃ (nya) in sentences.",
+            "Will use きゅん (kyun) for some people"
+        ],
+        "english_speech_quirks": [
+            "Refers to himself as “Ferri-chan”",
+            "Uses contractions such as “I’m” / “don’t”, etc, does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”, basically similar to Subaru",
+            "Uses semi-polite speech that is feminine/neutral.",
+            "Anytime にゃ shows up, a cat pun should be used",
+            "Can be curt or rude to some people."
+        ],
+        "notes": [
+            "More commonly referred to as “Ferris” (フェリス)",
+            "The speaker tag should follow what is used in the narration of the current PoV (usually Ferris).",
+            "Uses sama (様) for Crusch",
+            "Refers to Wilhelm as Wil-jii (ヴィル爺)",
+            "Refers to Subaru as Subaru-kyun",
+            "Refers to Rem as Rem-chan"
+        ]
+    },
+
+    {
+        "character": "Reid Astrea",
+        "name_in_jp": "レイド・アストレア",
+        "japanese_speech_quirks": [
+            "Pronoun – “オレ”",
+            "Ends nearly all sentences with “オメエ” or “オメエら”"
+        ],
+        "english_speech_quirks": [],
+        "notes": [
+            "The use of “オメエ” and “オメエら” is to be translated as “ya prick(s)” or “ya twat(s)” depending on whether he’s talking to a man or a woman",
+            "“マブすぎ” -> “ya real damn hot”",
+            "“激マブ” -> “smokin’ hottie”",
+            "“マブ” -> “smokin’/hottie”",
+            "“エロい格好” -> “sexy-lookin’ woman”",
+            "“エロい女” -> “sexy woman”"
+        ]
+    },
+
+    {
+        "character": "Volcanica",
+        "name_in_jp": "ボルカニカ",
+        "japanese_speech_quirks": [
+            "Pronoun – “我”",
+            "Very archaic and purple-y"
+        ],
+        "english_speech_quirks": [
+            "No contractions whatsoever",
+            "Uses big words and grandiose wording",
+            "Replace “you” by “thou”"
+        ],
+        "notes": [
+            "Also known as the Divine Dragon (神龍)"
+        ]
+    },
+
+    {
+        "character": "Berstetz Fondalfon",
+        "name_in_jp": "ベルステツ・フォンダルフォン",
+        "japanese_speech_quirks": [
+            "Pronoun – “私奴”",
+            "Mega polite"
+        ],
+        "english_speech_quirks": [
+            "Avoids any contractions entirely",
+            "Well-spoken and hyper polite to the point of subtly putting himself down in standing",
+            "“Shall” rather than “will”"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+    
+    {
+        "character": "Lamia Godwin",
+        "name_in_jp": "ラミア・ゴドウィン",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”",
+            "Somewhat arrogant, but most of it is merely implied/under the hood, saccharine way of speech",
+            "Refers to others with “あなた”"
+        ],
+        "english_speech_quirks": [
+            "No contractions",
+            "Somewhat grandiose, implied ridicule of others"
+        ],
+        "notes": [
+            "Referred to as “毒姫” (Poison Princess)"
+        ]
+    },
+
+    {
+        "character": "Murkia Vollachia",
+        "name_in_jp": "ムルキア・ヴォラキア",
+        "notes": [
+            "31st Emperor of Vollachia",
+            "Referred to as “大敗帝” (Emperor of the Great Defeat)"
+        ]
+    },
+    
+    {
+        "character": "Serena Dracroy",
+        "name_in_jp": "セリーナ・ドラクロイ",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t”, but does not use  “y’all”/ “(y’)ain’t” / “‘bout” / “gonna” / “-in’” / “’n” / etc",
+            "Not very formal nor very casual"
+        ],
+        "notes": [
+            "Is a High Countess in title (上級伯), also nicknamed the Scorching Lady (灼熱公)"
+        ]
+    },
+
+    {
+        "character": "Ubilk",
+        "name_in_jp": "ウビールク",
+        "japanese_speech_quirks": [
+            "Pronoun – “ぼく”",
+            "“ぼくは” becomes “ぼかぁ”",
+            "Tends to elongate one of the first words in his lines"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t” / “gonna”, etc, but does not use  “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”",
+            "Relatively simple speaking style, tone should be laid-back",
+            "First word or thereabouts in his line should be elongated if the JP also elongates it with “ー” (don’t forget to insert the ~ at the end)"
+        ],
+        "notes": [
+            "Hair color should be referred to as “ashen” (灰色)",
+            "None"
+        ]
+    },
+
+    {
+        "character": "Vincent Vollachia (aka Abel)",
+        "name_in_jp": "ヴィンセント・ヴォラキア (アベル)",
+        "japanese_speech_quirks": [
+            "Pronoun – “俺” (“余” while on the throne)",
+            "Refers to others mostly with “貴様”",
+            "Very arrogant and grandiose style of speech"
+        ],
+        "english_speech_quirks": [
+            "Contractions are not used at all, not even in questions",
+            "“Shall” rather than “will”",
+            "Convey arrogance through tone and wording",
+            "Prefer “shall/shan’t” to “will/will not”"
+        ],
+        "notes": [
+            "Birth name is “Vincent Abellux” (ヴィンセント・アベルクス)",
+            "Uses “大儀であった” frequently (translated as “it was a great deed”)",
+            "Referred to as:",
+            "His Excellency the Emperor (皇帝閣下)",
+            "His Majesty the Emperor (皇帝陛下) -> only used as tongue-in-cheek by Subaru"
+        ]
+    },
+
+    {
+        "character": "Eugard Vollachia",
+        "name_in_jp": "ユーガルド・ヴォラキア",
+        "japanese_speech_quirks": [
+            "Pronoun – “余”",
+            "Refers to others mostly with “そなた”",
+            "Archaic and Grandiose manner of speaking"
+        ],
+        "english_speech_quirks": [
+            "No Contractions",
+            "Speaks in archaic and grandiose manner",
+            "Replace “you” with “thou”, etc."
+        ],
+        "notes": [
+            "Occasionally refers to Iris (Yorna) as “我が星” - to be rendered as “O Star of Mine”",
+            "Referred to as the “King of Thorns” (茨の王) and “Emperor of the Briar” (荊棘帝)"
+        ]
+    },
+
+    {
+        "character": "Arakiya",
+        "name_in_jp": "アラキア",
+        "japanese_speech_quirks": [
+            "Pronoun – “わたし”"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
+            "Vocabulary should be relatively simple"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+
+    {
+        "character": "Balleroy Temeglyph",
+        "name_in_jp": "バルロイ・テメグリフ",
+        "japanese_speech_quirks": [
+            "Pronoun – “あっし”",
+            "Uses slang, extra casual and stylish"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t” / “y’all”/ “(y’)ain’t”, but does not use “‘bout” / “gonna” / “-in’” / “’n” / etc",
+            "Very casual, laidback style of speech"
+        ],
+        "notes": [
+            "Is the “sworn brother” of Miles, Flop, and Medium(義兄弟) and called Miles “Big Bro Miles” (マイルズ兄)"
+        ]
+    },
+
+    {
+        "character": "Cecilus Segmunt",
+        "name_in_jp": "セシルス・セグムント",
+        "japanese_speech_quirks": [
+            "Pronoun – “僕”",
+            "Casual speech"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t” / “kinda” (not wanna or gotta, so “something + of” rather than “something + to”) / ”y’all” / “lil’”, etc, but does not use “-in’” / “’n”, “ain’t” is used scarcely",
+            "Flowery and grandiose but simple vocabulary",
+            "Calls Subaru “Basu” (バッスー), and later on, “Boss”, in Engrish (ボス)",
+            "Sometimes refers to himself and others as “役者” (actor), himself as “花形役者”/”主演役者” (star/lead actor) from time to time",
+            "\"花形役者\" should be translated as \"leading actor\""
+        ],
+        "notes": [
+            "Has a tendency to use the expression “嫌いじゃないです、むしろ好き”, which is to be translated as “I don’t dislike it, rather, I quite like it”"
+        ]
+    },
+
+    {
+        "character": "Chisha Gold",
+        "name_in_jp": "チシャ・ゴールド",
+        "japanese_speech_quirks": [
+            "Pronoun – “当方”",
+            "Elongates “な” at the end of sentences (like “なぁ”)",
+            "Tends to use “次第” at the end of sentences"
+        ],
+        "english_speech_quirks": [
+            "No contractions",
+            "Last vowel of words at the end of sentences that end in “なぁ” in the JP should be elongated."
+        ],
+        "notes": [
+            "Original name is “チェシャ・トリム” (Chesha Trim)",
+            "Uses same style of speech as Vincent when posing as him"
+        ]
+    },
+
+    {
+        "character": "Goz Ralfon",
+        "name_in_jp": "ゴズ・ラルフォン",
+        "japanese_speech_quirks": [
+            "Pronoun – “某”",
+            "Yells a lot, very spirited"
+        ],
+        "english_speech_quirks": [
+            "No contractions",
+            "Overly excited"
+        ],
+        "notes": []
+    },
+
+    {
+        "character": "Groovy Gumlet",
+        "name_in_jp": "グルービー・ガムレット",
+        "japanese_speech_quirks": [
+            "Pronoun – “俺”",
+            "Speaks roughly and swears a lot"
+        ],
+        "english_speech_quirks": [
+            "When using クソ as an adjective, it should be translated as “fucking”",
+            "When using クソ on its own, it should just be translated as “FUCK/fuck”",
+            "Uses mostly contractions such as “I’m” / “don’t” / “gonna”, etc, but does not use  “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”",
+            "チクショウ to be translated as “Goddammit” or “Goddamn” depending on context"
+        ],
+        "notes": []
+    },
+
+    {
+        "character": "Madelyn Eschart",
+        "name_in_jp": "マデリン・エッシャルト",
+        "japanese_speech_quirks": [
+            "Pronoun – “竜”",
+            "Sentences sometimes accentuated with “っちゃ” (take care to not confuse it with actual words)"
+        ],
+        "english_speech_quirks": [
+            "Pronoun should be translated as “I, the dragon” (singular) or “I, the Dragon, and you” (plural if speaking of people) or “us dragons” (plural if speaking of her flying dragons), or “this dragon”",
+            "Uses mostly contractions such as “I’m” / “don’t” but does not use  “gonna” / “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”, etc",
+            "Use of “っちゃ” should be localized with a “frig’/friggin’”"
+        ],
+        "notes": []
+    },
+
+    {
+        "character": "Moguro Hagane",
+        "name_in_jp": "モグロ・ハガネ",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”",
+            "Short sentences without verbs, words separated by commas"
+        ],
+        "english_speech_quirks": [
+            "No contractions",
+            "Very rarely use verbs, very short sentences"
+        ],
+        "notes": []
+    },
+
+    {
+        "character": "Olbart Dunklekenn",
+        "name_in_jp": "オルバルト・ダンクルケン",
+        "japanese_speech_quirks": [
+            "Pronoun – “ワシ”",
+            "Calls Abel “仮面の若僧”",
+            "Calls a lotta people “若僧”",
+            "Laughs with “か--かっか” (final syllable emphatised)"
+        ],
+        "english_speech_quirks": [
+            "Uses some contractions such as “I’m” / “don’t(’cha)” / “-in’” / “kinda” / “tho” / “‘bout” / “‘em” / “‘cause”, but doesn’t use “(y’)ain’t” / “y’all” / “’n” / “y’know”",
+            "Uses “young’un(s)” to refer to other people (only when 若僧 is used)",
+            "Uses “masked young’un” to refer to Abel (only when 仮面の若僧 is used)",
+            "“you” to be stylized as “ya”, except in “you’re” and “you’ve”",
+            "“your(s)” to be stylized as “yer(s)”",
+            "“to” to be stylized as “ta”",
+            "Laughs with “ka-kka” (final “ka” is always emphatised)",
+            "Refers to Arakiya as “Araki”",
+            "Refers to Chesha as “Chesshy”",
+            "Should sound like an old fart (haha see what I did there)"
+        ],
+        "notes": [
+            "Very often dubbed in narration as “怪老”, which should be translated as “monstrous old man” or variations of the sort, not as his title, “Vicious Old Man”."
+        ]
+    },
+
+    {
+        "character": "Yorna Mishigure",
+        "name_in_jp": "ヨルナ・ミシグレ",
+        "japanese_speech_quirks": [
+            "Pronoun – \"わっち\"",
+            "Uses “主さん” as a second-person pronoun",
+            "Uses just “主” to refer to Abel in second-person",
+            "Speaks “like a hooker”"
+        ],
+        "english_speech_quirks": [
+            "Very casual and laid-back speech",
+            "Try to insert words that may have sexual/flirty connotations when possible (e.g.: “throbbing” instead of “pulsing”/”beating”)",
+            "Uses of “主” for Abel should be TL’d as “My Lord”"
+        ],
+        "notes": []
+    },
+
+    {
+        "character": "Jamal Aurélie",
+        "name_in_jp": "ジャマル・オーレリー",
+        "japanese_speech_quirks": [
+            "Pronoun – “オレ”"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t” / “y’all”/ “(y’)ain’t” / “‘bout” / “gonna” / “tho’”, etc, but does not use “-in’” / “’n”",
+            "Likes to curse here and there, is very rude overall"
+        ],
+        "notes": []
+    },
+
+    {
+        "character": "Kafma Irulux",
+        "name_in_jp": "カフマ・イルルクス",
+        "japanese_speech_quirks": [
+            "Pronoun – \"俺\""
+        ],
+        "english_speech_quirks": [
+            "Uses contractions depending on context, and only uses those such as “I’m” / “don’t”, etc, does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
+            "Extremely polite when talking to the Emperor or in presence of the Emperor (no contractions)",
+            "Casual otherwise (contractions used at will)",
+            "Relatively simple speaking style, avoid very complicated words"
+        ],
+        "notes": [
+            "Subject to change"
+        ]
+    },
+
+    {
+        "character": "Miles",
+        "name_in_jp": "マイルズ",
+        "japanese_speech_quirks": [
+            "Pronoun – “オレ” (usually), may switch to “ワタクシ” when talking to someone of higher position/when trying to butter up to someone",
+            "Casual, rough style of speech by default",
+            "Is a lot more polite when talking to someone of higher status (like Serena) or when buttering up to someone (like Reinhard)"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t” / “y’all”/ “(y’)ain’t” / “‘bout” / “gonna”  but does not use / “-in’” / “’n” / etc",
+            "Switches to a polite style without contractions when talking to someone of higher status or buttering up to them (denote this by the use of “ワタクシ”)"
+        ],
+        "notes": [
+            "Is Balleroy Temeglyph’s “sworn brother” (義兄弟)",
+            "Calls Balleroy “Lil’ Balle” (バル坊)"
+        ]
+    },
+
+    {
+        "character": "Todd Fang",
+        "name_in_jp": "トッド・ファング",
+        "japanese_speech_quirks": [
+            "Pronoun – “俺”",
+            "Uses “せーのっ” from time-to-time"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “’n” / “y’all”, “ain’t” is used scarcely (never “y’ain’t”)",
+            "Relatively simple speaking style, avoid very complicated words",
+            "“せーのっ” to be done as “One, two aaand three!”"
+        ],
+        "notes": [
+            "When using “嬢ちゃん”, can be translated as “miss”",
+            "Will sometimes say “失敗失敗” should be translated as “My bad, my bad”"
+        ]
+    },
+
+    {
+        "character": "Zikr Osman",
+        "name_in_jp": "ズィクル・オスマン",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”",
+            "Speaks politely and straight to the point"
+        ],
+        "english_speech_quirks": [
+            "Avoids contractions for the most part, using “I’m” / “don’t” only, and scarcely at that",
+            "Polite speech, not very verbose nor too flowery",
+            "Refers to most women with 嬢 should be localized as “Miss”"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+
+    {
+        "character": "Holly Shudraq",
+        "name_in_jp": "ホーリィ",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”",
+            "Oftentimes ends their sentences with “なノー”"
+        ],
+        "english_speech_quirks": [
+            "Final word before comma should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana",
+            "Final word in sentence should be italicized and a tilde added after, e.g.: “Something something~.”, if sentence ends in “なノー”",
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+
+    {
+        "character": "Kuna Shudraq",
+        "name_in_jp": "クーナ",
+        "japanese_speech_quirks": [
+            "Pronoun – アタイ",
+            "Oftentimes the final syllable of their sentence is a Katakana character"
+        ],
+        "english_speech_quirks": [
+            "Final word before comma or period should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana",
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+
+    {
+        "character": "Kuna Shudraq",
+        "name_in_jp": "クーナ",
+        "japanese_speech_quirks": [
+            "Pronoun – アタイ",
+            "Oftentimes the final syllable of their sentence is a Katakana character"
+        ],
+        "english_speech_quirks": [
+            "Final word before comma or period should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana",
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+
+    {
+        "character": "Mariuli Shudraq",
+        "name_in_jp": "マリウリ",
+        "japanese_speech_quirks": [
+            "Pronoun – ?",
+            "Oftentimes the final syllable of their sentence is a Katakana character"
+        ],
+        "english_speech_quirks": [
+            "Final word before comma or period should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana",
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+
+    {
+        "character": "Mizelda Shudraq",
+        "name_in_jp": "ミゼルダ",
+        "japanese_speech_quirks": [
+            "Pronoun – ?",
+            "Oftentimes the final syllable of their sentence is a Katakana character"
+        ],
+        "english_speech_quirks": [
+            "Final word before comma or period should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana",
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
+            "Vocabulary should be relatively simple"
+        ],
+        "notes": [
+            "Is referred to as “Chieftain” by some Shudraqians",
+            "None"
+        ]
+    },
+
+    {
+        "character": "Taritta Shudraq",
+        "name_in_jp": "タリッタ",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”",
+            "Oftentimes the final syllable of their sentence is a Katakana character"
+        ],
+        "english_speech_quirks": [
+            "Final word before comma or period should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana",
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”"
+        ],
+        "notes": [
+            "Refers to Mizelda as “sister”",
+            "None"
+        ]
+    },
+
+    {
+        "character": "Utakata Shudraq",
+        "name_in_jp": "ウタカタ",
+        "japanese_speech_quirks": [
+            "Pronoun – “ウー” (a short-hand version of their own name)",
+            "Oftentimes the final syllable of their sentence is a Katakana character"
+        ],
+        "english_speech_quirks": [
+            "Refers to herself as “Uu”",
+            "Final word before comma or period should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana",
+            "Casual speech and very childlike, vocabulary should be as simple as possible",
+            "Calls everyone by the first syllable of their name + the vowel of that syllable, E.g.: Subaru -> Suu, Mizelda -> Mii, Taritta -> Taa, Rem -> Ree… Exceptions: Schult -> Shuu, Flop -> Fuu, Medium -> Midii (this because the Me in Medium is pronounced Mi), Beatrice -> Bae (This is because Bea in Beatrice is pronounced as Bay), Frederica -> Freh, Emilia -> Em"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+
+    {
+        "character": "Gustav Morello",
+        "name_in_jp": "グスタフ・モレロ",
+        "japanese_speech_quirks": [
+            "Pronoun – “本職”"
+        ],
+        "english_speech_quirks": [
+            "No contractions",
+            "Very formal speech, soft spoken",
+            "“Shall” rather than “will”",
+            "When directly referring to himself (with pronoun) use “in my capacity” or “as the official” as best fits the line"
+        ],
+        "notes": [
+            "Current Island Chief (島主) of Gladiator Island Ginunhive;",
+            "Referred with Governor (総督) by some"
+        ]
+    },
+
+    {
+        "character": "Hiain Yatz",
+        "name_in_jp": "ヒアイン・ヤッツ",
+        "japanese_speech_quirks": [
+            "Pronoun – “俺”"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t” / “y’all” / “(y’)ain’t” / “y’know” / “gonna” / “hafta” / “tho’”, etc, but does not use “-in’” / “’n” / “‘cause”",
+            "Likes to curse here and there, rough language"
+        ],
+        "notes": [
+            "In narration is called Lizard (蜥蜴) in narration should be “The lizardman”",
+            "Refers to Subaru with “ガキ” should be written as “brat”",
+            "Refers to Subaru with “兄弟”, should be written as “bro”",
+            "Refers to Tanza with “チビ”, should be written as “pipsqueak”"
+        ]
+    },
+
+    {
+        "character": "Idra Missanga",
+        "name_in_jp": "イドラ・ミサンガ",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
+            "Normal way of speaking"
+        ],
+        "notes": [
+            "Calls himself a former warrior (戦士)",
+            "Todd calls him a soldier (兵士)",
+            "In narration is called “Rust-colored hair” (錆色髪) in narration should be “The rust-haired man” or “The man with the rust-colored hair”",
+            "Refers to Subaru as “子ども” Should be written as “child”"
+        ]
+    },
+
+    {
+        "character": "Tanza",
+        "name_in_jp": "タンザ",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”"
+        ],
+        "english_speech_quirks": [
+            "No contractions",
+            "Very formal speech"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+
+    {
+        "character": "Weitz Rogen",
+        "name_in_jp": "ヴァイツ・ログン",
+        "japanese_speech_quirks": [
+            "Pronoun – “オレ”"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t” / “ya/yer” (‘cha after word ending in -d or -t, “yer” for “you’re”) / “y’all” / “(y’)ain’t” / “y’know” / “gonna” / “‘cause” / “tho’”, etc, but does not use “-in’” / “’n” / “lil’”",
+            "Likes to curse here and there, rough language"
+        ],
+        "notes": [
+            "Called Tattooed (刺青) in narration should be “The tattooed man” or “The man with the tattoos” when used",
+            "Refers to Subaru with “小僧” should be written as “kid”"
+        ]
+    },
+
+    {
+        "character": "Flop O’Connell",
+        "name_in_jp": "フロップ・オコーネル",
+        "japanese_speech_quirks": [
+            "Pronoun – “僕”",
+            "Refers to Abel with “村長くん”",
+            "Refers to Subaru with “旦那くん”",
+            "Refers to Rem with “奥さん”",
+            "Refers to Louis with “姪っ子ちゃん”",
+            "Refers to Miles with “マイルズ兄ぃ”",
+            "Refers to Priscilla with “姫くん”",
+            "Refers to Schult with 執事くん",
+            "Refers to Madelyn with くん"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t” / “y’all”, etc, but does not use “-in’” / “(y’)ain’t” / “’n”",
+            "Relatively simple speaking style, tone should be laid-back",
+            "Uses “dear sister” for Medium (when speaking directly to her, “sister” when not)",
+            "Uses “Village Chief-kun” for Abel",
+            "Uses “Husband-kun” for Subaru), uses “Husband-san” a couple of times",
+            "Uses “Wife-san” for Rem",
+            "Uses “Niece-chan” for Louis",
+            "Uses “Princess-kun” for Priscilla",
+            "Uses “Big Bro Miles” for Miles",
+            "Uses “Butler-kun” for Schult",
+            "Uses “Soldier-kun” for Todd (兵士くん)",
+            "Uses “Dress-chan” for Beatrice (ドレスちゃん)"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+    
+    {
+        "character": "Flora",
+        "name_in_jp": "フローラ",
+        "japanese_speech_quirks": [
+            "Pronoun – ?"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
+            "Relatively simple speaking style"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+    
+    {
+        "character": "Katya Aurélie",
+        "name_in_jp": "カチュア・オーレリー",
+        "japanese_speech_quirks": [
+            "Pronoun –”私”"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”"
+        ],
+        "notes": [
+            "Refers to Jamal as お兄ちゃん",
+            "“せーのっ” to be done as “One, two aaand three!”",
+            "Often stutters"
+        ]
+    },
+
+    {
+        "character": "Mezoreia",
+        "name_in_jp": "メゾレイア",
+        "japanese_speech_quirks": [
+            "Pronoun – “我”",
+            "Very archaic and purple-y"
+        ],
+        "english_speech_quirks": [
+            "No contractions whatsoever",
+            "Uses big words and grandiose wording",
+            "Replace “you” by “thou”"
+        ],
+        "notes": [
+            "Also known as the Cloud Dragon (雲龍)"
+        ]
+    },
+    
+    {
+        "character": "Medium O’Connell",
+        "name_in_jp": "ミディアム・オコーネル",
+        "japanese_speech_quirks": [
+            "Pronoun – “あたし”"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t” / “y’all” / “‘cause”, “wanna/gotta”, etc, but does not use “-in’” / “(y’)ain’t” / “’n”",
+            "Relatively simple speaking style, tone should be laid-back"
+        ],
+        "notes": [
+            "Uses “big bro” for Flop",
+            "None"
+        ]
+    },
+    
+    {
+        "character": "Natsumi Schwartz",
+        "name_in_jp": "ナツミ・シュバルツ",
+        "japanese_speech_quirks": [
+            "Pronoun – わたくし"
+        ],
+        "english_speech_quirks": [
+            "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
+            "Relatively simple speaking style, avoid very complicated words"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+    
+    {
+        "character": "Rowan Segmunt",
+        "name_in_jp": "ロウアン・セグムント",
+        "japanese_speech_quirks": [
+            "Pronoun – “某”"
+        ],
+        "english_speech_quirks": [
+            "Use contractions whenever possible, such as “don’t(‘cha)” / “’n”/ “(y’)ain’t”, etc, except for words that end in “-ing”",
+            "“you” to be stylized as “ya”, except in “you’re” and “you’ve”",
+            "“your(s)” to be stylized as “yer(s)”",
+            "Refers to other men as “buddy”",
+            "Refers to women as “lady”",
+            "Has a propensity for using some old-fashioned speech/terminology in his dialogue."
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+    
+    {
+        "character": "Halibel",
+        "name_in_jp": "ハリベル",
+        "japanese_speech_quirks": [
+            "Pronoun – “僕”",
+            "Kansai dialect",
+            "Extremely laidback"
+        ],
+        "english_speech_quirks": [
+            "Use contractions whenever possible, all of them “I’m” / “don’t(’cha)” / “-in’” / “kinda” / “tho” / “‘bout” / “‘em” / “‘cause” / “(y’)ain’t” / “y’all” / “’n” / “y’know”",
+            "Use contractions whenever possible, such as “don’t(‘cha)” / “’n”/ “(y’)ain’t” / “gotta” / “in’” / “y’all”",
+            "“you” to be stylized as “ya”, except in “you’re” and “you’ve”",
+            "“your(s)” to be stylized as “yer(s)”"
+        ],
+        "notes": [
+            "Is also called “礼賛者”, “(The) Admirer”"
+        ]
+    },
+
+    {
+        "character": "Bianca",
+        "name_in_jp": "ビアンカ",
+        "japanese_speech_quirks": [
+            "Pronoun – ?"
+        ],
+        "english_speech_quirks": [
+            "Same as Vincent Vollachia/Abel"
+        ],
+        "notes": [
+            "None"
+        ]
+    },
+
+    {
+        "character": "Carillon",
+        "name_in_jp": "カリヨン",
+        "notes": [
+            "Flying dragon, refer to it as “it” in third person"
+        ]
+    },
+
+    {
+        "character": "Botecliffe",
+        "name_in_jp": "ボテクリフ",
+        "notes": [
+            "Flop and Medium O’Connell’s Ox"
+        ]
+    },
+
+    {
+        "character": "Gudda Dialmo",
+        "name_in_jp": "グッダ・ディアルモ",
+        "notes": [
+            "Referred to as “虎狩” (Tiger Hunter)"
+        ]
+    }
+    
+]
