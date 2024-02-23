@@ -124,7 +124,6 @@ export default {
 
 .character-notes {
   padding-top: 10px;
-
 }
 
 .character-notes div {
@@ -136,7 +135,7 @@ export default {
   list-style-type: disc;
   list-style-position: outside;
   background-color: #292929;
-  padding: 10px 10px 10px 0px; 
+  padding: 10px 10px 10px 0px;
   border-radius: 10px;
   font-size: 1em;
   line-height: 1.5;

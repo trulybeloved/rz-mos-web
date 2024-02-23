@@ -95,7 +95,7 @@ function mergeCharacterDataArrays(arr1, arr2, key) {
 }
 
 const mergedArray = mergeCharacterDataArrays(parsedCharacters, characterNotes, 'character')
-console.log(mergedArray)
+// console.log(mergedArray)
 
 const searchTerm = ref('')
 
@@ -146,7 +146,6 @@ const filteredCharacters = computed(() => {
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   grid-gap: 20px;
   justify-content: space-between;
-  overflow: hidden;
   scroll-behavior: smooth;
 }
 
