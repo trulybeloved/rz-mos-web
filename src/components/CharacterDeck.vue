@@ -9,6 +9,10 @@ const characters = await makeHttpRequest(
   'https://storage.googleapis.com/rezero-search-public-assets/speech-style-data/speech-style-raw-data.json'
 )
 
+const characterNotes = await makeHttpRequest(
+  'https://raw.githubusercontent.com/trulybeloved/rz-mos-web/main/public/mos_character_notes.json'
+)
+
 function parseJSON(jsonData) {
   const parsedData = []
   for (const obj of jsonData) {
@@ -67,11 +71,37 @@ function generateHtmlFromJson(data) {
 
 const parsedCharacters = parseJSON(characters)
 
+// console.log(parsedCharacters)
+
+function mergeCharacterDataArrays(arr1, arr2, key) {
+  const map = new Map()
+  arr1.forEach((obj) => {
+    map.set(obj[key], obj)
+  })
+
+  // console.log(map)
+
+  arr2.forEach((obj) => {
+    const keyValue = obj[key]
+    if (map.has(keyValue) && obj) {
+      Object.assign(map.get(keyValue), obj)
+    } else {
+      arr1.push(obj)
+    }
+  })
+
+  // console.log(arr1)
+  return arr1
+}
+
+const mergedArray = mergeCharacterDataArrays(parsedCharacters, characterNotes, 'character')
+console.log(mergedArray)
+
 const searchTerm = ref('')
 
 const filteredCharacters = computed(() => {
   // Filter characters based on search term
-  let filtered = parsedCharacters.filter((characterEntry) =>
+  let filtered = mergedArray.filter((characterEntry) =>
     characterEntry.character.toLowerCase().includes(searchTerm.value.toLowerCase())
   )
 

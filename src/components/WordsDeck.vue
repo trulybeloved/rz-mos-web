@@ -8,7 +8,6 @@ const mos_words = await makeHttpRequest(
 )
 
 function parseJSON(jsonData) {
-  
   const outerArray = jsonData.map((obj) => {
     const parsedObj = {}
     for (const [key, value] of Object.entries(obj)) {
@@ -37,28 +36,34 @@ const parsedWords = parseJSON(mos_words)
 const searchTerm = ref('')
 
 const filteredWords = computed(() => {
-
   let filtered = parsedWords.filter((wordEntry) => {
-    const japanese = wordEntry.japanese;
-    const english = wordEntry.english;
-    const usedFor = wordEntry.used_for;
-    const notes = wordEntry.notes;
+    const japanese = wordEntry.japanese
+    const english = wordEntry.english
+    const usedFor = wordEntry.used_for
+    const notes = wordEntry.notes
 
     if (
-      (japanese && (typeof japanese === 'string') && japanese.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
-      (english && (typeof english === 'string') && english.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
-      (usedFor && (typeof usedFor === 'object') && usedFor.toString().toLowerCase().includes(searchTerm.value.toLowerCase())) ||
-      (notes && (typeof notes === 'string') && notes.toLowerCase().includes(searchTerm.value.toLowerCase()))
+      (japanese &&
+        typeof japanese === 'string' &&
+        japanese.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
+      (english &&
+        typeof english === 'string' &&
+        english.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
+      (usedFor &&
+        typeof usedFor === 'object' &&
+        usedFor.toString().toLowerCase().includes(searchTerm.value.toLowerCase())) ||
+      (notes &&
+        typeof notes === 'string' &&
+        notes.toLowerCase().includes(searchTerm.value.toLowerCase()))
     ) {
-      return true;
+      return true
     } else {
-      return false;
+      return false
     }
-  });
-  
+  })
+
   return filtered
 })
-
 </script>
 
 <template>
@@ -72,11 +77,15 @@ const filteredWords = computed(() => {
         <div class="word-details">
           <span class="japanese"> {{ wordEntry.japanese }}&nbsp;:&nbsp;</span>
           <span class="english">{{ wordEntry.english }} </span>
-          <span v-if="wordEntry.used_for" class="used-for"><br> Used for : |</span> 
-          <span v-for="(usedFor, index) in wordEntry.used_for" :key="index" class="used-for">| {{ usedFor }} |</span> 
+          <span v-if="wordEntry.used_for" class="used-for"
+            ><br />
+            Used for : |</span
+          >
+          <span v-for="(usedFor, index) in wordEntry.used_for" :key="index" class="used-for"
+            >| {{ usedFor }} |</span
+          >
           <span v-if="wordEntry.used_for" class="used-for">|</span>
-          <span v-if="wordEntry.notes" class="notes"><br>Notes: {{ wordEntry.notes }}</span>
-
+          <span v-if="wordEntry.notes" class="notes"><br />Notes: {{ wordEntry.notes }}</span>
         </div>
       </div>
     </div>

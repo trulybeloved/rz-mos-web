@@ -3,21 +3,17 @@ import { RouterLink } from 'vue-router'
 </script>
 
 <template>
-
   <div class="topbar">
-
     <div class="header-container">
-
       <div class="header-logo">
         <img
-        alt="logo"
-        class="logo"
-        src="../assets/rz_mos_web_logo.svg"
-        width="100%"
-        height="100%"
-      />
+          alt="logo"
+          class="logo"
+          src="../assets/rz_mos_web_logo.svg"
+          width="100%"
+          height="100%"
+        />
       </div>
-
 
       <div class="header-text">
         <h1 class="green">Re:ZERO MoS Web</h1>
@@ -41,20 +37,17 @@ import { RouterLink } from 'vue-router'
         </h4>
       </div>
     </div>
-  
+
     <div class="navigation">
       <nav>
         <RouterLink to="/">Characters</RouterLink>
         <RouterLink to="/words">Words and Phrases</RouterLink>
       </nav>
     </div>
-
   </div>
 </template>
 
-
 <style scoped>
-
 .topbar {
   display: flex;
   flex-direction: column;
@@ -98,9 +91,6 @@ h4 {
   font-size: 1rem;
 }
 
-
-
-
 .header-text h1,
 .header-text h3 {
   text-align: left;
@@ -116,7 +106,6 @@ h4 {
   display: flex;
   width: 75px;
   height: 75px;
-
 }
 
 nav {
@@ -142,16 +131,13 @@ nav a:first-of-type {
 }
 
 @media screen and (max-width: 700px) {
+  h3,
+  h4 {
+    font-size: 0;
+  }
 
-h3, h4 {
-  font-size: 0;
+  nav {
+    font-size: 1rem;
+  }
 }
-
-nav {
-  font-size: 1rem;
-}
-}
-
-
-
 </style>

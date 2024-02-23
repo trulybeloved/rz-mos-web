@@ -7,30 +7,64 @@
     </div>
     <div class="card-header">
       <span class="card-title">{{ character.character }}</span>
+      <span class="card-subtitle"><br />{{ character.name_in_jp }}</span>
     </div>
     <div class="card-body">
-      <!-- New data fields -->
-      <p v-if="character.self_referral">
-        <span class="field-label">Self-referral:</span> {{ character.self_referral }}
-      </p>
-      <p v-if="character.vocabulary">
-        <span class="field-label">Vocabulary:</span> {{ character.vocabulary }}
-      </p>
-      <p v-if="character.cussing">
-        <span class="field-label">Cussing:</span> {{ character.cussing }}
-      </p>
-      <p v-if="character.feeling_of_speech">
-        <span class="field-label">Feeling of speech:</span> {{ character.feeling_of_speech }}
-      </p>
-      <p v-if="character.referral_to_others">
-        <span class="field-label">Referral to others:</span> {{ character.referral_to_others }}
-      </p>
-      <p v-if="character.contractions">
-        <span class="field-label">Contractions:</span> {{ character.contractions }}
-      </p>
-      <p v-if="contractions" v-html="contractions"></p>
+      <div class="character-notes">
+        <div v-if="character.japanese_speech_quirks && character.japanese_speech_quirks.length">
+          <span class="field-label">Japanese Quirks:<br /></span>
+          <div class="note-list">
+            <ul>
+              <li v-for="(quirk, index) in character.japanese_speech_quirks" :key="index">
+                <span>{{ quirk }}</span>
+              </li>
+            </ul>
+          </div>
+        </div>
 
-      <!-- End of new data fields -->
+        <div v-if="character.english_speech_quirks && character.english_speech_quirks.length">
+          <span class="field-label">English Quirks:<br /></span>
+          <div class="note-list">
+            <ul>
+              <li v-for="(quirk, index) in character.english_speech_quirks" :key="index">
+                <span>{{ quirk }}</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div v-if="character.notes && character.notes.length">
+          <span class="field-label">Notes:<br /></span>
+          <div class="note-list">
+            <ul>
+              <li v-for="(quirk, index) in character.notes" :key="index">
+                <span>{{ quirk }}</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="speech-style">
+        <p v-if="character.self_referral">
+          <span class="field-label">Self-referral:</span> {{ character.self_referral }}
+        </p>
+        <p v-if="character.vocabulary">
+          <span class="field-label">Vocabulary:</span> {{ character.vocabulary }}
+        </p>
+        <p v-if="character.cussing">
+          <span class="field-label">Cussing:</span> {{ character.cussing }}
+        </p>
+        <p v-if="character.feeling_of_speech">
+          <span class="field-label">Feeling of speech:</span> {{ character.feeling_of_speech }}
+        </p>
+        <p v-if="character.referral_to_others">
+          <span class="field-label">Referral to others:</span> {{ character.referral_to_others }}
+        </p>
+        <p v-if="character.contractions">
+          <span class="field-label">Contractions:</span> {{ character.contractions }}
+        </p>
+        <p v-if="contractions" v-html="contractions"></p>
+      </div>
     </div>
   </div>
 </template>
@@ -70,13 +104,54 @@ export default {
 .card-header {
   background-color: #333;
   color: #e4e4e4;
-  font-weight: bold;
-  font-size: 25px;
+  font-weight: 700;
   padding: 5px;
   padding-left: 10px;
   border-radius: 10px;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
+}
+
+.card-title {
+  font-size: 1.5em;
+}
+
+.card-subtitle {
+  font-size: 1em;
+  font-weight: 150;
+  filter: brightness(80%);
+}
+
+.character-notes {
+  padding-top: 10px;
+
+}
+
+.character-notes div {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.note-list {
+  list-style-type: disc;
+  list-style-position: outside;
+  background-color: #292929;
+  padding: 10px 10px 10px 0px; 
+  border-radius: 10px;
+  font-size: 1em;
+  line-height: 1.5;
+  color: #d1d1d1;
+  text-align: left;
+  text-anchor: middle;
+}
+
+.note-list ul li {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.speech-style {
+  padding-top: 5px;
 }
 
 .field-label {
@@ -86,6 +161,7 @@ export default {
 .card-body {
   padding: 10px;
 }
-
-
+.speech-style p {
+  padding-top: 5px;
+}
 </style>
