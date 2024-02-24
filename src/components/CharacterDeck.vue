@@ -6,7 +6,8 @@ import { ref, computed } from 'vue'
 import { makeHttpRequest } from './axiosRequest.js'
 
 const characters = await makeHttpRequest(
-  'https://storage.googleapis.com/rezero-search-public-assets/speech-style-data/speech-style-raw-data.json'
+  'https://storage.googleapis.com/rezero-search-public-assets/speech-style-data/speech-style-raw-data.json',
+  'https://raw.githubusercontent.com/trulybeloved/rz-mos-web/main/public/speech-style-raw-data.json'
 )
 
 const characterNotes = await makeHttpRequest(

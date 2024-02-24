@@ -4,7 +4,8 @@ import { ref, computed } from 'vue'
 import { makeHttpRequest } from './axiosRequest.js'
 
 const mos_words = await makeHttpRequest(
-  'https://storage.googleapis.com/rezero-search-public-assets/manual-of-style-data/manual-of-style-raw.json'
+  'https://storage.googleapis.com/rezero-search-public-assets/manual-of-style-data/manual-of-style-raw.json',
+  'https://raw.githubusercontent.com/trulybeloved/rz-mos-web/main/public/manual-of-style-raw.json'
 )
 
 function parseJSON(jsonData) {
