@@ -38,10 +38,10 @@ const searchTerm = ref('')
 
 const filteredWords = computed(() => {
   let filtered = parsedWords.filter((wordEntry) => {
-    const japanese = wordEntry.japanese
-    const english = wordEntry.english
-    const usedFor = wordEntry.used_for
-    const notes = wordEntry.notes
+    const japanese = wordEntry.japanese;
+    const english = wordEntry.english;
+    const usedFor = wordEntry.used_for;
+    const notes = wordEntry.notes;
 
     if (
       (japanese &&
@@ -60,7 +60,7 @@ const filteredWords = computed(() => {
       return true
     } else {
       return false
-    }
+    };
   })
 
   return filtered
