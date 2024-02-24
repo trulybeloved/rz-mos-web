@@ -89,7 +89,6 @@ function mergeCharacterDataArrays(arr1, arr2, key) {
 }
 
 const mergedArray = mergeCharacterDataArrays(parsedCharacters, characterNotes, 'character')
-console.log(mergedArray);
 
 const searchTerm = ref('')
 
@@ -107,10 +106,8 @@ const filteredCharacters = computed(() => {
         typeof characterJapName === 'string' &&
         characterJapName.toLowerCase().includes(searchTerm.value.toLowerCase()))
     ) {
-      console.log(characterEngName, characterJapName)
       return true
     } else {
-      console.log(characterEngName, characterJapName)
       return false
     }
   })

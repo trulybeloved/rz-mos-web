@@ -12,6 +12,11 @@ export const makeHttpRequest = async (url, backupUrl = null,  method = 'get', da
     return response.data
   } catch (error) {
     console.error('HTTP request error:', error)
+
+    if (backupUrl === null) {
+      throw error
+    }
+    console.log('Using backup URL:', backupUrl)
     try {
       const response = await axios({
         method,
