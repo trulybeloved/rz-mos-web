@@ -1,0 +1,2149 @@
+[
+    [
+        {
+            "japanese": "大賢人",
+            "english": "Great Sage",
+            "used for": [
+                "Flugel"
+            ],
+            "notes": "Used exclusively by Shaula"
+        },
+        {
+            "japanese": "三英傑",
+            "english": "Three Great Heroes",
+            "used for": [
+                "Flugel",
+                "Shaula",
+                "Reid Astrea",
+                "Volcanica"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "賢人",
+            "english": "Sage",
+            "used for": [
+                "Flugel",
+                "Shaula"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "賢人候補",
+            "english": "Sage Candidate",
+            "used for": [
+                "Natsuki Subaru"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "魔女",
+            "english": "Witch",
+            "used for": [
+                "Carmilla",
+                "Daphne",
+                "Echidna",
+                "Minerva",
+                "Pandora",
+                "Satella",
+                "Sekhmet",
+                "Typhon"
+            ],
+            "notes": "Also used for Emilia (is listed separately"
+        },
+        {
+            "japanese": "魔人",
+            "english": "Warlock",
+            "used for": [
+                "Hector"
+            ],
+            "notes": "Also used for Roswaal L. Mathers and Ley Batenkaitos, but not capitalized"
+        },
+        {
+            "japanese": "大罪",
+            "english": "Sin Archbishop",
+            "used for": [
+                "Capella Emerada Lugunica",
+                "Louis Arneb",
+                "Ley Batenkaitos",
+                "Petelgeuse Romanée-Conti",
+                "Regulus Corneas",
+                "Roy Alphard",
+                "Sirius Romanée-Conti",
+                "Stride Vollachia"
+            ],
+            "notes": "Also used for Natsuki Subaru in Ayamatsu IF"
+        },
+        {
+            "japanese": "王選候補者",
+            "english": "Royal Candidate",
+            "used for": [
+                "Anastasia Hoshin",
+                "Crusch Karsten",
+                "Emilia",
+                "Felt",
+                "Priscilla Barielle"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "辺境伯",
+            "english": "Margrave",
+            "used for": [
+                "Roswaal L. Mathers"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "神将",
+            "english": "Divine General",
+            "used for": [
+                "Arakiya",
+                "Cecilus Segmunt",
+                "Chisha Gold",
+                "Goz Ralfon",
+                "Groovy Gumlet",
+                "Madelyn Eschart",
+                "Moguro Hagane",
+                "Olbart Dunklekenn",
+                "Yorna Mishigure"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "一将",
+            "english": "General First-Class",
+            "used for": [
+                "All Divine Generals"
+            ],
+            "notes": "Plural is “Generals of the First-Class”\\nCan be employed as sort-of honorific"
+        },
+        {
+            "japanese": "二将",
+            "english": "General Second-Class",
+            "used for": [
+                "Zikr Osman",
+                "Kafma Irulux",
+                "Gudda Dialmo Toledo Spiegel"
+            ],
+            "notes": "Plural is “Generals of the Second-Class”\\nCan be employed as sort-of honorific"
+        },
+        {
+            "japanese": "三将",
+            "english": "General Third-Class",
+            "used for": null,
+            "notes": "Plural is “Generals of the Third-Class”\\nCan be employed as sort-of honorific"
+        },
+        {
+            "japanese": "上等兵",
+            "english": "Private First-Class",
+            "used for": [
+                "Jamal Aurélie",
+                "Todd Fang (later)"
+            ],
+            "notes": "Plural is “Privates of the First-Class”\\nCan be employed as sort-of honorific"
+        },
+        {
+            "japanese": "兵卒",
+            "english": "Private",
+            "used for": [
+                "--"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "筆頭宮廷魔導師",
+            "english": "Head Magician of the Court",
+            "used for": [
+                "Roswaal L. Mathers"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "騎士",
+            "english": "Knight",
+            "used for": [
+                "Julius Juukulius",
+                "Felix Argyle",
+                "Reinhard van Astrea",
+                "Heinkel Astrea",
+                "Marcos Gildark"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "皇帝",
+            "english": "Emperor",
+            "used for": [
+                "Drizen Vollachia",
+                "Vincent Vollachia",
+                "(et al.)"
+            ],
+            "notes": "There are some derivations on this, see Abel’s section"
+        },
+        {
+            "japanese": "宰相",
+            "english": "Prime Minister",
+            "used for": [
+                "Berstetz Fondalfon"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "王様",
+            "english": "King/Monarch",
+            "used for": [
+                "Gionis Lugunica",
+                "Randohal Lugunica"
+            ],
+            "notes": "Use King for Gionis/Randohal/any other male king Use Monarch for the candidates’ prospective position (using Queen doesn’t fit so well)"
+        },
+        {
+            "japanese": "族長",
+            "english": "Chieftain",
+            "used for": [
+                "Mizelda",
+                "Taritta"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "上級伯",
+            "english": "High Count(ess)",
+            "used for": [
+                "Serena Dracroy"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "中級伯",
+            "english": "Mid Count(ess)",
+            "used for": [
+                "Jorah Pendleton"
+            ],
+            "notes": "If you have any suggestions, feel free to add; this hasn’t been used thus far"
+        },
+        {
+            "japanese": "下級伯",
+            "english": "Low Count(ess)",
+            "used for": [
+                "Jamal Aurélie"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "剣奴",
+            "english": "Gladiator",
+            "used for": [
+                "Aldebaran",
+                "Hornet"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "(島の)管理者",
+            "english": "(Island) Chief",
+            "used for": [
+                "Gustav Morello"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "神殿騎士",
+            "english": "Acolyte Knight(s)",
+            "used for": null,
+            "notes": "To be settled on"
+        }
+    ],
+    [
+        {
+            "japanese": "王選",
+            "english": "Royal Selection",
+            "notes": null
+        },
+        {
+            "japanese": "選帝の儀",
+            "english": "Imperial Selection Ceremony",
+            "notes": null
+        },
+        {
+            "japanese": "オド",
+            "english": "Od",
+            "notes": null
+        },
+        {
+            "japanese": "マナ",
+            "english": "Mana",
+            "notes": null
+        },
+        {
+            "japanese": "ゲート",
+            "english": "Gate",
+            "notes": null
+        },
+        {
+            "japanese": "大災厄",
+            "english": "Great Calamity",
+            "notes": "Refers to the events of 400 years ago"
+        },
+        {
+            "japanese": "観覧者",
+            "english": "Observers",
+            "notes": "Unclear if it’s a group"
+        },
+        {
+            "japanese": "オド・ラグナ",
+            "english": "Od Lagna",
+            "notes": null
+        },
+        {
+            "japanese": "加護",
+            "english": "Divine Protection",
+            "notes": null
+        },
+        {
+            "japanese": "魔女因子",
+            "english": "Witch Factor",
+            "notes": null
+        },
+        {
+            "japanese": "権能",
+            "english": "Authority",
+            "notes": null
+        },
+        {
+            "japanese": "瘴気",
+            "english": "Miasma",
+            "notes": null
+        },
+        {
+            "japanese": "魔女の香",
+            "english": "Witch’s Scent",
+            "notes": null
+        },
+        {
+            "japanese": "魔女の残り香",
+            "english": "Witch’s Lingering Scent",
+            "notes": null
+        },
+        {
+            "japanese": "禁忌",
+            "english": "Taboo",
+            "notes": "In context of Subaru speaking of RbD (should be capitalized)"
+        },
+        {
+            "japanese": "精霊術",
+            "english": "Spiritual Arts",
+            "notes": null
+        },
+        {
+            "japanese": "精霊術師",
+            "english": "Spiritual Arts User(s)",
+            "notes": null
+        },
+        {
+            "japanese": "呪術",
+            "english": "Curse Arts",
+            "notes": null
+        },
+        {
+            "japanese": "呪術師",
+            "english": "Shaman",
+            "notes": null
+        },
+        {
+            "japanese": "約束",
+            "english": "promise",
+            "notes": null
+        },
+        {
+            "japanese": "誓約",
+            "english": "Oath",
+            "notes": null
+        },
+        {
+            "japanese": "盟約",
+            "english": "Covenant",
+            "notes": null
+        },
+        {
+            "japanese": "契約",
+            "english": "Contract",
+            "notes": null
+        },
+        {
+            "japanese": "試練",
+            "english": "Trial/Ordeal",
+            "notes": "Is used as Ordeal in the context of whatever Petelgeuse means/meant by it. Trial otherwise (only for Arc 4 Trials)"
+        },
+        {
+            "japanese": "試験",
+            "english": "Trial",
+            "notes": "Specifically for Arc 6"
+        },
+        {
+            "japanese": "大災",
+            "english": "Great Disaster",
+            "notes": null
+        }
+    ],
+    [
+        {
+            "japanese": "鬼の面",
+            "english": "Oni mask",
+            "notes": "Should be stylized as “oni mask”--no capitals"
+        },
+        {
+            "japanese": "リュリーレ",
+            "english": "Lyulyre",
+            "notes": null
+        },
+        {
+            "japanese": "魔剣",
+            "english": "Enchanted Sword",
+            "notes": null
+        },
+        {
+            "japanese": "妖刀",
+            "english": "Bewitched Swords",
+            "notes": null
+        },
+        {
+            "japanese": "聖剣",
+            "english": "Holy Swords",
+            "notes": null
+        },
+        {
+            "japanese": "龍剣(レイド)",
+            "english": "Dragon Sword( Reid)",
+            "notes": null
+        },
+        {
+            "japanese": "邪剣(ムラサメ)",
+            "english": "Fiend Sword( Murasame)",
+            "notes": "Denoted as 1st rank (一番刀) in EX4, 2nd (二番刀) in Oboreru"
+        },
+        {
+            "japanese": "夢剣(マサユメ)",
+            "english": "Dream Sword( Masayume)",
+            "notes": "Denoted as 2nd rank (二番刀) in EX4, 1st (一番刀) in Oboreru"
+        },
+        {
+            "japanese": "陽剣(ヴォラキア)",
+            "english": "Yang Sword( Vollachia)",
+            "notes": "Possesses an ability labelled as “Flame of the Yang Sword” (陽剣の焔)"
+        },
+        {
+            "japanese": "命剣(ゼアム)",
+            "english": "Life Sword( Zeam)",
+            "notes": null
+        },
+        {
+            "japanese": "呪剣",
+            "english": "Cursed Sword",
+            "notes": null
+        },
+        {
+            "japanese": "愛剣",
+            "english": "Beloved Sword",
+            "notes": null
+        },
+        {
+            "japanese": "霊剣",
+            "english": "Spirit Sword",
+            "notes": null
+        },
+        {
+            "japanese": "影剣",
+            "english": "Shadow Sword",
+            "notes": null
+        },
+        {
+            "japanese": "疫剣",
+            "english": "Blight Sword",
+            "notes": null
+        },
+        {
+            "japanese": "青龍刀",
+            "english": "Blue Dragon Sword",
+            "notes": null
+        },
+        {
+            "japanese": "飛翼刃",
+            "english": "Flying Winged Blade",
+            "notes": null
+        },
+        {
+            "japanese": "ミーティア",
+            "english": "Meteor",
+            "notes": "Used in Light Novel canon and post-Arc 6 Web Novel for the generality of magic devices\\nUsed in Web Novel Arc 5 to refer to a specific device"
+        },
+        {
+            "japanese": "魔法器",
+            "english": "magical device(s)",
+            "notes": "Supplanted with “ミーティア” (Meteor) in Light Novel canon (and post Arc 6 Web Novel)"
+        },
+        {
+            "japanese": "魔晶砲",
+            "english": "Magic Crystal Cannon",
+            "notes": null
+        },
+        {
+            "japanese": "呪具",
+            "english": "Curse Tool(s)",
+            "notes": null
+        }
+    ],
+    [
+        {
+            "japanese": "流法",
+            "english": "Flow Method",
+            "notes": null
+        },
+        {
+            "japanese": "エル・",
+            "english": "El",
+            "notes": null
+        },
+        {
+            "japanese": "ウル・",
+            "english": "Ul",
+            "notes": null
+        },
+        {
+            "japanese": "アル・",
+            "english": "Al",
+            "notes": null
+        },
+        {
+            "japanese": "フーラ",
+            "english": "Fula",
+            "notes": null
+        },
+        {
+            "japanese": "ドーナ",
+            "english": "Dona",
+            "notes": null
+        },
+        {
+            "japanese": "ヒューマ",
+            "english": "Huma",
+            "notes": null
+        },
+        {
+            "japanese": "ゴーア",
+            "english": "Goa",
+            "notes": null
+        },
+        {
+            "japanese": "シャマク",
+            "english": "Shamak",
+            "notes": null
+        },
+        {
+            "japanese": "ネクト",
+            "english": "Nect",
+            "notes": null
+        },
+        {
+            "japanese": "ミーニャ",
+            "english": "Minya",
+            "notes": null
+        },
+        {
+            "japanese": "ジワルド",
+            "english": "Jiwald",
+            "notes": null
+        },
+        {
+            "japanese": "ムラク",
+            "english": "Murak",
+            "notes": null
+        },
+        {
+            "japanese": "ヴィータ",
+            "english": "Vita",
+            "notes": null
+        },
+        {
+            "japanese": "クラリスタ",
+            "english": "Clarista",
+            "notes": null
+        },
+        {
+            "japanese": "クラウゼリア",
+            "english": "Clauseria",
+            "notes": null
+        },
+        {
+            "japanese": "クランヴェル",
+            "english": "Clanveir",
+            "notes": null
+        },
+        {
+            "japanese": "アイスブランド・アーツ",
+            "english": "Ice Brand Arts",
+            "notes": null
+        },
+        {
+            "japanese": "アイスブランド・アーツ、アイシクルライン",
+            "english": "Ice Brand Arts: Icicle Line",
+            "notes": null
+        },
+        {
+            "japanese": "氷の兵隊",
+            "english": "Ice Soldiers",
+            "notes": null
+        },
+        {
+            "japanese": "アブソリュート・ゼロ",
+            "english": "Absolute Zero",
+            "notes": null
+        },
+        {
+            "japanese": "百人一太刀",
+            "english": "One Blow, One Hundred Felled",
+            "notes": null
+        },
+        {
+            "japanese": "扉渡り",
+            "english": "Door Crossing",
+            "notes": null
+        },
+        {
+            "japanese": "復元魔法",
+            "english": "Restoration Magic",
+            "notes": null
+        },
+        {
+            "japanese": "不死王の秘蹟",
+            "english": "Sacrament of the Immortal King",
+            "notes": null
+        },
+        {
+            "japanese": "共感覚",
+            "english": "Synesthesia",
+            "notes": null
+        },
+        {
+            "japanese": "千里眼",
+            "english": "Clairvoyance",
+            "notes": null
+        },
+        {
+            "japanese": "魂婚術",
+            "english": "Soul Marriage Technique",
+            "notes": null
+        },
+        {
+            "japanese": "短距離転移",
+            "english": "Blink",
+            "notes": null
+        },
+        {
+            "japanese": "短距離ワープ",
+            "english": "Short-distance warp",
+            "notes": "No capitalization needed"
+        },
+        {
+            "japanese": "転移",
+            "english": "Teleport",
+            "notes": "No capitalization needed unless employed as a noun"
+        },
+        {
+            "japanese": "魔装励起",
+            "english": "Magical Shroud Excitation",
+            "notes": null
+        },
+        {
+            "japanese": "飛竜繰り",
+            "english": "flying dragon taming / taming of flying dragons",
+            "notes": "To be used freely, no capitalization"
+        },
+        {
+            "japanese": "認識阻害",
+            "english": "cognitive disruption",
+            "notes": "No capitalization"
+        }
+    ],
+    [
+        {
+            "japanese": "日食",
+            "english": "Solar Eclipse",
+            "notes": null
+        },
+        {
+            "japanese": "月食",
+            "english": "Lunar Eclipse",
+            "notes": null
+        },
+        {
+            "japanese": "死に戻り",
+            "english": "Return by Death",
+            "notes": null
+        },
+        {
+            "japanese": "コル・リオニス",
+            "english": "Cor Leonis",
+            "notes": null
+        },
+        {
+            "japanese": "インビジブル・プロヴィデンス",
+            "english": "Invisible Providence",
+            "notes": null
+        },
+        {
+            "japanese": "見えざる手",
+            "english": "Unseen Hand",
+            "notes": null
+        }
+    ],
+    [
+        {
+            "japanese": "風避, 風除け",
+            "english": "Wind Evasion",
+            "relevant characters": "Ground dragons in general",
+            "notes": null
+        },
+        {
+            "japanese": "誘精",
+            "english": "Gathering Spirits",
+            "relevant characters": "Julius Juukulius",
+            "notes": null
+        },
+        {
+            "japanese": "言霊",
+            "english": "The Soul of Language",
+            "relevant characters": "Otto Suwen",
+            "notes": "This one is an exception and keeps “the”, so Divine Protection of the Soul of Language"
+        },
+        {
+            "japanese": "死神",
+            "english": "Death God",
+            "relevant characters": "Thearesia van Astrea",
+            "notes": null
+        },
+        {
+            "japanese": "地霊",
+            "english": "Earth Spirits",
+            "relevant characters": "Garfiel Tinzel",
+            "notes": null
+        },
+        {
+            "japanese": "魔操",
+            "english": "Fiend Manipulation",
+            "relevant characters": "Meili Portroute",
+            "notes": null
+        },
+        {
+            "japanese": "伝心",
+            "english": "Telepathy",
+            "relevant characters": "Reinhard van Astrea\\nLiliana Masquerade",
+            "notes": null
+        },
+        {
+            "japanese": "不死",
+            "english": "Phoenix",
+            "relevant characters": "Reinhard van Astrea",
+            "notes": null
+        },
+        {
+            "japanese": "審判",
+            "english": "Judgement",
+            "relevant characters": "Reinhard van Astrea",
+            "notes": null
+        },
+        {
+            "japanese": "水",
+            "english": "Water",
+            "relevant characters": "Felix Argyle",
+            "notes": "What a stupid name"
+        },
+        {
+            "japanese": "三分",
+            "english": "Trisection",
+            "relevant characters": "Mimi Pearlbatton\\nHetaro Pearlbatton\\nTivey Pearlbatton",
+            "notes": null
+        },
+        {
+            "japanese": "剣聖",
+            "english": "Sword Saint",
+            "relevant characters": "Reinhard van Astrea\\nTheresia van Astrea\\nFribal van Astrea",
+            "notes": "Also used to refer to Reid Astrea as-is"
+        }
+    ],
+    [
+        {
+            "japanese": "大精霊",
+            "english": "Great Spirit",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "準精霊",
+            "english": "Quasi Spirit",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "微精霊",
+            "english": "Micro Spirit",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "人工精霊",
+            "english": "Artificial Spirit",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "精霊",
+            "english": "Spirit",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "斑王犬",
+            "english": "Spotted Rex",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "黒翼鼠",
+            "english": "Blackwinged Mice",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "羽土竜",
+            "english": "Feathered Mole",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "魔獣",
+            "english": "Witchbeast",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "紅蠍",
+            "english": "Crimson Scorpion",
+            "notes": "Aka Shaula’s transformed form",
+            "collective noun": null,
+            "cries (for witchbeasts etc)": "BISHAAAN"
+        },
+        {
+            "japanese": "ギルティラウ",
+            "english": "Guiltilaw",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": "AROOOOOO"
+        },
+        {
+            "japanese": "一角獣",
+            "english": "Unicorn",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "ウルガルム",
+            "english": "Ulgarm",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "砂蚯蚓",
+            "english": "Sand Earthworm",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": "KRUAAAAAAAAAAAGH"
+        },
+        {
+            "japanese": "花魁熊",
+            "english": "Courtesan Bear",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": "<TBD>"
+        },
+        {
+            "japanese": "ケンタウロス",
+            "english": "Centaur",
+            "notes": "Same creature as Hungry Horse King",
+            "collective noun": null,
+            "cries (for witchbeasts etc)": "KSHEEEEEEGHHH"
+        },
+        {
+            "japanese": "餓馬王",
+            "english": "Hungry Horse King",
+            "notes": "Same creature as Centaur",
+            "collective noun": null,
+            "cries (for witchbeasts etc)": "KSHEEEEEEGHHH"
+        },
+        {
+            "japanese": null,
+            "english": "Great Eagle",
+            "notes": "This Witchbeast hasn’t been given a proper name",
+            "collective noun": null,
+            "cries (for witchbeasts etc)": "GYAOO"
+        },
+        {
+            "japanese": null,
+            "english": "Rock-looking Frog",
+            "notes": "This Witchbeast hasn’t been given a proper name",
+            "collective noun": null,
+            "cries (for witchbeasts etc)": "GWOGOBO"
+        },
+        {
+            "japanese": "龍",
+            "english": "Dragon",
+            "notes": "Should be capitalized always to make a distinction to 竜, which is only capitalized in certain cases",
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "邪龍",
+            "english": "Blight Dragon",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "地竜",
+            "english": "ground dragon",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": "Dodogyuuun"
+        },
+        {
+            "japanese": "水竜",
+            "english": "water dragon",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "飛竜",
+            "english": "flying dragon",
+            "notes": "Priscilla calls them “翼竜”, which should be “winged dragon”",
+            "collective noun": "flock",
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "疾風馬",
+            "english": "Galewind Horse",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "ファロー(車)",
+            "english": "Falo (Cart)",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "勇牛",
+            "english": "Brave Ox",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "ライガー",
+            "english": "Liger",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
+            "japanese": "ガイラス",
+            "english": "Gyras",
+            "notes": "Subspecies of ground dragon",
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        }
+    ],
+    [
+        {
+            "japanese": "亜人",
+            "english": "Demi-human",
+            "notes": "Should be lowercase"
+        },
+        {
+            "japanese": "獣人",
+            "english": "Beastman/men/woman",
+            "notes": "Which one to be used depends on context\\nShould be lowercase"
+        },
+        {
+            "japanese": "<animal>人の女",
+            "english": "<animal>woman",
+            "notes": "E.g.: Catwoman\\nShould be lowercase"
+        },
+        {
+            "japanese": "<animal>人",
+            "english": "<animal>man/person/kin",
+            "notes": "Which one to be used depends on context or just sound E.g.: Catman, dragonkin\\nShould be lowercase"
+        },
+        {
+            "japanese": "<animal>人の娘",
+            "english": "<animal>girl",
+            "notes": "E.g.: Catgirl"
+        },
+        {
+            "japanese": "鬼族",
+            "english": "Oni Clan",
+            "notes": null
+        },
+        {
+            "japanese": "虫籠族",
+            "english": "Insect Cage Tribe",
+            "notes": null
+        },
+        {
+            "japanese": "多腕族",
+            "english": "Multi-Arm Tribe",
+            "notes": null
+        },
+        {
+            "japanese": "単眼族",
+            "english": "Cyclops Tribe",
+            "notes": null
+        },
+        {
+            "japanese": "魔眼族",
+            "english": "Evil Eye Tribe",
+            "notes": null
+        },
+        {
+            "japanese": "足長族",
+            "english": "Long-Leg Tribe",
+            "notes": null
+        },
+        {
+            "japanese": "半獣族",
+            "english": "Halfbeast Tribe",
+            "notes": null
+        },
+        {
+            "japanese": "獣人族",
+            "english": "Beastman Tribe",
+            "notes": null
+        },
+        {
+            "japanese": "人間族",
+            "english": "Humans or the human race",
+            "notes": null
+        },
+        {
+            "japanese": "刃金人",
+            "english": "Weaponkin",
+            "notes": null
+        },
+        {
+            "japanese": "光人",
+            "english": "Glow People",
+            "notes": null
+        },
+        {
+            "japanese": "人馬人",
+            "english": "Centaur People",
+            "notes": null
+        },
+        {
+            "japanese": "翼人",
+            "english": "Winged People",
+            "notes": null
+        },
+        {
+            "japanese": "人狼",
+            "english": "Werewolf",
+            "notes": null
+        },
+        {
+            "japanese": "ハーフエルフ",
+            "english": "half-elf",
+            "notes": "Basically Engrish"
+        },
+        {
+            "japanese": "エルフ",
+            "english": "elf",
+            "notes": "Basically Engrish"
+        }
+    ],
+    [
+        {
+            "japanese": "幼女使い",
+            "english": "Lolimancer",
+            "used for": [
+                "Natsuki Subaru"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "氷結の魔女",
+            "english": "Witch of Glaciation",
+            "used for": [
+                "Emilia"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "内政官",
+            "english": "Internal Affairs Minister",
+            "used for": [
+                "Otto Suwen"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "半魔",
+            "english": "half-devil",
+            "used for": [
+                "Emilia",
+                "Satella",
+                "Ryuzu Meyer"
+            ],
+            "notes": "Lower-case should be used"
+        },
+        {
+            "japanese": "亜人趣味",
+            "english": "Demi-Human Lover",
+            "used for": [
+                "Roswaal L. Mathers"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "魔獣使い",
+            "english": "Beastmaster",
+            "used for": [
+                "Meili Portroute"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "騎士の中の騎士",
+            "english": "Knight Amongst Knights",
+            "used for": [
+                "Reinhard van Astrea"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "『最優』の騎士",
+            "english": "Finest of Knights",
+            "used for": [
+                "Julius Juukulius"
+            ],
+            "notes": "May also appear as 最優の騎士"
+        },
+        {
+            "japanese": "ゴージャス・タイガー",
+            "english": "Gorgeous Tiger",
+            "used for": [
+                "Garfiel Tinzel"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "青き雷光",
+            "english": "(The) Blue Lightning",
+            "used for": [
+                "Cecilus Segmunt"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "青き稲妻",
+            "english": "(The) Blue Thunderbolt",
+            "used for": [
+                "Cecilus Segmunt"
+            ],
+            "notes": "Single instance in Arc 7 Chapter 98"
+        },
+        {
+            "japanese": "精霊喰らい",
+            "english": "(The) Spirit Eater",
+            "used for": [
+                "Arakiya"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "悪辣翁 (not to be confused with 怪老)",
+            "english": "(The) Vicious Old Man",
+            "used for": [
+                "Olbart Dunklekenn"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "白蜘蛛",
+            "english": "(The) White Spider",
+            "used for": [
+                "Chisha Gold"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "獅子騎士",
+            "english": "(The) Lion Knight",
+            "used for": [
+                "Goz Ralfon"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "呪具師",
+            "english": "(The) Master of Curse Tools",
+            "used for": [
+                "Groovy Gumlet"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "極彩色",
+            "english": "(The) Flamboyant",
+            "used for": [
+                "Yorna Mishigure"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "鋼人",
+            "english": "(The) Steelman",
+            "used for": [
+                "Moguro Hagane"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "飛竜将",
+            "english": "(The) Flying Dragon General",
+            "used for": [
+                "Madelyn Eschart"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "魔弾の射手",
+            "english": "(The) Magical Sharpshooter",
+            "used for": [
+                "Balleroy Temeglyph"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "星詠み",
+            "english": "Stargazer",
+            "used for": [
+                "Ubilk",
+                "Mariuli Rowan Segmunt Cecilus Segmunt"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "女好き",
+            "english": "(The) Womanizer",
+            "used for": [
+                "Zikr Osman"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "灼熱公",
+            "english": "Scorching Lady",
+            "used for": [
+                "Serena Dracroy"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "破滅願望",
+            "english": "Destruction Wish",
+            "used for": [
+                "Stride Vollachia"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "闘蟲将",
+            "english": "Fighting Insect General",
+            "used for": [
+                "Kafma Irulux"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "虎狩",
+            "english": "(The) Tiger Hunter",
+            "used for": [
+                "Gudda Dialmo"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "大敗帝",
+            "english": "Loser Emperor",
+            "used for": [
+                "Murkia Vollachia"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "腑分け",
+            "english": "(The) Dissector",
+            "used for": [
+                "Viva"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "黒髪の皇太子",
+            "english": "black-haired Crown Prince",
+            "used for": [
+                "Subaru"
+            ],
+            "notes": "“black-haired” is lowercase, “Crown Prince” is uppercase"
+        },
+        {
+            "japanese": "礼賛者",
+            "english": "(The) Admirer",
+            "used for": [
+                "Halibel"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "毒姫",
+            "english": "Poison Princess",
+            "used for": [
+                "Lamia Godwin"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "終焉の獣",
+            "english": "Beast of the End",
+            "used for": [
+                "Puck"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "調停者",
+            "english": "Arbitrator",
+            "used for": [
+                "Melakuera"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "石塊",
+            "english": "Stone",
+            "used for": [
+                "Muspel"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "通り魔",
+            "english": "Slasher",
+            "used for": [
+                "Zarestia"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "霊獣",
+            "english": "Sacred Beast",
+            "used for": [
+                "Odglass"
+            ],
+            "notes": "聖獣/Holy Beast has mistakenly been used in the past"
+        }
+    ],
+    [
+        {
+            "japanese": "暴食",
+            "english": "Gluttony",
+            "notes": null
+        },
+        {
+            "japanese": "憤怒",
+            "english": "Wrath",
+            "notes": null
+        },
+        {
+            "japanese": "色欲",
+            "english": "Lust",
+            "notes": null
+        },
+        {
+            "japanese": "傲慢",
+            "english": "Pride",
+            "notes": null
+        },
+        {
+            "japanese": "怠惰",
+            "english": "Sloth",
+            "notes": null
+        },
+        {
+            "japanese": "強欲",
+            "english": "Greed",
+            "notes": null
+        },
+        {
+            "japanese": "嫉妬",
+            "english": "Envy",
+            "notes": null
+        },
+        {
+            "japanese": "憂鬱",
+            "english": "Tristitia",
+            "notes": null
+        },
+        {
+            "japanese": "虚飾",
+            "english": "Vainglory",
+            "notes": null
+        }
+    ],
+    [
+        {
+            "japanese": "四大国",
+            "english": "Four Great Countries",
+            "notes": null
+        },
+        {
+            "japanese": "賢人会",
+            "english": "Council of Wise Men",
+            "notes": "To be decided if “Sages” should be used instead"
+        },
+        {
+            "japanese": "魔女教",
+            "english": "Witch Cult",
+            "notes": null
+        },
+        {
+            "japanese": "シュドラクの民",
+            "english": "People of Shudraq",
+            "notes": "“Shudraqians” may also be used as a substitute"
+        },
+        {
+            "japanese": "ルグニカ王族",
+            "english": "Royal Family of Lugunica",
+            "notes": null
+        },
+        {
+            "japanese": "ヴォラキア皇族",
+            "english": "Vollachian Imperial Family",
+            "notes": null
+        },
+        {
+            "japanese": "帝国貴族",
+            "english": "Imperial Nobility",
+            "notes": null
+        },
+        {
+            "japanese": "帝国軍人\\n帝国兵",
+            "english": "Imperial Soldier(s)",
+            "notes": null
+        },
+        {
+            "japanese": "九神将",
+            "english": "Nine Divine Generals",
+            "notes": "Use “Divine General” when referring to one or more individuals in particular, not the group as a whole\\nRanks should be ordinals: First, Second, etc"
+        },
+        {
+            "japanese": "近衛騎士",
+            "english": "Royal Guard",
+            "notes": null
+        },
+        {
+            "japanese": "<X>陣営",
+            "english": "<X> Camp",
+            "notes": "Capitalized\\nUsed for the Royal Candidates"
+        },
+        {
+            "japanese": "プレアデス戦団",
+            "english": "Pleiades Battalion",
+            "notes": null
+        },
+        {
+            "japanese": "飛竜隊",
+            "english": "Flying Dragon Squadron",
+            "notes": null
+        },
+        {
+            "japanese": "剪定部隊",
+            "english": "Pruning Corps",
+            "notes": null
+        },
+        {
+            "japanese": "(ヴォラキア帝国を)滅亡から救い隊",
+            "english": "Rescue (the Vollachian Empire) from Destruction Squad",
+            "notes": null
+        }
+    ],
+    [
+        {
+            "japanese": "竜歴石",
+            "english": "Dragon History Stone",
+            "notes": null
+        },
+        {
+            "japanese": "福音\\n福音書",
+            "english": "Gospel",
+            "notes": "As in, the Witch Cult’s, Beatrice’s and Roswaal’s Gospels. From what I could tell, there’s two distinct ways to refer to it so yeah"
+        },
+        {
+            "japanese": "魔石",
+            "english": "Magic Stones",
+            "notes": null
+        },
+        {
+            "japanese": "竜車",
+            "english": "Dragon Carriage",
+            "notes": "Should be lowercase"
+        },
+        {
+            "japanese": "牛車",
+            "english": "Ox Cart",
+            "notes": null
+        },
+        {
+            "japanese": "犬車",
+            "english": "Canine Cart",
+            "notes": null
+        },
+        {
+            "japanese": "ファロー車",
+            "english": "Falo Cart",
+            "notes": null
+        },
+        {
+            "japanese": "背負子",
+            "english": "wooden rack",
+            "notes": null
+        }
+    ],
+    [
+        {
+            "japanese": "ソルテ",
+            "english": "solt",
+            "notes": "Stands for salt"
+        },
+        {
+            "japanese": "ペッパ",
+            "english": "peppa",
+            "notes": "Stands for pepper"
+        },
+        {
+            "japanese": "ビネギー",
+            "english": "vinegee",
+            "notes": "Stands for vinegar"
+        },
+        {
+            "japanese": "ピーマル",
+            "english": "peppir",
+            "notes": "Stands for bell pepper"
+        },
+        {
+            "japanese": "スク",
+            "english": "watermelan",
+            "notes": "Stands for watermelon"
+        },
+        {
+            "japanese": "メラン",
+            "english": "melan",
+            "notes": "Stands for melon"
+        },
+        {
+            "japanese": "ランコ",
+            "english": "lodus",
+            "notes": "Stands for lotus fruit"
+        },
+        {
+            "japanese": "チェロリ",
+            "english": "chorry",
+            "notes": "Stands for cherry"
+        },
+        {
+            "japanese": "バニナ",
+            "english": "banina",
+            "notes": "Stands for banana"
+        },
+        {
+            "japanese": "ピジ",
+            "english": "piche",
+            "notes": "Stands for peach"
+        },
+        {
+            "japanese": "オレージ",
+            "english": "orage",
+            "notes": "Stands for orange"
+        },
+        {
+            "japanese": "ペア",
+            "english": "peah",
+            "notes": "Stands for pear"
+        },
+        {
+            "japanese": "リンガ",
+            "english": "appa",
+            "notes": "Stands for apple"
+        },
+        {
+            "japanese": "レモヌ/レモム",
+            "english": "lemom",
+            "notes": "Stands for lemon"
+        },
+        {
+            "japanese": "トメト",
+            "english": "tometo",
+            "notes": "Stands for tomato"
+        },
+        {
+            "japanese": "芋",
+            "english": "yam",
+            "notes": "Unchanged from standard Japanese, anime bad"
+        },
+        {
+            "japanese": "スロベリ",
+            "english": "strowberry",
+            "notes": "Stands for strawberry"
+        },
+        {
+            "japanese": "グラプ",
+            "english": "grapp",
+            "notes": "Stands for grape"
+        },
+        {
+            "japanese": "コーフ",
+            "english": "coff",
+            "notes": "Stands for coffee"
+        },
+        {
+            "japanese": "ジャリガニ",
+            "english": "krafish",
+            "notes": "Stands for crayfish"
+        },
+        {
+            "japanese": "ラグディッシュ",
+            "english": "radsh",
+            "notes": "Stands for raddish"
+        },
+        {
+            "japanese": "ポワッゾ",
+            "english": "poiison",
+            "notes": "Stands for poisson (French for fish)"
+        },
+        {
+            "japanese": "リョクチャ",
+            "english": "ryokucha",
+            "notes": null
+        },
+        {
+            "japanese": "ボッコの実",
+            "english": "bokko fruit",
+            "notes": null
+        },
+        {
+            "japanese": "ファネルの実",
+            "english": "fannel fruit",
+            "notes": null
+        },
+        {
+            "japanese": "カルナゴの粉末",
+            "english": "karnago powder",
+            "notes": null
+        }
+    ],
+    [
+        {
+            "japanese": "ちゃん",
+            "english": "chan",
+            "prefix/suffix": "Suffix",
+            "notes": null
+        },
+        {
+            "japanese": "さん",
+            "english": "san",
+            "prefix/suffix": "Suffix",
+            "notes": null
+        },
+        {
+            "japanese": "くん",
+            "english": "kun",
+            "prefix/suffix": "Suffix",
+            "notes": null
+        },
+        {
+            "japanese": "姉様",
+            "english": "neesama",
+            "prefix/suffix": "Suffix",
+            "notes": null
+        },
+        {
+            "japanese": "お姉さん",
+            "english": "oneesan",
+            "prefix/suffix": "Suffix",
+            "notes": null
+        },
+        {
+            "japanese": "様",
+            "english": "sama",
+            "prefix/suffix": "Suffix",
+            "notes": null
+        },
+        {
+            "japanese": "殿",
+            "english": "dono",
+            "prefix/suffix": "Suffix",
+            "notes": null
+        },
+        {
+            "japanese": "嬢ちゃん",
+            "english": "Little Miss",
+            "prefix/suffix": "Prefix",
+            "notes": "Can also be localized as “Lil’ Miss” depending on the character stylization"
+        },
+        {
+            "japanese": "女史",
+            "english": "Miss",
+            "prefix/suffix": "Prefix",
+            "notes": null
+        },
+        {
+            "japanese": "嬢様",
+            "english": "Lady",
+            "prefix/suffix": "Prefix",
+            "notes": null
+        },
+        {
+            "japanese": "嬢",
+            "english": "Miss",
+            "prefix/suffix": "Prefix",
+            "notes": "Careful with distinction between “嬢ちゃん”, “嬢様” and “嬢”"
+        },
+        {
+            "japanese": "卿",
+            "english": "Sir",
+            "prefix/suffix": "Prefix",
+            "notes": null
+        },
+        {
+            "japanese": "翁",
+            "english": "Master",
+            "prefix/suffix": "Prefix",
+            "notes": "Localization may be context dependant"
+        },
+        {
+            "japanese": "爺",
+            "english": "jii",
+            "prefix/suffix": "Suffix",
+            "notes": "Careful with distinction between “爺” and “爺さん”"
+        },
+        {
+            "japanese": "爺さん",
+            "english": "Old Man",
+            "prefix/suffix": "Prefix",
+            "notes": null
+        },
+        {
+            "japanese": "坊",
+            "english": "Little",
+            "prefix/suffix": "Prefix",
+            "notes": "Can also be localized as “Lil’” depending on the character stylization\\nCan be employed as standalone (as in, not an honorific, just a way to refer to someone)"
+        },
+        {
+            "japanese": "氏",
+            "english": "Mister",
+            "prefix/suffix": "Prefix",
+            "notes": null
+        }
+    ],
+    [
+        {
+            "japanese": "火の刻",
+            "english": "Fire Time",
+            "notes": "6 AM to Noon (IIRC)"
+        },
+        {
+            "japanese": "陽日",
+            "english": "Bright Time",
+            "notes": "Time of the day with light (6 AM to 6 PM)"
+        },
+        {
+            "japanese": "冥日",
+            "english": "Dark Time",
+            "notes": "Time of the day without light (6PM to 6AM)"
+        },
+        {
+            "japanese": "氷季",
+            "english": "Ice Season",
+            "notes": "Equivalent to winter"
+        },
+        {
+            "japanese": "火季",
+            "english": "Fire Season",
+            "notes": "Equivalent to summer"
+        }
+    ],
+    [
+        {
+            "japanese": "異世界",
+            "english": "(An)other world",
+            "notes": null
+        },
+        {
+            "japanese": "イセカイ",
+            "english": "Isekai",
+            "notes": "This is not translated into “(an)other world” to distinguish between usages of “異世界” and “イセカイ”"
+        },
+        {
+            "japanese": "魔女の残り香",
+            "english": "Witch's Lingering Scent",
+            "notes": null
+        },
+        {
+            "japanese": "魔女の香",
+            "english": "Witch's Scent",
+            "notes": null
+        },
+        {
+            "japanese": "親竜儀",
+            "english": "Dragonkindling Ceremony",
+            "notes": null
+        },
+        {
+            "japanese": "血命の儀",
+            "english": "Lifeblood Ritual",
+            "notes": null
+        },
+        {
+            "japanese": "発魔期",
+            "english": "Magic Release Period",
+            "notes": null
+        },
+        {
+            "japanese": "砂風",
+            "english": "Sand Wind",
+            "notes": null
+        },
+        {
+            "japanese": "砂海",
+            "english": "Sand Sea",
+            "notes": null
+        },
+        {
+            "japanese": "シャトランジ",
+            "english": "Shatranj",
+            "notes": null
+        },
+        {
+            "japanese": "ワフー",
+            "english": "Wafuu",
+            "notes": null
+        },
+        {
+            "japanese": "ワソー",
+            "english": "Wasou (?)",
+            "notes": "Corrupted form of the above?"
+        },
+        {
+            "japanese": "幼児化",
+            "english": "Infantilization / infantilized",
+            "notes": "Whichever works best in the sentence’s wording"
+        },
+        {
+            "japanese": "合",
+            "english": "Unit",
+            "notes": "How teams are referred to in Sparka"
+        },
+        {
+            "japanese": "マグリッツァの断頭台",
+            "english": "Magrizza’s Guillotine",
+            "notes": null
+        },
+        {
+            "japanese": "アイリスと茨の王",
+            "english": "Iris and the King of Thorns",
+            "notes": null
+        },
+        {
+            "japanese": "死魂花",
+            "english": "necrosoul flower",
+            "notes": null
+        },
+        {
+            "japanese": "ミリージア",
+            "english": "milizia flower",
+            "notes": null
+        },
+        {
+            "japanese": "ボーク陽樹",
+            "english": "bokuyang tree",
+            "notes": null
+        },
+        {
+            "japanese": "頂点",
+            "english": "bastion",
+            "notes": "For the context of the Arc 7 and Arc 8 Lupugana battles. Under other circumstances, a different localization may be more appropriate."
+        },
+        {
+            "japanese": "(Name)領",
+            "english": "(Name) Domain",
+            "notes": null
+        },
+        {
+            "japanese": "剣に貫かれた狼",
+            "english": "wolf pierced by swords",
+            "notes": "A bit of a key expression describing Vollachia’s emblem"
+        },
+        {
+            "japanese": "死に逃げ",
+            "english": "Escape by Death",
+            "notes": null
+        },
+        {
+            "japanese": "核虫",
+            "english": "Corebug",
+            "notes": null
+        },
+        {
+            "japanese": "屍人",
+            "english": "undead",
+            "notes": null
+        }
+    ],
+    [
+        {
+            "japanese": "親竜王国ルグニカ",
+            "english": "Dragon Kingdom of Lugunica"
+        },
+        {
+            "japanese": "ルグニカ王国",
+            "english": "Kingdom of Lugunica"
+        },
+        {
+            "japanese": "ルグニカ",
+            "english": "Lugunica"
+        },
+        {
+            "japanese": "王都",
+            "english": "Royal Capital"
+        },
+        {
+            "japanese": "五大都市",
+            "english": "Five Great Cities"
+        },
+        {
+            "japanese": "(水門都市)プリステラ",
+            "english": "(Watergate City of) Pristella"
+        },
+        {
+            "japanese": "ミルーラ",
+            "english": "Mirula"
+        },
+        {
+            "japanese": "アウグリア砂丘",
+            "english": "Augria Sand Dunes"
+        },
+        {
+            "japanese": "魔女の祠",
+            "english": "Witch's Shrine"
+        },
+        {
+            "japanese": "封魔石の祠",
+            "english": "Evil Sealing Stone Shrine"
+        },
+        {
+            "japanese": "リーファウス平原",
+            "english": "Lifaus Plains"
+        },
+        {
+            "japanese": "リーファウス街道",
+            "english": "Lifaus Highway"
+        },
+        {
+            "japanese": "ティグラシー大河",
+            "english": "Tigracy River"
+        },
+        {
+            "japanese": "ティグラシー大橋",
+            "english": "Great Tigracy Bridge"
+        },
+        {
+            "japanese": "水の羽衣亭",
+            "english": "Water Plumage Pavilion"
+        },
+        {
+            "japanese": "パッペルト",
+            "english": "Pappelt"
+        },
+        {
+            "japanese": "アーラム村",
+            "english": "Arlam Village"
+        },
+        {
+            "japanese": "エリオール大森林",
+            "english": "Elior Forest / Great Forest of Elior"
+        },
+        {
+            "japanese": "クレマルディ",
+            "english": "Kremaldy"
+        },
+        {
+            "japanese": "聖域",
+            "english": "Sanctuary"
+        },
+        {
+            "japanese": "強欲の魔女の墓場",
+            "english": "Witch of Greed’s Tomb"
+        },
+        {
+            "japanese": "プレアデス監視塔",
+            "english": "Pleiades Watchtower"
+        },
+        {
+            "japanese": "封魔石の祠",
+            "english": "Evil Sealing Stone Shrine"
+        },
+        {
+            "japanese": "大瀑布",
+            "english": "Great Waterfall"
+        },
+        {
+            "japanese": "フルール",
+            "english": "Fleur"
+        }
+    ],
+    [
+        {
+            "japanese": "神聖ヴォラキア帝国",
+            "english": "Sacred Vollachian Empire",
+            "notes": null
+        },
+        {
+            "japanese": "ヴォラキア帝国",
+            "english": "Vollachian Empire",
+            "notes": null
+        },
+        {
+            "japanese": "ヴォラキア",
+            "english": "Vollachia",
+            "notes": null
+        },
+        {
+            "japanese": "剣狼の国",
+            "english": "(The) Land of the Sword Wolf",
+            "notes": null
+        },
+        {
+            "japanese": "バドハイム密林",
+            "english": "Buddheim Jungle",
+            "notes": null
+        },
+        {
+            "japanese": "バドハイム",
+            "english": "Buddheim",
+            "notes": null
+        },
+        {
+            "japanese": "(城郭都市)グァラル",
+            "english": "(Fortress City of) Guaral",
+            "notes": "Sometimes referred to as 城塞都市 as well (can be translated as fortified city but it’s whatever as long as Fortress City is capitalized)"
+        },
+        {
+            "japanese": "(魔都)カオスフレーム",
+            "english": "(Demon City of) Chaosflame",
+            "notes": null
+        },
+        {
+            "japanese": "(剣奴孤島)ギヌンハイブ",
+            "english": "(Gladiator Island) Ginunhive",
+            "notes": "When 孤島 is used on it’s own, simply use “island”, do not add “Isolated” or “Solitary”"
+        },
+        {
+            "japanese": "(帝都)ルプガナ",
+            "english": "(Imperial Capital of) Lupugana",
+            "notes": "Changed as of 2022/09/20"
+        },
+        {
+            "japanese": "(鉄血都市)グララシア",
+            "english": "Glarasia(, the City of Iron and Blood)",
+            "notes": "Has to break convention for it to sound decent"
+        },
+        {
+            "japanese": "(城塞都市)ガークラ",
+            "english": "(Fortified City of) Garkla",
+            "notes": "城塞都市 has also been used for Guaral (without the city’s name) here and there"
+        },
+        {
+            "japanese": "水晶宮",
+            "english": "Crystal Palace",
+            "notes": null
+        },
+        {
+            "japanese": "紅瑠璃城",
+            "english": "Crimson Lapis Castle",
+            "notes": null
+        },
+        {
+            "japanese": "エイブリーク",
+            "english": "Averyk",
+            "notes": null
+        },
+        {
+            "japanese": "(雲海都市)メゾレイア",
+            "english": "(Cloud Sea City of) Mezoreia",
+            "notes": "Also used for the Cloud Dragon Mezoreia"
+        }
+    ],
+    [
+        {
+            "japanese": "カララギ都市国家",
+            "english": "Kararagi City-States"
+        }
+    ],
+    [
+        {
+            "japanese": "グステコ聖王国",
+            "english": "Holy Kingdom of Gusteko"
+        }
+    ],
+    [
+        {
+            "japanese": "魔女教大罪司教『X』担当、Y",
+            "english": "Sin Archbishop of the Witch Cult, representing X, Y",
+            "notes": null
+        },
+        {
+            "japanese": "――っ\\n――ッ",
+            "english": "——Hk!",
+            "notes": "When used in speech, usually at the end of sentences.\\nPunctuation may also be a full-stop depending on context.\\nDoes not apply to Ley Batenkaitos, Louis Arneb and Roy Alphard."
+        },
+        {
+            "japanese": "――ッッ！！",
+            "english": "——Roar!",
+            "notes": "Used for roars.\\nA unique sound can be picked for new things"
+        }
+    ]
+]
