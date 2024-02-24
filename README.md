@@ -1,6 +1,13 @@
-# rz_mos_web
+# Re:ZERO MoS Web
 
-This template should help get you started developing with Vue 3 in Vite.
+A beautified and searchable version of the [WCT](https://witchculttranslation.com) Manual of Style for translations of the free unlicensed [japanese webnovel](https://ncode.syosetu.com/n2267be) "Re:ZERO - Starting Life in Another World from Zero".
+
+Data Sources and Updates by @kroatoanjp
+
+## Hosted Build
+https://rzmosweb.pages.dev
+
+
 
 ## Recommended IDE Setup
 
