@@ -76,17 +76,14 @@ const filteredWords = computed(() => {
     <div class="words-container">
       <div v-for="(wordEntry, index) in filteredWords" :key="index" class="word-entry">
         <div class="word-details">
-          <span class="japanese"> {{ wordEntry.japanese }}&nbsp;:&nbsp;</span>
-          <span class="english">{{ wordEntry.english }} </span>
-          <span v-if="wordEntry.used_for" class="used-for"
-            ><br />
-            Used for : |</span
-          >
-          <span v-for="(usedFor, index) in wordEntry.used_for" :key="index" class="used-for"
-            >| {{ usedFor }} |</span
-          >
-          <span v-if="wordEntry.used_for" class="used-for">|</span>
-          <span v-if="wordEntry.notes" class="notes"><br />Notes: {{ wordEntry.notes }}</span>
+          <div class="japanese">{{ wordEntry.japanese }} :</div>
+          <div class="english">{{ wordEntry.english }}</div>
+          <div v-if="wordEntry.used_for" class="used-for">
+            <span>Used for : |</span>
+            <span v-for="(usedFor, index) in wordEntry.used_for" :key="index" class="used-for-item">| {{ usedFor }} |</span>
+            <span>|</span>
+          </div>
+          <div v-if="wordEntry.notes" class="notes">Notes: {{ wordEntry.notes.replace('\\n', ' || ') }}</div>
         </div>
       </div>
     </div>
