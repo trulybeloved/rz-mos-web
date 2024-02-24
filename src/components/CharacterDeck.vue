@@ -58,8 +58,6 @@ function generateHtmlFromJson(data) {
     'Probably'
   ]
 
-  // const formattedKeys = keysToInclude.map(key => key.toLowerCase().replace(/\s+/g, '_'));
-
   let html = '<ul>'
   keysToInclude.forEach((key) => {
     if (data[key]) {
@@ -72,15 +70,11 @@ function generateHtmlFromJson(data) {
 
 const parsedCharacters = parseJSON(characters)
 
-// console.log(parsedCharacters)
-
 function mergeCharacterDataArrays(arr1, arr2, key) {
   const map = new Map()
   arr1.forEach((obj) => {
     map.set(obj[key], obj)
   })
-
-  // console.log(map)
 
   arr2.forEach((obj) => {
     const keyValue = obj[key]
@@ -91,21 +85,36 @@ function mergeCharacterDataArrays(arr1, arr2, key) {
     }
   })
 
-  // console.log(arr1)
   return arr1
 }
 
 const mergedArray = mergeCharacterDataArrays(parsedCharacters, characterNotes, 'character')
-// console.log(mergedArray)
+console.log(mergedArray);
 
 const searchTerm = ref('')
 
 const filteredCharacters = computed(() => {
-  // Filter characters based on search term
-  let filtered = mergedArray.filter((characterEntry) =>
-    characterEntry.character.toLowerCase().includes(searchTerm.value.toLowerCase())
-  )
 
+  let filtered = mergedArray.filter((characterEntry) => {
+    const characterEngName = characterEntry.character;
+    const characterJapName = characterEntry.name_in_jp;
+
+    if (
+      (characterEngName &&
+        typeof characterEngName === 'string' &&
+        characterEngName.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
+      (characterJapName &&
+        typeof characterJapName === 'string' &&
+        characterJapName.toLowerCase().includes(searchTerm.value.toLowerCase()))
+    ) {
+      console.log(characterEngName, characterJapName)
+      return true
+    } else {
+      console.log(characterEngName, characterJapName)
+      return false
+    }
+  })
+ 
   // Sort filtered characters alphabetically based on the .character string
   filtered.sort((a, b) => {
     const nameA = a.character.toLowerCase()
