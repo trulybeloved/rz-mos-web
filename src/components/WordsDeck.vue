@@ -1,7 +1,10 @@
 <script setup>
 import SearchBar from './SearchBar.vue'
+import LoadingStuff from './LoadingStuff.vue';
 import { ref, computed } from 'vue'
 import { makeHttpRequest } from './axiosRequest.js'
+
+const isLoading = ref(true)
 
 const mos_words = await makeHttpRequest(
   'https://storage.googleapis.com/rezero-search-public-assets/manual-of-style-data/manual-of-style-raw.json',
@@ -33,6 +36,7 @@ function parseJSON(jsonData) {
 }
 
 const parsedWords = parseJSON(mos_words)
+isLoading.value = false
 
 const searchTerm = ref('')
 
@@ -68,7 +72,12 @@ const filteredWords = computed(() => {
 </script>
 
 <template>
-  <div>
+  
+  <div class="loading" v-if="isLoading">
+    <LoadingStuff />
+  </div>
+  
+  <div v-else>
     <div class="search-container">
       <SearchBar v-model="searchTerm" />
     </div>
