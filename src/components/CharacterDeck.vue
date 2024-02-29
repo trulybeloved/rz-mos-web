@@ -93,10 +93,9 @@ const mergedArray = mergeCharacterDataArrays(parsedCharacters, characterNotes, '
 const searchTerm = ref('')
 
 const filteredCharacters = computed(() => {
-
   let filtered = mergedArray.filter((characterEntry) => {
-    const characterEngName = characterEntry.character;
-    const characterJapName = characterEntry.name_in_jp;
+    const characterEngName = characterEntry.character
+    const characterJapName = characterEntry.name_in_jp
 
     if (
       (characterEngName &&
@@ -111,7 +110,7 @@ const filteredCharacters = computed(() => {
       return false
     }
   })
- 
+
   // Sort filtered characters alphabetically based on the .character string
   filtered.sort((a, b) => {
     const nameA = a.character.toLowerCase()

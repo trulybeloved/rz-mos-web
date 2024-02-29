@@ -1,7 +1,12 @@
-
 import axios from 'axios'
 
-export const makeHttpRequest = async (url, backupUrl = null,  method = 'get', data = null, headers = {}) => {
+export const makeHttpRequest = async (
+  url,
+  backupUrl = null,
+  method = 'get',
+  data = null,
+  headers = {}
+) => {
   try {
     const response = await axios({
       method,
