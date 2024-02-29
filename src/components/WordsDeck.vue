@@ -1,6 +1,6 @@
 <script setup>
 import SearchBar from './SearchBar.vue'
-import LoadingStuff from './LoadingStuff.vue';
+import LoadingStuff from './LoadingStuff.vue'
 import { ref, computed } from 'vue'
 import { makeHttpRequest } from './axiosRequest.js'
 
@@ -42,10 +42,10 @@ const searchTerm = ref('')
 
 const filteredWords = computed(() => {
   let filtered = parsedWords.filter((wordEntry) => {
-    const japanese = wordEntry.japanese;
-    const english = wordEntry.english;
-    const usedFor = wordEntry.used_for;
-    const notes = wordEntry.notes;
+    const japanese = wordEntry.japanese
+    const english = wordEntry.english
+    const usedFor = wordEntry.used_for
+    const notes = wordEntry.notes
 
     if (
       (japanese &&
@@ -64,7 +64,7 @@ const filteredWords = computed(() => {
       return true
     } else {
       return false
-    };
+    }
   })
 
   return filtered
@@ -72,11 +72,10 @@ const filteredWords = computed(() => {
 </script>
 
 <template>
-  
   <div class="loading" v-if="isLoading">
     <LoadingStuff />
   </div>
-  
+
   <div v-else>
     <div class="search-container">
       <SearchBar v-model="searchTerm" />
@@ -89,10 +88,14 @@ const filteredWords = computed(() => {
           <span class="english">{{ wordEntry.english }}</span>
           <div v-if="wordEntry.used_for" class="used-for">
             <span>Used for : |</span>
-            <span v-for="(usedFor, index) in wordEntry.used_for" :key="index" class="used-for-item">| {{ usedFor }} |</span>
+            <span v-for="(usedFor, index) in wordEntry.used_for" :key="index" class="used-for-item"
+              >| {{ usedFor }} |</span
+            >
             <span>|</span>
           </div>
-          <div v-if="wordEntry.notes" class="notes">Notes: {{ wordEntry.notes.replace('\\n', ' || ') }}</div>
+          <div v-if="wordEntry.notes" class="notes">
+            Notes: {{ wordEntry.notes.replace('\\n', ' || ') }}
+          </div>
         </div>
       </div>
     </div>
