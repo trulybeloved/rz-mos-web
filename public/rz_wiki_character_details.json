@@ -1,0 +1,6288 @@
+[
+  {
+    "character_name": "Emilia",
+    "name": "Emilia",
+    "Kanji": "エミリア",
+    "Romaji": "Emiria",
+    "Alias": [
+      "Witch of Frost (氷結の魔女, Hyouketsu no Majo)",
+      "Half-Devil (半魔, Han Ma)"
+    ],
+    "Nickname": [
+      "Emilia-tan/Mili (エミリアたん, Emiria-tan) (by Subaru)",
+      "Lia (リア, Ria) (by Puck & Fortuna)",
+      "Emily (エミリー, Emirī) (by Annerose)",
+      "Witch's Daughter (魔女の娘, Majo no Musume) (by Pandora and Echidna)"
+    ],
+    "Characteristics": {
+      "Race": "Half-Elf",
+      "Gender": "Female",
+      "Age": [
+        "Late Teens (physical)",
+        "Unknown (actual)",
+        "Early-Mid Teens (emotional)"
+      ],
+      "Hair Color": "Silver",
+      "Eye Color": ["Purple (Iris)", "Blue (Pupil)"],
+      "Height": "164 cm (5'5\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Emilia Camp", "Elior Forest"],
+      "Occupation": "Royal Selection Candidate"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Fortuna (aunt/adoptive mother)",
+        "Unnamed Elven Father",
+        "Unnamed Human Mother",
+        "Arch Elior (big brother figure)",
+        "Geuse (former father figure)",
+        "Puck (previous contracted spirit/father figure)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": ["Fire Magic (Natural)", "Water, Wind & Earth (Spirit Arts)"],
+      "Equipment": [
+        "Glintstone",
+        "Recognition Obstruction Robe",
+        "Divine Dragon's Talon Fragment"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": "Volume 1",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 1",
+      "Game": [
+        "Re:Zero -INFINITY-",
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit",
+        "Seven Deadly Sins Grand Cross (As Re:Zero Crossover Collab event character)"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Takahashi Rie",
+      "English Voice": "Kayli Mills"
+    }
+  },
+  {
+    "character_name": "Natsuki Subaru",
+    "name": "Natsuki Subaru",
+    "Kanji": "ナツキ・スバル (菜月 昴)",
+    "Alias": [
+      "The Half Elf's Knight",
+      "Natsumi Schwartz (ナツミ・シュバルツ Natsumi Shubarutsu) (Arc 7)",
+      "Natsuki Schwartz (ナツキ・シュバルツ Natsuki Shubarutsu) (Arc 7)",
+      "Moppet Mage (幼女使い Yōjo Tsukai)",
+      "Spirit Knight (精霊騎士 Seirei Kishi)",
+      "Purge King (粛清王 Shukuseiou) (in Oboreru IF)",
+      "Sin Archbishop of Pride (傲慢の大罪司教 Gouman no Daizai Shikyō) (in Ayamatsu IF)"
+    ],
+    "Nickname": [
+      "Barusu (バルス) (by Ram)",
+      "Pride (傲慢 Gouman) (by Petelgeuse and Rui)",
+      "Baru (バル) (by Typhon)",
+      "Young Su (スー坊 Sū-bō) (by Ryuzu)",
+      "Subarun (スバルン) (by Daphne)",
+      "Captain/Boss (大将 Taishō) (by Garfiel)",
+      "Suu (スー) (by Utakata)",
+      "Basu (バス) (by Cecilus)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["17 (Arc 1-4)", "18 (Arc 5+)"],
+      "Hair Color": "Black",
+      "Eye Color": ["Black (light novel)", "Brown (anime)"],
+      "Height": ["172 cm (5'7\") (light novel)", "173 cm (5'8\") (web novel)"],
+      "Weight": "66 kg (145½ lbs)"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Emilia Camp",
+        "House Mathers",
+        "Royal Army",
+        "Pleiades Battalion",
+        "Witch Cult (in Ayamatsu IF)",
+        "Pleiades (in Oboreru IF)"
+      ],
+      "Previous Affiliation": "Japan",
+      "Occupation": [
+        "Emilia's Knight (Arc 4+)",
+        "Knight of the Dragon Kingdom of Lugunica (Arc 4+)",
+        "Sin Archbishop of Pride (in Ayamatsu IF)",
+        "Leader of the Pleiades (in Oboreru IF)"
+      ],
+      "Previous Occupation": [
+        "High school student",
+        "Butler (Arcs 2-4)",
+        "Gladiator (Arc 7)"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Natsuki Kenichi (father)",
+        "Natsuki Naoko (mother)",
+        "Beatrice (contracted spirit/little sister figure)",
+        "Natsuki Rem (wife; Sloth IF)",
+        "Natsuki Rigel (son; Sloth IF)",
+        "Natsuki Spica (daughter; Sloth IF)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": [
+        "Yin Magic (Natural, unable to use it freely)",
+        "Water Magic (Spirit Arts)"
+      ],
+      "Authority": [
+        "Return by Death",
+        "Authority of Sloth",
+        "Authority of Greed"
+      ],
+      "Weapon": "Guiltywhip"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 1",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 1",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit",
+        "Seven Deadly Sins Grand Cross (Re:Zero crossover collab event story only)"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Kobayashi Yuusuke",
+      "English Voice": "Sean Chiplock"
+    }
+  },
+  {
+    "character_name": "Puck",
+    "name": "Puck",
+    "Kanji": "パック",
+    "Romaji": "Pakku",
+    "Alias": ["Beast of the End (終焉の獣 Shuuen no Kemono)"],
+    "Nickname": ["Puckie/Bubby (by Beatrice)"],
+    "Characteristics": {
+      "Race": "Artificial Spirit",
+      "Gender": "Male",
+      "Age": ["420 (Arc 1-4)", "421 (Arc 5+)"],
+      "Hair Color": "Light Gray and White",
+      "Eye Color": [
+        "Bright Aqua Blue (anime and LN illustrations)",
+        "Black (web and light novel)",
+        "Glowing Yellow (Beast of the End form)"
+      ],
+      "Height": ["9 cm (4\") (normal form)", "20m (65'7\") (Beast of the End)"],
+      "Weight": "5g (a soul's worth)"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Four Great Spirits",
+        "Kingdom of Lugunica",
+        "Elior Forest",
+        "Emilia Camp"
+      ],
+      "Occupation": "Great Spirit",
+      "Previous Occupation": "Contracted Spirit"
+    },
+    "Personal Status": {
+      "Status": "Alive (Asleep in a Glintstone)",
+      "Relative(s)": [
+        "Emilia (previous contractor/daughter figure)",
+        "Beatrice (younger sister) (basically)",
+        "Echidna (creator)",
+        "Eridna (younger sister) (basically)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": [
+        "Fire Magic",
+        "Water Magic",
+        "Yin Magic",
+        "Wind Magic",
+        "Earth Magic",
+        "Others"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": "Volume 1",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 1",
+      "Game": [
+        "Seven Deadly Sins Grand Cross (As Re:Zero Crossover Collab event part of Emilia’s unit)"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Uchiyama Yumi",
+      "English Voice": "Erica Mendez"
+    }
+  },
+  {
+    "character_name": "Roswaal L Mathers",
+    "name": "Roswaal L Mathers",
+    "Kanji": "ロズワール・L・メイザース",
+    "Romaji": "Rozuwāru Eru Meizāsu",
+    "Alias": [
+      "Demi-Human Lover (亜人趣味, Ahito Shumi)",
+      "Red (赤 Aka)",
+      "Green (緑 Midori)",
+      "Yellow (黄 Ki)",
+      "Dudley (ダドリー, Dadorī)"
+    ],
+    "Nickname": ["Roschi/Roz (by Subaru)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["29 (Arc 1-4) (body)", "30 (Arc 5+) (body)", "400+ (soul)"],
+      "Hair Color": ["Indigo Blue", "Dark-Gray (original body) (web novel)"],
+      "Eye Color": [
+        "Blue (original body)",
+        "Yellow (original body) (web novel)",
+        "Yellow (left) (current body)",
+        "Blue (right) (current body)"
+      ],
+      "Height": "186 cm (6'1\")",
+      "Weight": "60 kg (132 lbs)"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "House Mathers", "Emilia Camp"],
+      "Occupation": [
+        "Dragon Kingdom of Lugunica's Court Mage",
+        "Margrave",
+        "Lord of House Mathers"
+      ],
+      "Previous Occupation": ["Witch's Apprentice"]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Roswaal A Mathers (ancestor/original incarnation)",
+        "Roswaal J Mathers (grandmother/former incarnation)",
+        "Garitch Fabless (grandfather)",
+        "Roswaal K Mathers (father/",
+        "former incarnation)",
+        "Dudley Miload (relative)",
+        "Grace Miload (distant relative)",
+        "Annerose Miload (distant relative)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": [
+        "Fire Magic",
+        "Wind Magic",
+        "Water Magic",
+        "Earth Magic",
+        "Yin Magic",
+        "Yang Magic"
+      ],
+      "Equipment": ["Book of Wisdom (formerly)", "Black Metal Gloves", "Sais"]
+    },
+    "Debuts": {
+      "Light Novel": "Volume 2",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 4",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Koyasu Takehito",
+      "English Voice": "Ray Chase"
+    }
+  },
+  {
+    "character_name": "Ram",
+    "name": "Ram",
+    "Kanji": "ラム",
+    "Romaji": "Ramu",
+    "Characteristics": {
+      "Race": "Oni",
+      "Gender": "Female",
+      "Age": ["17 (Arc 1-2)", "18 (Arc 3-4)", "19 (Arc 5+)"],
+      "Hair Color": "Pink",
+      "Eye Color": "Red",
+      "Height": "154 cm (5'½\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Emilia Camp", "House Mathers"],
+      "Previous Affiliation": "Oni Village",
+      "Occupation": "Maid"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Quark (father)",
+        "Temae (mother)",
+        "Rem (younger twin sister)"
+      ]
+    },
+    "Abilities and Equipment": { "Magic": "Wind Magic", "Weapon": "Wand" },
+    "Debuts": {
+      "Light Novel": "Volume 2",
+      "Manga": "Chapter 11",
+      "Anime": "Episode 4",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit",
+        "Seven Deadly Sins Grand Cross (As Re:Zero Crossover Collab event character)"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Murakawa Rie",
+      "English Voice": "Ryan Bartley"
+    }
+  },
+  {
+    "character_name": "Rem",
+    "name": "Rem",
+    "Kanji": "レム",
+    "Romaji": "Remu",
+    "Characteristics": {
+      "Race": "Oni",
+      "Gender": "Female",
+      "Age": ["17 (Arc 1-2)", "18 (Arc 3-4)", "19 (Arc 5+)"],
+      "Hair Color": "Sky Blue",
+      "Eye Color": "Light Blue",
+      "Height": "154 cm (5' ½\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Emilia Camp", "House Mathers"],
+      "Previous Affiliation": "Oni Village",
+      "Occupation": "Maid"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Quark (father)",
+        "Temae (mother)",
+        "Ram (older twin sister)",
+        "Natsuki Subaru (husband; Sloth IF)",
+        "Natsuki Rigel (son; Sloth IF)",
+        "Natsuki Spica (daughter; Sloth IF)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Water Magic",
+      "Weapon": "Morningstar"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 2",
+      "Manga": "Chapter 11",
+      "Anime": "Episode 4",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Minase Inori",
+      "English Voice": "Brianna Knickerbocker"
+    }
+  },
+  {
+    "character_name": "Beatrice",
+    "name": "Beatrice",
+    "Kanji": "ベアトリス",
+    "Romaji": "Beatorisu",
+    "Alias": [
+      "Great Spirit of the Forbidden Library (禁書庫の大精霊 Kinshoko no Dai Seirei)"
+    ],
+    "Nickname": [
+      "Betty (ベティ, Betii) (by herself, Puck & Echidna)",
+      "Beako (ベア子) (by Subaru",
+      "Four-Hundred-Year-Old Child (by Roswaal)",
+      "Natsuki Subaru's Great Spirit (ナツキ・スバルの大精霊 Natsuki Subaru no Dai Seirei) (by herself)"
+    ],
+    "Characteristics": {
+      "Race": "Artificial Spirit",
+      "Gender": "Female",
+      "Age": ["400+", "Around 11-12 (appearance)"],
+      "Hair Color": "Cream Blonde",
+      "Eye Color": ["Blue (Iris)", "Pink (Pupil)"],
+      "Height": ["130 cm (4'3\") (light novel)", "140 cm (4'7\") (web novel)"]
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Emilia Camp"],
+      "Previous Affiliation": "Forbidden Library",
+      "Occupation": "Contract Spirit",
+      "Previous Occupation": "Library Caretaker"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Natsuki Subaru (contractor/big brother figure)",
+        "Puck (older brother) (basically)",
+        "Echidna (creator/mother figure)",
+        "Eridna (older sister) (basically)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": ["Yin Magic", "Water Magic", "Wind Magic"],
+      "Equipment": ["Book of Wisdom (formerly)"]
+    },
+    "Debuts": {
+      "Light Novel": "Volume 2",
+      "Manga": "Chapter 0",
+      "Anime": "Episode 4",
+      "Game": [
+        "Re:Zero -INFINITY-",
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit",
+        "Seven Deadly Sins Grand Cross (As Re:Zero Crossover Collab event character)"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Arai Satomi",
+      "English Voice": "Kira Buckland"
+    }
+  },
+  {
+    "character_name": "Otto Suwen",
+    "name": "Otto Suwen",
+    "Kanji": "オットー・スーウェン",
+    "Romaji": "Ottō Sūwen",
+    "Alias": [
+      "Militant Internal Affairs Officer (武闘派内政官, Budōha Naisei-kan)",
+      "Audrey Souffle (オードリー・スフレ Ōdorī Sufure)"
+    ],
+    "Nickname": ["Brotto (by Garfiel)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["20 (Arc 3-4)", "21 (Arc 5+)"],
+      "Hair Color": "Ashen Gray",
+      "Eye Color": "Blue",
+      "Height": "177 cm (5'10\")",
+      "Weight": "60 kg (132 lbs) (web novel)"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Emilia Camp"],
+      "Occupation": ["Internal Affairs Officer of the Emilia Camp"],
+      "Previous Occupation": "Merchant"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Yaktol Suwen (grandfather)",
+        "Mazeran Suwen (father)",
+        "Framir Suwen (mother)",
+        "Oslo Suwen (older brother)",
+        "Regin Suwen (younger brother)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Earth Magic",
+      "Divine Protection": "Divine Protection of Soul Language"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 5",
+      "Manga": "Chapter 12",
+      "Anime": "Episode 14",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": [
+        "Amasaki Kouhei",
+        "Taichi You (infant)",
+        "Iida Yuuko (child)"
+      ],
+      "English Voice": ["Zach Aguilar", "Kimlinh Tran (child)"]
+    }
+  },
+  {
+    "character_name": "Frederica Baumann",
+    "name": "Frederica Baumann",
+    "Kanji": "フレデリカ・バウマン",
+    "Romaji": "Furederica Bauman",
+    "Nickname": ["Half-Beast Girl (by Beatrice)", "Fred (by Reshia)"],
+    "Characteristics": {
+      "Race": "Beast Human/Leopard Human Hybrid",
+      "Gender": "Female",
+      "Age": ["21 (Arc 4)", "22 (Arc 5+)"],
+      "Hair Color": "Pale Gold",
+      "Eye Color": "Emerald Green",
+      "Height": [
+        "180 cm (5'11\") (light novel, Re:Zeropedia 2)",
+        "176 cm (5'9\") (light novel, formerly)"
+      ]
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Emilia Camp", "House Mathers"],
+      "Previous Affiliation": "Sanctuary",
+      "Occupation": "Head Maid of House Mathers"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Reala Thompson (mother)",
+        "Unnamed Half-Beast Human Bandit Father",
+        "Garfiel Tinsel (younger half-brother)",
+        "Unnamed Half-Beast Human Stepfather",
+        "Garek Thompson (stepfather)",
+        "Rafiel Thompson (younger half-sister)",
+        "Fred Thompson (younger half-brother)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Wind Magic",
+      "Equipment": "Glintstone"
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 2 (mentioned)", "Volume 10 (actual)"],
+      "Manga": ["Chapter 2", "Chapter 19 (flashback)"],
+      "Anime": ["Episode 11 (cameo, flashback)", "Episode 27 (actual)"],
+      "Game": "Re:Zero Lost in Memories"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Nazuka Kaori",
+      "English Voice": [
+        "Faye Mata (Season 1, Episode 11)",
+        "Dawn M. Bennett (Season 2)"
+      ]
+    }
+  },
+  {
+    "character_name": "Garfiel Tinsel",
+    "name": "Garfiel Tinsel",
+    "Kanji": "ガーフィール・ティンゼル",
+    "Romaji": "Gaafiiru Tinzeru",
+    "Alias": [
+      "Gorgeous Tiger (ゴージャス・タイガー Goojasu Taigaa)",
+      "Shield of the Sanctuary (聖域の盾 Seiiki no Tate)",
+      "Garnet Thuram (ガーネット・テュラム Gānetto Tyuramu)"
+    ],
+    "Nickname": ["Young Gar (by Ryuzu)", "Garf (by Frederica, Ram, & Rem)"],
+    "Characteristics": {
+      "Race": "Beast Human/Tiger Human Hybrid",
+      "Gender": "Male",
+      "Age": ["14 (Arc 4)", "15 (Arc 5+)"],
+      "Hair Color": "Gold",
+      "Eye Color": "Jade",
+      "Height": [
+        "160 cm (5'3\") (human form)",
+        " 7 meters (23 feet) (Beast form)"
+      ]
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Emilia Camp"],
+      "Previous Affiliation": "Sanctuary",
+      "Occupation": ["Military Officer of the Emilia Camp"],
+      "Previous Occupation": "Guardian of the Sanctuary"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Reala Thompson (mother)",
+        "Unnamed Half-Beast Human Father",
+        "Frederica Baumann (older half-sister)",
+        "Garek Thompson (stepfather)",
+        "Rafiel Thompson (younger half-sister)",
+        "Fred Thompson (younger half-brother)",
+        "Ryuzu copies (caretaker(s)/grandmother figure(s))"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Water Magic",
+      "Divine Protection": "Divine Protection of Earth Spirits",
+      "Weapon": "Twin Shields",
+      "Equipment": "Glintstone"
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 10", "Volume 3 (mentioned)"],
+      "Manga": ["Chapter 2 (mentioned)", "Chapter 3 (actual)"],
+      "Anime": ["Episode 27 (mentioned)", "Episode 28 (actual)"],
+      "Game": "Re:Zero Lost in Memories"
+    },
+    "Portrayal": {
+      "Japanese Voice": ["Okamoto Nobuhiko", "Minami Mayu (child)"],
+      "English Voice": "Zeno Robinson"
+    }
+  },
+  {
+    "character_name": "Petra Leyte",
+    "name": "Petra Leyte",
+    "Kanji": "ペトラ・レイテ",
+    "Romaji": "Petora Reite",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["12 (Arc 1-4)", "13 (Arc 5+)"],
+      "Hair Color": "Reddish Brown",
+      "Eye Color": "Cyan Blue",
+      "Height": "140 cm (4'7\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Emilia Camp", "House Mathers"],
+      "Previous Affiliation": "Arlam Village",
+      "Occupation": "Maid",
+      "Previous Occupation": "Villager"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": { "Magic": "Yang Magic" },
+    "Debuts": {
+      "Light Novel": "Volume 3",
+      "Anime": "Episode 5",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Kouno Marika",
+      "English Voice": "Erica Mendez"
+    }
+  },
+  {
+    "character_name": "Ryuzu Meyer",
+    "name": "Ryuzu Meyer",
+    "Kanji": "リューズ・メイエル",
+    "Romaji": "Ryuuzu Meieru",
+    "Nickname": "Eyes of the Sanctuary",
+    "Characteristics": {
+      "Race": "Half-Elf",
+      "Gender": "Female",
+      "Age": ["12 (appearance)", "400+ (actual)"],
+      "Hair Color": "Pink",
+      "Eye Color": "Dark Cyan",
+      "Height": "135 cm (4'5\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Emilia Camp"],
+      "Previous Affiliation": "Sanctuary",
+      "Occupation": "Ryuzu Meyer Copy",
+      "Previous Occupation": ["Elder of the Sanctuary"]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Echidna (creator)",
+        "Omega (sister)",
+        "Sphinx (older sister)",
+        "Ryuzu Meyer (basis)",
+        "Garfiel Tinsel (ward/grandson figure)"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": "Volume 10",
+      "Manga": "Chapter 3",
+      "Anime": "Episode 27"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Tanaka Aimi",
+      "English Voice": "Lizzie Freeman"
+    }
+  },
+  {
+    "character_name": "Annerose Miload",
+    "name": "Annerose Miload",
+    "Kanji": "アンネローゼ・ミロード",
+    "Romaji": "Annneroose Miroodo",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["9 (Arc 4)", "10 (Arc 5+)"],
+      "Hair Color": "Indigo Blue",
+      "Eye Color": "Light Blue",
+      "Height": "135 cm (4'5\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "House Miload", "Emilia Camp"],
+      "Occupation": "Heir of the Miload House"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Roswaal L Mathers (relative)",
+        "Dudley Miload (father)",
+        "Grace Miload (mother)"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 15 (actual)", "One Day II (side story)"],
+      "Anime": "Episode 50"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Ichinose Kana",
+      "English Voice": "Emi Lo"
+    }
+  },
+  {
+    "character_name": "Clind",
+    "name": "Clind",
+    "Kanji": "クリンド",
+    "Romaji": "Kurindo",
+    "Characteristics": {
+      "Race": "Unknown",
+      "Gender": "Male",
+      "Age": ["Around 20 (appearance)", "400+ (actual)"],
+      "Hair Color": "Blue",
+      "Eye Color": "Green",
+      "Height": "178 cm (5'10\")"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "House Mathers",
+        "House Miload",
+        "Emilia Camp"
+      ],
+      "Occupation": ["House Miload's Butler", "Steward"],
+      "Previous Occupation": [
+        "House Mathers's Butler",
+        "Roswaal J Mathers' personal butler",
+        "Roswaal K Mathers' personal butler"
+      ]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": {
+      "Authority": "Unknown Authority",
+      "Weapon": "Whip"
+    },
+    "Debuts": {
+      "Light Novel": [
+        "Volume 15 (appearance/mentioned)",
+        "One Day II (side story)"
+      ],
+      "Anime": ["Episode 50 (appearance)"]
+    }
+  },
+  {
+    "character_name": "Meili Portroute",
+    "name": "Meili Portroute",
+    "Kanji": "メィリィ・ポートルート",
+    "Romaji": "Meiri Pootoruuto",
+    "Alias": "Demon Beast User (魔獣使い)",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["13 (Arc 2-4)", "14 (Arc 5+)"],
+      "Hair Color": ["Blue (anime/current)", "Brown (light novel/former)"],
+      "Eye Color": "Olive Green",
+      "Height": "145 cm (4'9\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Emilia Camp"],
+      "Previous Affiliation": "Mother",
+      "Occupation": ["Demon Beast User"],
+      "Previous Occupation": "Assassin"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Elsa Granhiert (older sister figure)"]
+    },
+    "Abilities and Equipment": {
+      "Divine Protection": "Divine Protection of Demon Manipulation"
+    },
+    "Debuts": { "Light Novel": "Volume 3", "Anime": "Episode 5" },
+    "Portrayal": {
+      "Japanese Voice": "Suzuki Eri",
+      "English Voice": "Erika Harlacher"
+    }
+  },
+  {
+    "character_name": "Patrasche",
+    "name": "Patrasche",
+    "Kanji": "パトラッシュ",
+    "Romaji": "Patorasshu",
+    "Characteristics": {
+      "Race": "Earth Dragon",
+      "Gender": "Female",
+      "Age": "Unknown",
+      "Hair Color": "Black",
+      "Eye Color": "Gold"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Natsuki Subaru", "Emilia Camp"],
+      "Occupation": "Subaru's Earth Dragon"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": {
+      "Divine Protection": "Divine Protection of Wind Evasion"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": "Chapter 24",
+      "Anime": "Episode 12"
+    }
+  },
+  {
+    "character_name": "Frufoo",
+    "name": "Frufoo",
+    "Kanji": "フルフー",
+    "Romaji": "Furufū",
+    "Characteristics": {
+      "Race": "Earth Dragon",
+      "Gender": "Female",
+      "Age": "Around 23",
+      "Hair Color": "Blue",
+      "Eye Color": "Red"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Otto Suwen", "Emilia Camp"],
+      "Occupation": "Otto's Earth Dragon"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": {
+      "Divine Protection": "Divine Protection of Wind Evasion"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 5",
+      "Manga": "Chapter 12",
+      "Anime": "Episode 14"
+    }
+  },
+  {
+    "character_name": "Crusch Karsten",
+    "name": "Crusch Karsten",
+    "Kanji": "クルシュ・カルステン",
+    "Romaji": "Kurushu Karusuten",
+    "Alias": "Valkyrie (戦乙女, Sen'otome)",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["20 (Arc 3-4)", "21 (Arc 5+)"],
+      "Hair Color": "Dark Green",
+      "Eye Color": "Amber",
+      "Height": "168 cm (5'6\")"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "House Karsten",
+        "Crusch Camp"
+      ],
+      "Occupation": [
+        "Duchess",
+        "Matriarch of House Karsten",
+        "Royal Selection Candidate"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Helena Karsten (mother)", "Meckart Karsten (father)"]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Wind Magic",
+      "Divine Protection": "Divine Protection of Wind Reading",
+      "Weapon": "Lion Rampant",
+      "Equipment": "Armour"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": "Chapter 3",
+      "Anime": "Episode 12",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Iguchi Yuka",
+      "English Voice": "Erika Harlacher"
+    }
+  },
+  {
+    "character_name": "Felix Argyle",
+    "name": "Felix Argyle",
+    "Kanji": "フェリックス・アーガイル",
+    "Romaji": "Ferikkusu Aagairu",
+    "Alias": ["Blue (青 Ao)"],
+    "Nickname": ["Ferris (フェリス)", "Ferri-chan (フェリちゃん)"],
+    "Characteristics": {
+      "Race": "Beast Human",
+      "Gender": "Male",
+      "Age": ["19 (Arc 3-4)", "20 (Arc 5+)"],
+      "Hair Color": "Flax",
+      "Eye Color": "Yellow",
+      "Height": "172 cm (5'8\")"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "Royal Guard",
+        "Crusch Camp",
+        "House Karsten"
+      ],
+      "Occupation": [
+        "Knight of the Dragon Kingdom of Lugunica",
+        "Knight of the Royal Guard",
+        "Crusch's Knight"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Biehn Argyle (father)",
+        "Hannah Argyle (supposed mother)",
+        "Hannah Regret (heavily implied to be his real mother)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Water Magic",
+      "Divine Protection": "Divine Protection of Water",
+      "Weapon": "Karsten Short Sword"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": ["Chapter 1 (flashback)", "Chapter 4 (actual)"],
+      "Anime": "Episode 12",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Horie Yui",
+      "English Voice": "Sarah Anne Williams"
+    }
+  },
+  {
+    "character_name": "Wilhelm van Astrea né Trias",
+    "name": "Wilhelm van Astrea né Trias",
+    "Kanji": [
+      "ヴィルヘルム・ヴァン・アストレア (current)",
+      "ヴィルヘルム・トリアス (former)"
+    ],
+    "Romaji": [
+      "Viruherumu van Asutorea (current)",
+      "Viriherumu Toriasu (former)"
+    ],
+    "Alias": ["Sword Demon (剣鬼 Kenki)"],
+    "Nickname": [
+      "Old Man Wil (by Ferris)",
+      "Mr. Bad Soldier (by Theresia)",
+      "Captain Killer (by Pivot)",
+      "Sword Demon Captain Wilhelm (by Subaru)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["15-20 (Ex 2)", "61 (Arc 3-4)", "62 (Arc 5+)"],
+      "Hair Color": ["Gray (current)", "Chestnut Brown (past)"],
+      "Eye Color": "Blue",
+      "Height": "178 cm (5'10\")",
+      "Weight": "60 kg (132.3 lbs)"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital", "Crusch Camp"],
+      "Previous Affiliation": ["Royal Guard", "House Astrea", "House Trias"],
+      "Occupation": ["Butler", "Crusch's Sword Instructor"],
+      "Previous Occupation": [
+        "Head of the Astrea Family",
+        "Captain of the Zellgef Squadron",
+        "Captain of the Royal Guard"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Unnamed father (deceased)",
+        "Unnamed mother (deceased)",
+        "2 unnamed older brothers (deceased)",
+        "Theresia van Astrea (wife)",
+        "Tishua Astrea (mother-in-law)",
+        "Veltol Astrea (father-in-law)",
+        "Fribal van Astrea (uncle-in-law)",
+        "Heinkel Astrea (son)",
+        "Louanna Astrea (daughter-in-law)",
+        "Thames Astrea (brother-in-law)",
+        "Carlan Astrea (brother-in-law)",
+        "Casilles Astrea (brother-in-law)",
+        "Reinhard van Astrea (grandson)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Weapon": ["Holy Sword Astrea (former)", "Numerous other swords"]
+    },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": ["Chapter 1 (flashback)", "Chapter 10 (actual)"],
+      "Anime": "Episode 12",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": ["Horiuchi Kenyuu", "Ishikawa Kaito (young)"],
+      "English Voice": [
+        "Marc Diraison (Season 1)",
+        "Brock Powell (Season 2)",
+        "Billy Kametz (young)"
+      ]
+    }
+  },
+  {
+    "character_name": "Priscilla Barielle",
+    "name": "Priscilla Barielle",
+    "Kanji": "プリシラ・バーリエル",
+    "Romaji": "Purishira Baarieru",
+    "Alias": [
+      "Sun Princess (太陽姫, Taiyouhime)",
+      "Bloody Bride (血染めの花嫁, Chizome no Hanayome)",
+      "Scarlet Princess (緋色の姫, Hiiro no Hime)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["18 (Arc 3-4)", "19 (Arc 5+)"],
+      "Hair Color": "Red Blonde",
+      "Eye Color": ["Crimson Red (Iris)", "White (Pupil)"],
+      "Height": "164 cm (5'5\")"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "House Barielle",
+        "Priscilla Camp"
+      ],
+      "Previous Affiliation": "Vollachia Empire",
+      "Occupation": [
+        "Matriarch of House Barielle",
+        "Baroness",
+        "Royal Selection Candidate"
+      ],
+      "Previous Occupation": [
+        "Imperial Princess",
+        "Imperial Selection Candidate (failed)"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Drizen Vollachia (father)",
+        "Sandra Benedict (mother)",
+        "Vincent Vollachia (older half-brother)",
+        "Lamia Godwin (older half-sister)",
+        "Barthroy Fitts (older half-brother)",
+        "Rommel (older half-brother)",
+        "Palladio Manesque (older half-brother)",
+        "Stride Vollachia (relative)",
+        "Eugard Vollachia (ancestor)",
+        "Jorah Pendleton (first former husband)",
+        "Leip Barielle (eighth former husband)",
+        "Six unnamed former husbands"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Yang Magic",
+      "Divine Protection": "Divine Protection of the Sun",
+      "Weapon": "Yang Sword Vollachia",
+      "Equipment": ["Three-Jeweled Necklace", "Beloved Articles"]
+    },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 12",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Tamura Yukari",
+      "English Voice": "Faye Mata"
+    }
+  },
+  {
+    "character_name": "Aldebaran",
+    "name": "Aldebaran",
+    "Kanji": "アルデバラン",
+    "Romaji": "Arudebaran",
+    "Nickname": [
+      "Al (アル, Aru)",
+      "Mister Helmet (by Subaru)",
+      "Clown (by Vincent)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Around 40",
+      "Hair Color": "Black",
+      "Eye Color": "Black",
+      "Height": ["172 cm (5'7\") (light novel)", "173 cm (5'8\") (web novel)"],
+      "Weight": "70 kg (154.3 lbs)"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Priscilla Camp"],
+      "Previous Affiliation": ["Vollachia Empire", "Ginunhive", "Japan"],
+      "Occupation": ["Priscilla's Servant", "Priscilla's Knight"],
+      "Previous Occupation": "Gladiator"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": {
+      "Magic": "Earth Magic",
+      "Authority": "Unknown Authority",
+      "Weapon": "Liuyedao",
+      "Equipment": "Black Helmet"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": "Chapter 2",
+      "Anime": "Episode 12",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": [
+        "Fujiwara Keiji (Season 1)",
+        "Seki Tomokazu (Season 2)"
+      ],
+      "English Voice": "Keith Silverstein"
+    }
+  },
+  {
+    "character_name": "Schult",
+    "name": "Schult",
+    "Kanji": "シュルト",
+    "Romaji": "Shuruto",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["11 (Arc 3-4)", "12 (Arc 5+)"],
+      "Hair Color": "Pink",
+      "Eye Color": "Crimson Red",
+      "Height": "130 cm (4'3\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Priscilla Camp"],
+      "Occupation": "Butler"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Volume 6", "Anime": "Episode 12" }
+  },
+  {
+    "character_name": "Heinkel Astrea",
+    "name": "Heinkel Astrea",
+    "Kanji": "ハインケル・アストレア",
+    "Romaji": "Hainkeru Asutorea",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "39 (Arc 5+)",
+      "Hair Color": "Flaming Red",
+      "Eye Color": "Sky Blue",
+      "Height": "185 cm (6'1\")"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "Royal Guard",
+        "House Astrea",
+        "Priscilla Camp"
+      ],
+      "Occupation": [
+        "Deputy Commander of the Royal Guard",
+        "Head of House Astrea"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Reid Astrea (ancestor)",
+        "Fribal van Astrea (great uncle)",
+        "Tishua Astrea (grandmother)",
+        "Veltol Astrea (grandfather)",
+        "Wilhelm van Astrea (father)",
+        "Theresia van Astrea (mother)",
+        "Thames Astrea (uncle)",
+        "Carlan Astrea (uncle)",
+        "Casilles Astrea (uncle)",
+        "Louanna Astrea (wife)",
+        "Reinhard van Astrea (son)"
+      ]
+    },
+    "Abilities and Equipment": { "Weapon": "Holy Sword Astrea" },
+    "Debuts": { "Light Novel": "Volume 16" }
+  },
+  {
+    "character_name": "Yae Tenzen",
+    "name": "Yae Tenzen",
+    "Kanji": "ヤエ・テンゼン",
+    "Romaji": "Yae Tenzen",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "Around 20",
+      "Hair Color": "Red"
+    },
+    "Professional Status": {
+      "Affiliation": "Kingdom of Lugunica",
+      "Previous Affiliation": ["Priscilla Camp", "House Barielle"],
+      "Occupation": "Assassin",
+      "Previous Occupation": ["Maid", "Grand Chamberlain"]
+    },
+    "Personal Status": { "Status": "Unknown" },
+    "Abilities and Equipment": { "Weapon": "Kunai" },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 4" }
+  },
+  {
+    "character_name": "Anastasia Hoshin",
+    "name": "Anastasia Hoshin",
+    "Kanji": "アナスタシア・ホーシン",
+    "Romaji": "Anasutashia Hooshin",
+    "Alias": ["Merchant of the West (西国の商人, Saikoku no Shōnin)"],
+    "Nickname": [
+      "Lil' Ana (アナ坊 Ana-bo) (by Ricardo and Halibel)",
+      "Boss Lady"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["22 (Arc 3-4)", "23 (Arc 5+)"],
+      "Hair Color": "Light Purple",
+      "Eye Color": "Blue Green",
+      "Height": "155 cm (5'1\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kararagi", "Iron Fang", "Anastasia Camp"],
+      "Previous Affiliation": "Chuden Group",
+      "Occupation": [
+        "Chairman of the Hoshin Company",
+        "Royal Selection Candidate"
+      ],
+      "Previous Occupation": ["Waitress", "Chuden's apprentice"]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Mimi Pearlbaton (adopted/",
+        "foster daughter)",
+        "Hetaro Pearlbaton (adopted/foster son)",
+        "Tivey Pearlbaton (adopted/foster son)",
+        "Echidna (contracted spirit) (technically)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Yang Magic",
+      "Weapon": "Thick Knife"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": "Chapter 4",
+      "Anime": "Episode 12",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Ueda Kana",
+      "English Voice": "Cassandra Lee Morris"
+    }
+  },
+  {
+    "character_name": "Julius Juukulius",
+    "name": "Julius Juukulius",
+    "Kanji": "ユリウス・ユークリウス",
+    "Romaji": "Yuriusu Yūkuriusu",
+    "Alias": [
+      "Finest of Knights (最優の騎士 Saiyū no Kishi)",
+      "Spirit Knight (精霊騎士 Seirei Kishi)",
+      "Rainbow Spirit Knight (虹精霊騎士 Niji Seirei Kishi)"
+    ],
+    "Nickname": ["Juli/Jules (ユーリ Yūri) (temporary)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["21 (Arc 3-4)", "22 (Arc 5+)"],
+      "Hair Color": "Light Purple",
+      "Eye Color": "Yellow",
+      "Height": "179 cm (5'10\")",
+      "Weight": "70 kg (154.3 lbs)"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "Royal Guard",
+        "Anastasia Camp",
+        "House Juukulius"
+      ],
+      "Occupation": [
+        "Knight of the Dragon Kingdom of Lugunica",
+        " Knight of the Royal Guard",
+        "Anastasia's Knight"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Unnamed mother (deceased)",
+        "Klein Juukulius (father)",
+        "Alviero Juukulius (uncle/adoptive father)",
+        "Maria Juukulius (aunt)",
+        "Joshua Juukulius (cousin/adoptive younger brother)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "All Six Elements (via Spirits)",
+      "Divine Protection": "Divine Protection of Gathering Spirits",
+      "Weapon": ["House Juukulius' Sword (until Arc 6)", "Spare Sword"]
+    },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 12",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Eguchi Takuya",
+      "English Voice": ["Chris Niosi (Season 1)", "Alejandro Saab (Season 2)"]
+    }
+  },
+  {
+    "character_name": "Joshua Juukulius",
+    "name": "Joshua Juukulius",
+    "Kanji": "ヨシュア・ユークリウス",
+    "Romaji": "Yoshua Yūkuriusu",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "17 (Arc 5+)",
+      "Hair Color": "Light Purple",
+      "Eye Color": "Yellow",
+      "Height": "173 cm (5'8\")"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "Anastasia Camp",
+        "House Juukulius"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive (suspended animation)",
+      "Relative(s)": [
+        "Alviero Juukulius (father)",
+        "Maria Juukulius (mother)",
+        "Julius Juukulius (cousin/adoptive older brother)",
+        "Klein Juukulius (uncle)",
+        "Unnamed aunt (deceased)"
+      ]
+    },
+    "Abilities and Equipment": { "Magic": "Water Magic" },
+    "Debuts": {
+      "Light Novel": [
+        "Anastasia's Prosperity Record (side story)",
+        "Volume 16 (main story)"
+      ]
+    }
+  },
+  {
+    "character_name": "Ricardo Welkin",
+    "name": "Ricardo Welkin",
+    "Kanji": "リカード・ウェルキン",
+    "Romaji": "Rikaado Uerukin",
+    "Characteristics": {
+      "Race": "Wolfin Tribe",
+      "Gender": "Male",
+      "Age": ["39 (Arc 3-4)", "40 (Arc 5+)"],
+      "Hair Color": "Dark Brown",
+      "Eye Color": "Green",
+      "Height": "206 cm (6'9\")",
+      "Weight": "140 kg+ (309 lb+)"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kararagi",
+        "Iron Fang",
+        "Anastasia Camp",
+        "Chuden Group"
+      ],
+      "Previous Affiliation": "Slave Trading Company",
+      "Occupation": ["Mercenary Captain", "Bodyguard"],
+      "Previous Occupation": "Slave"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Mimi Pearlbaton (adopted/foster daughter)",
+        "Hetaro Pearlbaton (adopted/foster son)",
+        "Tivey Pearlbaton (adopted/foster son)"
+      ]
+    },
+    "Abilities and Equipment": { "Weapon": "Great Hatchet" },
+    "Debuts": {
+      "Light Novel": ["Volume 6 (Shown)", "Volume 7 (Actual)"],
+      "Manga": ["Chapter 5 (Flashback)", "Chapter 24 (Actual)"],
+      "Anime": "Episode 19"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Nomura Kenji",
+      "English Voice": "Imari Williams"
+    }
+  },
+  {
+    "character_name": "Mimi Pearlbaton",
+    "name": "Mimi Pearlbaton",
+    "Kanji": "ミミ・パールバトン",
+    "Romaji": "Mimi Pārubaton",
+    "Nickname": ["Gorgeous Mimi (ゴージャス・ミミ Goojasu Mimi)"],
+    "Characteristics": {
+      "Race": "Kitten Human",
+      "Gender": "Female",
+      "Age": ["14 (Arc 1-4)", "15 (Arc 5+)"],
+      "Hair Color": "Orange",
+      "Eye Color": "Aqua Green",
+      "Height": ["110 cm (3'7\") (light novel)", "135 cm (4'5\") (web novel)"],
+      "Weight": "Around 30 kg (60 lb)"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kararagi", "Iron Fang", "Anastasia Camp"],
+      "Occupation": "Mercenary Vice Captain"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Hetaro Pearlbaton (younger triplet brother)",
+        "Tivey Pearlbaton (youngest triplet brother)",
+        "Roshi (previous adoptive/foster father)",
+        "Anastasia Hoshin (current adoptive/foster mother)",
+        "Ricardo Welkin (current adoptive/foster father)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": ["Earth Magic", "Water Magic"],
+      "Divine Protection": "Divine Protection of Trisection",
+      "Weapon": "Staff"
+    },
+    "Debuts": {
+      "Light Novel": ["Anastasia's Prosperity Record (Side Story)", "Volume 6"],
+      "Manga": ["Chapter 5 (Flashback)", "Chapter 16 (Actual)"],
+      "Anime": "Episode 16"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Fujii Yukiyo",
+      "English Voice": "Erica Mendez"
+    }
+  },
+  {
+    "character_name": "Hetaro Pearlbaton",
+    "name": "Hetaro Pearlbaton",
+    "Kanji": "ヘータロー・パールバトン",
+    "Romaji": "Heetaroo Paarubaton",
+    "Characteristics": {
+      "Race": "Kitten Human",
+      "Gender": "Male",
+      "Age": ["14 (Arc 1-4)", "15 (Arc 5+)"],
+      "Hair Color": "Orange",
+      "Eye Color": "Aqua Green",
+      "Height": ["110 cm (3'7\") (light novel)", "135 cm (4'5\") (web novel)"],
+      "Weight": "Around 30 kg (60 lb)"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kararagi", "Iron Fang", "Anastasia Camp"],
+      "Occupation": "Mercenary Vice Captain"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Mimi Pearlbaton (older triplet sister)",
+        "Tivey Pearlbaton (younger triplet brother)",
+        "Roshi (previous adoptive/foster father)",
+        "Anastasia Hoshin (current adoptive/foster mother)",
+        "Ricardo Welkin (current adoptive/foster father)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Water Magic",
+      "Divine Protection": "Divine Protection of Trisection",
+      "Weapon": "Wand"
+    },
+    "Debuts": {
+      "Light Novel": ["Anastasia's Prosperity Record (Side Story)", "Volume 7"],
+      "Manga": ["Chapter 5 (Flashback)", "Chapter 24 (Actual)"],
+      "Anime": "Episode 19"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Han Megumi",
+      "English Voice": "Kira Buckland"
+    }
+  },
+  {
+    "character_name": "Tivey Pearlbaton",
+    "name": "Tivey Pearlbaton",
+    "Kanji": "ティビー・パールバトン",
+    "Romaji": "Tivii Paarubaton",
+    "Characteristics": {
+      "Race": "Kitten Human",
+      "Gender": "Male",
+      "Age": ["14 (Arc 1-4)", "15 (Arc 5+)"],
+      "Hair Color": "Orange",
+      "Eye Color": "Aqua Green",
+      "Height": ["110 cm (3'7\") (light novel)", "135 cm (4'5\") (web novel)"],
+      "Weight": "Around 30 kg (60 lb)"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kararagi", "Iron Fang", "Anastasia Camp"],
+      "Occupation": "Mercenary Vice Captain/Treasurer"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Mimi Pearlbaton (oldest triplet sister)",
+        "Hetaro Pearlbaton (older triplet brother)",
+        "Roshi (previous adoptive/foster father)",
+        "Anastasia Hoshin (current adoptive/foster mother)",
+        "Ricardo Welkin (current adoptive/foster father)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Fire Magic",
+      "Divine Protection": "Divine Protection of Trisection"
+    },
+    "Debuts": {
+      "Light Novel": [
+        "Anastasia's Moving Picture Scroll (Side Story)",
+        "Volume 7"
+      ],
+      "Manga": ["Chapter 5 (Flashback)", "Chapter 32 (Actual)"],
+      "Anime": "Episode 21"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Shimowada Hiroki",
+      "English Voice": "Julie Ann Taylor"
+    }
+  },
+  {
+    "character_name": "Echidna",
+    "name": "Echidna",
+    "Kanji": "エキドナ",
+    "Romaji": "Ekidona",
+    "Nickname": ["Eridna (襟ドナ Eridona)", "The Witch's Legacy (by Capella)"],
+    "Characteristics": {
+      "Race": "Artificial Spirit",
+      "Gender": "Female",
+      "Age": "400+",
+      "Hair Color": "White",
+      "Eye Color": "Black"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Anastasia Camp"],
+      "Occupation": "Contract Spirit (technically)"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Echidna (creator/basis)",
+        "Anastasia Hoshin (contractor) (technically)",
+        "Puck (older brother) (basically)",
+        "Beatrice (younger sister) (basically)"
+      ]
+    },
+    "Abilities and Equipment": { "Magic": "Yang Magic (in Anastasia's body)" },
+    "Debuts": { "Light Novel": ["Volume 4 (shown)", "Volume 20 (actual)"] }
+  },
+  {
+    "character_name": "Shaknar",
+    "name": "Shaknar",
+    "Kanji": "シャクナール",
+    "Characteristics": {
+      "Race": "Earth Dragon",
+      "Gender": "Male",
+      "Hair Color": "Blue",
+      "Eye Color": "Gold"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Julius Juukulius",
+        "Anastasia Camp"
+      ]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": {
+      "Divine Protection": "Divine Protection of Wind Evasion"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 7",
+      "Manga": "Chapter 32",
+      "Anime": "Episode 21"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Koichi Sakaguchi",
+      "English Voice": "Dave Wittenberg"
+    }
+  },
+  {
+    "character_name": "Felt",
+    "name": "Felt",
+    "Kanji": "フェルト",
+    "Romaji": "Feruto",
+    "Alias": ["Golden Lion (金獅子, Kinshishi)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["14 (Arc 1-4)", "15 (Arc 5+)"],
+      "Hair Color": "Gold",
+      "Eye Color": "Crimson Red",
+      "Height": ["150 cm (4'11\") (light novel)", "153 cm (5'0\") (web novel)"]
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Felt Camp"],
+      "Previous Affiliation": ["Royal Capital", "Stolen Goods Warehouse"],
+      "Occupation": "Royal Selection Candidate",
+      "Previous Occupation": "Thief"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Rom (caretaker/grandfather figure)"]
+    },
+    "Abilities and Equipment": {
+      "Divine Protection": "Unnamed Divine Protection",
+      "Weapon": "Knife",
+      "Equipment": "Echidna's Meteor Staff"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 1",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 1",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Akasaki Chinatsu",
+      "English Voice": "Christine Marie Cabanos"
+    }
+  },
+  {
+    "character_name": "Reinhard van Astrea",
+    "name": "Reinhard van Astrea",
+    "Kanji": "ラインハルト・ヴァン・アストレア",
+    "Romaji": "Rainharuto van Asutorea",
+    "Alias": [
+      "Sword Saint (剣聖 Kensei)",
+      "Knight Among Knights (騎士の中の騎士, Kishi no Naka no Kishi)",
+      "Hero (英雄 Eiyū)",
+      "Masked Knight Veltol (仮面騎士ベルトール, Kamen Kishi Berutoru)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["19 (Arc 1-4)", "20 (Arc 5+)"],
+      "Hair Color": "Flaming Red",
+      "Eye Color": "Sky Blue",
+      "Height": "184 cm (6'0\")",
+      "Weight": "70 kg (154.3 lbs)"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Guard",
+        "House Astrea",
+        "Felt Camp"
+      ],
+      "Occupation": [
+        "Sword Saint",
+        "Knight of the Dragon Kingdom of Lugunica",
+        "Knight of the Royal Guard",
+        "Felt's Knight"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Reid Astrea (ancestor)",
+        "Fribal van Astrea (great granduncle)",
+        "Tishua Astrea (great grandmother)",
+        "Veltol Astrea (great grandfather)",
+        "Thames Astrea (granduncle)",
+        "Carlan Astrea (granduncle)",
+        "Theresia van Astrea (grandmother)",
+        "Wilhelm van Astrea (grandfather)",
+        "Casilles Astrea (granduncle)",
+        "Heinkel Astrea (father)",
+        "Louanna Astrea (mother)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Divine Protection": [
+        "Divine Protection of the Sword Saint",
+        "Numerous others"
+      ],
+      "Weapon": "Dragon Sword Reid"
+    },
+    "Debuts": {
+      "Light Novel": "Chapter 7",
+      "Manga": "Chapter 7",
+      "Anime": "Episode 2",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit",
+        " Seven Deadly Sins Grand Cross (As Re:Zero Crossover Collab event character)"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Nakamura Yuuichi",
+      "English Voice": "Robbie Daymond"
+    }
+  },
+  {
+    "character_name": "Valga Cromwell",
+    "name": "Valga Cromwell",
+    "Kanji": "バルガ・クロムウェル",
+    "Romaji": "Baruga Kuromuweru",
+    "Alias": ["Rom (ロム Romu)", "Great Strategist (大参謀 Dai Sanbō)"],
+    "Nickname": [
+      "Old Man Rom (ロム爺 Romu-jī)",
+      "Gentleman (御仁 Gojin) (by Gionis)"
+    ],
+    "Characteristics": {
+      "Race": "Giant",
+      "Gender": "Male",
+      "Age": "Around 120-130",
+      "Hair Color": "White",
+      "Eye Color": "Blue",
+      "Height": "220 cm (7'3\")",
+      "Weight": "160 kg+ (350 lbs+)"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Felt Camp"],
+      "Previous Affiliation": [
+        "Demi-Human Alliance",
+        "Royal Capital",
+        "Stolen Goods Warehouse"
+      ],
+      "Previous Occupation": [
+        "Slave",
+        "Leader of the Demi-Human Alliance",
+        "Owner of the Stolen Goods Warehouse"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Felt (ward/granddaughter figure)"]
+    },
+    "Abilities and Equipment": { "Weapon": "Spiked Club" },
+    "Debuts": {
+      "Light Novel": ["Volume 1 (main story)", "Ex Volume 2 (side story)"],
+      "Manga": "Chapter 3",
+      "Anime": "Episode 1"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Mugihito",
+      "English Voice": [
+        "Beau Billingslea (Season 1)",
+        "Richard Brown (False King Candidate)"
+      ]
+    }
+  },
+  {
+    "character_name": "Gaston",
+    "name": "Gaston",
+    "Kanji": "ガストン",
+    "Romaji": "Gasuton",
+    "Nickname": "Ton (トン)",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["25 (Arc 1-4)", "26 (Arc 5+)"],
+      "Hair Color": "Purple",
+      "Eye Color": "Purple",
+      "Height": "185 cm (6'1\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Felt Camp"],
+      "Previous Affiliation": "Royal Capital",
+      "Previous Occupation": "Thug"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": {
+      "Light Novel": "Volume 1",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 1"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Yamamoto Itaru",
+      "English Voice": "Chris Tergliafera"
+    }
+  },
+  {
+    "character_name": "Rachins Hoffman",
+    "name": "Rachins Hoffman",
+    "Kanji": "ラチンス・ホフマン",
+    "Romaji": "Rachinsu Hofuman",
+    "Nickname": "Chin (チン)",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["22 (Arc 1-4)", "23 (Arc 5+)"],
+      "Hair Color": "Grayish Blue",
+      "Eye Color": "Black",
+      "Height": "175 cm (5'9\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Felt Camp"],
+      "Previous Affiliation": ["Royal Capital", "House Hoffman"],
+      "Previous Occupation": ["Noble", "Thug"]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Rickert Hoffman (father)", "Unnamed mother"]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Fire Magic",
+      "Weapon": "Two knives"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 1",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 1"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Muro Genki",
+      "English Voice": "Lucien Dodge"
+    }
+  },
+  {
+    "character_name": "Camberley",
+    "name": "Camberley",
+    "Kanji": "カンバリー",
+    "Romaji": "Canbarī",
+    "Nickname": [
+      "Kan (カン)",
+      "Playboy of the Red-Light District (花町の遊び人, Hanamachi no Asobinin)"
+    ],
+    "Characteristics": {
+      "Race": "Dwarf",
+      "Gender": "Male",
+      "Age": ["23 (Arc 1-4)", "24 (Arc 5+)"],
+      "Hair Color": "Brown",
+      "Eye Color": "Black",
+      "Height": "130 cm (4'3\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Felt Camp"],
+      "Previous Affiliation": "Royal Capital",
+      "Previous Occupation": "Thug"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": {
+      "Divine Protection": "Divine Protection of Bedroom Wiles"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 1",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 1"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Yamashita Daiki",
+      "English Voice": "Arnie Pantoja"
+    }
+  },
+  {
+    "character_name": "Flam Remendis",
+    "name": "Flam Remendis",
+    "Kanji": "フラム・レメンディス",
+    "Romaji": "Furamu Remendisu",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "12",
+      "Hair Color": "Pink",
+      "Eye Color": "Unknown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Felt Camp", "House Astrea"],
+      "Occupation": "Servant"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Carol Remendis (grandmother)",
+        "Grimm Fauzen (grandfather)",
+        "Grassis Remendis (younger twin sister)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Divine Protection": "Divine Protection of Mindspeak"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": "Chapter 4",
+      "Anime": "Re:Zero Episode 12"
+    }
+  },
+  {
+    "character_name": "Grassis Remendis",
+    "name": "Grassis Remendis",
+    "Kanji": "グラシス・レメンディス",
+    "Romaji": "Gurashisu Remendisu",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "12",
+      "Hair Color": "Peach Pink",
+      "Eye Color": "Unknown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Felt Camp", "House Astrea"],
+      "Occupation": "Servant"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Carol Remendis (grandmother)",
+        "Grimm Fauzen (grandfather)",
+        "Flam Remendis (older twin sister)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Divine Protection": "Divine Protection of Mindspeak"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": "Chapter 4",
+      "Anime": "Re:Zero Episode 12"
+    }
+  },
+  {
+    "character_name": "Ezzo Cadner",
+    "name": "Ezzo Cadner",
+    "Kanji": "エッゾ・カドナー",
+    "Romaji": "Ezzo Kadonā",
+    "Alias": ["Gray (灰色, Haiiro)"],
+    "Characteristics": {
+      "Race": "Dwarf",
+      "Gender": "Male",
+      "Hair Color": "Grey Brown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Felt Camp"],
+      "Occupation": "Mage"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": {
+      "Magic": ["Wind Magic", "Water Magic", "Fire Magic"]
+    },
+    "Debuts": {
+      "Light Novel": [
+        "The Golden Lion and the Sword Saint, Riot in Flanders 1 (side story)"
+      ],
+      "Manga": "Dainishou Chapter EX04"
+    }
+  },
+  {
+    "character_name": "Miklotov McMahon",
+    "name": "Miklotov McMahon",
+    "Kanji": "マイクロトフ・マクマホン",
+    "Romaji": "Maikurotofu Makumahon",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["~74 (Arc 1-4)", "~75 (Arc 5+)"],
+      "Hair Color": "White",
+      "Height": "160 cm (5'3\")"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "Council of Wise Men",
+        "House McMahon"
+      ],
+      "Occupation": "Council of Wise Men Representitive"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": "Chapter 4",
+      "Anime": "Episode 12",
+      "Game": [
+        "Re:Zero Lost in Memories",
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero -INFINITY-",
+        "Re:Zero Prophecy of the Throne",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": ["Kiyokawa Motomu (Season 1)"],
+      "English Voice": "John Snyder"
+    }
+  },
+  {
+    "character_name": "Bordeaux Zellgef",
+    "name": "Bordeaux Zellgef",
+    "Kanji": "ボルドー・ツェルゲフ",
+    "Romaji": "Borudoo Tserugefu",
+    "Alias": ["Mad Dog (猛犬, Mōken)"],
+    "Characteristics": { "Race": "Human", "Gender": "Male" },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "Council of Wise Men"
+      ],
+      "Previous Affiliation": ["Royal Army", "Zellgef Squadron"],
+      "Occupation": "Council of Wise Men Member",
+      "Previous Occupation": "Commander of the Zellgef Squadron"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": { "Weapon": "Axe" },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": "Chapter 7",
+      "Anime": "Episode 12"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Jirō Saitō",
+      "English Voice": "Marc Diraison"
+    }
+  },
+  {
+    "character_name": "Marcos Gildark",
+    "name": "Marcos Gildark",
+    "Kanji": "マーコス・ギルダーク",
+    "Romaji": "Maakosu Girudaaku",
+    "Alias": ["Boulder (巌 Iwao)"],
+    "Nickname": "Captain",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "A bit over 40",
+      "Hair Color": "Light Green",
+      "Eye Color": "Blue"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "Royal Army",
+        "Kingdom Knights",
+        "Royal Guard"
+      ],
+      "Occupation": [
+        "Knight Commander",
+        "Commander of the Royal Guard",
+        "Knight"
+      ],
+      "Previous Occupation": "Leader of The Brotherhood"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Razak Gildark (father)"]
+    },
+    "Abilities and Equipment": { "Magic": "Earth Magic" },
+    "Debuts": {
+      "Light Novel": "Volume 4",
+      "Manga": "Chapter 3",
+      "Anime": "Episode 12",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Inada Tetsu",
+      "English Voice": "Chris Tergliafera"
+    }
+  },
+  {
+    "character_name": "Russell Fellow",
+    "name": "Russell Fellow",
+    "Kanji": "ラッセル・フェロー",
+    "Romaji": "Rasseru Feroo",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["29 (Arc 1-4)", "30 (Arc 5+)"],
+      "Hair Color": "Dull Blonde",
+      "Height": "180 cm (5'11\")",
+      "Weight": "60 kg (132 lbs)"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "Six Tongues",
+        "Commerce Guild"
+      ],
+      "Occupation": ["Treasurer", "Director of the Six Tongues"]
+    },
+    "Personal Status": { "Status": "Alive", "Relative(s)": "Unnamed wife" },
+    "Abilities and Equipment": {
+      "Divine Protection": "Divine Protection of Evaluation"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 6",
+      "Manga": "Chapter 16",
+      "Anime": "Episode 16"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Ōkawa Tōru",
+      "English Voice": "Chris Cason"
+    }
+  },
+  {
+    "character_name": "Rickert Hoffman",
+    "name": "Rickert Hoffman",
+    "Kanji": "リッケルト・ホフマン",
+    "Romaji": "Rikkeruto Hofuman",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "40's",
+      "Hair Color": "Grey",
+      "Eye Color": ["Black (light novel)", "Green (anime)"]
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital", "House Hoffman"],
+      "Occupation": "Noble",
+      "Previous Occupation": "Royal Instructor"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Rachins Hoffman (son)", "Unnamed Wife"]
+    },
+    "Debuts": { "Light Novel": "Volume 4", "Anime": "Episode 13" },
+    "Portrayal": { "Japanese Voice": "Aoyama Yutaka" }
+  },
+  {
+    "character_name": "Grimm Fauzen",
+    "name": "Grimm Fauzen",
+    "Kanji": "グリム・ファウゼン",
+    "Romaji": "Gurimu Fauzen",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["16-22 (Ex2)", "63 (Arc 1-4)", "64 (Arc 5+)"],
+      "Hair Color": "Purple",
+      "Eye Color": "Yellow",
+      "Height": "180 cm (5'11\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital"],
+      "Previous Affiliation": ["Royal Army", "Zellgef Squadron"],
+      "Occupation": ["Astrea Family Servant", "Knight"],
+      "Previous Occupation": "Deputy Commander of the Zellgef Squadron"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Carol Remendis (wife)",
+        "Grassis Remendis (granddaughter)",
+        "Flam Remendis (granddaughter)"
+      ]
+    },
+    "Abilities and Equipment": { "Equipment": "Greatshield" },
+    "Debuts": { "Light Novel": "Ex Volume 2", "Manga": ["Chapter 16 (cameo)"] }
+  },
+  {
+    "character_name": "Carol Remendis",
+    "name": "Carol Remendis",
+    "Kanji": "キャロル・レメンディス",
+    "Romaji": "Kyaroru Remendisu",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["63-62 (Main Story)", "16-21 (Ex 2)"],
+      "Hair Color": "Gold",
+      "Eye Color": "Green",
+      "Height": "164 cm (5'4½\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital"],
+      "Occupation": "Astrea Family Servant",
+      "Previous Occupation": [
+        "Theresia's Personal Attendant",
+        "Roswaal J Mathers's Bodyguard"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Grimm Fauzen (husband)",
+        "Grassis Remendis (granddaughter)",
+        "Flam Remendis (granddaughter)"
+      ]
+    },
+    "Abilities and Equipment": { "Weapon": "Sword" },
+    "Debuts": { "Light Novel": "Ex Volume 2", "Manga": ["Chapter 16 (cameo)"] }
+  },
+  {
+    "character_name": "Conwood Melahau",
+    "name": "Conwood Melahau",
+    "Kanji": "コンウッド・メラハウ",
+    "Romaji": "Konwuddo Merahau",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Green",
+      "Eye Color": "Brown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital", "Silver Shield"],
+      "Previous Affiliation": ["Royal Army", "Zellgef Squadron", "Royal Guard"],
+      "Occupation": "Tavern Owner",
+      "Previous Occupation": ["Advisor", "Deputy Commander of the Royal Guard"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": {
+      "Light Novel": "Volume 7",
+      "Manga": "Chapter 24",
+      "Anime": "Episode 19"
+    },
+    "Portrayal": { "Japanese Voice": "Umezu Hideyuki" }
+  },
+  {
+    "character_name": "Orphe",
+    "name": "Orphe",
+    "Kanji": "オルフェ",
+    "Romaji": "Orufe",
+    "Alias": ["Six Tongues (六枚舌 Rokumaijita)"],
+    "Characteristics": { "Race": "Human", "Gender": "Male" },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital"],
+      "Previous Occupation": "Con Artist"
+    },
+    "Personal Status": { "Status": "Unknown" },
+    "Debuts": { "Light Novel": "Ex Volume 3" }
+  },
+  {
+    "character_name": "Garitch Fabless",
+    "name": "Garitch Fabless",
+    "Kanji": "ガリッチ・ファブレス",
+    "Romaji": "Garicchi Faburesu",
+    "Alias": ["Blue (青, Ao)"],
+    "Nickname": ["Skeleton Doctor (骨格医, Kokkakui)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Around 70",
+      "Hair Color": "White"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Kingdom of Lugunica", "Royal Capital"],
+      "Previous Occupation": ["Teacher", "Healer", "Doctor"]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Unnamed wife (deceased)",
+        "Roswaal K Mathers (son)",
+        "Roswaal L Mathers (grandson)"
+      ]
+    },
+    "Abilities and Equipment": { "Magic": "Water Magic" },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 5" }
+  },
+  {
+    "character_name": "Kadomon Risch",
+    "name": "Kadomon Risch",
+    "Kanji": "カドモン・リッシュ",
+    "Romaji": "Kadomon Risshu",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Green",
+      "Eye Color": "Sky Blue"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital"],
+      "Occupation": "Fruit Seller"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Raksha Risch (wife)", "Plum Risch (daughter)"]
+    },
+    "Debuts": {
+      "Light Novel": "Volume 1",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 1"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Miyake Kenta",
+      "English Voice": "Patrick Seitz"
+    }
+  },
+  {
+    "character_name": "Raksha Risch",
+    "name": "Raksha Risch",
+    "Kanji": "ラクシャ・リッシュ",
+    "Romaji": "Rakusha Risshu",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "Unknown",
+      "Hair Color": ["Purple (anime)Brown (light novel)"]
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital"]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Kadomon Risch (husband)", "Plum Risch (daughter)"]
+    },
+    "Debuts": {
+      "Light Novel": "Volume 1",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 1"
+    }
+  },
+  {
+    "character_name": "Plum Risch",
+    "name": "Plum Risch",
+    "Kanji": "プラム・リッシュ",
+    "Romaji": "Puramu Risshu",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "Unknown (around 10)",
+      "Hair Color": ["Green (anime)Brown (light novel)"],
+      "Eye Color": "Light Blue"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital"]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Kadomon Risch (father)", "Raksha Risch (mother)"]
+    },
+    "Debuts": {
+      "Light Novel": "Volume 1",
+      "Manga": "Chapter 1",
+      "Anime": "Episode 1"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Aimi Tanaka",
+      "English Voice": "Xanthe Huynh"
+    }
+  },
+  {
+    "character_name": "Shorty Megan",
+    "name": "Shorty Megan",
+    "Kanji": "ショーティ・メイガン",
+    "Romaji": "Shōti Meigan",
+    "Characteristics": { "Race": "Human", "Gender": "Male" },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital"],
+      "Occupation": "Reporter"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 7" }
+  },
+  {
+    "character_name": "Lululala",
+    "name": "Lululala",
+    "Kanji": "ルルララ",
+    "Romaji": "Rururara",
+    "Characteristics": { "Race": "Human", "Gender": "Female" },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital"],
+      "Occupation": "Artist"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 7" }
+  },
+  {
+    "character_name": "Nico Olsen",
+    "name": "Nico Olsen",
+    "Kanji": "ニコ・オールセン",
+    "Romaji": "Niko Ōrusen",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Grey",
+      "Eye Color": "Yellow"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital"],
+      "Occupation": "Baron"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 9" }
+  },
+  {
+    "character_name": "Kiritaka Muse",
+    "name": "Kiritaka Muse",
+    "Kanji": "キリタカ・ミューズ",
+    "Romaji": "Kiritaka Myuuzu",
+    "Alias": [
+      "The Man Whose Heart Was Stolen by the Songstress",
+      "The Songstress Maniac"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Late 20s",
+      "Hair Color": "Pale Gold"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Priestella",
+        "Council of Ten",
+        "Muse Company"
+      ],
+      "Occupation": [
+        "Trade Representative",
+        "Member of Priestella's Council of Ten"
+      ]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": {
+      "Light Novel": ["Volume 16 (actual)", "Tanpenshuu Volume 1 (side story)"]
+    }
+  },
+  {
+    "character_name": "Darts",
+    "name": "Darts",
+    "Kanji": "ダーツ",
+    "Romaji": "Dātsu",
+    "Characteristics": { "Race": "Human", "Gender": "Male" },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Priestella"],
+      "Occupation": ["Constructor", "Citizen"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": { "Magic": "Yang Magic" },
+    "Debuts": {
+      "Light Novel": [
+        "Volume 18 (mentioned)",
+        "Otto Suwen's Internal Affairs Struggle Line 2 (side story)"
+      ]
+    }
+  },
+  {
+    "character_name": "Lusbel Kallard",
+    "name": "Lusbel Kallard",
+    "Kanji": "ルスベル・カラード",
+    "Romaji": "Rusuberu Karādo",
+    "Characteristics": { "Race": "Human", "Gender": "Male", "Age": "9" },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Priestella"],
+      "Occupation": "Citizen"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Muslan Kallard (father)", "Ina Kallard (mother)"]
+    },
+    "Debuts": { "Light Novel": "Volume 16" }
+  },
+  {
+    "character_name": "Tina",
+    "name": "Tina",
+    "Kanji": "ティーナ",
+    "Romaji": "Tīna",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Hair Color": "Light Gold"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Priestella"],
+      "Occupation": "Citizen"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Volume 17" }
+  },
+  {
+    "character_name": "Garek Thompson",
+    "name": "Garek Thompson",
+    "Kanji": "ギャレク・トンプソン",
+    "Romaji": "Gyareku Tonpuson",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Around 40"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Priestella"],
+      "Occupation": "Government Worker",
+      "Previous Occupation": "Merchant"
+    },
+    "Personal Status": {
+      "Status": "Alive (Frozen in ice)",
+      "Relative(s)": [
+        "Reala Thompson (wife)",
+        "Fred Thompson (son)",
+        "Rafiel Thompson (daughter)",
+        "Frederica Baumann (stepdaughter)",
+        "Garfiel Tinsel (stepson)"
+      ]
+    },
+    "Debuts": { "Light Novel": "Volume 17" }
+  },
+  {
+    "character_name": "Reala Thompson",
+    "name": "Reala Thompson",
+    "Kanji": ["リアラ・トンプソン", "リーシア・ティンゼル"],
+    "Romaji": ["Riara Tonpuson", "Rīshia Tinzeru"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Hair Color": ["Gold (currently)", "Orange (flashback) (Light Novel)"],
+      "Eye Color": "Green"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Priestella"],
+      "Previous Affiliation": "Sanctuary",
+      "Occupation": "Citizen"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Unnamed Half-Beast Human Bandit",
+        "Frederica Baumann (daughter)",
+        "Unnamed Half-Beast Human First Husband",
+        "Garfiel Tinsel (son)",
+        "Garek Thompson (second husband)",
+        "Fred Thompson (son)",
+        "Rafiel Thompson (daughter)"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 13 (flashback)", "Volume 17 (actual)"],
+      "Anime": ["Episode 41 (flashback)"]
+    },
+    "Portrayal": { "Japanese Voice": "Endou Aya" }
+  },
+  {
+    "character_name": "Rafiel Thompson",
+    "name": "Rafiel Thompson",
+    "Kanji": "ラフィール・トンプソン",
+    "Romaji": "Rafiiru Tonpuson",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "Around 9-10",
+      "Hair Color": "Gold",
+      "Eye Color": "Jade"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Priestella"],
+      "Occupation": "Citizen"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Garek Thompson (father)",
+        "Reala Thompson (mother)",
+        "Fred Thompson (younger brother)",
+        "Frederica Baumann (older half-sister)",
+        "Garfiel Tinsel (older half-brother)"
+      ]
+    },
+    "Debuts": { "Light Novel": "Volume 17" }
+  },
+  {
+    "character_name": "Fred Thompson",
+    "name": "Fred Thompson",
+    "Kanji": "フレド・トンプソン",
+    "Romaji": "Furedo Tonpuson",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Around 6-7",
+      "Hair Color": "Gold"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Priestella"],
+      "Occupation": "Citizen"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Garek Thompson (father)",
+        "Reala Thompson (mother)",
+        "Rafiel Thompson (older sister)",
+        "Frederica Baumann (older half-sister)",
+        "Garfiel Tinsel (older half-brother)"
+      ]
+    },
+    "Debuts": { "Light Novel": "Volume 17" }
+  },
+  {
+    "character_name": "Yaktol Suwen",
+    "name": "Yaktol Suwen",
+    "Kanji": "ヤクトル・スーウェン",
+    "Romaji": "Yakutoru Sūwen",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Gray",
+      "Eye Color": "Black"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Picoutatte", "Suwen Company"],
+      "Previous Occupation": [
+        "Head of the Suwen Company",
+        "Representative of the Suwen Company"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Unknown",
+      "Relative(s)": [
+        "Framir Suwen (daughter-in-law)",
+        "Mazeran Suwen (son)",
+        "Oslo Suwen (grandson)",
+        "Otto Suwen (grandson)",
+        "Regin Suwen (grandson)"
+      ]
+    },
+    "Debuts": { "Light Novel": "Ex Volume 3" }
+  },
+  {
+    "character_name": "Mazeran Suwen",
+    "name": "Mazeran Suwen",
+    "Kanji": "マゼラン・スーウェン",
+    "Romaji": "Mazeran Sūwen",
+    "Characteristics": { "Race": "Human", "Gender": "Male" },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Picoutatte", "Suwen Company"],
+      "Occupation": ["Head of the Suwen Company", "Merchant"]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Yaktol Suwen (father)",
+        "Framir Suwen (wife)",
+        "Oslo Suwen (son)",
+        "Otto Suwen (son)",
+        "Regin Suwen (son)"
+      ]
+    },
+    "Debuts": { "Anime": ["Episode 40 (flashback)"] },
+    "Portrayal": { "Japanese Voice": "Miura Katsuyuki" }
+  },
+  {
+    "character_name": "Framir Suwen",
+    "name": "Framir Suwen",
+    "Kanji": "フラミル・スーウェン",
+    "Romaji": "Furamiru Sūwen",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Hair Color": "Gray",
+      "Eye Color": "Blue"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Picoutatte"],
+      "Occupation": "Mother"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Yaktol Suwen (father-in-law)",
+        "Mazeran Suwen (husband)",
+        "Oslo Suwen (son)",
+        "Otto Suwen (son)",
+        "Regin Suwen (son)"
+      ]
+    },
+    "Debuts": { "Anime": ["Episode 40 (flashback)"] },
+    "Portrayal": { "Japanese Voice": "Yamaki Anna" }
+  },
+  {
+    "character_name": "Oslo Suwen",
+    "name": "Oslo Suwen",
+    "Kanji": "オスロー・スーウェン",
+    "Romaji": "Osurō Sūwen",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["28 (light novel and anime)", "23 (web novel)"],
+      "Hair Color": "Gray"
+    },
+    "Professional Status": {
+      "Affiliation": "Kingdom of Lugunica",
+      "Occupation": "Representative of the Suwen Company"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Yaktol Suwen (grandfather)",
+        "Framir Suwen (mother)",
+        "Mazeran Suwen (father)",
+        "Otto Suwen (younger brother)",
+        "Regin Suwen (younger brother)"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 13 (flashback)"],
+      "Anime": ["Episode 40 (flashback)"]
+    },
+    "Portrayal": {
+      "Japanese Voice": ["Ishikari Yuuki", "Ootsu Airi (child)"],
+      "English Voice": "Kai Jordan"
+    }
+  },
+  {
+    "character_name": "Diadora Regundra",
+    "name": "Diadora Regundra",
+    "Kanji": "ディアドラ・レグンドラ",
+    "Romaji": "Diadora Regundora",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Hair Color": "Pale Purple",
+      "Eye Color": "Purple"
+    },
+    "Professional Status": { "Affiliation": "Kingdom of Lugunica" },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": {
+      "Light Novel": [
+        "Volume 13 (flashback)",
+        "The Dragon Nation / Missing Child Search Chronicle 5 (side story)"
+      ],
+      "Anime": "Episode 40"
+    }
+  },
+  {
+    "character_name": "Doltero Amule",
+    "name": "Doltero Amule",
+    "Kanji": "ドルテロ・アムル",
+    "Romaji": "Dorutero Amuru",
+    "Alias": ["Pig King (豚王 Buta Ou)"],
+    "Characteristics": {
+      "Race": "Pig Human",
+      "Gender": "Male",
+      "Hair Color": "Blond",
+      "Eye Color": "Dark Blue"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Flanders", "Black Silver Coin"],
+      "Occupation": "Head of the Black Silver Coin"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Ilya (daughter)"]
+    },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 4" }
+  },
+  {
+    "character_name": "Milde Arlam",
+    "name": "Milde Arlam",
+    "Kanji": "ミルデ・アーラム",
+    "Romaji": "Mirude Āramu",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Hair Color": "Purple"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Roswaal L Mathers",
+        "Arlam Village"
+      ],
+      "Occupation": "Village Head"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Muraosa (younger brother)"]
+    },
+    "Debuts": { "Light Novel": "Volume 3", "Anime": "Episode 9" },
+    "Portrayal": {
+      "Japanese Voice": "Izawa Maki",
+      "English Voice": "Sarah Anne Williams"
+    }
+  },
+  {
+    "character_name": "Muraosa",
+    "name": "Muraosa",
+    "Kanji": "ムラオサ",
+    "Romaji": "Muraosa",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": ["White (light novel)", "Gray (anime)"]
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Arlam Village"],
+      "Occupation": "Village Deputy Head"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Milde Arlam (older sister)"]
+    },
+    "Debuts": { "Light Novel": "Volume 3", "Anime": "Episode 9" }
+  },
+  {
+    "character_name": "Mild",
+    "name": "Mild",
+    "Kanji": "ミルド",
+    "Romaji": "Mirudo",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Brown",
+      "Eye Color": "Brown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Arlam Village"],
+      "Occupation": "Villager"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Volume 3", "Anime": "Episode 5" },
+    "Portrayal": { "Japanese Voice": "Kobayashi Yumiko" }
+  },
+  {
+    "character_name": "Cain",
+    "name": "Cain",
+    "Kanji": "カイン",
+    "Romaji": "Kain",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Brown",
+      "Eye Color": "Brown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Arlam Village"],
+      "Occupation": "Villager"
+    },
+    "Personal Status": { "Status": "Alive", "Relative(s)": ["Dine (brother)"] },
+    "Debuts": { "Light Novel": "Volume 3", "Anime": "Episode 5" },
+    "Portrayal": { "Japanese Voice": "Shinoda Minami" }
+  },
+  {
+    "character_name": "Dine",
+    "name": "Dine",
+    "Kanji": "ダイン",
+    "Romaji": "Dain",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Brown",
+      "Eye Color": "Brown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Arlam Village"],
+      "Occupation": "Villager"
+    },
+    "Personal Status": { "Status": "Alive", "Relative(s)": ["Cain (brother)"] },
+    "Debuts": { "Light Novel": "Volume 3", "Anime": "Episode 5" },
+    "Portrayal": { "Japanese Voice": "Ishigami Shizuka" }
+  },
+  {
+    "character_name": "Lucas",
+    "name": "Lucas",
+    "Kanji": "リュカ",
+    "Romaji": "Ryuka",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Brown",
+      "Eye Color": "Gray"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Arlam Village"],
+      "Occupation": "Villager"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Volume 3", "Anime": "Episode 5" },
+    "Portrayal": { "Japanese Voice": "Yoshino Yuna" }
+  },
+  {
+    "character_name": "Meina",
+    "name": "Meina",
+    "Kanji": "メイーナ",
+    "Romaji": "Meiina",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Hair Color": "Brown",
+      "Eye Color": "Brown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Irlam Village"],
+      "Occupation": "Villager"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Volume 3", "Anime": "Episode 5" },
+    "Portrayal": { "Japanese Voice": "Kuwahara Yuuki" }
+  },
+  {
+    "character_name": "Farsale Lugunica",
+    "name": "Farsale Lugunica",
+    "Kanji": "ファルセイル・ルグニカ",
+    "Romaji": "Faruseiru Rugunika",
+    "Alias": ["Last Lion King (最後の獅子王 Saigo no Shishiō)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Gold",
+      "Eye Color": "Crimson Red"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Kingdom of Lugunica", "Royal Capital"],
+      "Previous Occupation": "35th King of Lugunica"
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Emerada Lugunica (descendant)",
+        "Gionis Lugunica (descendant)",
+        "Randohal Lugunica (descendant)",
+        "Ford Lugunica (descendant)",
+        "Zabinel Lugunica (descendant)",
+        "Fourier Lugunica (descendant)"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": ["Re:Zero Volume 4 (mentioned)"],
+      "Manga": ["Chapter 5 (mentioned)"]
+    }
+  },
+  {
+    "character_name": "Gionis Lugunica",
+    "name": "Gionis Lugunica",
+    "Kanji": "ジオニス・ルグニカ",
+    "Romaji": "Jionisu Rugunika",
+    "Alias": "His Majesty",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["Around 40 (Ex 3)"],
+      "Hair Color": "Gold",
+      "Eye Color": "Crimson Red"
+    },
+    "Professional Status": {
+      "Previous Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "Royal Family"
+      ],
+      "Previous Occupation": "40th King of the Dragon Kingdom of Lugunica"
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Farsale Lugunica (ancestor)",
+        "Emerada Lugunica (ancestor)",
+        "Randohal Lugunica (relative)",
+        "Ford Lugunica (relative)",
+        "Zabinel Lugunica (descendant)",
+        "Fourier Lugunica (descendant)"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 2 (mentioned)", "Ex Volume 3 (actual)"]
+    }
+  },
+  {
+    "character_name": "Fourier Lugunica",
+    "name": "Fourier Lugunica",
+    "Kanji": "フーリエ・ルグニカ",
+    "Romaji": "Fuurie Rugunika",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Around 20 (Time of Death)",
+      "Hair Color": "Gold",
+      "Eye Color": "Crimson Red"
+    },
+    "Professional Status": {
+      "Previous Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "Lugunican Royal Family"
+      ],
+      "Previous Occupation": "Fourth Prince of the Dragon Kingdom of Lugunica"
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Farsale Lugunica (ancestor)",
+        "Emerada Lugunica (ancestor)",
+        "Gionis Lugunica (ancestor)",
+        "Randohal Lugunica (father)",
+        "Ford Lugunica (uncle)",
+        "Zabinel Lugunica (older brother)"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 1 (side story)", "Volume 7 (mentioned)"]
+    }
+  },
+  {
+    "character_name": "Reid Astrea",
+    "name": "Reid Astrea",
+    "Kanji": "レイド・アストレア",
+    "Romaji": "Reido Asutorea",
+    "Alias": [
+      "Sword Saint (剣聖, Kensei)",
+      "Heavenly Sword (天剣, Tenken)",
+      "Stick Swinger (棒振り, Bōfuri)",
+      "Hauroy Rallior (ハウロイ・ラリオル, Hauroi Rarioru)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Unknown",
+      "Hair Color": "Flaming Red",
+      "Eye Color": "Sky Blue",
+      "Height": "Unknown"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Kingdom of Lugunica", "House Astrea"],
+      "Previous Occupation": "Sword Saint"
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Fribal van Astrea (descendant)",
+        "Veltol Astrea (descendant)",
+        "Thames Astrea (descendant)",
+        "Carlan Astrea (descendant)",
+        "Theresia van Astrea (descendant)",
+        "Casilles Astrea (descendant)",
+        "Heinkel Astrea (descendant)",
+        "Reinhard van Astrea (descendant)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Weapon": ["Dragon Sword Reid (formerly)", "A pair of chopsticks"]
+    },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 2 (mentioned)", "Volume 22 (actual)"],
+      "Anime": ["Episode 48 (mentioned)"]
+    }
+  },
+  {
+    "character_name": "Veltol Astrea",
+    "name": "Veltol Astrea",
+    "Kanji": "ベルトール・アストレア",
+    "Romaji": "Berutoru Asutorea",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Flaming Red",
+      "Eye Color": "Sky Blue"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Kingdom of Lugunica", "House Astrea"]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Reid Astrea (ancestor)",
+        "Fribal van Astrea (brother)",
+        "Tishua Astrea (wife)",
+        "Thames Astrea (son)",
+        "Carlan Astrea (son)",
+        "Theresia van Astrea (daughter)",
+        "Casilles Astrea (son)",
+        "Wilhelm van Astrea (son in law)",
+        "Heinkel Astrea (grandson)",
+        "Louanna Astrea (granddaughter in law)",
+        "Reinhard van Astrea (great grandson)"
+      ]
+    },
+    "Debuts": { "Light Novel": "Ex Volume 3" }
+  },
+  {
+    "character_name": "Tishua Astrea",
+    "name": "Tishua Astrea",
+    "Kanji": "ティシュア・アストレア",
+    "Romaji": "Teeshua Asutorea",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Hair Color": "Flax"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "House Astrea"]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Veltol Astrea (husband)",
+        "Thames Astrea (son)",
+        "Carlan Astrea (son)",
+        "Theresia van Astrea (daughter)",
+        "Casilles Astrea (son)",
+        "Wilhelm van Astrea (son-in-law)",
+        "Heinkel Astrea (grandson)",
+        "Louanna Astrea (granddaughter-in-law)",
+        "Reinhard van Astrea (great-grandson)"
+      ]
+    },
+    "Debuts": { "Light Novel": "Ex Volume 3" }
+  },
+  {
+    "character_name": "Theresia van Astrea",
+    "name": "Theresia van Astrea",
+    "Kanji": "テレシア・ヴァン・アストレア",
+    "Romaji": "Tereshia van Asutorea",
+    "Alias": ["Sword Saint (剣聖 Kensei)"],
+    "Nickname": ["Flower Girl (花女, Hana On'na) (by Wilhelm"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["15-20 (Ex 2)", "Around 46 (time of death)"],
+      "Hair Color": "Flaming Red",
+      "Eye Color": "Sky Blue",
+      "Height": "Around 162cm (About 5'3\")"
+    },
+    "Professional Status": {
+      "Previous Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "House Astrea"
+      ],
+      "Previous Occupation": ["Royal Knight", "Sword Saint"]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Reid Astrea (ancestor)",
+        "Tishua Astrea (mother)",
+        "Veltol Astrea (father)",
+        "Fribal van Astrea (uncle)",
+        "Thames Astrea (older brother)",
+        "Carlan Astrea (older brother)",
+        "Casilles Astrea (younger brother)",
+        "Wilhelm van Astrea (husband)",
+        "Heinkel Astrea (son)",
+        "Louanna Astrea (daughter-in-law)",
+        "Reinhard van Astrea (grandson)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Yang Magic (most likely)",
+      "Divine Protection": [
+        "Divine Protection of the Sword Saint (former)",
+        "Divine Protection of the Death God"
+      ],
+      "Weapon": ["Dragon Sword Reid (former)", "Sword"]
+    },
+    "Debuts": {
+      "Light Novel": [
+        "Volume 7 (flashback)",
+        "Ex Volume 2 (side story)",
+        "Volume 17 (main story)"
+      ],
+      "Manga": ["Chapter 31 (flashback)"],
+      "Anime": ["Episode 20 (flashback)"],
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Takahashi Minami",
+      "English Voice": "Xanthe Huynh"
+    }
+  },
+  {
+    "character_name": "Louanna Astrea",
+    "name": "Louanna Astrea",
+    "Kanji": "ルアンナ・アストレア",
+    "Romaji": "Ruanna Asutorea",
+    "Alias": "Sleeping Beauty",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Hair Color": "Blonde",
+      "Eye Color": "Unknown",
+      "Height": "Unknown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Royal Capital", "House Astrea"]
+    },
+    "Personal Status": {
+      "Status": "Alive (Suspended animation)",
+      "Relative(s)": [
+        "Wilhelm van Astrea (father-in-law)",
+        "Theresia van Astrea (mother-in-law)",
+        "Thames Astrea (uncle-in-law)",
+        "Carlan Astrea (uncle-in-law)",
+        "Casilles Astrea (uncle-in-law)",
+        "Heinkel Astrea (husband)",
+        "Reinhard van Astrea (son)"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 20 (mentioned)", "Felt-chan Saw! (actual)"]
+    }
+  },
+  {
+    "character_name": "Volcanica",
+    "name": "Volcanica",
+    "Kanji": "ボルカニカ",
+    "Romaji": "Borukanika",
+    "Alias": ["Divine Dragon (神龍 Shinryū)"],
+    "Nickname": ["Cynic (皮肉屋 Hinikuya) (by Shaula)"],
+    "Characteristics": {
+      "Race": "Dragon",
+      "Gender": "Unknown (uses 我)",
+      "Age": "Unknown (hinted to be around 1000)",
+      "Eye Color": "Gold",
+      "Height": "Over 15 meters (+49')"
+    },
+    "Professional Status": {
+      "Affiliation": "Kingdom of Lugunica",
+      "Occupation": ["Safeguard", "Guardian Dragon of the Kingdom of Lugunica"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": {
+      "Light Novel": [
+        "Volume 2 (mentioned)",
+        "Sword Demon Battle Ballad: Act 8 (side story)",
+        "Volume 25 (main story)"
+      ],
+      "Manga": ["Chapter 2 (mentioned)"]
+    }
+  },
+  {
+    "character_name": "Shaula",
+    "name": "Shaula",
+    "Kanji": "シャウラ",
+    "Romaji": "Shaura",
+    "Alias": ["Sage (賢者, Kensha)", "Crimson Scorpion (紅蠍, Benisasori)"],
+    "Nickname": ["Star Keeper (星番, Hoshiban) (by herself)"],
+    "Characteristics": {
+      "Race": "Demon Beast",
+      "Gender": "Female",
+      "Age": "400+",
+      "Hair Color": "Blackish Brown",
+      "Eye Color": ["Green", "Glowing Red (Scorpion form)"],
+      "Height": "170 cm (5'7\")"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Flugel",
+        "Volcanica",
+        "Reid Astrea"
+      ],
+      "Previous Affiliation": "Pleiades Watchtower",
+      "Previous Occupation": [
+        "The Sage's Apprentice",
+        "Star Keeper of the Pleiades Watchtower (self-proclaimed)",
+        "Pleiades Watchtower Guardian"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive (Stuck in Scorpion form)",
+      "Relative(s)": ["Daphne (creator/mother figure)"]
+    },
+    "Debuts": { "Light Novel": ["Volume 21", "Volume 10 (mentioned)]"] }
+  },
+  {
+    "character_name": "Melakuera",
+    "name": "Melakuera",
+    "Kanji": "メラクェラ",
+    "Romaji": "Merakuera",
+    "Alias": ["Arbitrator (調停者 Chouteisha)"],
+    "Characteristics": {
+      "Race": "Spirit",
+      "Gender": "Male",
+      "Age": "400+",
+      "Eye Color": ["Yellow (light novel)", "Red (anime)"]
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Four Great Spirits", "Kingdom of Lugunica"],
+      "Previous Occupation": "Great Spirit"
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": ["Chap (temporary contractor)"]
+    },
+    "Abilities and Equipment": { "Magic": "Fire Magic" },
+    "Debuts": { "Light Novel": "Bonds of Ice", "Anime": "Bonds of Ice OVA" },
+    "Portrayal": { "Japanese Voice": "Genda Tesshō" }
+  },
+  {
+    "character_name": "Liliana Masquerade",
+    "name": "Liliana Masquerade",
+    "Kanji": "リリアナ・マスカレード",
+    "Romaji": "Ririana Masukareedo",
+    "Alias": ["Diva (歌姫 Utahime)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "22 (Arc 5+)",
+      "Hair Color": "Yellow",
+      "Eye Color": "Yellow",
+      "Height": "150 cm (4'11\")"
+    },
+    "Professional Status": {
+      "Affiliation": "Kingdom of Lugunica",
+      "Previous Affiliation": "Priestella",
+      "Occupation": "Bard"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": {
+      "Divine Protection": "Divine Protection of Telepathy",
+      "Equipment": "Lyulyre"
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 16 (actual)", "Tanpenshuu Volume 1 (side story)"]
+    }
+  },
+  {
+    "character_name": "JosephGian",
+    "name": "JosephGian",
+    "Kanji": ["ヨーゼフ", "ジャイアン"],
+    "Romaji": ["Yōzefu", "Jaian"],
+    "Characteristics": {
+      "Race": "Earth Dragon",
+      "Gender": "Male",
+      "Eye Color": "Green"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Emilia Camp"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": {
+      "Divine Protection": "Divine Protection of Wind Evasion"
+    },
+    "Debuts": { "Light Novel": "Volume 21" }
+  },
+  {
+    "character_name": "Biehn Argyle",
+    "name": "Biehn Argyle",
+    "Kanji": "ビーン・アーガイル",
+    "Romaji": "Biin Aagairu",
+    "Characteristics": { "Race": "Human", "Gender": "Male" },
+    "Professional Status": {
+      "Previous Affiliation": ["Kingdom of Lugunica", "House Argyle"],
+      "Previous Occupation": ["Head of House Argyle", "Noble"]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": ["Hannah Argyle (wife)", "Ferris (son)"]
+    },
+    "Abilities and Equipment": { "Magic": "Water Magic" },
+    "Debuts": { "Light Novel": "Ex Volume 1" }
+  },
+  {
+    "character_name": "Hannah Regret",
+    "name": "Hannah Regret",
+    "Kanji": "ハンナ・リグレット",
+    "Romaji": "Han'na Riguretto",
+    "Characteristics": {
+      "Race": "Unknown",
+      "Gender": "Female",
+      "Hair Color": "Flax",
+      "Eye Color": "Amber"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Kingdom of Lugunica", "Argyle House"],
+      "Previous Occupation": "Maid"
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": ["Felix Argyle (heavily implied to be her son)"]
+    },
+    "Debuts": { "Light Novel": "Ex Volume 1" }
+  },
+  {
+    "character_name": "Quark",
+    "name": "Quark",
+    "Kanji": "クオーク",
+    "Romaji": "Kuōku",
+    "Characteristics": {
+      "Race": "Oni",
+      "Gender": "Male",
+      "Hair Color": "Blue",
+      "Eye Color": "Blue"
+    },
+    "Professional Status": {
+      "Previous Affiliation": "Kingdom of Lugunica",
+      "Previous Occupation": "Father"
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": ["Temae (wife)", "Ram (daughter)", "Rem (daughter)"]
+    },
+    "Debuts": { "Anime": "Episode 11" },
+    "Portrayal": { "Japanese Voice": "Chiba Susumu" }
+  },
+  {
+    "character_name": "Temae",
+    "name": "Temae",
+    "Kanji": "テマエ",
+    "Romaji": "Temae",
+    "Characteristics": {
+      "Race": "Oni",
+      "Gender": "Female",
+      "Hair Color": "Dark Pink",
+      "Eye Color": "Pink"
+    },
+    "Professional Status": {
+      "Previous Affiliation": "Kingdom of Lugunica",
+      "Previous Occupation": "Mother"
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": ["Quark (husband)", "Ram (daughter)", "Rem (daughter)"]
+    },
+    "Debuts": { "Anime": "Episode 11" },
+    "Portrayal": {
+      "Japanese Voice": "Kimura Akiko",
+      "English Voice": "Erika Harlacher"
+    }
+  },
+  {
+    "character_name": "Setanta",
+    "name": "Setanta",
+    "Kanji": "セタンタ",
+    "Romaji": "Setanta",
+    "Characteristics": {
+      "Race": "Oni",
+      "Gender": "Male",
+      "Hair Color": "Gray",
+      "Eye Color": "Brown"
+    },
+    "Professional Status": {
+      "Previous Affiliation": "Kingdom of Lugunica",
+      "Previous Occupation": "Village Chief"
+    },
+    "Personal Status": { "Status": "Deceased" },
+    "Debuts": {
+      "Light Novel": "Volume 3",
+      "Manga": "Chapter 19",
+      "Anime": "Episode 11"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Tezuka Hideaki",
+      "English Voice": "Ian Alden"
+    }
+  },
+  {
+    "character_name": "Pivot Arnancy",
+    "name": "Pivot Arnancy",
+    "Kanji": "ピボット・アーナンシー",
+    "Romaji": "Pibotto Aananshii",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "30",
+      "Hair Color": "Brown"
+    },
+    "Professional Status": {
+      "Previous Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Army",
+        "Zellgef Squadron"
+      ],
+      "Previous Occupation": "Deputy Commander of the Zellgef Squadron"
+    },
+    "Personal Status": { "Status": "Deceased" },
+    "Debuts": { "Light Novel": "Ex Volume 2" }
+  },
+  {
+    "character_name": "Tholter Weasily",
+    "name": "Tholter Weasily",
+    "Kanji": "トルタ・ウィズリー",
+    "Romaji": "Toruta Uizurii",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "19",
+      "Hair Color": "Dark Gold"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Kingdom of Lugunica", "Royal Army"],
+      "Previous Occupation": "Soldier"
+    },
+    "Personal Status": { "Status": "Deceased" },
+    "Abilities and Equipment": { "Weapon": "Bow" },
+    "Debuts": { "Light Novel": "Ex Volume 2" }
+  },
+  {
+    "character_name": "Roswaal J Mathers",
+    "name": "Roswaal J Mathers",
+    "Kanji": "ロズワール・J・メイザース",
+    "Romaji": "Rozuwāru Jei Meizāsu",
+    "Nickname": "Julia (ジュリア)",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["Late 20s (body)", "362+ (soul, at death)"],
+      "Hair Color": "Indigo Blue",
+      "Eye Color": ["Yellow (left)", "Blue (right)"]
+    },
+    "Professional Status": {
+      "Previous Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Capital",
+        "House Mathers"
+      ],
+      "Previous Occupation": [
+        "Dragon Kingdom of Lugunica's Court Mage",
+        "Lord of House Mathers"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Roswaal A Mathers (ancestor/original incarnation)",
+        "Roswaal K Mathers (son/",
+        "following incarnation)",
+        "Roswaal L Mathers (grandson/current incarnation)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Equipment": ["Book of Wisdom", "Metal Gloves", "Metal Throwing Balls"]
+    },
+    "Debuts": { "Light Novel": "Ex Volume 2", "Manga": "Shinmeitan Chapter 1" }
+  },
+  {
+    "character_name": "Libre Fermi",
+    "name": "Libre Fermi",
+    "Kanji": "リブレ・フエルミ",
+    "Romaji": "Ribure Ferumi",
+    "Alias": [
+      "Poison Snake (毒蛇 Dokuhebi)",
+      "Demi-Human Hero (亜人族の英雄 Ahito-zoku no Eiyū)"
+    ],
+    "Characteristics": {
+      "Race": "Snake Human",
+      "Gender": "Male",
+      "Hair Color": "Green",
+      "Eye Color": "Yellow"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Kingdom of Lugunica", "Demi-Human Alliance"],
+      "Previous Occupation": "Leader of the Demi-Human Alliance"
+    },
+    "Personal Status": { "Status": "Deceased" },
+    "Abilities and Equipment": { "Weapon": "Twin Blades" },
+    "Debuts": { "Light Novel": "Ex Volume 2", "Manga": "Shinmeitan Chapter 4" }
+  },
+  {
+    "character_name": "Dynas",
+    "name": "Dynas",
+    "Kanji": "ダイナス",
+    "Romaji": "Dainasu",
+    "Characteristics": { "Race": "Human", "Gender": "Male" },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "White Dragon's Scales",
+        "Muse Company"
+      ],
+      "Occupation": ["Mercenary", "Captain of the White Dragon's Scale"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": { "Weapon": "Two Katanas" },
+    "Debuts": { "Light Novel": "Volume 16" }
+  },
+  {
+    "character_name": "Sylphy",
+    "name": "Sylphy",
+    "Kanji": "シルフィ",
+    "Romaji": "Shirufi",
+    "Alias": "184",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "Unknown",
+      "Hair Color": "Golden Blonde",
+      "Eye Color": "Dark Blue"
+    },
+    "Professional Status": {
+      "Affiliation": "Kingdom of Lugunica",
+      "Previous Affiliation": "Regulus Corneas"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Regulus Corneas (former husband)",
+        "238 unnamed former co-wives (deceased)",
+        "52 unnamed former co-wives"
+      ]
+    },
+    "Debuts": { "Light Novel": "Volume 18" }
+  },
+  {
+    "character_name": "Fortuna",
+    "name": "Fortuna",
+    "Kanji": "フォルトナ",
+    "Romaji": "Forutona",
+    "Nickname": ["Mother Fortuna (by Emilia)"],
+    "Characteristics": {
+      "Race": "Elf",
+      "Gender": "Female",
+      "Age": "Unknown",
+      "Hair Color": "Silver",
+      "Eye Color": ["Purple (Iris)", "Blue (Pupil)"],
+      "Height": [
+        "168 cm (5'6\") (light novel, Re:Zeropedia 2)",
+        "165 cm (5'5\") (light novel, Re:BOX 2nd)"
+      ]
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Kingdom of Lugunica", "Elior Forest"],
+      "Previous Occupation": ["Guardian of the Seal", "Villager"]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Emilia (niece/adopted daughter)",
+        "Unnamed Brother",
+        "Unnamed Human Sister-In-Law"
+      ]
+    },
+    "Abilities and Equipment": { "Magic": "Fire Magic" },
+    "Debuts": {
+      "Light Novel": ["Volume 14 (flashback)"],
+      "Anime": ["Bonds of Ice OVA (flashback)", "Episode 39"]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Tomatsu Haruka",
+      "English Voice": "Amber Lee Connors"
+    }
+  },
+  {
+    "character_name": "Meckart Karsten",
+    "name": "Meckart Karsten",
+    "Kanji": "メッカート・カルステン",
+    "Romaji": "Mekkaato Karusuten",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Around 50",
+      "Eye Color": "Amber"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "House Karsten"],
+      "Previous Occupation": "Head of House Karsten"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Helena Karsten (wife)", "Crusch Karsten (daughter)"]
+    },
+    "Debuts": { "Light Novel": "Ex Volume 1" }
+  },
+  {
+    "character_name": "Arch Elior",
+    "name": "Arch Elior",
+    "Kanji": "アーチ・エリオール",
+    "Romaji": "Aachi Eriōru",
+    "Characteristics": {
+      "Race": "Elf",
+      "Gender": "Male",
+      "Hair Color": "Blonde",
+      "Eye Color": "Light Green",
+      "Height": [
+        "172 cm (5'7\") (light novel, Re:Zeropedia 2)",
+        "170 cm (5'7\") (light novel, Re:BOX 2nd)"
+      ]
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Kingdom of Lugunica", "Elf Village"],
+      "Previous Occupation": ["Disciple", "Villager"]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": ["Emilia (little sister figure)"]
+    },
+    "Abilities and Equipment": {
+      "Magic": ["Fire or Water Magic", "Wind Magic"]
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 14 (flashback)"],
+      "Anime": ["Episode 42 (flashback)"]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Namikawa Daisuke",
+      "English Voice": "Howard Wang"
+    }
+  },
+  {
+    "character_name": "Dias Fatsbalm",
+    "name": "Dias Fatsbalm",
+    "Kanji": "ディアス・レプンツォ・エレマンソ・オプレーン・ファッツバルム六世",
+    "Romaji": "Diasu Repuntso Eremanso Opureen Fattsubarumu Rokusei",
+    "Alias": [
+      "Wandering Genius Chef (流浪の天才料理人 Rurou no Tensai Ryourinin)",
+      "The Ultimate Chef that can make the Dragon Howl (龍を唸らせる究極の料理人 Ryuu wo Unaraseru Kyuukyoku no Ryourinin)",
+      "A Legendary Chef even though he is Lewd and likes Women (好色で女好きだけど伝説の料理人 Koushoku de Onnazuki dakedo Densetsu no Ryourinin)",
+      "Dismissing Chef (首切り料理人 Kubikiri Ryourinin)"
+    ],
+    "Characteristics": {
+      "Race": "Elf",
+      "Gender": "Female",
+      "Hair Color": "Gold"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Rodriguez"],
+      "Occupation": "Chef"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 3" }
+  },
+  {
+    "character_name": "Rodriguez",
+    "name": "Rodriguez",
+    "Kanji": "ロドリゲス",
+    "Romaji": "Rodorigesu",
+    "Alias": ["Dias Fatsbalm (ディアス・ファッツバルム Diasu Fattsubarumu)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Around 50",
+      "Hair Color": "Gray"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Dias Fatsbalm"],
+      "Occupation": "Assistant"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 3" }
+  },
+  {
+    "character_name": "Ilya",
+    "name": "Ilya",
+    "Kanji": "イリア",
+    "Romaji": "Iria",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "Several months",
+      "Hair Color": "Blonde",
+      "Eye Color": "Blue"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Hakuchuri"],
+      "Previous Affiliation": ["Flanders", "Black Silver Coin"]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Kalifa (mother)", "Doltero Amule (father)"]
+    },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 4" }
+  },
+  {
+    "character_name": "Leip Barielle",
+    "name": "Leip Barielle",
+    "Kanji": "ライプ・バーリエル",
+    "Romaji": "Raipu Bārieru",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["30 (Ex 2)", "About 72 (time of death)"]
+    },
+    "Professional Status": {
+      "Previous Affiliation": [
+        "Kingdom of Lugunica",
+        "Royal Army",
+        "House Barielle"
+      ],
+      "Previous Occupation": ["Count", "Commander"]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": ["Priscilla Barielle (former second wife)"]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Fire Magic",
+      "Equipment": ["Short tube-shaped Meteor"]
+    },
+    "Debuts": {
+      "Light Novel": ["Tanpenshuu Volume 1 (side story)"],
+      "Manga": ["Chapter 5 (mentioned)"]
+    }
+  },
+  {
+    "character_name": "Ketty Muttart",
+    "name": "Ketty Muttart",
+    "Kanji": "ケティ・ムッタート",
+    "Romaji": "Ketii Muttaato",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Brown",
+      "Eye Color": "Green"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Witch Cult (finger)"],
+      "Previous Occupation": "Merchant"
+    },
+    "Personal Status": { "Status": "Unknown" },
+    "Debuts": {
+      "Light Novel": "Volume 5",
+      "Manga": "Chapter 12",
+      "Anime": "Episode 14"
+    },
+    "Portrayal": { "Japanese Voice": "Yanaka Hiroshi" }
+  },
+  {
+    "character_name": "Chap",
+    "name": "Chap",
+    "Kanji": "チャップ",
+    "Romaji": "Chappu",
+    "Alias": ["Beardy (髭面, Higedzura)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Height": "190 cm (6'3\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Gusteko"],
+      "Previous Affiliation": ["Ganacks", "Organization"]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": ["Melakuera (temporarily contracted spirit)"]
+    },
+    "Debuts": { "Light Novel": "Bonds of Ice", "Anime": "Bonds of Ice OVA" },
+    "Portrayal": { "Japanese Voice": "Hino Satoshi" }
+  },
+  {
+    "character_name": "Regin Suwen",
+    "name": "Regin Suwen",
+    "Kanji": "レギン・スーウェン",
+    "Romaji": "Regin Sūwen",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "19",
+      "Hair Color": "Gray"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Kingdom of Lugunica",
+        "Suwen Treatment Center",
+        "Pappelt",
+        "Picoutatte"
+      ],
+      "Occupation": ["Veterinarian", "Citizen"]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Yaktol Suwen (grandfather)",
+        "Mazeran Suwen (father)",
+        "Framir Suwen (mother)",
+        "Oslo Suwen (older brother)",
+        "Otto Suwen (older brother)"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": "Tanpenshuu Volume 5",
+      "Anime": ["Episode 40 (flashback)"]
+    }
+  },
+  {
+    "character_name": "Marone Lisbon",
+    "name": "Marone Lisbon",
+    "Kanji": "マローネ・リズボン",
+    "Romaji": "Marōne Rizubon",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Hair Color": "Bright Red",
+      "Eye Color": "Light Brown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Pappelt", "Guineb"],
+      "Occupation": "Nurse",
+      "Previous Occupation": "Citizen"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 4" }
+  },
+  {
+    "character_name": "Earth Spider",
+    "name": "Earth Spider",
+    "Kanji": "土蜘蛛",
+    "Romaji": "Tsuchigumo",
+    "Characteristics": { "Race": "Spirit" },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Suwen Treatment Center"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 5" }
+  },
+  {
+    "character_name": "Musica",
+    "name": "Musica",
+    "Kanji": "ムジカ",
+    "Romaji": "Mujika",
+    "Characteristics": {
+      "Race": "Mole Human",
+      "Gender": "Male",
+      "Hair Color": "Dark Brown"
+    },
+    "Professional Status": { "Affiliation": "Kingdom of Lugunica" },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 8" }
+  },
+  {
+    "character_name": "Chamov",
+    "name": "Chamov",
+    "Kanji": "チャモフ",
+    "Romaji": "Chamofu",
+    "Nickname": "Movko (モフ子)",
+    "Characteristics": {
+      "Race": "Puppy Human",
+      "Gender": "Male",
+      "Hair Color": "White",
+      "Eye Color": "Blue",
+      "Height": "50 cm (1'8\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kararagi", "Kingdom of Lugunica"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": {
+      "Light Novel": ["Volume 4 (cameo)", "Re:Zero IF (actual)"],
+      "Manga": ["Chapter 1 (cameo)"],
+      "Anime": ["Episode 1 (cameo)"]
+    }
+  },
+  {
+    "character_name": "Leno Rex",
+    "name": "Leno Rex",
+    "Kanji": "レノ・レックス",
+    "Romaji": "Reno Rekkusu",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Unknown",
+      "Eye Color": "Unknown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Costuul", "The Brotherhood"],
+      "Previous Affiliation": "Royal Capital",
+      "Occupation": ["City Mayor of Costuul", "Leader of The Brotherhood"]
+    },
+    "Personal Status": { "Status": "Alive", "Relative(s)": "Unnamed wife" },
+    "Debuts": {
+      "Light Novel": ["Petra's Emilia Camp Struggle / Page 3 (side story)"]
+    }
+  },
+  {
+    "character_name": "Vincent Vollachia",
+    "name": "Vincent Vollachia",
+    "Kanji": "ヴィンセント・ヴォラキア",
+    "Romaji": "Vinsento Vorakia",
+    "Alias": [
+      "Abel (アベル, Aberu)",
+      "His Excellency the Emperor (皇帝閣下, Kōtei Kakka)",
+      " Sanguinary Prince (鮮血皇子, Senketsu Ōji)",
+      "Bianca (ビアンカ, Bianka)"
+    ],
+    "Nickname": ["King of Sword Wolves (剣狼の王, Ken Ōkami no Ō) (by Ubilk)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "26",
+      "Hair Color": "Black",
+      "Eye Color": "Dark Brown",
+      "Height": "Slightly taller than Subaru"
+    },
+    "Professional Status": {
+      "Affiliation": "Vollachia Empire",
+      "Occupation": "Seventy-Seventh Emperor of the Sacred Vollachia Empire",
+      "Previous Occupation": [
+        "Imperial Prince",
+        "Imperial Selection Candidate (succeeded)"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Drizen Vollachia (father)",
+        "Prisca Benedict (younger half-sister)",
+        "Lamia Godwin (younger half-sister)",
+        "Barthroy Fitts (older half-brother)",
+        "Rommel (older half-brother)",
+        "Palladio Manesque (half-brother)",
+        "Stride Vollachia (relative)",
+        "Melinda (distant relative)",
+        "Eugard Vollachia (ancestor)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Weapon": "Yang Sword Vollachia",
+      "Equipment": ["Cloak of Concealment", "Recognition Obstruction Mask"]
+    },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 4 (side story)", "Volume 26 (main story)"]
+    }
+  },
+  {
+    "character_name": "Stride Vollachia",
+    "name": "Stride Vollachia",
+    "Kanji": "ストライド・ヴォラキア",
+    "Romaji": "Sutoraido Vorakia",
+    "Alias": [
+      "Destruction Wish (破滅願望 Hametsu Ganbou)",
+      "Sin Archbishop of Pride (傲慢の大罪司教 Gouman no Daizai Shikyō)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Around 30",
+      "Hair Color": "Dark Purple",
+      "Eye Color": "Dark",
+      "Height": "Unknown"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Vollachia Empire", "Witch Cult", "Nobility"],
+      "Previous Occupation": [
+        "Sin Archbishop of Pride",
+        "Noble",
+        "Imperial Selection Candidate (failed)"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Melinda (wife)",
+        "Kurgan (adoptive father)",
+        "Drizen Vollachia (relative)",
+        "Barthroy Fitts (relative)",
+        "Palladio Manesque (relative)",
+        "Vincent Vollachia (relative)",
+        "Lamia Godwin (relative)",
+        "Prisca Benedict (relative)",
+        "Eugard Vollachia (ancestor)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Authority": ["Unknown (possibly Pride)"],
+      "Weapon": "Yang Sword Vollachia",
+      "Equipment": ["Ten Ring Curse Tools", "Gospel"]
+    },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 3 (side story)", "Volume 33 (mentioned)"]
+    }
+  },
+  {
+    "character_name": "Lamia Godwin",
+    "name": "Lamia Godwin",
+    "Kanji": "ラミア・ゴドウィン",
+    "Romaji": "Ramia Godouin",
+    "Alias": ["Poison Princess (毒姫 Dokuhime)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "16",
+      "Hair Color": "Red Blonde",
+      "Eye Color": "Crimson Red"
+    },
+    "Professional Status": {
+      "Previous Affiliation": [
+        "Vollachia Empire",
+        "Imperial Selection Ceremony",
+        "House Godwin"
+      ],
+      "Previous Occupation": [
+        "Imperial Princess",
+        "Imperial Selection Candidate",
+        "Head of House Godwin"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Drizen Vollachia (father)",
+        "Vincent Vollachia (older half-brother)",
+        "Prisca Benedict (younger half-sister)",
+        "Barthroy Fitts (older half-brother)",
+        "Rommel (older half-brother)",
+        "Palladio Manesque (older half-brother)",
+        "Stride Vollachia (relative)",
+        "Eugard Vollachia (ancestor)"
+      ]
+    },
+    "Abilities and Equipment": { "Weapon": "Yang Sword Vollachia" },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 5 (side story)", "Volume 33 (main story)"]
+    }
+  },
+  {
+    "character_name": "Eugard Vollachia",
+    "name": "Eugard Vollachia",
+    "Kanji": "ユーガルド・ヴォラキア",
+    "Romaji": "Yūgarudo Vorakia",
+    "Alias": [
+      "King of Thorns (茨の王, Ibara no Ō)",
+      "Emperor of the Briar (荊棘帝, Keikyoku Tei)",
+      "His Excellency (閣下, Kakka)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Dark Green",
+      "Eye Color": "Indigo"
+    },
+    "Professional Status": {
+      "Previous Affiliation": "Vollachia Empire",
+      "Previous Occupation": "Sixty-First Emperor of the Sacred Vollachia Empire"
+    },
+    "Personal Status": {
+      "Status": "Undead",
+      "Relative(s)": [
+        "Stride Vollachia (descendant)",
+        "Drizen Vollachia (descendant)",
+        "Rommel (descendant)",
+        "Barthroy Fitts (descendant)",
+        "Palladio Manesque (descendant)",
+        "Vincent Vollachia (descendant)",
+        "Lamia Godwin (descendant)",
+        "Prisca Benedict (descendant)"
+      ]
+    },
+    "Debuts": { "Light Novel": "Volume 36" }
+  },
+  {
+    "character_name": "Cecilus Segmunt",
+    "name": "Cecilus Segmunt",
+    "Kanji": "セシルス・セグムント",
+    "Romaji": "Seshirusu Segumunto",
+    "Alias": [
+      "First (壱, Ichi)",
+      "Blue Lightning (青き雷光, Aoki Raikō)",
+      "Blue Lightning of Vollachia (ヴォラキアの青い雷光, Vorakia no Aoki Raikō)"
+    ],
+    "Nickname": ["Ceci (セッシー) (by Subaru)", "Cesshy (セシ) (by Olbart)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["19 (Arc 1-4)", "20 (Arc 5+)"],
+      "Hair Color": "Dark Blue",
+      "Eye Color": "Blue"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Vollachia Empire",
+        "Nine Divine Generals",
+        "Pleiades (in Oboreru IF)",
+        "Pleiades Battalion"
+      ],
+      "Occupation": [
+        "First of the Nine Divine Generals",
+        "Stargazer",
+        "Subaru's Bodyguard (in Oboreru IF)"
+      ],
+      "Previous Occupation": ["Imperial Envoy", "The Emperor's Bodyguard"]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Rowan Segmunt (father)",
+        "5 or 6 older siblings (deceased)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Weapon": [
+        "Fiend Sword Murasame",
+        "Dream Sword Masayume",
+        "Numerous other swords"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": [
+        "Ex Volume 4 (side story)",
+        "Arc 6 (mentioned)",
+        "Volume 30 (main story)"
+      ]
+    }
+  },
+  {
+    "character_name": "Arakiya",
+    "name": "Arakiya",
+    "Kanji": "アラキア",
+    "Romaji": "Arakia",
+    "Alias": ["Second (弐 Ni)", "Spirit Eater (精霊喰らい)"],
+    "Nickname": ["Anya (アーニャ) (by Cecilus)"],
+    "Characteristics": {
+      "Race": "Dog Human/Human Hybrid",
+      "Gender": "Female",
+      "Age": "Late Teens",
+      "Hair Color": "Silver",
+      "Eye Color": ["Crimson Red (Iris)", "White (Pupil)"]
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Nine Divine Generals"],
+      "Occupation": "Second of the Nine Divine Generals",
+      "Previous Occupation": ["Prisca Benedict's sworn sword"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": {
+      "Magic": "All Six Elements (via Spirit Eating)",
+      "Weapon": "Wand"
+    },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 5 (side story)", "Volume 27 (main story)"]
+    }
+  },
+  {
+    "character_name": "Olbart Dunkelkenn",
+    "name": "Olbart Dunkelkenn",
+    "Kanji": "オルバルト・ダンクルケン",
+    "Romaji": "Orubaruto Dankuruken",
+    "Alias": ["Third (参 San)", "Vicious Old Man (悪辣翁)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Over 98",
+      "Hair Color": "Greyish-White",
+      "Eye Color": "Yellow",
+      "Height": "100 cm (3'3\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Nine Divine Generals"],
+      "Occupation": [
+        "Third of the Nine Divine Generals",
+        "Chieftain of the Shinobi"
+      ]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": { "Weapon": ["Kunai", "Shuriken"] },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 5 (side story)", "Volume 28 (main story)"]
+    }
+  },
+  {
+    "character_name": "Chisha Gold",
+    "name": "Chisha Gold",
+    "Kanji": "チシャ・ゴールド",
+    "Romaji": "Chisha Goorudo",
+    "Alias": ["Fourth (肆 Shi)", "White Spider (白蜘蛛 Shiro Kumo)"],
+    "Nickname": ["Chesshy (チェシ) (by Olbart)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "28",
+      "Hair Color": ["Black (Pre-injury)", "White (Post-injury)"],
+      "Eye Color": "Gold"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Vollachia Empire", "Nine Divine Generals"],
+      "Previous Occupation": [
+        "Fourth of the Nine Divine Generals",
+        "Military Advisor"
+      ]
+    },
+    "Personal Status": { "Status": "Deceased" },
+    "Abilities and Equipment": { "Weapon": "Fan" },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 4 (side story)", "Volume 28 (main story)"]
+    }
+  },
+  {
+    "character_name": "Goz Ralfon",
+    "name": "Goz Ralfon",
+    "Kanji": "ゴズ・ラルフォン",
+    "Romaji": "Gozu Rarufon",
+    "Alias": ["Fifth (伍 Go)", "Lion Knight (獅子騎士 Shishi Kishi)"],
+    "Nickname": ["Ape (by Vincent)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Orange-Brown",
+      "Eye Color": "Dark Brown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Nine Divine Generals"],
+      "Occupation": "Fifth of the Nine Divine Generals"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Unnamed wife", "Unnamed child"]
+    },
+    "Abilities and Equipment": {
+      "Weapon": "Mace",
+      "Equipment": "Golden Armour"
+    },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 4 (side story)", "Volume 32 (main story)"]
+    }
+  },
+  {
+    "character_name": "Groovy Gumlet",
+    "name": "Groovy Gumlet",
+    "Kanji": "グルービー・ガムレット",
+    "Romaji": "Gurūbī Gamuretto",
+    "Alias": ["Sixth (陸 Roku)", "Master of Curse Tools (呪具師 Jugushi)"],
+    "Characteristics": {
+      "Race": "Hyena Human",
+      "Gender": "Male",
+      "Hair Color": "Brown",
+      "Eye Color": "Brown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Nine Divine Generals"],
+      "Occupation": "Sixth of the Nine Divine Generals"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": { "Weapon": "Various" },
+    "Debuts": { "Light Novel": "Ex Volume 4" }
+  },
+  {
+    "character_name": "Yorna Mishigure",
+    "name": "Yorna Mishigure",
+    "Kanji": "ヨルナ・ミシグレ",
+    "Romaji": "Yoruna Mishigure",
+    "Alias": [
+      "Seventh (漆,  Nana)",
+      "The Flamboyant (極彩色)",
+      "Mistress of the Demon City (魔都の女主人)"
+    ],
+    "Nickname": ["Lady Yorna (ヨルナ様) (by her servants)"],
+    "Characteristics": {
+      "Race": "Fox Human",
+      "Gender": "Female",
+      "Hair Color": "White & Orange",
+      "Eye Color": "Blue"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Nine Divine Generals", "Chaosflame"],
+      "Occupation": [
+        "Seventh of the Nine Divine Generals",
+        "Ruler of Chaosflame"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Prisca Benedict (daughter) (as Sandra Benedict)"]
+    },
+    "Abilities and Equipment": { "Equipment": "Kiseru" },
+    "Debuts": { "Light Novel": "Volume 28" }
+  },
+  {
+    "character_name": "Moguro Hagane",
+    "name": "Moguro Hagane",
+    "Kanji": "モグロ・ハガネ",
+    "Romaji": "Moguro Hagane",
+    "Alias": ["Eighth (捌 Hachi)", "Steelman (鋼人 Haganehito)"],
+    "Characteristics": { "Race": "Meteor", "Gender": "None" },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Nine Divine Generals"],
+      "Occupation": "Eighth of the Nine Divine Generals"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 4 (side story)", "Volume 32 (main story)"]
+    }
+  },
+  {
+    "character_name": "Madelyn Eschart",
+    "name": "Madelyn Eschart",
+    "Kanji": "マデリン・エッシャルト",
+    "Romaji": "Maderin Essharuto",
+    "Alias": ["Nine (玖 Kyū)", "Flying Dragon Commander (飛竜将 Hiryūshō)"],
+    "Characteristics": {
+      "Race": "Dragonkin",
+      "Gender": "Female",
+      "Hair Color": "Blue",
+      "Eye Color": "Gold"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Nine Divine Generals"],
+      "Occupation": "Ninth of the Nine Divine Generals"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Mezoreia (parent/creator)"]
+    },
+    "Abilities and Equipment": { "Weapon": "Flying Winged Blade" },
+    "Debuts": {
+      "Light Novel": [
+        "Tanpenshuu Volume 7 (side story)",
+        "Volume 29 (main story)"
+      ]
+    }
+  },
+  {
+    "character_name": "Balleroy Temeglyph",
+    "name": "Balleroy Temeglyph",
+    "Kanji": "バルロイ・テメグリフ",
+    "Romaji": "Baruroi Temegurifu",
+    "Alias": [
+      "Ninth (玖 Kyū)",
+      "Magic Bullet Marksman (魔弾の射手 Mahi no Ite)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Ashen Brown"
+    },
+    "Professional Status": {
+      "Previous Affiliation": [
+        "Vollachia Empire",
+        "Nine Divine Generals",
+        "House Dracroy"
+      ],
+      "Previous Occupation": [
+        "Ninth of the Nine Divine Generals",
+        "Dragon Rider",
+        "Servant"
+      ]
+    },
+    "Personal Status": { "Status": "Undead" },
+    "Abilities and Equipment": {
+      "Magic": ["Yang Magic", "Wind Magic"],
+      "Weapon": "Spear"
+    },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 4 (side story)", "Volume 33  (main story)"]
+    }
+  },
+  {
+    "character_name": "Kafma Irulux",
+    "name": "Kafma Irulux",
+    "Kanji": "カフマ・イルルクス",
+    "Romaji": "Kafuma Irurukusu",
+    "Alias": ["Fighting Insect General (闘蟲将 Tōmushishō)"],
+    "Characteristics": {
+      "Race": "Insect Cage Clan",
+      "Gender": "Male",
+      "Age": "25+",
+      "Hair Color": "Yellow-Green"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Imperial Army"],
+      "Occupation": "Second-Class General"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Volume 28" }
+  },
+  {
+    "character_name": "Zikr Osman",
+    "name": "Zikr Osman",
+    "Kanji": "ズィクル・オスマン",
+    "Romaji": "Zikuru Osuman",
+    "Alias": ["Womanizer (女好き)", "Coward (臆病者)"],
+    "Characteristics": { "Race": "Human", "Gender": "Male" },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Imperial Army"],
+      "Occupation": "Second-Class General",
+      "Previous Occupation": "Third-Class General"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Four unnamed older sisters",
+        "Six unnamed younger sisters"
+      ]
+    },
+    "Debuts": { "Light Novel": "Volume 27" }
+  },
+  {
+    "character_name": "Miles",
+    "name": "Miles",
+    "Kanji": "マイルズ",
+    "Romaji": "Mairuzu",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Ashen Grey",
+      "Eye Color": "Green",
+      "Height": "160 cm (5'3\")"
+    },
+    "Professional Status": {
+      "Previous Affiliation": [
+        "Vollachia Empire",
+        "Imperial Army",
+        "House Dracroy"
+      ],
+      "Previous Occupation": ["Private First-Class", "Servant"]
+    },
+    "Personal Status": { "Status": "Deceased" },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 1 (side story)", "Volume 30 (flashback)"]
+    }
+  },
+  {
+    "character_name": "Jamal Aurélie",
+    "name": "Jamal Aurélie",
+    "Kanji": "ジャマル・オーレリー",
+    "Romaji": "Jamaru Ōrerī",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Dark Brown",
+      "Eye Color": "Light Blue",
+      "Height": "Unknown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Imperial Army"],
+      "Occupation": ["Third-Class General", "Low Count"],
+      "Previous Occupation": "Private First-Class"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Katya Aurélie (younger sister) (Todd's fiancée)",
+        "Picard Aurélie (older brother)"
+      ]
+    },
+    "Debuts": { "Light Novel": "Volume 26" }
+  },
+  {
+    "character_name": "Todd Fang",
+    "name": "Todd Fang",
+    "Kanji": "トッド・ファング",
+    "Romaji": "Toddo Fangu",
+    "Characteristics": {
+      "Race": "Werewolf/Wolf Human and Human Hybrid",
+      "Gender": "Male",
+      "Hair Color": "Bright Orange",
+      "Eye Color": "Green",
+      "Height": "180 cm (5'11\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Imperial Army"],
+      "Occupation": "Private First-Class",
+      "Previous Occupation": "Bandit"
+    },
+    "Personal Status": {
+      "Status": "Unknown",
+      "Relative(s)": [
+        "Unnamed Human Mother",
+        "Unnamed Wolf Human Father",
+        "Katya Aurélie (fiancée) (Jamal's sister)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Divine Protection": "Divine Protection of Ambushing",
+      "Weapon": ["Battle Axe", "Throwing knives"]
+    },
+    "Debuts": { "Light Novel": "Volume 26" }
+  },
+  {
+    "character_name": "Kurgan",
+    "name": "Kurgan",
+    "Kanji": "クルガン",
+    "Romaji": "Kurugan",
+    "Alias": [
+      "Eight Arms (八つ腕 Yatsuude)",
+      "War God (闘神 Tōshin)",
+      "Vollachia's Strongest Warrior"
+    ],
+    "Characteristics": {
+      "Race": "Multi-Arm Clan",
+      "Gender": "Male",
+      "Age": "Unknown",
+      "Hair Color": "Black and white",
+      "Eye Color": ["Black (Iris)", "Orange (Sclera)"],
+      "Height": "213cm (7'0\")"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Vollachia Empire", "Imperial Army"],
+      "Previous Occupation": ["Vollachian General", "Stride's bodyguard"]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Stride Vollachia (adopted son)",
+        "Gustav Morello (relative)"
+      ]
+    },
+    "Abilities and Equipment": { "Weapon": "Demon Cleavers" },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 3 (side story)", "Volume 17 (main story)"]
+    }
+  },
+  {
+    "character_name": "Berstetz Fondalfon",
+    "name": "Berstetz Fondalfon",
+    "Kanji": "ベルステツ・フォンダルフォン",
+    "Romaji": "Berusutetsu Fondarufon",
+    "Alias": ["His Excellency (閣下, Kakka)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Around 70",
+      "Hair Color": "Grey",
+      "Eye Color": "Grey"
+    },
+    "Professional Status": {
+      "Affiliation": "Vollachia Empire",
+      "Occupation": "Imperial Prime Minister"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 4 (side story)", "Volume 30 (main story)"]
+    }
+  },
+  {
+    "character_name": "Carillon",
+    "name": "Carillon",
+    "Kanji": "カリヨン",
+    "Romaji": "Kariyon",
+    "Characteristics": {
+      "Race": "Flying Dragon",
+      "Gender": "Unknown",
+      "Eye Color": "Gold"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Vollachia Empire", "Balleroy Temeglyph"]
+    },
+    "Personal Status": { "Status": "Undead" },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 4 (side story)", "Volume 33 (main story)"]
+    }
+  },
+  {
+    "character_name": "Serena Dracroy",
+    "name": "Serena Dracroy",
+    "Kanji": "セリーナ・ドラクロイ",
+    "Romaji": "Serīna Dorakuroi",
+    "Alias": ["Scorching Lord (灼熱公 Shakunetsu kō)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "30+",
+      "Hair Color": "Auburn Red",
+      "Eye Color": "Pale Green"
+    },
+    "Professional Status": {
+      "Affiliation": [
+        "Vollachia Empire",
+        "House Dracroy",
+        "Flying Dragon Squadron"
+      ],
+      "Occupation": "High Countess"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": "Unnamed father (deceased)"
+    },
+    "Abilities and Equipment": { "Weapon": "Sword" },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 5 (side story)", "Volume 32 (main story)"]
+    }
+  },
+  {
+    "character_name": "Jorah Pendleton",
+    "name": "Jorah Pendleton",
+    "Kanji": "ジョラー・ペンダルトン",
+    "Romaji": "Jorā Pendaruton",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Around 50",
+      "Hair Color": "Ashen Grey",
+      "Eye Color": "Sky Blue"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Vollachia Empire", "House Pendleton"],
+      "Previous Occupation": "Mid-Count"
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": ["Priscilla Barielle (former wife)"]
+    },
+    "Debuts": { "Light Novel": ["Ex Volume 5 (side story)"] }
+  },
+  {
+    "character_name": "Neiji Lockhart",
+    "name": "Neiji Lockhart",
+    "Kanji": "ネイジ・ロックハート",
+    "Romaji": "Neiji Rokkuhāto",
+    "Alias": ["Fist King (拳王 Ken-ō)"],
+    "Characteristics": { "Race": "Human", "Gender": "Male" },
+    "Professional Status": {
+      "Affiliation": "Vollachia Empire",
+      "Previous Affiliation": "Ginunhive",
+      "Previous Occupation": ["Gladiator", "Slave"]
+    },
+    "Personal Status": { "Status": "Unknown" },
+    "Debuts": { "Light Novel": ["Volume 24 (mentioned)"] }
+  },
+  {
+    "character_name": "Flop O'Connell",
+    "name": "Flop O'Connell",
+    "Kanji": "フロップ・オコーネル",
+    "Romaji": "Furoppu Okōneru",
+    "Alias": "Flora (フローラ)",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Older than 20",
+      "Hair Color": "Cream Blonde",
+      "Eye Color": "Sky Blue",
+      "Height": "175 cm (5'9\")"
+    },
+    "Professional Status": {
+      "Affiliation": "Vollachia Empire",
+      "Occupation": "Merchant"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Medium O'Connell (younger sister)"]
+    },
+    "Debuts": { "Light Novel": "Volume 27" }
+  },
+  {
+    "character_name": "Medium O'Connell",
+    "name": "Medium O'Connell",
+    "Kanji": "ミディアム・オコーネル",
+    "Romaji": "Midiamu Okōneru",
+    "Nickname": ["Medi (ミデ, Midi) (by Balleroy)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "20",
+      "Hair Color": "Cream Blonde",
+      "Eye Color": "Sky Blue",
+      "Height": "185 cm (6'1\")"
+    },
+    "Professional Status": {
+      "Affiliation": "Vollachia Empire",
+      "Occupation": "Bodyguard"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Flop O'Connell (older brother)"]
+    },
+    "Abilities and Equipment": { "Weapon": "Two Swords" },
+    "Debuts": { "Light Novel": "Volume 27" }
+  },
+  {
+    "character_name": "Rowan Segmunt",
+    "name": "Rowan Segmunt",
+    "Kanji": "ロウアン・セグムント",
+    "Romaji": "Rouan Segumunto",
+    "Alias": ["Undead Swordmaster (屍剣豪, Shi Kengō)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Around 50",
+      "Hair Color": "Dark Blue",
+      "Eye Color": "Blue"
+    },
+    "Professional Status": {
+      "Previous Affiliation": "Vollachia Empire",
+      "Previous Occupation": ["The Emperor's Bodyguard", "Mercenary"]
+    },
+    "Personal Status": {
+      "Status": "Undead",
+      "Relative(s)": [
+        "5 or 6 unnamed children (deceased)",
+        "Cecilus Segmunt (son)"
+      ]
+    },
+    "Abilities and Equipment": { "Weapon": "Onibami" },
+    "Debuts": { "Light Novel": "Volume 27" }
+  },
+  {
+    "character_name": "Mizelda Shudrak",
+    "name": "Mizelda Shudrak",
+    "Kanji": "ミゼルダ・シュドラク",
+    "Romaji": "Mizeruda Shudoraku",
+    "Characteristics": {
+      "Race": "Shudrak",
+      "Gender": "Female",
+      "Hair Color": ["Black (natural)", "Red (dyed)"],
+      "Eye Color": "Green"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "People of Shudrak"],
+      "Previous Occupation": "Chieftain of the People of Shudrak"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Taritta Shudrak (younger sister)"]
+    },
+    "Abilities and Equipment": { "Weapon": "Bow" },
+    "Debuts": { "Light Novel": "Volume 26" }
+  },
+  {
+    "character_name": "Utakata Shudrak",
+    "name": "Utakata Shudrak",
+    "Kanji": "ウタカタ・シュドラク",
+    "Romaji": "Utakata Shudoraku",
+    "Characteristics": {
+      "Race": "Shudrak",
+      "Gender": "Female",
+      "Age": "Around 10",
+      "Hair Color": ["Black (natural)", "Purple (dyed)"],
+      "Eye Color": "Green"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "People of Shudrak"]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Mariuli Shudrak (mother)"]
+    },
+    "Abilities and Equipment": { "Weapon": "Bow" },
+    "Debuts": { "Light Novel": "Volume 26" }
+  },
+  {
+    "character_name": "Kuna Shudrak",
+    "name": "Kuna Shudrak",
+    "Kanji": "クーナ・シュドラク",
+    "Romaji": "Kuuna Shudoraku",
+    "Characteristics": {
+      "Race": "Shudrak",
+      "Gender": "Female",
+      "Hair Color": ["Black (natural)", "Green (dyed)"],
+      "Eye Color": "Green"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "People of Shudrak"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": { "Weapon": "Bow" },
+    "Debuts": { "Light Novel": "Volume 26" }
+  },
+  {
+    "character_name": "Holly Shudrak",
+    "name": "Holly Shudrak",
+    "Kanji": "ホーリィ・シュドラク",
+    "Romaji": "Hoorii Shudoraku",
+    "Characteristics": {
+      "Race": "Shudrak",
+      "Gender": "Female",
+      "Hair Color": ["Black (natural)", "Yellow (dyed)"],
+      "Eye Color": "Green"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "People of Shudrak"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": { "Weapon": "Bow" },
+    "Debuts": { "Light Novel": "Volume 26" }
+  },
+  {
+    "character_name": "Taritta Shudrak",
+    "name": "Taritta Shudrak",
+    "Kanji": "タリッタ・シュドラク",
+    "Romaji": "Taritta Shudoraku",
+    "Nickname": [
+      "The Hunter (狩人, Kariudo) (by Subaru)",
+      "Disgrace of the Shudrak (シュドラクの穢れ, Shudoraku no Kegare) (by Ubilk)"
+    ],
+    "Characteristics": {
+      "Race": "Shudrak",
+      "Gender": "Female",
+      "Hair Color": ["Black (natural)", "Blue (dyed)"],
+      "Eye Color": "Emerald Green"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "People of Shudrak"],
+      "Occupation": "Chieftain of the People of Shudrak"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Mizelda Shudrak (older sister)"]
+    },
+    "Abilities and Equipment": { "Weapon": "Bow and Arrow" },
+    "Debuts": { "Light Novel": "Volume 26" }
+  },
+  {
+    "character_name": "Ubilk",
+    "name": "Ubilk",
+    "Kanji": "ウビルク",
+    "Romaji": "Ubiruku",
+    "Alias": ["Stargazer (星詠み Hoshiyomi)"],
+    "Characteristics": {
+      "Race": "Evil Eye Tribe",
+      "Gender": "Male",
+      "Hair Color": "Grey",
+      "Eye Color": "Brown"
+    },
+    "Professional Status": {
+      "Affiliation": "Vollachia Empire",
+      "Previous Affiliation": "Ginunhive",
+      "Previous Occupation": ["Slave", "Male Prostitute", "Stargazer"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 5 (side story)", "Volume 28 (main story)"]
+    }
+  },
+  {
+    "character_name": "Hornet",
+    "name": "Hornet",
+    "Kanji": "ホーネット",
+    "Romaji": "Hōnetto",
+    "Alias": ["Gladiator Empress (剣奴女帝, Kendo Jotei)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Hair Color": "Black and Pink",
+      "Eye Color": "Hot Pink",
+      "Height": "210 cm (6'10\")"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Vollachia Empire", "Ginunhive"],
+      "Previous Occupation": "Gladiator"
+    },
+    "Personal Status": { "Status": "Undead" },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 5 (side story)", "Volume 37 (main story)"]
+    }
+  },
+  {
+    "character_name": "Tanza",
+    "name": "Tanza",
+    "Kanji": "タンザ",
+    "Romaji": "Tanza",
+    "Characteristics": {
+      "Race": "Deer Human",
+      "Gender": "Female",
+      "Age": "11",
+      "Hair Color": "Tan Brown and Cream Blond",
+      "Eye Color": "Purple",
+      "Height": "140 cm (4'7\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Chaosflame", "Pleiades Battalion"],
+      "Occupation": "Servant"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Zoey (older sister)"]
+    },
+    "Debuts": { "Light Novel": "Volume 28" }
+  },
+  {
+    "character_name": "Katya Aurélie",
+    "name": "Katya Aurélie",
+    "Kanji": "カチュア・オーレリー",
+    "Romaji": "Kachua Ōrerī",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Hair Color": "Dark Brown",
+      "Eye Color": "Light Blue",
+      "Height": "Unknown"
+    },
+    "Professional Status": {
+      "Affiliation": "Vollachia Empire",
+      "Occupation": "Low Noble"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Jamal Aurélie (older brother)",
+        "Picard Aurélie (eldest brother)",
+        "Todd Fang (fiancé)"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": [
+        "The Land of Wolves / Death unto the Weak, No Mercy 4 (side story)",
+        "Volume 30 (main story)"
+      ]
+    }
+  },
+  {
+    "character_name": "Gustav Morello",
+    "name": "Gustav Morello",
+    "Kanji": "グスタフ・モレロ",
+    "Romaji": "Gusutafu Morero",
+    "Characteristics": {
+      "Race": "Multi-Arm Clan",
+      "Gender": "Male",
+      "Hair Color": "White",
+      "Eye Color": ["Black (Iris)", "Yellow (Sclera)"],
+      "Height": "Around 250 cm (8'2\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Ginunhive", "Pleiades Battalion"],
+      "Occupation": [
+        "Governor of the Gladiator Island Ginunhive",
+        "High-Level Count"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Kurgan (relative)"]
+    },
+    "Abilities and Equipment": { "Equipment": "Shield" },
+    "Debuts": { "Light Novel": "Volume 31" }
+  },
+  {
+    "character_name": "Hiain Yatz",
+    "name": "Hiain Yatz",
+    "Kanji": "ヒアイン・ヤッツ",
+    "Romaji": "Hiain Yattsu",
+    "Characteristics": {
+      "Race": "Lizard Human",
+      "Gender": "Male",
+      "Eye Color": "Blue"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Pleiades Battalion"],
+      "Previous Affiliation": "Ginunhive",
+      "Previous Occupation": "Gladiator"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Volume 31" }
+  },
+  {
+    "character_name": "Weitz Rogen",
+    "name": "Weitz Rogen",
+    "Kanji": "ヴァイツ・ログン",
+    "Romaji": "Vaitsu Rogun",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "N/A",
+      "Eye Color": "Black"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Glarasia", "Pleiades Battalion"],
+      "Previous Affiliation": "Ginunhive",
+      "Previous Occupation": ["Blacksmith Assistant", "Gladiator"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": { "Weapon": "Hammer" },
+    "Debuts": { "Light Novel": "Volume 31" }
+  },
+  {
+    "character_name": "Idra Missanga",
+    "name": "Idra Missanga",
+    "Kanji": "イドラ・ミサンガ",
+    "Romaji": "Idora Misanga",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "Rust",
+      "Eye Color": "Gold"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Pleiades Battalion"],
+      "Previous Affiliation": "Ginunive",
+      "Previous Occupation": ["Miller", "Gladiator"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Volume 31" }
+  },
+  {
+    "character_name": "Null",
+    "name": "Null",
+    "Kanji": "ヌル",
+    "Romaji": "Nuru",
+    "Nickname": ["Old Man Null (ヌル爺さん Nuru-jīsan)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Hair Color": "White",
+      "Eye Color": "Unknown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Vollachia Empire", "Pleiades Battalion"],
+      "Previous Affiliation": "Ginunhive",
+      "Previous Occupation": ["Healer", "Gladiator"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Volume 31" }
+  },
+  {
+    "character_name": "Mezoreia",
+    "name": "Mezoreia",
+    "Kanji": "メゾレイア",
+    "Romaji": "Mezoreia",
+    "Alias": ["Cloud Dragon (雲龍 Unryū)"],
+    "Characteristics": {
+      "Race": "Dragon",
+      "Gender": "Unknown",
+      "Age": "Unknown"
+    },
+    "Professional Status": { "Affiliation": "Vollachia Empire" },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Madelyn Eschart (daughter/creation)"]
+    },
+    "Debuts": { "Light Novel": "Volume 32" }
+  },
+  {
+    "character_name": "Valgren",
+    "name": "Valgren",
+    "Kanji": "バルグレン",
+    "Romaji": "Baruguren",
+    "Alias": [
+      "Three-Headed (三つ首, Mitsu Kubi)",
+      "Black Dragon (黒龍, Kokuryū)"
+    ],
+    "Characteristics": {
+      "Race": "Dragon",
+      "Gender": "Unknown",
+      "Hair Color": "Black",
+      "Height": "10+ meters"
+    },
+    "Professional Status": { "Previous Affiliation": "Stride Vollachia" },
+    "Personal Status": { "Status": "Undead" },
+    "Debuts": {
+      "Light Novel": ["Sword Demon Battle Ballad: Act 1 (side story)"]
+    }
+  },
+  {
+    "character_name": "Alec Hoshin",
+    "name": "Alec Hoshin",
+    "Kanji": "アレク・ホーシン",
+    "Romaji": "Areku Hooshin",
+    "Alias": ["Hoshin of the Wilderness (荒地のホーシン Arechi no Hooshin)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": "Over 40",
+      "Hair Color": "Dark Red",
+      "Eye Color": "Amber"
+    },
+    "Professional Status": {
+      "Previous Affiliation": "Kararagi",
+      "Previous Occupation": [
+        "Founder of the Kararagi City-States",
+        "First Governor of Kararagi",
+        "Merchant"
+      ]
+    },
+    "Personal Status": { "Status": "Deceased" },
+    "Abilities and Equipment": {
+      "Divine Protection": "Divine Protection of Evaluation"
+    },
+    "Debuts": {
+      "Light Novel": [
+        "Volume 4 (mentioned)",
+        "Another World, Another Episode (side story)"
+      ],
+      "Manga": ["Daisanshou Volume 4 (Mentioned)"],
+      "Anime": ["Episode 16 (mentioned)"]
+    },
+    "Portrayal": { "Japanese Voice": "Morikawa Toshiyuki" }
+  },
+  {
+    "character_name": "Reisel",
+    "name": "Reisel",
+    "Kanji": "ライゼル",
+    "Romaji": "Raisel",
+    "Characteristics": {
+      "Race": "Tanuki Human",
+      "Gender": "Male",
+      "Hair Color": "Brown"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kararagi", "Mother"],
+      "Previous Affiliation": "Slave Trading Company",
+      "Occupation": "Assassin",
+      "Previous Occupation": "Slave"
+    },
+    "Personal Status": { "Status": "Unknown" },
+    "Abilities and Equipment": { "Equipment": "Void Garb" },
+    "Debuts": { "Light Novel": "Tanpenshuu Volume 5" }
+  },
+  {
+    "character_name": "Dorkell",
+    "name": "Dorkell",
+    "Kanji": "ドルケル",
+    "Romaji": "Dorkerru",
+    "Alias": "Leaper (跳躍者)",
+    "Characteristics": { "Race": "Human", "Gender": "Male" },
+    "Professional Status": {
+      "Affiliation": "Kararagi",
+      "Previous Affiliation": "Witch Cult",
+      "Previous Occupation": "Merchant"
+    },
+    "Personal Status": { "Status": "Unknown" },
+    "Debuts": { "Light Novel": ["Volume 24 (mentioned)"] }
+  },
+  {
+    "character_name": "Halibel",
+    "name": "Halibel",
+    "Kanji": "ハリベル",
+    "Romaji": "Hariberu",
+    "Alias": [
+      "Admirer (礼賛者, Raisansha)",
+      "Eternal Playboy (永遠の遊び人, Eien no Asobinin)"
+    ],
+    "Characteristics": {
+      "Race": "Wolf Human",
+      "Gender": "Male",
+      "Hair Color": "Black",
+      "Height": "190 cm (6'3\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kararagi", "Pleiades (in Oboreru IF)"],
+      "Occupation": ["Shinobi", "Subaru's Bodyguard (in Oboreru IF)"]
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": { "Weapon": "Kunai" },
+    "Debuts": {
+      "Light Novel": ["Re:IF (side story)", "Volume 34 (main story)"]
+    }
+  },
+  {
+    "character_name": "Zarestia",
+    "name": "Zarestia",
+    "Kanji": "ザーレスティア",
+    "Romaji": "Zaaresutia",
+    "Alias": [
+      "Slasher (通り魔 Toorima)",
+      "Most Beautiful Reaper (最も美しい死神 Mottomo Utsukushii Shinigami)"
+    ],
+    "Nickname": "Tia (ティア)",
+    "Characteristics": {
+      "Race": "Spirit",
+      "Gender": "Female",
+      "Age": [
+        "Ancient, predating the Dragon (actual)",
+        "Late Teens-Early 20s (appearance)"
+      ],
+      "Hair Color": "Milky-White and Lime",
+      "Eye Color": "Yellow",
+      "Height": "166 cm (5'5\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Four Great Spirits", "Kararagi", "Zarestia's Bed"],
+      "Occupation": "Great Spirit"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": {
+      "Magic": [
+        "Wind Magic",
+        "Fire Magic (former)",
+        "Water Magic (former)",
+        "Earth Magic (former)"
+      ],
+      "Equipment": "Kimono"
+    },
+    "Debuts": {
+      "Light Novel": ["Bonds of Ice (mentioned)", "Re:Zero IF (side story)"],
+      "Manga": ["Bonds of Ice Volume 2 (mentioned)"]
+    }
+  },
+  {
+    "character_name": "Reize",
+    "name": "Reize",
+    "Kanji": "レーゼ",
+    "Romaji": "Rēze",
+    "Characteristics": {
+      "Race": "Oni",
+      "Gender": "Female",
+      "Age": "Late Teens/Early 20s",
+      "Hair Color": [
+        "Milky-White and Magenta (with Light Sphere)",
+        "Brown (original)"
+      ],
+      "Eye Color": ["Yellow (with Light Sphere)", "Light Blue (original)"],
+      "Height": "166 cm (5'5\") (with Light Sphere)"
+    },
+    "Professional Status": { "Affiliation": "Kararagi" },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": { "Magic": "Wind Magic" },
+    "Debuts": { "Light Novel": ["Re:IF (side story)"] }
+  },
+  {
+    "character_name": "Natsuki Rigel",
+    "name": "Natsuki Rigel",
+    "Kanji": "ナツキ・リゲル",
+    "Romaji": "Natsuki Rigeru",
+    "Alias": ["King of Setsubun (節分の王, Setsubun no Ō)"],
+    "Characteristics": {
+      "Race": "Half-Oni",
+      "Gender": "Male",
+      "Age": [
+        "9 (Introduction",
+        "11 (Fortune Fish Head Tree)",
+        "12 (Fortune Setsubun Hollow)"
+      ],
+      "Hair Color": "Blue"
+    },
+    "Professional Status": { "Affiliation": ["Kararagi", "Banan"] },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Natsuki Subaru (father)",
+        "Rem (mother)",
+        "Natsuki Spica (younger sister)",
+        "Ram (aunt)",
+        "Natsuki Kenichi (grandfather)",
+        "Natsuki Naoko (grandmother)",
+        "Quark (grandfather)",
+        "Temae (grandmother)"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 9 (fragment)", "Re:Zero IF (debut)"],
+      "Anime": ["Episode 26 (Image)"]
+    }
+  },
+  {
+    "character_name": "Natsuki Spica",
+    "name": "Natsuki Spica",
+    "Kanji": "ナツキ・スピカ",
+    "Romaji": "Natsuki Supika",
+    "Characteristics": {
+      "Race": "Half-Oni",
+      "Gender": "Female",
+      "Hair Color": "Black"
+    },
+    "Professional Status": { "Affiliation": ["Kararagi", "Banan"] },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Natsuki Subaru (father)",
+        "Rem (mother)",
+        "Natsuki Rigel (older brother)",
+        "Ram (aunt)",
+        "Natsuki Kenichi (grandfather)",
+        "Natsuki Naoko (grandmother)",
+        "Quark (grandfather)",
+        "Temae (grandmother)"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 9 (fragment)", "Re:Zero IF (debut)"],
+      "Anime": ["Episode 26 (image)"]
+    }
+  },
+  {
+    "character_name": "Elsa Granhiert",
+    "name": "Elsa Granhiert",
+    "Kanji": "エルザ・グランヒルテ",
+    "Romaji": "Eruza Guranhirute",
+    "Alias": [
+      "Elsa Featherrun (エルザ・フェザーラン Eruza Fezāran)",
+      "Bowel Hunter (腸狩り Harawatagari)"
+    ],
+    "Nickname": ["Black Widow (by Subaru)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": "23",
+      "Hair Color": "Black",
+      "Eye Color": ["Purple (anime)", "Black (light novel)"],
+      "Height": "168 cm (5'6\")"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Gusteko", "Gustekan Church", "Mother"],
+      "Previous Occupation": [
+        "Featherrun Curse Doll",
+        "Assassin",
+        "Serial Killer"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": ["Meili Portroute (little sister figure)"]
+    },
+    "Abilities and Equipment": {
+      "Weapon": "Northern Kukri Knives",
+      "Equipment": "Magic Negating Cloaks"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 1",
+      "Manga": "Chapter 3",
+      "Anime": "Episode 1"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Noto Mamiko",
+      "English Voice": "Cristina Vee"
+    }
+  },
+  {
+    "character_name": "Tiriena",
+    "name": "Tiriena",
+    "Kanji": "ティリエナ",
+    "Romaji": "Tiriena",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["25 (current)", "19 (Ex 1)"],
+      "Height": "170 cm (5'7\")"
+    },
+    "Professional Status": { "Affiliation": "Gusteko", "Occupation": "Noble" },
+    "Personal Status": { "Status": "Alive" },
+    "Debuts": { "Light Novel": "Ex Volume 1" }
+  },
+  {
+    "character_name": "Beli Hainelga",
+    "name": "Beli Hainelga",
+    "Kanji": "ベリ・ハイネルガ",
+    "Romaji": "Beri Hainurga",
+    "Alias": "Carnivorous Beast (肉食獣)",
+    "Characteristics": { "Race": "Human", "Gender": "Male" },
+    "Professional Status": {
+      "Affiliation": "Gusteko",
+      "Occupation": "Serial Killer"
+    },
+    "Personal Status": { "Status": "Unknown" },
+    "Debuts": { "Light Novel": ["Volume 24 (mentioned)"] }
+  },
+  {
+    "character_name": "Shion",
+    "name": "Shion",
+    "Kanji": "シオン",
+    "Romaji": "Shion",
+    "Characteristics": {
+      "Race": "Elf",
+      "Gender": "Female",
+      "Age": "Unknown",
+      "Hair Color": "Green",
+      "Eye Color": ["Orange (Iris)", "Blue (Pupil)"]
+    },
+    "Professional Status": { "Occupation": "Dream Arts User" },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Lilac (creation)"]
+    },
+    "Abilities and Equipment": { "Magic": "Unknown" },
+    "Debuts": {
+      "Light Novel": "The Witch's After Tea Party / Omega in Wonderland Part 1",
+      "Game": "Re:Zero Lost in Memories"
+    },
+    "Portrayal": { "Japanese Voice": "Ueda Reina" }
+  },
+  {
+    "character_name": "Lilac",
+    "name": "Lilac",
+    "Kanji": "ライラ",
+    "Romaji": "Raira",
+    "Characteristics": {
+      "Race": "Elf/Phantom",
+      "Gender": "Female",
+      "Hair Color": "Purple",
+      "Eye Color": "Purple & Pink"
+    },
+    "Professional Status": { "Occupation": "Dream Arts User" },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": ["Shion (creator)"]
+    },
+    "Abilities and Equipment": { "Magic": "Unknown", "Weapon": "Dagger" },
+    "Debuts": {
+      "Light Novel": "The Witch's After Tea Party / Omega in Wonderland Part 1",
+      "Game": "Re:Zero Lost in Memories"
+    },
+    "Portrayal": { "Japanese Voice": "Ueda Reina" }
+  },
+  {
+    "character_name": "Petelgeuse Romanée-Conti",
+    "name": "Petelgeuse Romanée-Conti",
+    "Kanji": "ペテルギウス・ロマネコンティ",
+    "Romaji": "Peterugiusu Romanekonti",
+    "Alias": [
+      "Sin Archbishop of Sloth (怠惰の大罪司教 Taida no Daizai Shikyō)",
+      "Sloth (怠惰 Taida)",
+      "Lord Archbishop (司教 Shikyō-sama)"
+    ],
+    "Nickname": ["Geuse (ジュース Jūsu) (former)"],
+    "Characteristics": {
+      "Race": "Spirit",
+      "Gender": "Male (most often seen)",
+      "Age": "402",
+      "Hair Color": "Dark Green (most commonly seen)",
+      "Eye Color": ["Gray (light novel)", "Black (anime)", "Brown (formerly)"],
+      "Height": "180 cm (5'11\") (most often seen)"
+    },
+    "Professional Status": {
+      "Previous Affiliation": "Witch Cult",
+      "Previous Occupation": [
+        "Sin Archbishop of Sloth",
+        "Co-Founder of the Witch Cult",
+        "Leader of the Moderate Faction"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": ["Emilia (former daughter figure)"]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Earth Magic",
+      "Authority": "Authority of Sloth",
+      "Equipment": "Gospel"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 5",
+      "Manga": "Chapter 10",
+      "Anime": "Episode 15",
+      "Game": [
+        "Re:Zero -DEATH OR KISS-",
+        "Re:Zero − Starting Life in Another World: The Prophecy of the Throne",
+        "Re:Zero Lost in Memories",
+        "Re:Zero Forbidden Book and the Mysterious Spirit",
+        "Seven Deadly Sins Grand Cross (Re:Zero crossover collab event storymode boss)",
+        "Kono Subarashi Sekai ni Shukufuku wo! Fantastic Days! (Re:Zero crossover collab event storymode boss)"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": [
+        "Matsuoka Yoshitsugu",
+        "Hikasa Youko (finger)",
+        "Yanaka Hiroshi (finger/Ketty)",
+        "Kanemoto Hisako (finger)",
+        "Tobita Nobuo (finger)",
+        "Kobayashi Yuusuke (Subaru)"
+      ],
+      "English Voice": [
+        "Todd Haberkorn",
+        "Allegra Clark (finger)",
+        "Patrick Seitz (finger)",
+        "Julie Ann Taylor (finger)",
+        "Kyle Hebert (finger)",
+        "Sean Chiplock (Subaru)",
+        "Mark Whitten (Geuse)"
+      ]
+    }
+  },
+  {
+    "character_name": "Regulus Corneas",
+    "name": "Regulus Corneas",
+    "Kanji": "レグルス・コルニアス",
+    "Romaji": "Regurusu Koruniasu",
+    "Alias": [
+      "Sin Archbishop of Greed (強欲の大罪司教 Gōyoku no Daizai Shikyō)",
+      "Greed (強欲 Gōyoku)"
+    ],
+    "Nickname": "Husband-sama (旦那様) (by his wives)",
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["Around 20 (appearance)", "Unknown (120+) (actual)"],
+      "Hair Color": "White",
+      "Eye Color": "Gold",
+      "Height": "173 cm (5'8\")"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Witch Cult", "Unnamed Country"],
+      "Previous Occupation": [
+        "Sin Archbishop of Greed",
+        "Head of Witch Cult's Radical Faction"
+      ]
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Unnamed mother (deceased)",
+        "Unnamed father (deceased)",
+        "2 unnamed older brothers (deceased)",
+        "Unnamed first wife (deceased)",
+        "238 unnamed wives (deceased)",
+        "52 unnamed former wives",
+        "Sylphy (184th former wife)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Authority": "Authority of Greed",
+      "Equipment": "Gospel"
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 8 (mentioned)", "Volume 9 (actual)"],
+      "Manga": "Chapter 52",
+      "Anime": "Episode 26",
+      "Game": "Re:Zero Lost in Memories"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Ishida Akira",
+      "English Voice": "Kyle McCarley"
+    }
+  },
+  {
+    "character_name": "Sirius Romanée-Conti",
+    "name": "Sirius Romanée-Conti",
+    "Kanji": "シリウス・ロマネコンティ",
+    "Romaji": "Shiriusu Romanekonti",
+    "Alias": [
+      "Sin Archbishop of Wrath (憤怒の大罪司教 Fundo no Daizai Shikyō)",
+      "Wrath (憤怒 Fundo)"
+    ],
+    "Characteristics": {
+      "Race": "Unknown",
+      "Gender": "Female",
+      "Age": "Unknown",
+      "Hair Color": "Silver",
+      "Eye Color": "Amethyst Purple",
+      "Height": "168 cm (5'6\")"
+    },
+    "Professional Status": {
+      "Affiliation": "Witch Cult",
+      "Occupation": "Sin Archbishop of Wrath"
+    },
+    "Personal Status": { "Status": "Alive (sealed)" },
+    "Abilities and Equipment": {
+      "Magic": "Fire Magic",
+      "Authority": "Authority of Wrath",
+      "Weapon": "Golden Chains",
+      "Equipment": "Gospel"
+    },
+    "Debuts": { "Light Novel": "Volume 16" }
+  },
+  {
+    "character_name": "Capella Emerada Lugunica",
+    "name": "Capella Emerada Lugunica",
+    "Kanji": "カペラ・エメラダ・ルグニカ",
+    "Romaji": "Kapera Emerada Rugunika",
+    "Alias": [
+      "Sin Archbishop of Lust (色欲の大罪司教 Shikiyoku no Daizai Shikyō)",
+      "Lust (色欲 Shikiyoku)",
+      "Mother (母 Haha)"
+    ],
+    "Nickname": "Mama (ママ)",
+    "Characteristics": {
+      "Race": "Unknown",
+      "Gender": "Female (most commonly seen)",
+      "Age": "Unknown",
+      "Hair Color": "Gold (most commonly seen)",
+      "Eye Color": "Crimson Red (most commonly seen)",
+      "Height": "145 cm (4'9\")"
+    },
+    "Professional Status": {
+      "Affiliation": "Witch Cult",
+      "Occupation": "Sin Archbishop of Lust"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": {
+      "Authority": "Authority of Lust",
+      "Equipment": "Gospel"
+    },
+    "Debuts": { "Light Novel": "Volume 17" }
+  },
+  {
+    "character_name": "Lye Batenkaitos",
+    "name": "Lye Batenkaitos",
+    "Kanji": "ライ・バテンカイトス",
+    "Romaji": "Rai Batenkaitos",
+    "Alias": [
+      "Sin Archbishop of Gluttony (暴食の大罪司教 Bōshoku no Daizai Shikyō)",
+      "Gluttony (暴食 Bōshoku)",
+      "Gourmet (美食家 Bishoku ka)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["Mid Teens (appearance)", "Unknown (actual)"],
+      "Hair Color": "Dark Brown",
+      "Eye Color": "Emerald Green",
+      "Height": "150 cm (4'11\")"
+    },
+    "Professional Status": {
+      "Previous Affiliation": "Witch Cult",
+      "Previous Occupation": "Sin Archbishop of Gluttony (Gourmet)"
+    },
+    "Personal Status": {
+      "Status": "Deceased",
+      "Relative(s)": [
+        "Roy Alphard (younger brother)",
+        "Rui Arneb (younger sister)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": [
+        "Water Magic",
+        "Fire Magic",
+        "Wind Magic",
+        "Likely other types as well"
+      ],
+      "Authority": "Authority of Gluttony",
+      "Weapon": "Twin Witch Cult Daggers",
+      "Equipment": "Gospel"
+    },
+    "Debuts": {
+      "Light Novel": "Volume 9",
+      "Manga": "Chapter 52",
+      "Anime": "Episode 26"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Kawanishi Kengo",
+      "English Voice": "Erik Scott Kimerer"
+    }
+  },
+  {
+    "character_name": "Roy Alphard",
+    "name": "Roy Alphard",
+    "Kanji": "ロイ・アルファルド",
+    "Romaji": "Roi Arufarudo",
+    "Alias": [
+      "Sin Archbishop of Gluttony (暴食の大罪司教 Bōshoku no Daizai Shikyō)",
+      "Gluttony (暴食 Bōshoku)",
+      " Bizarre Eating (悪食 Akushoku)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Male",
+      "Age": ["Mid Teens (appearance)", "Unknown (actual)"],
+      "Hair Color": "Dark Brown",
+      "Eye Color": "Emerald Green/Yellow",
+      "Height": "150 cm (4'11\")"
+    },
+    "Professional Status": {
+      "Affiliation": "Witch Cult",
+      "Occupation": "Sin Archbishop of Gluttony (Bizarre Eating)"
+    },
+    "Personal Status": {
+      "Status": "Alive (sealed)",
+      "Relative(s)": [
+        "Lye Batenkaitos (older brother)",
+        "Rui Arneb (younger sister)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "All Six Elements (via Twilight Mage)",
+      "Authority": "Authority of Gluttony",
+      "Weapon": [
+        "Twin Witch Cult Daggers (Web Novel & Light Novel)",
+        "Two Claws (Light Novel)"
+      ],
+      "Equipment": "Gospel"
+    },
+    "Debuts": { "Light Novel": "Volume 17" }
+  },
+  {
+    "character_name": "Rui Arneb",
+    "name": "Rui Arneb",
+    "Kanji": "ルイ・アルネブ",
+    "Romaji": "Rui Arunebu",
+    "Alias": [
+      "Sin Archbishop of Gluttony (暴食の大罪司教 Bōshoku no Daizai Shikyō)",
+      "Gluttony (暴食 Bōshoku)",
+      "Satiation (飽食 Hōshoku)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["Mid Teens (appearance)", "Unknown (actual)"],
+      "Hair Color": "Transparent Golden Blonde",
+      "Eye Color": "Blue",
+      "Height": "140 cm (4'7\")"
+    },
+    "Professional Status": {
+      "Affiliation": "Witch Cult",
+      "Previous Affiliation": ["Od Lagna", "Corridor of Memories"],
+      "Occupation": "Sin Archbishop of Gluttony (Satiation)"
+    },
+    "Personal Status": {
+      "Status": ["Unknown (original self)", "Alive (as Spica)"],
+      "Relative(s)": [
+        "Lye Batenkaitos (older brother)",
+        "Roy Alphard (older brother)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": "Likely all 6 types of magic",
+      "Authority": "Authority of Gluttony"
+    },
+    "Debuts": { "Light Novel": "Volume 20" }
+  },
+  {
+    "character_name": "Pandora",
+    "name": "Pandora",
+    "Kanji": "パンドラ",
+    "Romaji": "Pandora",
+    "Alias": [
+      "Witch of Vainglory (虚飾の魔女 Kyoshoku no Majo)",
+      "Vainglory (虚飾 Kyoshoku)"
+    ],
+    "Characteristics": {
+      "Race": "Unknown",
+      "Gender": "Female",
+      "Age": "Unknown (Over 400+)",
+      "Hair Color": "Platinum",
+      "Eye Color": "Dark Blue",
+      "Height": "155 cm (5'1\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Witches of Sin", "Witch Cult"],
+      "Occupation": "Witch of Vainglory"
+    },
+    "Personal Status": { "Status": "Alive" },
+    "Abilities and Equipment": { "Authority": "Authority of Vainglory" },
+    "Debuts": {
+      "Light Novel": ["Volume 14 (flashback)"],
+      "Anime": ["Episode 43 (flashback)"]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Kugimiya Rie",
+      "English Voice": "Deneen Melody"
+    }
+  },
+  {
+    "character_name": "Satella",
+    "name": "Satella",
+    "Kanji": "サテラ",
+    "Romaji": "Satera",
+    "Alias": [
+      "Witch of Envy (嫉妬の魔女 Shitto no Majo)",
+      "The Jealous Witch (嫉妬深い魔女 Shittobukai Majo)",
+      "Queen of the Castle of Shadows (影の城の女王 Kagenoshiro no Joō)",
+      "Witch (魔女 Majo)"
+    ],
+    "Nickname": [
+      "Tella (テラ) (by Typhon)",
+      "Tella-Tella (テラテラ) (by Daphne)"
+    ],
+    "Characteristics": {
+      "Race": "Half-Elf",
+      "Gender": "Female",
+      "Age": ["Late Teens (appearance)", "400+ (actual)"],
+      "Hair Color": "Silver",
+      "Eye Color": [
+        "Amethyst Purple (Witch of Envy)",
+        "Purple (Iris) (Satella)",
+        "Blue (Pupil) (Satella)"
+      ],
+      "Height": "164 cm (5'5\")"
+    },
+    "Professional Status": {
+      "Affiliation": "Witches of Sin",
+      "Occupation": "Witch of Envy"
+    },
+    "Personal Status": { "Status": "Alive (Sealed)" },
+    "Abilities and Equipment": {
+      "Magic": "Yin Magic",
+      "Authority": "Authority of Envy"
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 1 (mentioned)", "Volume 12 (actual)"],
+      "Anime": [
+        "Episode 2 (mentioned)",
+        "Episode 20 (silhouette)",
+        "Episode 34 (actual)"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Takahashi Rie",
+      "English Voice": "Kayli Mills"
+    }
+  },
+  {
+    "character_name": "Echidna",
+    "name": "Echidna",
+    "Kanji": "エキドナ",
+    "Romaji": "Ekidona",
+    "Alias": [
+      "Witch of Greed (強欲の魔女 Gōyoku no Majo)",
+      "Echidna of Greed (強欲のエキドナ Gōyoku no Ekidona)",
+      "Incarnation of the Thirst for Knowledge (知識欲の権化, Chishikiyoku no Gonge)",
+      "Witch of Wisdom (知恵の魔女 Chie no Majo)"
+    ],
+    "Nickname": [
+      "Dona (ドナ) (by Typhon)",
+      "Dna Dna (ドナドナ) (by Daphne)",
+      "Mother (by Beatrice)"
+    ],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": [
+        "19 (Castle of Dreams version)",
+        "19 to Mid 20s (actual body)",
+        "400+ (actual age)"
+      ],
+      "Hair Color": "White",
+      "Eye Color": ["Black (Iris)", "White (Pupil)"],
+      "Height": "164 cm (5'5\")"
+    },
+    "Professional Status": {
+      "Previous Affiliation": [
+        "Witches of Sin",
+        "Kararagi",
+        "Sanctuary",
+        "Forbidden Library",
+        "Castle of Dreams"
+      ],
+      "Previous Occupation": "Witch of Greed"
+    },
+    "Personal Status": {
+      "Status": ["Deceased (original body)", "Alive (as Omega)"],
+      "Relative(s)": [
+        "Puck (creation)",
+        "Eridna (creation)",
+        "Beatrice (creation)",
+        "Ryuzu copies (creations)",
+        "Sphinx (creation)",
+        "Omega (creation/host)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": [
+        "Fire Magic",
+        "Wind Magic",
+        "Water Magic",
+        "Earth Magic",
+        "Yin Magic",
+        "Yang Magic"
+      ],
+      "Authority": "Authority of Greed",
+      "Equipment": "Book of Wisdom"
+    },
+    "Debuts": {
+      "Light Novel": ["Volume 6 (mentioned)", "Volume 10 (actual)"],
+      "Manga": ["Chapter 21 (mentioned)", "Chapter 1 (Actual)"],
+      "Anime": "Episode 27",
+      "Game": [
+        "Re:Zero Lost in Memories",
+        "Seven Deadly Sins Grand Cross (As Re:Zero Crossover Collab event character"
+      ]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Sakamoto Maaya",
+      "English Voice": "Anairis Quiñones"
+    }
+  },
+  {
+    "character_name": "Minerva",
+    "name": "Minerva",
+    "Kanji": "ミネルヴァ",
+    "Romaji": "Mineruva",
+    "Alias": [
+      "Witch of Wrath (憤怒の魔女 Fundo no Majo)",
+      "Minerva of Wrath (憤怒のミネルヴァ Fundo no Mineruva)"
+    ],
+    "Nickname": ["Ner-Ner (ネルネル) (by Daphne)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["Late Teens (appearance)", "400+ (actual)"],
+      "Hair Color": "Golden Blond",
+      "Eye Color": "Sky Blue",
+      "Height": [
+        "155 cm (5'1\") (light novel, Re:Zeropedia 2)",
+        "152 cm (5'0\") (light novel, Re:BOX 2nd)"
+      ]
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Witches of Sin", "Castle of Dreams"],
+      "Previous Occupation": "Witch of Wrath"
+    },
+    "Personal Status": { "Status": ["Deceased (body)", "Alive (soul)"] },
+    "Abilities and Equipment": { "Authority": "Authority of Wrath" },
+    "Debuts": {
+      "Light Novel": "Volume 11",
+      "Manga": ["Chapter 3 (mentioned)"],
+      "Anime": ["Episode 28 (mentioned)", "Episode 34 (actual)"]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Komatsu Mikako",
+      "English Voice": "Skyler Davenport"
+    }
+  },
+  {
+    "character_name": "Sekhmet",
+    "name": "Sekhmet",
+    "Kanji": "セクメト",
+    "Romaji": "Sekumeto",
+    "Alias": ["Witch of Sloth (怠惰の魔女 Taida no Majo)"],
+    "Nickname": ["Met Met (メトメト) (by Daphne)"],
+    "Characteristics": {
+      "Race": "Giant",
+      "Gender": "Female",
+      "Age": ["Mid 20s (appearance) ", "400+ (actual)"],
+      "Hair Color": "Magenta",
+      "Eye Color": "Magenta",
+      "Height": "170 cm (5'7\")"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Witches of Sin", "Castle of Dreams"],
+      "Previous Occupation": "Witch of Sloth"
+    },
+    "Personal Status": { "Status": ["Deceased (body)", "Alive (soul)"] },
+    "Abilities and Equipment": { "Authority": "Authority of Sloth" },
+    "Debuts": {
+      "Light Novel": "Volume 12",
+      "Manga": ["Chapter 3 (mentioned)"],
+      "Anime": ["Episode 28 (mentioned)", "Episode 37 (actual)"]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Nakahara Mai",
+      "English Voice": "Nicole Gose"
+    }
+  },
+  {
+    "character_name": "Daphne",
+    "name": "Daphne",
+    "Kanji": "ダフネ",
+    "Romaji": "Dafune",
+    "Alias": [
+      "Witch of Gluttony (暴食の魔女 Bōshoku no Majo)",
+      "Daphne of Gluttony (暴食のダフネ Bōshoku no Dafune)"
+    ],
+    "Nickname": ["Daph (ダフ) (by Typhon)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["Early Teens (appearance)", "400+ (actual)"],
+      "Hair Color": "Ashen Gray",
+      "Eye Color": "Golden Yellow",
+      "Height": "140 cm (4'7\")"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Witches of Sin", "Castle of Dreams"],
+      "Previous Occupation": "Witch of Gluttony"
+    },
+    "Personal Status": {
+      "Status": ["Deceased (body)", "Alive (soul)"],
+      "Relative(s)": [
+        "Unnamed family (deceased)",
+        "Shaula (creation)",
+        "Oousagi (creation)",
+        "Hakugei (creation)",
+        "Kurohebi (creation)",
+        "Centipede Coffin (creation)"
+      ]
+    },
+    "Abilities and Equipment": { "Authority": "Authority of Gluttony" },
+    "Debuts": {
+      "Light Novel": "Volume 11",
+      "Manga": ["Chapter 3 (mentioned)"],
+      "Anime": ["Episode 28 (mentioned)", "Episode 34 (actual)"],
+      "Game": "Re:Zero Lost in Memories"
+    },
+    "Portrayal": {
+      "Japanese Voice": "Tōyama Nao",
+      "English Voice": "Michelle Marie"
+    }
+  },
+  {
+    "character_name": "Typhon",
+    "name": "Typhon",
+    "Kanji": "テュフォン",
+    "Romaji": "Tyufon",
+    "Alias": [
+      "Witch of Pride (傲慢の魔女 Gouman no Majo)",
+      "Typhon of Pride (傲慢のテュフォン Gouman no Tyufon)"
+    ],
+    "Nickname": ["Tyu-Tyu (テュテュ) (by Daphne)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": ["Around 10 (appearance)", "400+ (actual)"],
+      "Hair Color": "Dark Green",
+      "Eye Color": "Red",
+      "Height": "125 cm (4'1\")"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Witches of Sin", "Castle of Dreams"],
+      "Previous Occupation": "Witch of Pride"
+    },
+    "Personal Status": {
+      "Status": ["Deceased (body)", "Alive (soul)"],
+      "Relative(s)": ["Unnamed Father (deceased)", "Sekhmet (mother figure)"]
+    },
+    "Abilities and Equipment": { "Authority": "Authority of Pride" },
+    "Debuts": {
+      "Light Novel": "Volume 11",
+      "Manga": ["Chapter 3 (mentioned)"],
+      "Anime": ["Episode 28 (mentioned)", "Episode 34 (actual)"]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Kuno Misaki",
+      "English Voice": "Kimberley Anne Campbell"
+    }
+  },
+  {
+    "character_name": "Carmilla",
+    "name": "Carmilla",
+    "Kanji": "カーミラ",
+    "Romaji": "Kaamira",
+    "Alias": [
+      "Witch of Lust (色欲の魔女 Shikiyoku no Majo)",
+      "Carmilla of Lust (色欲のカーミラ Shikiyoku no Kaamira)"
+    ],
+    "Nickname": ["Mila Mila (ミラミラ) (by Daphne)"],
+    "Characteristics": {
+      "Race": "Human",
+      "Gender": "Female",
+      "Age": [
+        "Late Teens (appearance, light novel)",
+        "17 (time of death, web novel)",
+        "400+ (actual)"
+      ],
+      "Hair Color": "Light Pink",
+      "Eye Color": "Red",
+      "Height": ["158 cm (5'2\") (light novel)", "160 cm (5'3\") (web novel)"]
+    },
+    "Professional Status": {
+      "Previous Affiliation": [
+        "Witches of Sin",
+        "Unnamed Nation",
+        "Castle of Dreams"
+      ],
+      "Previous Occupation": "Witch of Lust"
+    },
+    "Personal Status": {
+      "Status": ["Deceased (body)", "Alive (soul)"],
+      "Relative(s)": [
+        "Unnamed mother (deceased)",
+        "Unnamed father (deceased)",
+        "Unnamed fiancé (deceased)"
+      ]
+    },
+    "Abilities and Equipment": { "Authority": "Authority of Lust" },
+    "Debuts": {
+      "Light Novel": "Volume 12",
+      "Manga": ["Chapter 3 (mentioned)"],
+      "Anime": ["Episode 28 (mentioned)", "Episode 37 (actual)"]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Iwami Manaka",
+      "English Voice": "Lisa Reimold"
+    }
+  },
+  {
+    "character_name": "Hector",
+    "name": "Hector",
+    "Kanji": "ヘクトール",
+    "Romaji": "Hekutooru",
+    "Alias": [
+      "Warlock of Melancholy (憂鬱の魔人 Yū'utsu no Majin)",
+      "Melancholy (憂鬱 Yū'utsu)"
+    ],
+    "Characteristics": {
+      "Race": "Unknown",
+      "Gender": "Male",
+      "Age": ["Unknown (actual)", "Around 20 (flashback)"],
+      "Hair Color": "Charred Brown",
+      "Eye Color": "Brown",
+      "Height": "185 cm (6'1\")"
+    },
+    "Professional Status": {
+      "Affiliation": "Witches of Sin",
+      "Occupation": "Warlock of Melancholy"
+    },
+    "Personal Status": { "Status": "Unknown" },
+    "Abilities and Equipment": { "Authority": "Authority of Melancholy" },
+    "Debuts": {
+      "Light Novel": ["Volume 14 (flashback)"],
+      "Anime": ["Episode 45 (flashback)"]
+    },
+    "Portrayal": {
+      "Japanese Voice": "Suwabe Junichi",
+      "English Voice": "J. Michael Tatum"
+    }
+  },
+  {
+    "character_name": "Omega",
+    "name": "Omega",
+    "Kanji": "オメガ",
+    "Romaji": "Omega",
+    "Alias": ["Witch (魔女, Majo)"],
+    "Nickname": [
+      "Shima (シーマ,  Shīma) (former)",
+      "Echidna (エキドナ Ekidona)"
+    ],
+    "Characteristics": {
+      "Race": "Half-Elf",
+      "Gender": "Female",
+      "Age": ["12 (appearance)", "400+ (actual)"],
+      "Hair Color": "Pink",
+      "Eye Color": "Dark Cyan",
+      "Height": "135 cm (4'5\")"
+    },
+    "Professional Status": {
+      "Affiliation": ["Kingdom of Lugunica", "Witches of Sin"],
+      "Previous Affiliation": "Sanctuary",
+      "Occupation": "Witch"
+    },
+    "Personal Status": {
+      "Status": "Alive",
+      "Relative(s)": [
+        "Echidna (creator)",
+        "Ryuzu copies (sisters)",
+        "Sphinx (older sister)",
+        "Ryuzu Meyer (basis)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": [
+        "Fire Magic",
+        "Water Magic",
+        "Earth Magic",
+        "Wind Magic",
+        "Yin Magic",
+        "Yang Magic"
+      ],
+      "Equipment": "Glintstone (with other 5 Witches' souls)"
+    },
+    "Debuts": { "Light Novel": "Volume 15", "Anime": "Episode 49" },
+    "Portrayal": { "Japanese Voice": "Maaya Sakamoto" }
+  },
+  {
+    "character_name": "Sphinx",
+    "name": "Sphinx",
+    "Kanji": "スピンクス",
+    "Romaji": "Supinkusu",
+    "Alias": ["Witch (魔女 Majo)"],
+    "Characteristics": {
+      "Race": "Half-Elf",
+      "Gender": "Female",
+      "Age": ["12 (appearance)", "400+ (actual)"],
+      "Hair Color": "Pink",
+      "Eye Color": "Dark Cyan",
+      "Height": "135 cm (4'5\")"
+    },
+    "Professional Status": {
+      "Previous Affiliation": ["Sanctuary", "Demi-Human Alliance"],
+      "Occupation": "Witch",
+      "Previous Occupation": "Leader"
+    },
+    "Personal Status": {
+      "Status": "Undead",
+      "Relative(s)": [
+        "Echidna (creator)",
+        "Ryuzu copies (younger sisters)",
+        "Omega (younger sister)",
+        "Ryuzu Meyer (basis)"
+      ]
+    },
+    "Abilities and Equipment": {
+      "Magic": [
+        "Fire Magic",
+        "Wind Magic",
+        "Earth Magic",
+        "Yang Magic",
+        "Others"
+      ]
+    },
+    "Debuts": {
+      "Light Novel": ["Ex Volume 2 (side story)", "Volume 33 (main story)"],
+      "Manga": "Shinmeitan Chapter 2"
+    }
+  }
+]
