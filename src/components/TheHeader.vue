@@ -141,4 +141,17 @@ nav a:first-of-type {
     font-size: 1rem;
   }
 }
+
+@media screen and (max-width: 500px) {
+
+  .logo {
+    width: 50px;
+    height: 50px;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+  
+}
 </style>

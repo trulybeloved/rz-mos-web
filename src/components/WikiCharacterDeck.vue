@@ -102,7 +102,7 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji"]
   </div>
 </template>
 
-<style>
+<style scoped>
 .search-container {
   display: flex;
   align-items: center;
@@ -116,6 +116,12 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji"]
   grid-gap: 20px;
   justify-content: space-between;
   scroll-behavior: smooth;
+}
+
+@media screen and (max-width: 450px) {
+  .card-container {
+    grid-template-columns: 1fr;
+  }
 }
 
 .character-card {

@@ -139,7 +139,7 @@ const filteredCharacters = computed(() => {
   </div>
 </template>
 
-<style>
+<style scoped>
 .search-container {
   display: flex;
   align-items: center;
@@ -148,6 +148,7 @@ const filteredCharacters = computed(() => {
 }
 
 .card-container {
+  display: none;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   grid-gap: 20px;
