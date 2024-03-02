@@ -128,7 +128,7 @@ const filteredCharacters = computed(() => {
       <SearchBar v-model="searchTerm" />
     </div>
 
-    <div class="card-container">
+    <div v-if="filteredCharacters.length" class="card-container">
       <CharacterCard
         v-for="(character, index) in filteredCharacters"
         :key="index"
@@ -136,6 +136,11 @@ const filteredCharacters = computed(() => {
         :contractions="character.contractionData"
       />
     </div>
+
+    <div v-else class="no-result">
+      <p>No results</p>
+    </div>
+
   </div>
 </template>
 
@@ -161,4 +166,13 @@ const filteredCharacters = computed(() => {
     grid-template-columns: 1fr;
   }
 }
+
+.no-result {
+  text-align: center;
+  padding: 1rem;
+  font-size: 2em;
+  border-radius: 10px;
+  background-color: #333;
+}
+
 </style>
