@@ -34,11 +34,10 @@ const filteredCharacters = computed(() => {
     const nameB = b.name.toLowerCase()
     return nameA < nameB ? -1 : 1
   })
-
   return filtered
 })
 
-const sectionFilterList = ["character_name", "name", "Kanji", "Romaji"]
+const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "description"]
 </script>
 
 <template>
@@ -47,58 +46,79 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji"]
       <SearchBar v-model="searchTerm" />
     </div>
 
-    <div class="card-container">
+    <div v-if="filteredCharacters.length" class="card-container">
+
       <div v-for="(characterEntry, index) in filteredCharacters" :key="index" class="character-card">
 
         <div class="card-header">
           <div class="card-title">{{ characterEntry.name }}</div>
           <div class="card-subtitle">{{ characterEntry.Kanji }} ({{ characterEntry.Romaji }})</div>
         </div>
-        
+
+        <div class="description">
+          {{ characterEntry.description }}
+        </div>
+
         <div v-for="(section, section_title) in characterEntry" :key="section_title" class="section-container"> 
             
-            <div v-if="!sectionFilterList.includes(section_title) && typeof section === 'object'" class="section">
-                <div class="section-title">{{ section_title }}</div> 
-                <div class="section-content">
+          <div v-if="!sectionFilterList.includes(section_title) && typeof section === 'object'" class="section">
+            <div class="section-title">{{ section_title }}</div> 
+              <div class="section-content">
+                  
+                <div v-for="(subsection, index) in section" :key="index" class="subsection-container">
                     
-                    <div v-for="(subsection, index) in section" :key="index" class="subsection-container">
-                        
-                            <div v-if="typeof index === 'string'" class="subsection">
-                                <div v-if="(typeof subsection === 'string')">
-                                    <span class="field-label">{{ index }}: </span>{{ subsection }}
-                                </div>
-                                <div v-else >
-                                    <span class="field-label">{{ index }}: </span>
-                                    <ul>
-                                    <li v-for="(subsubsection, index) in subsection" :key="index">
-                                        {{ subsubsection }}
-                                    </li>
-                                    </ul>
-                                </div>
-                                
-                            </div>
-                            <div v-else-if="typeof index === 'number'" class="subsection">
-                                <ul>
-                                <li>{{ subsection }}</li>
-                                </ul>
-                            </div>   
+                  <div v-if="typeof index === 'string'" class="subsection">
+                      
+                    <div v-if="(typeof subsection === 'string')">
+                      <span class="field-label">{{ index }}: </span>{{ subsection }}
                     </div>
-                    
+
+                    <div v-else >
+                        <span class="field-label">{{ index }}: </span>
+                        <ul>
+                          <li v-for="(subsubsection, index) in subsection" :key="index">
+                              {{ subsubsection }}
+                          </li>
+                        </ul>
+                    </div>
+                      
+                  </div>
+
+                  <div v-else-if="typeof index === 'number'" class="subsection">
+                      <ul>
+                      <li>{{ subsection }}</li>
+                      </ul>
+                  </div>
+
                 </div>
-            </div>
-            
-            <div v-else>
-                <div v-if="!sectionFilterList.includes(section_title) && typeof section === 'string'" class="section">
-                    <div class="section-title">{{ section_title }}</div> 
-                    <div class="section-content">
-                        <div class="subsection">{{ section }}</div> 
-                    </div>
-                </div>  
-            </div>
-        
+                  
+              </div>
+          </div>
+          
+          <div v-else>
+              <div v-if="!sectionFilterList.includes(section_title) && typeof section === 'string'" class="section">
+                  <div class="section-title">{{ section_title }}</div> 
+                  <div class="section-content">
+                      <div class="subsection">{{ section }}</div> 
+                  </div>
+              </div>  
+          </div>
+
         </div>
+      
       </div>
+    
     </div>
+
+    <div v-else class="no-result">
+      <p>No results</p>
+    </div>
+  </div>
+
+  <div class="content-source">
+    Content sourced from
+    <a href="https://rezero.fandom.com/wiki/Re:Zero_Wiki">Re:ZERO Wiki</a>
+    under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> license
   </div>
 </template>
 
@@ -156,6 +176,12 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji"]
   filter: brightness(80%);
 }
 
+.description {
+    padding: 1rem;
+    padding-bottom: 0;
+    filter: brightness(95%)
+}
+
 .section {
     padding-top: 1rem;
     padding-left: 1rem;
@@ -177,4 +203,18 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji"]
 .field-label {
     font-weight: 250;
 }
+
+.content-source {
+  text-align: center;
+  padding: 1rem;
+}
+
+.no-result {
+  text-align: center;
+  padding: 1rem;
+  font-size: 2em;
+  border-radius: 10px;
+  background-color: #333;
+}
+
 </style>
