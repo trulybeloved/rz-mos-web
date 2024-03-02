@@ -1,6 +1,6 @@
 [
   {
-    "character_description": "\n\n\nAldebaran (アルデバラン), commonly known as Al (アル), is a member of the Priscilla Camp and plays the role of Priscilla Barielle's knight. Though he only has supporting roles in Arc 3 and Arc 5, he is a major character in Arc 7 and Arc 8.\nIntroduced in Arc 3 as Priscilla's constantly abused knight, it is quickly revealed that there might be more to him, following the revelation that, like Subaru, Al was summoned to the new world from Japan roughly 18 years ago. His air of mystery only increases in Arc 5 as he is revealed to be familiar with both the Witch Cult and the Witches of Sin.\n\n",
+    "description": "\n\n\nAldebaran (アルデバラン), commonly known as Al (アル), is a member of the Priscilla Camp and plays the role of Priscilla Barielle's knight. Though he only has supporting roles in Arc 3 and Arc 5, he is a major character in Arc 7 and Arc 8.\nIntroduced in Arc 3 as Priscilla's constantly abused knight, it is quickly revealed that there might be more to him, following the revelation that, like Subaru, Al was summoned to the new world from Japan roughly 18 years ago. His air of mystery only increases in Arc 5 as he is revealed to be familiar with both the Witch Cult and the Witches of Sin.\n\n",
     "character_name": "Aldebaran",
     "name": "Aldebaran",
     "Kanji": "アルデバラン",
@@ -45,7 +45,7 @@
     }
   },
   {
-    "character_description": "\n\n\nAlec Hoshin (アレク・ホーシン), better known to history as Hoshin of the Wilderness (荒地のホーシン), was a man who lived in the era of the Great Calamity. He is most well-known for uniting a multitude of small countries, founding one of the Four Great Nations known as the Kararagi City-States, implementing within it a culture that strongly resembled that of Japan, and being the first governor of Kararagi. He is considered a world-wide symbol of success for merchants and, as such, is a figure who is looked up to by any individual remotely associated with business.\n\n",
+    "description": "\n\n\nAlec Hoshin (アレク・ホーシン), better known to history as Hoshin of the Wilderness (荒地のホーシン), was a man who lived in the era of the Great Calamity. He is most well-known for uniting a multitude of small countries, founding one of the Four Great Nations known as the Kararagi City-States, implementing within it a culture that strongly resembled that of Japan, and being the first governor of Kararagi. He is considered a world-wide symbol of success for merchants and, as such, is a figure who is looked up to by any individual remotely associated with business.\n\n",
     "character_name": "Alec Hoshin",
     "name": "Alec Hoshin",
     "Kanji": "アレク・ホーシン",
@@ -76,7 +76,7 @@
     "Portrayal": { "Japanese Voice": "Morikawa Toshiyuki" }
   },
   {
-    "character_description": "\n\n\nAnastasia Hoshin (アナスタシア・ホーシン) is the chairman of the Hoshin Company and a candidate to become the 42nd King of Lugunica. She is a supporting character first introduced in Arc 3, and she plays major roles in Arc 5 and Arc 6.\nA commoner turned successful entrepreneur, her motive for participating in the Royal Selection is solely to expand her business. In Arc 5, she allowed her contracted spirit, Eridna, to possess her so as to not forget her knight, Julius, after he had his name eaten by the Sin Archbishop of Gluttony. After the events of Arc 6, her spirit ended their contract, causing her to forget him, but it also allowed the two to start their relationship anew.\n\n",
+    "description": "\n\n\nAnastasia Hoshin (アナスタシア・ホーシン) is the chairman of the Hoshin Company and a candidate to become the 42nd King of Lugunica. She is a supporting character first introduced in Arc 3, and she plays major roles in Arc 5 and Arc 6.\nA commoner turned successful entrepreneur, her motive for participating in the Royal Selection is solely to expand her business. In Arc 5, she allowed her contracted spirit, Eridna, to possess her so as to not forget her knight, Julius, after he had his name eaten by the Sin Archbishop of Gluttony. After the events of Arc 6, her spirit ended their contract, causing her to forget him, but it also allowed the two to start their relationship anew.\n\n",
     "character_name": "Anastasia Hoshin",
     "name": "Anastasia Hoshin",
     "Kanji": "アナスタシア・ホーシン",
@@ -122,7 +122,7 @@
     "Portrayal": { "Japanese Voice": "Ueda Kana", "English Voice": "Cassandra Lee Morris" }
   },
   {
-    "character_description": "\n\n\nAnnerose Miload (アンネローゼ・ミロード) is the heir of House Miload, a branch family of House Mathers.\nShe became the heiress-in-waiting to House Miload after losing her parents following her birth. Beyond the events of Arc 4, Roswaal brought her and her servant, Clind, into the Emilia Camp so the latter could oversee Subaru's training after the boy officially became Emilia's knight.\n\n",
+    "description": "\n\n\nAnnerose Miload (アンネローゼ・ミロード) is the heir of House Miload, a branch family of House Mathers.\nShe became the heiress-in-waiting to House Miload after losing her parents following her birth. Beyond the events of Arc 4, Roswaal brought her and her servant, Clind, into the Emilia Camp so the latter could oversee Subaru's training after the boy officially became Emilia's knight.\n\n",
     "character_name": "Annerose Miload",
     "name": "Annerose Miload",
     "Kanji": "アンネローゼ・ミロード",
@@ -154,7 +154,7 @@
     "Portrayal": { "Japanese Voice": "Ichinose Kana", "English Voice": "Emi Lo" }
   },
   {
-    "character_description": "\n\n\nArakiya (アラキア) is the Second ranking Divine General of the Sacred Vollachia Empire. She played an important role in Priscilla Barielle's childhood as her foster sister and servant.\nIn the events of Ex 5, she chose to sacrifice herself so Prisca could live on. She survived and joined the newly-crowned seventy-seventh Emperor of Vollachia, Vincent Vollachia, later being appointed as a Divine General. She made her debut in Arc 7.\n\n",
+    "description": "\n\n\nArakiya (アラキア) is the Second ranking Divine General of the Sacred Vollachia Empire. She played an important role in Priscilla Barielle's childhood as her foster sister and servant.\nIn the events of Ex 5, she chose to sacrifice herself so Prisca could live on. She survived and joined the newly-crowned seventy-seventh Emperor of Vollachia, Vincent Vollachia, later being appointed as a Divine General. She made her debut in Arc 7.\n\n",
     "character_name": "Arakiya",
     "name": "Arakiya",
     "Kanji": "アラキア",
@@ -181,7 +181,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 5 (side story)", "Volume 27 (main story)"] }
   },
   {
-    "character_description": "\n\n\nArch Elior (アーチ・エリオール) was an elf who inhabited the Elf Village and was slated to be the next guardian of Elior Forest. Though a minor character overall, he had some prominence in Emilia's backstory.\nHe was Fortuna's disciple and a childhood friend of Emilia. When the Witch Cult's radical faction attacked the Elf Village, he sacrificed himself to allow Emilia to escape. \n\n",
+    "description": "\n\n\nArch Elior (アーチ・エリオール) was an elf who inhabited the Elf Village and was slated to be the next guardian of Elior Forest. Though a minor character overall, he had some prominence in Emilia's backstory.\nHe was Fortuna's disciple and a childhood friend of Emilia. When the Witch Cult's radical faction attacked the Elf Village, he sacrificed himself to allow Emilia to escape. \n\n",
     "character_name": "Arch Elior",
     "name": "Arch Elior",
     "Kanji": "アーチ・エリオール",
@@ -206,7 +206,7 @@
     "Portrayal": { "Japanese Voice": "Namikawa Daisuke", "English Voice": "Howard Wang" }
   },
   {
-    "character_description": "\n\n\nBalleroy Temeglyph (バルロイ・テメグリフ) was the former Ninth ranking Divine General of the Sacred Vollachia Empire. Balleroy was a supposed conspirator of a rebellion against the Vollachia Empire and Emperor Vincent Vollachia launched in tandem with Gramdart Holstoy and the Insect Cage Clan. However, in actuality, he gave his life for the Empire so that the Emperor could accept a non-aggression pact with the Kingdom of Lugunica.\nIn Arc 7 and Arc 8, Balleroy and his flying dragon, Carillon, both appear as zombies during the Great Disaster.\n\n",
+    "description": "\n\n\nBalleroy Temeglyph (バルロイ・テメグリフ) was the former Ninth ranking Divine General of the Sacred Vollachia Empire. Balleroy was a supposed conspirator of a rebellion against the Vollachia Empire and Emperor Vincent Vollachia launched in tandem with Gramdart Holstoy and the Insect Cage Clan. However, in actuality, he gave his life for the Empire so that the Emperor could accept a non-aggression pact with the Kingdom of Lugunica.\nIn Arc 7 and Arc 8, Balleroy and his flying dragon, Carillon, both appear as zombies during the Great Disaster.\n\n",
     "character_name": "Balleroy Temeglyph",
     "name": "Balleroy Temeglyph",
     "Kanji": "バルロイ・テメグリフ",
@@ -222,7 +222,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 4 (side story)", "Volume 33  (main story)"] }
   },
   {
-    "character_description": "\n\n\nBeatrice (ベアトリス) is a member of the Emilia Camp and the former caretaker of the Forbidden Library at the old Roswaal Manor, until its destruction in the climax of Arc 4. She is one of the main supporting characters in Re:Zero. \nShe is an artificial spirit created by the Witch of Greed for unknown reasons. 400 years ago, she was told to wait in the library for \"that person\" who would grant her salvation. However, in Arc 4's climax, Subaru convinced her to live and she became his contracted spirit.\n\n",
+    "description": "\n\n\nBeatrice (ベアトリス) is a member of the Emilia Camp and the former caretaker of the Forbidden Library at the old Roswaal Manor, until its destruction in the climax of Arc 4. She is one of the main supporting characters in Re:Zero. \nShe is an artificial spirit created by the Witch of Greed for unknown reasons. 400 years ago, she was told to wait in the library for \"that person\" who would grant her salvation. However, in Arc 4's climax, Subaru convinced her to live and she became his contracted spirit.\n\n",
     "character_name": "Beatrice",
     "name": "Beatrice",
     "Kanji": "ベアトリス",
@@ -277,7 +277,7 @@
     "Portrayal": { "Japanese Voice": "Arai Satomi", "English Voice": "Kira Buckland" }
   },
   {
-    "character_description": "\n\n\nBeli Hainelga (ベリ・ハイネルガ) is one of the most fearsome serial killers from the Holy Kingdom of Gusteko. His gruesome reputation is second only to the Gut Hunter. Until the climax of Arc 6, his name and memories have been eaten by Lye Batenkaitos. Currently, his status remains unknown.\n\n",
+    "description": "\n\n\nBeli Hainelga (ベリ・ハイネルガ) is one of the most fearsome serial killers from the Holy Kingdom of Gusteko. His gruesome reputation is second only to the Gut Hunter. Until the climax of Arc 6, his name and memories have been eaten by Lye Batenkaitos. Currently, his status remains unknown.\n\n",
     "character_name": "Beli Hainelga",
     "name": "Beli Hainelga",
     "Kanji": "ベリ・ハイネルガ",
@@ -289,7 +289,7 @@
     "Debuts": { "Light Novel": ["Volume 24 (mentioned)"] }
   },
   {
-    "character_description": "\n\n\nBerstetz Fondalfon (ベルステツ・フォンダルフォン) is the Prime Minister of the Sacred Vollachia Empire, and the second to the emperor in terms of political power.\nBerstetz plays a rather important role in Ex 4 as Vincent's second-in-command, immediately springing to action in order to identify the culprit behind the coup d'état. He made his debut in Arc 7.\n\n",
+    "description": "\n\n\nBerstetz Fondalfon (ベルステツ・フォンダルフォン) is the Prime Minister of the Sacred Vollachia Empire, and the second to the emperor in terms of political power.\nBerstetz plays a rather important role in Ex 4 as Vincent's second-in-command, immediately springing to action in order to identify the culprit behind the coup d'état. He made his debut in Arc 7.\n\n",
     "character_name": "Berstetz Fondalfon",
     "name": "Berstetz Fondalfon",
     "Kanji": "ベルステツ・フォンダルフォン",
@@ -310,7 +310,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 4 (side story)", "Volume 30 (main story)"] }
   },
   {
-    "character_description": "\n\n\nBiehn Argyle (ビーン・アーガイル) was the former head of House Argyle and Ferris's father.\n\n",
+    "description": "\n\n\nBiehn Argyle (ビーン・アーガイル) was the former head of House Argyle and Ferris's father.\n\n",
     "character_name": "Biehn Argyle",
     "name": "Biehn Argyle",
     "Kanji": "ビーン・アーガイル",
@@ -328,7 +328,7 @@
     "Debuts": { "Light Novel": "Ex Volume 1" }
   },
   {
-    "character_description": "\n\n\nBordeaux Zellgef (ボルドー・ツェルゲフ) is a member of the Council of Wise Men.\nFour decades before the start of the main story, Bordeaux fought in the Demi-Human War, acting as the commander of the Zellgef Squadron. He formed a unique relationship with Wilhelm, during the 2nd and 3rd Ex volumes and in Sword Demon Battle Ballad.\n\n",
+    "description": "\n\n\nBordeaux Zellgef (ボルドー・ツェルゲフ) is a member of the Council of Wise Men.\nFour decades before the start of the main story, Bordeaux fought in the Demi-Human War, acting as the commander of the Zellgef Squadron. He formed a unique relationship with Wilhelm, during the 2nd and 3rd Ex volumes and in Sword Demon Battle Ballad.\n\n",
     "character_name": "Bordeaux Zellgef",
     "name": "Bordeaux Zellgef",
     "Kanji": "ボルドー・ツェルゲフ",
@@ -347,7 +347,7 @@
     "Portrayal": { "Japanese Voice": "Jirō Saitō", "English Voice": "Marc Diraison" }
   },
   {
-    "character_description": "\n\nCain (カイン) is a citizen of Arlam Village.\n\n\n",
+    "description": "\n\nCain (カイン) is a citizen of Arlam Village.\n\n\n",
     "character_name": "Cain",
     "name": "Cain",
     "Kanji": "カイン",
@@ -367,7 +367,7 @@
     "Portrayal": { "Japanese Voice": "Shinoda Minami" }
   },
   {
-    "character_description": "\n\n\nCamberley (カンバリー), commonly known as Kan (カン), is one of the three thugs that attacked Subaru at the very start of Arc 1. He later joined the Felt Camp when Felt employed him after Royal Selection began.\nDebuting at the very start of Volume 1 of Re:Zero, Camberley acted as a minor antagonist alongside Gaston and Rachins Hoffman. The trio reappeared in Arc 3, where they tried to rob Priscilla Barielle and, after the latter was joined by Subaru, they tailed the two around the Royal Capital's slums until he and Rachins were disposed of by Al.\n\n",
+    "description": "\n\n\nCamberley (カンバリー), commonly known as Kan (カン), is one of the three thugs that attacked Subaru at the very start of Arc 1. He later joined the Felt Camp when Felt employed him after Royal Selection began.\nDebuting at the very start of Volume 1 of Re:Zero, Camberley acted as a minor antagonist alongside Gaston and Rachins Hoffman. The trio reappeared in Arc 3, where they tried to rob Priscilla Barielle and, after the latter was joined by Subaru, they tailed the two around the Royal Capital's slums until he and Rachins were disposed of by Al.\n\n",
     "character_name": "Camberley",
     "name": "Camberley",
     "Kanji": "カンバリー",
@@ -395,7 +395,7 @@
     "Portrayal": { "Japanese Voice": "Yamashita Daiki", "English Voice": "Arnie Pantoja" }
   },
   {
-    "character_description": "This page is about the Sin Archbishop. For the Princess of Lugunica, see Emerada Lugunica.\n\n\n\n\n\nCapella Emerada Lugunica (カペラ・エメラダ・ルグニカ) is a Sin Archbishop of the Witch Cult, representing Lust. Debuting in Arc 5, she acted as one of the main antagonists of that arc alongside her fellow Sin Archbishops, turning innocent civilians into flies, chunks of meat, and to one citizen, a dragon, forcing Subaru and others to travel to the Pleiades Watchtower in order to revert the damage done by Capella. She later fled Priestella after the Cult's defeat in Arc 5.\nShe is also known as Mother (母 Haha), a mysterious figure who controls \"children\" in a group of sorts that operate throughout the world, waiting for her orders. Due to Capella's control over her collective children, including Elsa and Meili, she can be noted as a minor overarching antagonist in Arc 1, Arc 2 and Arc 4 despite not making any appearances before Arc 5.\n\n",
+    "description": "This page is about the Sin Archbishop. For the Princess of Lugunica, see Emerada Lugunica.\n\n\n\n\n\nCapella Emerada Lugunica (カペラ・エメラダ・ルグニカ) is a Sin Archbishop of the Witch Cult, representing Lust. Debuting in Arc 5, she acted as one of the main antagonists of that arc alongside her fellow Sin Archbishops, turning innocent civilians into flies, chunks of meat, and to one citizen, a dragon, forcing Subaru and others to travel to the Pleiades Watchtower in order to revert the damage done by Capella. She later fled Priestella after the Cult's defeat in Arc 5.\nShe is also known as Mother (母 Haha), a mysterious figure who controls \"children\" in a group of sorts that operate throughout the world, waiting for her orders. Due to Capella's control over her collective children, including Elsa and Meili, she can be noted as a minor overarching antagonist in Arc 1, Arc 2 and Arc 4 despite not making any appearances before Arc 5.\n\n",
     "character_name": "Capella Emerada Lugunica",
     "name": "Capella Emerada Lugunica",
     "Kanji": "カペラ・エメラダ・ルグニカ",
@@ -420,7 +420,7 @@
     "Debuts": { "Light Novel": "Volume 17" }
   },
   {
-    "character_description": "\n\n\nCarillon (カリヨン) was Balleroy Temeglyph's flying dragon.\nIn Arc 7 and Arc 8, Carillon and Balleroy both appear as zombies during the Great Disaster.\n\n",
+    "description": "\n\n\nCarillon (カリヨン) was Balleroy Temeglyph's flying dragon.\nIn Arc 7 and Arc 8, Carillon and Balleroy both appear as zombies during the Great Disaster.\n\n",
     "character_name": "Carillon",
     "name": "Carillon",
     "Kanji": "カリヨン",
@@ -431,7 +431,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 4 (side story)", "Volume 33 (main story)"] }
   },
   {
-    "character_description": "\n\n\nCarmilla (カーミラ) was the Witch of Lust. She formally debuted in Arc 4 as a supporting character.\nFollowing her death 400 years ago, Echidna collected her soul and brought it to the Sanctuary along with the other Witches. Throughout Arc 4, she and the other Witches helped Subaru accept himself and change his views on Return by Death. After the arc, her soul was transferred into a crystal and she is currently travelling with Omega.\n\n",
+    "description": "\n\n\nCarmilla (カーミラ) was the Witch of Lust. She formally debuted in Arc 4 as a supporting character.\nFollowing her death 400 years ago, Echidna collected her soul and brought it to the Sanctuary along with the other Witches. Throughout Arc 4, she and the other Witches helped Subaru accept himself and change his views on Return by Death. After the arc, her soul was transferred into a crystal and she is currently travelling with Omega.\n\n",
     "character_name": "Carmilla",
     "name": "Carmilla",
     "Kanji": "カーミラ",
@@ -474,7 +474,7 @@
     "Portrayal": { "Japanese Voice": "Iwami Manaka", "English Voice": "Lisa Reimold" }
   },
   {
-    "character_description": "\n\n\nCarol Fauzen (キャロル・ファウゼン), née Remendis (レメンディス) was the personal attendant of the late Theresia van Astrea and played an important role throughout the Demi-Human War that happened roughly 40 years before the events of Arc 1. She is currently working as servant for the Astrea family alongside her husband, Grimm Fauzen, often interacting with both Reinhard and Felt.\n\n",
+    "description": "\n\n\nCarol Fauzen (キャロル・ファウゼン), née Remendis (レメンディス) was the personal attendant of the late Theresia van Astrea and played an important role throughout the Demi-Human War that happened roughly 40 years before the events of Arc 1. She is currently working as servant for the Astrea family alongside her husband, Grimm Fauzen, often interacting with both Reinhard and Felt.\n\n",
     "character_name": "Carol Remendis",
     "name": "Carol Remendis",
     "Kanji": "キャロル・レメンディス",
@@ -507,7 +507,7 @@
     }
   },
   {
-    "character_description": "\n\n\nCecilus Segmunt (セシルス・セグムント) is the First ranking Divine General of the Sacred Vollachia Empire. He used to act as Vincent Vollachia's sword until the latter was dethroned some time between Arc 4 and Arc 7, and is hailed as the indisputably strongest individual from the Empire as well as one of the strongest swordsmen in the world.\nDebuting in Arc 7 at the Gladiator Island Ginunhive, Cecilus, unbeknownst to himself, was shrunken into a child by Chisha Gold's reproduction of Olbart Dunkelkenn's infantilization technique,[1][2] and lost his memories of his adult life. He was eventually convinced by Natsuki Subaru to join the Pleiades Battalion and participated in the Battle for the Imperial Capital. In Arc 8, during the Great Disaster, Cecilus was responsible for Sphinx's apparent death and helped to lay the groundwork for reclaiming Lupugana from the attacking undead army.\n\n",
+    "description": "\n\n\nCecilus Segmunt (セシルス・セグムント) is the First ranking Divine General of the Sacred Vollachia Empire. He used to act as Vincent Vollachia's sword until the latter was dethroned some time between Arc 4 and Arc 7, and is hailed as the indisputably strongest individual from the Empire as well as one of the strongest swordsmen in the world.\nDebuting in Arc 7 at the Gladiator Island Ginunhive, Cecilus, unbeknownst to himself, was shrunken into a child by Chisha Gold's reproduction of Olbart Dunkelkenn's infantilization technique,[1][2] and lost his memories of his adult life. He was eventually convinced by Natsuki Subaru to join the Pleiades Battalion and participated in the Battle for the Imperial Capital. In Arc 8, during the Great Disaster, Cecilus was responsible for Sphinx's apparent death and helped to lay the groundwork for reclaiming Lupugana from the attacking undead army.\n\n",
     "character_name": "Cecilus Segmunt",
     "name": "Cecilus Segmunt",
     "Kanji": "セシルス・セグムント",
@@ -551,7 +551,7 @@
     }
   },
   {
-    "character_description": "\n\n\nChamov (チャモフ) is a character in Re:Zero.\n\n",
+    "description": "\n\n\nChamov (チャモフ) is a character in Re:Zero.\n\n",
     "character_name": "Chamov",
     "name": "Chamov",
     "Kanji": "チャモフ",
@@ -573,7 +573,7 @@
     }
   },
   {
-    "character_description": "\n\n\nChap (チャップ) was a former member within the Mining City of Ganacks' underworld until he was abandoned by the organization he was a part of.\n\n",
+    "description": "\n\n\nChap (チャップ) was a former member within the Mining City of Ganacks' underworld until he was abandoned by the organization he was a part of.\n\n",
     "character_name": "Chap",
     "name": "Chap",
     "Kanji": "チャップ",
@@ -592,7 +592,7 @@
     "Portrayal": { "Japanese Voice": "Hino Satoshi" }
   },
   {
-    "character_description": "\n\n\nChisha Gold (チシャ・ゴールド) was the Fourth ranking Divine General of the Sacred Vollachia Empire and Emperor Vincent Vollachia's military advisor. He also formerly served the role of Vincent's decoy while the latter was still an emperor. Chisha played a rather important role in Ex 4, Ex 5, and Sword Identity, where he aided the emperor with the best of his abilities.\nChisha Gold debuted in Arc 7 as Vincent's body double in the Demon City of Chaosflame, embodying the emperor.[1] He was later killed by a revived Balleroy Temeglyph at the Great Disaster's commencement after sacrificing his own life. \n\n",
+    "description": "\n\n\nChisha Gold (チシャ・ゴールド) was the Fourth ranking Divine General of the Sacred Vollachia Empire and Emperor Vincent Vollachia's military advisor. He also formerly served the role of Vincent's decoy while the latter was still an emperor. Chisha played a rather important role in Ex 4, Ex 5, and Sword Identity, where he aided the emperor with the best of his abilities.\nChisha Gold debuted in Arc 7 as Vincent's body double in the Demon City of Chaosflame, embodying the emperor.[1] He was later killed by a revived Balleroy Temeglyph at the Great Disaster's commencement after sacrificing his own life. \n\n",
     "character_name": "Chisha Gold",
     "name": "Chisha Gold",
     "Kanji": "チシャ・ゴールド",
@@ -615,7 +615,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 4 (side story)", "Volume 28 (main story)"] }
   },
   {
-    "character_description": "\n\n\nClind (クリンド) is a house steward serving Annerose Miload. Despite joining the main cast after Arc 4, he remains a minor character overall, barely making any appearances in the main story.\nIn the past, Clind trained Frederica to help her control her beast form.[1] Following the events of Arc 4, he was brought into the Emilia Camp by Roswaal to oversee Subaru's training after he officially became Emilia's knight.\n\n",
+    "description": "\n\n\nClind (クリンド) is a house steward serving Annerose Miload. Despite joining the main cast after Arc 4, he remains a minor character overall, barely making any appearances in the main story.\nIn the past, Clind trained Frederica to help her control her beast form.[1] Following the events of Arc 4, he was brought into the Emilia Camp by Roswaal to oversee Subaru's training after he officially became Emilia's knight.\n\n",
     "character_name": "Clind",
     "name": "Clind",
     "Kanji": "クリンド",
@@ -645,7 +645,7 @@
     }
   },
   {
-    "character_description": "\n\n\nConwood Melahau (コンウッド・メラハウ) is a former deputy commander of the Royal Guard and a friend of Wilhelm van Astrea from his younger days.\n\n",
+    "description": "\n\n\nConwood Melahau (コンウッド・メラハウ) is a former deputy commander of the Royal Guard and a friend of Wilhelm van Astrea from his younger days.\n\n",
     "character_name": "Conwood Melahau",
     "name": "Conwood Melahau",
     "Kanji": "コンウッド・メラハウ",
@@ -667,7 +667,7 @@
     "Portrayal": { "Japanese Voice": "Umezu Hideyuki" }
   },
   {
-    "character_description": "\n\n\nCrusch Karsten (クルシュ・カルステン) is the Matriarch of House Karsten and a candidate to become the 42nd King of Lugunica. She is a supporting character first introduced in Arc 3, where she played a major role in helping Subaru slay the Hakugei. Crusch also plays the role of a protagonist in the first spin-off novel, titled Re:Zero Ex Light Novel Volume 1, which covers most of her past, as well as the events that led up to her becoming the first candidate for the 42nd King.\nShe wishes to end the Kingdom's dependence on higher powers by absolving the covenant with the Divine Dragon. While initially the absolute favorite to win the Royal Selection, she fell from grace after losing her memories to Lye Batenkaitos at the end of Arc 3 and her position only got worse after being poisoned by Capella in Arc 5.\n\n",
+    "description": "\n\n\nCrusch Karsten (クルシュ・カルステン) is the Matriarch of House Karsten and a candidate to become the 42nd King of Lugunica. She is a supporting character first introduced in Arc 3, where she played a major role in helping Subaru slay the Hakugei. Crusch also plays the role of a protagonist in the first spin-off novel, titled Re:Zero Ex Light Novel Volume 1, which covers most of her past, as well as the events that led up to her becoming the first candidate for the 42nd King.\nShe wishes to end the Kingdom's dependence on higher powers by absolving the covenant with the Divine Dragon. While initially the absolute favorite to win the Royal Selection, she fell from grace after losing her memories to Lye Batenkaitos at the end of Arc 3 and her position only got worse after being poisoned by Capella in Arc 5.\n\n",
     "character_name": "Crusch Karsten",
     "name": "Crusch Karsten",
     "Kanji": "クルシュ・カルステン",
@@ -709,7 +709,7 @@
     "Portrayal": { "Japanese Voice": "Iguchi Yuka", "English Voice": "Erika Harlacher" }
   },
   {
-    "character_description": "\n\n\nDaphne (ダフネ) was the Witch of Gluttony. Mentioned throughout the story, she formally debuted in Arc 4 as a supporting character.\nContrary to popular belief, it was she, not Satella, who created the Demon Beasts. Following her death 400 years ago, Echidna brought her soul to the Sanctuary. In Arc 4, she helped Subaru defeat the Oousagi by giving him valuable information and later to accept himself and change his views on Return by Death. After the arc, her soul was transferred into a crystal and she is currently travelling with Omega.\n\n",
+    "description": "\n\n\nDaphne (ダフネ) was the Witch of Gluttony. Mentioned throughout the story, she formally debuted in Arc 4 as a supporting character.\nContrary to popular belief, it was she, not Satella, who created the Demon Beasts. Following her death 400 years ago, Echidna brought her soul to the Sanctuary. In Arc 4, she helped Subaru defeat the Oousagi by giving him valuable information and later to accept himself and change his views on Return by Death. After the arc, her soul was transferred into a crystal and she is currently travelling with Omega.\n\n",
     "character_name": "Daphne",
     "name": "Daphne",
     "Kanji": "ダフネ",
@@ -752,7 +752,7 @@
     "Portrayal": { "Japanese Voice": "Tōyama Nao", "English Voice": "Michelle Marie" }
   },
   {
-    "character_description": "\n\n\nDarts (ダーツ) is a constructor in Priestella.\n\n",
+    "description": "\n\n\nDarts (ダーツ) is a constructor in Priestella.\n\n",
     "character_name": "Darts",
     "name": "Darts",
     "Kanji": "ダーツ",
@@ -772,7 +772,7 @@
     }
   },
   {
-    "character_description": "\n\n\nDiadora Regundra (ディアドラ・レグンドラ) is a member of the powerful Regundra family hailing from Picoutatte.\n\n",
+    "description": "\n\n\nDiadora Regundra (ディアドラ・レグンドラ) is a member of the powerful Regundra family hailing from Picoutatte.\n\n",
     "character_name": "Diadora Regundra",
     "name": "Diadora Regundra",
     "Kanji": "ディアドラ・レグンドラ",
@@ -794,7 +794,7 @@
     }
   },
   {
-    "character_description": "\n\n\nDias Lepunzo Elemanso Oplane Fatsbalm VI (ディアス・レプンツォ・エレマンソ・オプレーン・ファッツバルム六世) is a chef. She has an assistant named Rodriguez.\n\n",
+    "description": "\n\n\nDias Lepunzo Elemanso Oplane Fatsbalm VI (ディアス・レプンツォ・エレマンソ・オプレーン・ファッツバルム六世) is a chef. She has an assistant named Rodriguez.\n\n",
     "character_name": "Dias Fatsbalm",
     "name": "Dias Fatsbalm",
     "Kanji": "ディアス・レプンツォ・エレマンソ・オプレーン・ファッツバルム六世",
@@ -814,7 +814,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 3" }
   },
   {
-    "character_description": "\n\nDine (ダイン) is a citizen of Arlam Village.\n\n\n",
+    "description": "\n\nDine (ダイン) is a citizen of Arlam Village.\n\n\n",
     "character_name": "Dine",
     "name": "Dine",
     "Kanji": "ダイン",
@@ -834,7 +834,7 @@
     "Portrayal": { "Japanese Voice": "Ishigami Shizuka" }
   },
   {
-    "character_description": "\n\n\nDoltero Amule (ドルテロ・アムル) is the head of an organization in Flanders named the Black Silver Coin.\n\n",
+    "description": "\n\n\nDoltero Amule (ドルテロ・アムル) is the head of an organization in Flanders named the Black Silver Coin.\n\n",
     "character_name": "Doltero Amule",
     "name": "Doltero Amule",
     "Kanji": "ドルテロ・アムル",
@@ -854,7 +854,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 4" }
   },
   {
-    "character_description": "\n\n\nDorkell (ドルケル) was a former merchant in Kararagi and a former member of the Witch Cult.\n\n",
+    "description": "\n\n\nDorkell (ドルケル) was a former merchant in Kararagi and a former member of the Witch Cult.\n\n",
     "character_name": "Dorkell",
     "name": "Dorkell",
     "Kanji": "ドルケル",
@@ -870,7 +870,7 @@
     "Debuts": { "Light Novel": ["Volume 24 (mentioned)"] }
   },
   {
-    "character_description": "\n\n\nDynas (ダイナス) is the captain of the White Dragon's Scales. Alongside his men, he faced-off against the Sin Archbishop of Gluttony together with Felt, Otto Suwen, Beatrice and Gaston during the battle at Priestella.\n\n",
+    "description": "\n\n\nDynas (ダイナス) is the captain of the White Dragon's Scales. Alongside his men, he faced-off against the Sin Archbishop of Gluttony together with Felt, Otto Suwen, Beatrice and Gaston during the battle at Priestella.\n\n",
     "character_name": "Dynas",
     "name": "Dynas",
     "Kanji": "ダイナス",
@@ -885,7 +885,7 @@
     "Debuts": { "Light Novel": "Volume 16" }
   },
   {
-    "character_description": "\n\n\n\nThe Earth Spider (土蜘蛛) is a spirit. It currently resides in the city of Pappelt, under the care of Regin Suwen and Marone Lisbon.\n\n",
+    "description": "\n\n\n\nThe Earth Spider (土蜘蛛) is a spirit. It currently resides in the city of Pappelt, under the care of Regin Suwen and Marone Lisbon.\n\n",
     "character_name": "Earth Spider",
     "name": "Earth Spider",
     "Kanji": "土蜘蛛",
@@ -896,7 +896,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 5" }
   },
   {
-    "character_description": "This page is about the Witch of Greed. For the artificial spirit, see Eridna.\n\n\n\n\nEchidna (エキドナ) was the Witch of Greed. Mentioned throughout the series, particularly for her connection to Roswaal and Beatrice, she formally debuted in Arc 4 as a major supporting character and later secondary antagonist.\nThroughout Arc 4, her soul served as the overseer of the trials to remove the barrier surrounding the Sanctuary. Learning of Return by Death, she attempted to get close with Subaru, but he cut her off after discovering her motives. At the end of the arc, she achieved complete rebirth by transferring her soul into Ryuzu Shima, named herself Omega, and wandered off into the world with the souls of the other five deceased Witches of Sin contained within a glintstone necklace.\n\n",
+    "description": "This page is about the Witch of Greed. For the artificial spirit, see Eridna.\n\n\n\n\nEchidna (エキドナ) was the Witch of Greed. Mentioned throughout the series, particularly for her connection to Roswaal and Beatrice, she formally debuted in Arc 4 as a major supporting character and later secondary antagonist.\nThroughout Arc 4, her soul served as the overseer of the trials to remove the barrier surrounding the Sanctuary. Learning of Return by Death, she attempted to get close with Subaru, but he cut her off after discovering her motives. At the end of the arc, she achieved complete rebirth by transferring her soul into Ryuzu Shima, named herself Omega, and wandered off into the world with the souls of the other five deceased Witches of Sin contained within a glintstone necklace.\n\n",
     "character_name": "Echidna",
     "name": "Echidna",
     "Kanji": "エキドナ",
@@ -965,7 +965,7 @@
     "Portrayal": { "Japanese Voice": "Sakamoto Maaya", "English Voice": "Anairis Quiñones" }
   },
   {
-    "character_description": "\n\n\nElsa Granhiert (エルザ・グランヒルテ) was an assassin working together with Meili Portroute as the \"child\" of an individual known as Mother until her death at the hands of Garfiel Tinsel. She was the main antagonist of Arc 1 and one of the primary antagonists of Arc 4.\nShe perished after her body was utterly decimated by Garfiel. However, her corpse would revive itself thanks to her \"Blessing\" and attempt to kill Natsuki Subaru.  Ultimately, she was engulfed in an explosion that reduced her to ash.\n\n",
+    "description": "\n\n\nElsa Granhiert (エルザ・グランヒルテ) was an assassin working together with Meili Portroute as the \"child\" of an individual known as Mother until her death at the hands of Garfiel Tinsel. She was the main antagonist of Arc 1 and one of the primary antagonists of Arc 4.\nShe perished after her body was utterly decimated by Garfiel. However, her corpse would revive itself thanks to her \"Blessing\" and attempt to kill Natsuki Subaru.  Ultimately, she was engulfed in an explosion that reduced her to ash.\n\n",
     "character_name": "Elsa Granhiert",
     "name": "Elsa Granhiert",
     "Kanji": "エルザ・グランヒルテ",
@@ -999,7 +999,7 @@
     "Portrayal": { "Japanese Voice": "Noto Mamiko", "English Voice": "Cristina Vee" }
   },
   {
-    "character_description": "\n\n\nEmilia (エミリア) is the main heroine of the Re:Zero kara Hajimeru Isekai Seikatsu series. She is a half-elf and a candidate to become the 42nd King of the Dragon Kingdom of Lugunica in the Royal Selection.\n\n",
+    "description": "\n\n\nEmilia (エミリア) is the main heroine of the Re:Zero kara Hajimeru Isekai Seikatsu series. She is a half-elf and a candidate to become the 42nd King of the Dragon Kingdom of Lugunica in the Royal Selection.\n\n",
     "character_name": "Emilia",
     "name": "Emilia",
     "Kanji": "エミリア",
@@ -1054,7 +1054,7 @@
     "Portrayal": { "Japanese Voice": "Takahashi Rie", "English Voice": "Kayli Mills" }
   },
   {
-    "character_description": "This page is about the artificial spirit. For the Witch of Greed, see Echidna.\n\n\n\n\nEchidna (エキドナ), commonly known as Eridna (襟ドナ), is an artificial spirit created by the Witch of Greed, Echidna, who is currently in service of Anastasia Hoshin. First introduced in Arc 5, she later plays a pivotal role in Arc 6.\nA spirit sharing her name with her creator, the Witch of Greed, she met Anastasia by pure chance. After Julius had his name eaten in Arc 5, Anastasia allowed her to possess her so she would not forget him. In Arc 6, she guided Subaru and his companions to the Pleiades Watchtower. In the arc's climax, she gave Anastasia her body back, causing her to forget Julius but also allowing the two to start over.\n\n",
+    "description": "This page is about the artificial spirit. For the Witch of Greed, see Echidna.\n\n\n\n\nEchidna (エキドナ), commonly known as Eridna (襟ドナ), is an artificial spirit created by the Witch of Greed, Echidna, who is currently in service of Anastasia Hoshin. First introduced in Arc 5, she later plays a pivotal role in Arc 6.\nA spirit sharing her name with her creator, the Witch of Greed, she met Anastasia by pure chance. After Julius had his name eaten in Arc 5, Anastasia allowed her to possess her so she would not forget him. In Arc 6, she guided Subaru and his companions to the Pleiades Watchtower. In the arc's climax, she gave Anastasia her body back, causing her to forget Julius but also allowing the two to start over.\n\n",
     "character_name": "Echidna",
     "name": "Echidna",
     "Kanji": "エキドナ",
@@ -1084,7 +1084,7 @@
     "Debuts": { "Light Novel": ["Volume 4 (shown)", "Volume 20 (actual)"] }
   },
   {
-    "character_description": "\n\n\nEugard Vollachia (ユーガルド・ヴォラキア) was the sixty-first emperor of the Sacred Vollachia Empire and the former lover of Iris until the two of them were betrayed, leading to his beloved's death and causing him to descend into madness. At an unknown time during or after his reign, the story of his relationship was adapted into a famed tale called Iris and the King of Thorns.\nIn the events of Arc 8, Eugard appears as a zombie during the Great Disaster.\n\n",
+    "description": "\n\n\nEugard Vollachia (ユーガルド・ヴォラキア) was the sixty-first emperor of the Sacred Vollachia Empire and the former lover of Iris until the two of them were betrayed, leading to his beloved's death and causing him to descend into madness. At an unknown time during or after his reign, the story of his relationship was adapted into a famed tale called Iris and the King of Thorns.\nIn the events of Arc 8, Eugard appears as a zombie during the Great Disaster.\n\n",
     "character_name": "Eugard Vollachia",
     "name": "Eugard Vollachia",
     "Kanji": "ユーガルド・ヴォラキア",
@@ -1120,7 +1120,7 @@
     "Debuts": { "Light Novel": "Volume 36" }
   },
   {
-    "character_description": "\n\n\nEzzo Cadner (エッゾ・カドナー) is a mage and a member of the Felt Camp.\n\n",
+    "description": "\n\n\nEzzo Cadner (エッゾ・カドナー) is a mage and a member of the Felt Camp.\n\n",
     "character_name": "Ezzo Cadner",
     "name": "Ezzo Cadner",
     "Kanji": "エッゾ・カドナー",
@@ -1139,7 +1139,7 @@
     }
   },
   {
-    "character_description": "\n\nFarsale Lugunica (ファルセイル・ルグニカ) was the 35th King of Lugunica who made a contract with the Divine Dragon Volcanica to help protect the Kingdom of Lugunica. He was the last known \"Lion King\".\n\n",
+    "description": "\n\nFarsale Lugunica (ファルセイル・ルグニカ) was the 35th King of Lugunica who made a contract with the Divine Dragon Volcanica to help protect the Kingdom of Lugunica. He was the last known \"Lion King\".\n\n",
     "character_name": "Farsale Lugunica",
     "name": "Farsale Lugunica",
     "Kanji": "ファルセイル・ルグニカ",
@@ -1172,7 +1172,7 @@
     }
   },
   {
-    "character_description": "\n\n\nFelt (フェルト) is a former thief and a candidate to become the 42nd King of Lugunica. She is a supporting character first introduced in Arc 1, where she plays a major role. She also played a supporting role in Arc 5.\nShe was hired to steal Emilia's insignia, but later ended up fighting alongside her, Natsuki Subaru, and Reinhard van Astrea against Elsa Granhiert. Afterward, she is forced to participate in the Royal Selection after being chosen by the insignia. Having grown up in the slums, she takes the opportunity to get revenge on the Kingdom by making her primary policy to disband all government.\nFurthermore, it is heavily implied that Felt is, in fact, a member of the Royal Family and the missing daughter of His Majesty's younger brother, Ford Lugunica, who died roughly a year before the events of the main story. 14 years ago, a group of thieves stormed into the Royal Palace and kidnapped the Ford's child. In both appearance and age, Felt matches all descriptions of the missing Royal Family member. Some important figures such as Reinhard van Astrea and Miklotov McMahon have already pointed out the very high likelihood of this being the case, as well.\n\n",
+    "description": "\n\n\nFelt (フェルト) is a former thief and a candidate to become the 42nd King of Lugunica. She is a supporting character first introduced in Arc 1, where she plays a major role. She also played a supporting role in Arc 5.\nShe was hired to steal Emilia's insignia, but later ended up fighting alongside her, Natsuki Subaru, and Reinhard van Astrea against Elsa Granhiert. Afterward, she is forced to participate in the Royal Selection after being chosen by the insignia. Having grown up in the slums, she takes the opportunity to get revenge on the Kingdom by making her primary policy to disband all government.\nFurthermore, it is heavily implied that Felt is, in fact, a member of the Royal Family and the missing daughter of His Majesty's younger brother, Ford Lugunica, who died roughly a year before the events of the main story. 14 years ago, a group of thieves stormed into the Royal Palace and kidnapped the Ford's child. In both appearance and age, Felt matches all descriptions of the missing Royal Family member. Some important figures such as Reinhard van Astrea and Miklotov McMahon have already pointed out the very high likelihood of this being the case, as well.\n\n",
     "character_name": "Felt",
     "name": "Felt",
     "Kanji": "フェルト",
@@ -1215,7 +1215,7 @@
     }
   },
   {
-    "character_description": "\n\n\nFelix Argyle (フェリックス・アーガイル), commonly known as Ferris (フェリス), is Crusch Karsten's knight. Debuting in Arc 3, he played a rather vital role as Crusch's knight and supported Subaru in his fight against the Hakugei and Sin Archbishop of Sloth.\n\n",
+    "description": "\n\n\nFelix Argyle (フェリックス・アーガイル), commonly known as Ferris (フェリス), is Crusch Karsten's knight. Debuting in Arc 3, he played a rather vital role as Crusch's knight and supported Subaru in his fight against the Hakugei and Sin Archbishop of Sloth.\n\n",
     "character_name": "Felix Argyle",
     "name": "Felix Argyle",
     "Kanji": "フェリックス・アーガイル",
@@ -1271,7 +1271,7 @@
     "Portrayal": { "Japanese Voice": "Horie Yui", "English Voice": "Sarah Anne Williams" }
   },
   {
-    "character_description": "\n\n\nFlam Remendis (フラム・レメンディス) is the granddaughter of Carol and Grimm Fauzen. She later joined the Felt Camp along with her twin sister, Grassis Remendis.\n\n",
+    "description": "\n\n\nFlam Remendis (フラム・レメンディス) is the granddaughter of Carol and Grimm Fauzen. She later joined the Felt Camp along with her twin sister, Grassis Remendis.\n\n",
     "character_name": "Flam Remendis",
     "name": "Flam Remendis",
     "Kanji": "フラム・レメンディス",
@@ -1299,7 +1299,7 @@
     "Debuts": { "Light Novel": "Volume 4", "Manga": "Chapter 4", "Anime": "Re:Zero Episode 12" }
   },
   {
-    "character_description": "\n\n\nFlop O'Connell (フロップ・オコーネル) is a merchant and the older brother of Medium O'Connell. He made his debut in Arc 7.\n\n",
+    "description": "\n\n\nFlop O'Connell (フロップ・オコーネル) is a merchant and the older brother of Medium O'Connell. He made his debut in Arc 7.\n\n",
     "character_name": "Flop O'Connell",
     "name": "Flop O'Connell",
     "Kanji": "フロップ・オコーネル",
@@ -1318,7 +1318,7 @@
     "Debuts": { "Light Novel": "Volume 27" }
   },
   {
-    "character_description": "\n\n\nFortuna (フォルトナ) was Emilia's paternal aunt and the guardian of the seal in Elior Forest. Roughly a century before the events of the main story, she took care of a young Emilia instead of her parents.\nShe was repeatedly brought up during the events of Arc 4 until she officially debuted in Emilia's first trial. Having been the person Emilia was close to the most throughout her supposed childhood, she plays a pivotal role in Emilia's character arc as she greatly influenced the young half-elf's view of the world. She was killed by Petelgeuse Romanée-Conti after he was deceived by Pandora.  \n\n",
+    "description": "\n\n\nFortuna (フォルトナ) was Emilia's paternal aunt and the guardian of the seal in Elior Forest. Roughly a century before the events of the main story, she took care of a young Emilia instead of her parents.\nShe was repeatedly brought up during the events of Arc 4 until she officially debuted in Emilia's first trial. Having been the person Emilia was close to the most throughout her supposed childhood, she plays a pivotal role in Emilia's character arc as she greatly influenced the young half-elf's view of the world. She was killed by Petelgeuse Romanée-Conti after he was deceived by Pandora.  \n\n",
     "character_name": "Fortuna",
     "name": "Fortuna",
     "Kanji": "フォルトナ",
@@ -1355,7 +1355,7 @@
     "Portrayal": { "Japanese Voice": "Tomatsu Haruka", "English Voice": "Amber Lee Connors" }
   },
   {
-    "character_description": "\n\n\nFourier Lugunica (フーリエ・ルグニカ) was the Fourth Prince of Lugunica and the childhood friend of Crusch Karsten and Ferris Argyle. Though his only mentions in the main story were in Volume 7, Fourier played a key role in Ex 1, where he is featured as one of the three protagonists alongside Crusch and Ferris.\nHe died roughly a year before the events of the main story, having succumbed to the mysterious illness that plagued the Lugunican Royal Family, on the same day as his father Randohal Lugunica thus having had his death treated as nothing more than a small note, next to the news of the King's death. \n\n",
+    "description": "\n\n\nFourier Lugunica (フーリエ・ルグニカ) was the Fourth Prince of Lugunica and the childhood friend of Crusch Karsten and Ferris Argyle. Though his only mentions in the main story were in Volume 7, Fourier played a key role in Ex 1, where he is featured as one of the three protagonists alongside Crusch and Ferris.\nHe died roughly a year before the events of the main story, having succumbed to the mysterious illness that plagued the Lugunican Royal Family, on the same day as his father Randohal Lugunica thus having had his death treated as nothing more than a small note, next to the news of the King's death. \n\n",
     "character_name": "Fourier Lugunica",
     "name": "Fourier Lugunica",
     "Kanji": "フーリエ・ルグニカ",
@@ -1385,7 +1385,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 1 (side story)", "Volume 7 (mentioned)"] }
   },
   {
-    "character_description": "\n\nFramir Suwen (フラミル・スーウェン) is the mother of Otto, Oslo and Regin Suwen.\n\n",
+    "description": "\n\nFramir Suwen (フラミル・スーウェン) is the mother of Otto, Oslo and Regin Suwen.\n\n",
     "character_name": "Framir Suwen",
     "name": "Framir Suwen",
     "Kanji": "フラミル・スーウェン",
@@ -1414,7 +1414,7 @@
     "Portrayal": { "Japanese Voice": "Yamaki Anna" }
   },
   {
-    "character_description": "\n\n\nFrederica Baumann (フレデリカ・バウマン) is a maid in service to Roswaal L Mathers. Joining the Emilia Camp in Arc 4, she has yet to play a major supporting role. However, Frederica is set to have a major one in the final arc.[1]\nThough she was in retirement for a while, Frederica resumed her position at Ram's request following the events of Arc 3. Throughout Arc 4, she helped defend the mansion against Elsa and Meili while having to deal with the complicated family situation regarding her younger half-brother, Garfiel.\n\n",
+    "description": "\n\n\nFrederica Baumann (フレデリカ・バウマン) is a maid in service to Roswaal L Mathers. Joining the Emilia Camp in Arc 4, she has yet to play a major supporting role. However, Frederica is set to have a major one in the final arc.[1]\nThough she was in retirement for a while, Frederica resumed her position at Ram's request following the events of Arc 3. Throughout Arc 4, she helped defend the mansion against Elsa and Meili while having to deal with the complicated family situation regarding her younger half-brother, Garfiel.\n\n",
     "character_name": "Frederica Baumann",
     "name": "Frederica Baumann",
     "Kanji": "フレデリカ・バウマン",
@@ -1461,7 +1461,7 @@
     }
   },
   {
-    "character_description": "\n\n\nFred Thompson (フレド・トンプソン) is Garek Thompson's son.\n\n",
+    "description": "\n\n\nFred Thompson (フレド・トンプソン) is Garek Thompson's son.\n\n",
     "character_name": "Fred Thompson",
     "name": "Fred Thompson",
     "Kanji": "フレド・トンプソン",
@@ -1489,7 +1489,7 @@
     "Debuts": { "Light Novel": "Volume 17" }
   },
   {
-    "character_description": "\n\n\nFrufoo (フルフー) is Otto Suwen's earth dragon and an old companion that has been with him for many travels.\n\n",
+    "description": "\n\n\nFrufoo (フルフー) is Otto Suwen's earth dragon and an old companion that has been with him for many travels.\n\n",
     "character_name": "Frufoo",
     "name": "Frufoo",
     "Kanji": "フルフー",
@@ -1510,7 +1510,7 @@
     "Debuts": { "Light Novel": "Volume 5", "Manga": "Chapter 12", "Anime": "Episode 14" }
   },
   {
-    "character_description": "\n\n\nGarek Thompson (ギャレク・トンプソン) is Priestella's Metropolitan Director and the husband of Reala Thompson.\n\n",
+    "description": "\n\n\nGarek Thompson (ギャレク・トンプソン) is Priestella's Metropolitan Director and the husband of Reala Thompson.\n\n",
     "character_name": "Garek Thompson",
     "name": "Garek Thompson",
     "Kanji": "ギャレク・トンプソン",
@@ -1534,7 +1534,7 @@
     "Debuts": { "Light Novel": "Volume 17" }
   },
   {
-    "character_description": "\n\n\nGarfiel Tinsel (ガーフィール・ティンゼル) is Frederica Baumann's half-brother, the former guardian of the Sanctuary, and the current military officer of the Emilia Camp. Introduced as a secondary antagonist during the first half of Arc 4, he later became one of the main supporting characters of Re:Zero, with major roles in the second half of Arc 4, Arc 5, and Arc 7.\nHe harboured an immense fear of the outside world following a family tragedy. However, with Subaru's help, he overcame his past trauma and, after overcoming the incidents at the Sanctuary and Roswaal Manor, joined the Emilia Camp. Since being exposed to the outside world, he has faced many situations where he was powerless, yet he still remains determined to protect those close to him.\n\n",
+    "description": "\n\n\nGarfiel Tinsel (ガーフィール・ティンゼル) is Frederica Baumann's half-brother, the former guardian of the Sanctuary, and the current military officer of the Emilia Camp. Introduced as a secondary antagonist during the first half of Arc 4, he later became one of the main supporting characters of Re:Zero, with major roles in the second half of Arc 4, Arc 5, and Arc 7.\nHe harboured an immense fear of the outside world following a family tragedy. However, with Subaru's help, he overcame his past trauma and, after overcoming the incidents at the Sanctuary and Roswaal Manor, joined the Emilia Camp. Since being exposed to the outside world, he has faced many situations where he was powerless, yet he still remains determined to protect those close to him.\n\n",
     "character_name": "Garfiel Tinsel",
     "name": "Garfiel Tinsel",
     "Kanji": "ガーフィール・ティンゼル",
@@ -1589,7 +1589,7 @@
     }
   },
   {
-    "character_description": "\n\n\nGaritch Fabless (ガリッチ・ファブレス) was Ferris's teacher and the healer that previously held the title of Blue.\n\n",
+    "description": "\n\n\nGaritch Fabless (ガリッチ・ファブレス) was Ferris's teacher and the healer that previously held the title of Blue.\n\n",
     "character_name": "Garitch Fabless",
     "name": "Garitch Fabless",
     "Kanji": "ガリッチ・ファブレス",
@@ -1618,7 +1618,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 5" }
   },
   {
-    "character_description": "\n\n\nGaston (ガストン), commonly known as Ton (トン), is one of the three thugs that attacked Subaru at the very start of Arc 1. He later joined the Felt Camp when Felt employed him after Royal Selection began. Debuting at the very start of the first volume of Re:Zero, Gaston played a secondary antagonistic role. He later reappeared in Arc 3, a day before the Royal Selection, tailing Subaru and Priscilla Barielle with Rachins and Camberley, until he and fifteen-some other unnamed thugs were promptly beaten almost half to death by Rem.\nA year later, Gaston accompanied Felt, Reinhard and Rachins Hoffman to the Watergate City of Priestella, acting as Felt's bodyguard when Reinhard wasn't around. There, he was involved with the subjugation of Gluttony, and he helped in forcing the Sin Archbishop to flee the city. Currently, Gaston is staying behind in Priestella, helping the city as instructed by Felt.\n\n",
+    "description": "\n\n\nGaston (ガストン), commonly known as Ton (トン), is one of the three thugs that attacked Subaru at the very start of Arc 1. He later joined the Felt Camp when Felt employed him after Royal Selection began. Debuting at the very start of the first volume of Re:Zero, Gaston played a secondary antagonistic role. He later reappeared in Arc 3, a day before the Royal Selection, tailing Subaru and Priscilla Barielle with Rachins and Camberley, until he and fifteen-some other unnamed thugs were promptly beaten almost half to death by Rem.\nA year later, Gaston accompanied Felt, Reinhard and Rachins Hoffman to the Watergate City of Priestella, acting as Felt's bodyguard when Reinhard wasn't around. There, he was involved with the subjugation of Gluttony, and he helped in forcing the Sin Archbishop to flee the city. Currently, Gaston is staying behind in Priestella, helping the city as instructed by Felt.\n\n",
     "character_name": "Gaston",
     "name": "Gaston",
     "Kanji": "ガストン",
@@ -1642,7 +1642,7 @@
     "Portrayal": { "Japanese Voice": "Yamamoto Itaru", "English Voice": "Chris Tergliafera" }
   },
   {
-    "character_description": "\n\n\nGionis Lugunica (ジオニス・ルグニカ) was the 40th King of Lugunica. He was succeeded by Randohal Lugunica.\nDebuting in Ex 2, Gionis played a passive but important role, influencing and kickstarting many events in Ex 2, Ex 3, and Sword Demon Battle Ballad.\n\n",
+    "description": "\n\n\nGionis Lugunica (ジオニス・ルグニカ) was the 40th King of Lugunica. He was succeeded by Randohal Lugunica.\nDebuting in Ex 2, Gionis played a passive but important role, influencing and kickstarting many events in Ex 2, Ex 3, and Sword Demon Battle Ballad.\n\n",
     "character_name": "Gionis Lugunica",
     "name": "Gionis Lugunica",
     "Kanji": "ジオニス・ルグニカ",
@@ -1673,7 +1673,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 2 (mentioned)", "Ex Volume 3 (actual)"] }
   },
   {
-    "character_description": "\n\n\nGoz Ralfon (ゴズ・ラルフォン) is the Fifth ranking Divine General of the Sacred Vollachia Empire.\nGoz is a skilled commander who is absolutely loyal to the Vollachia Empire and its Emperor, Vincent Vollachia. In Ex 4, he immediately took charge of the plan to retrieve the  kidnapped Emperor and dispatched three Divine Generals to save Vincent. Goz would later help the Emperor escape the Crystal Palace after a coup d'état forced Vincent to flee from the Imperial Capital of Lupugana. He made his debut in Arc 7.\n\n",
+    "description": "\n\n\nGoz Ralfon (ゴズ・ラルフォン) is the Fifth ranking Divine General of the Sacred Vollachia Empire.\nGoz is a skilled commander who is absolutely loyal to the Vollachia Empire and its Emperor, Vincent Vollachia. In Ex 4, he immediately took charge of the plan to retrieve the  kidnapped Emperor and dispatched three Divine Generals to save Vincent. Goz would later help the Emperor escape the Crystal Palace after a coup d'état forced Vincent to flee from the Imperial Capital of Lupugana. He made his debut in Arc 7.\n\n",
     "character_name": "Goz Ralfon",
     "name": "Goz Ralfon",
     "Kanji": "ゴズ・ラルフォン",
@@ -1695,7 +1695,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 4 (side story)", "Volume 32 (main story)"] }
   },
   {
-    "character_description": "\n\n\nGrassis Remendis (グラシス・レメンディス) is the granddaughter of Carol and Grimm Fauzen. She later joined the Felt Camp along with her twin sister, Flam Remendis.\n\n",
+    "description": "\n\n\nGrassis Remendis (グラシス・レメンディス) is the granddaughter of Carol and Grimm Fauzen. She later joined the Felt Camp along with her twin sister, Flam Remendis.\n\n",
     "character_name": "Grassis Remendis",
     "name": "Grassis Remendis",
     "Kanji": "グラシス・レメンディス",
@@ -1723,7 +1723,7 @@
     "Debuts": { "Light Novel": "Volume 4", "Manga": "Chapter 4", "Anime": "Re:Zero Episode 12" }
   },
   {
-    "character_description": "\n\n\nGrimm Fauzen (グリム・ファウゼン) is the former second and final Deputy Commander of the Zellgef Squadron. Debuting in Ex 2, Grimm played a pivotal role in Wilhelm van Astrea's uprising as the Sword Demon, in his own spinoff trilogy. The two formed an unbreakable bond of friendship that somewhat dissipated in the latter years of their lives. Though originally born into a commoner family, Grimm received the title of a Great Knight, following his contributions during the Subjugation of the Blight Dragon, roughly a year after the end of the Demi-Human War.\nHe and his wife Carol currently serve the Astrea family and stay in the Astrea Manor, located in the Kingdom's Royal Capital.\n\n",
+    "description": "\n\n\nGrimm Fauzen (グリム・ファウゼン) is the former second and final Deputy Commander of the Zellgef Squadron. Debuting in Ex 2, Grimm played a pivotal role in Wilhelm van Astrea's uprising as the Sword Demon, in his own spinoff trilogy. The two formed an unbreakable bond of friendship that somewhat dissipated in the latter years of their lives. Though originally born into a commoner family, Grimm received the title of a Great Knight, following his contributions during the Subjugation of the Blight Dragon, roughly a year after the end of the Demi-Human War.\nHe and his wife Carol currently serve the Astrea family and stay in the Astrea Manor, located in the Kingdom's Royal Capital.\n\n",
     "character_name": "Grimm Fauzen",
     "name": "Grimm Fauzen",
     "Kanji": "グリム・ファウゼン",
@@ -1757,7 +1757,7 @@
     }
   },
   {
-    "character_description": "\n\n\nGroovy Gumlet (グルービー・ガムレット) is the Sixth ranking Divine General of the Sacred Vollachia Empire.\n\n",
+    "description": "\n\n\nGroovy Gumlet (グルービー・ガムレット) is the Sixth ranking Divine General of the Sacred Vollachia Empire.\n\n",
     "character_name": "Groovy Gumlet",
     "name": "Groovy Gumlet",
     "Kanji": "グルービー・ガムレット",
@@ -1778,7 +1778,7 @@
     "Debuts": { "Light Novel": "Ex Volume 4" }
   },
   {
-    "character_description": "\n\n\nGustav Morello (グスタフ・モレロ) is the current viceroy and Island Chief of the Gladiator Island Ginunhive. He made his debut in Arc 7.\n\n",
+    "description": "\n\n\nGustav Morello (グスタフ・モレロ) is the current viceroy and Island Chief of the Gladiator Island Ginunhive. He made his debut in Arc 7.\n\n",
     "character_name": "Gustav Morello",
     "name": "Gustav Morello",
     "Kanji": "グスタフ・モレロ",
@@ -1799,7 +1799,7 @@
     "Debuts": { "Light Novel": "Volume 31" }
   },
   {
-    "character_description": "\n\n\nHalibel (ハリベル) is a citizen of Kararagi who is known throughout the world for being one of the three people said to be on par with the Kingdom's Reinhard van Astrea in terms of overall martial skill, alongside the Empire's Cecilus Segmunt and the Holy Kingdom's Mad Prince.[1]\n\n",
+    "description": "\n\n\nHalibel (ハリベル) is a citizen of Kararagi who is known throughout the world for being one of the three people said to be on par with the Kingdom's Reinhard van Astrea in terms of overall martial skill, alongside the Empire's Cecilus Segmunt and the Holy Kingdom's Mad Prince.[1]\n\n",
     "character_name": "Halibel",
     "name": "Halibel",
     "Kanji": "ハリベル",
@@ -1820,7 +1820,7 @@
     "Debuts": { "Light Novel": ["Re:IF (side story)", "Volume 34 (main story)"] }
   },
   {
-    "character_description": "\n\n\nHannah Regret (ハンナ・リグレット) was the only maid of the Argyle household. She's implied to be Felix Argyle's true birth mother from a potential affair with her master Biehn Argyle. \n\n",
+    "description": "\n\n\nHannah Regret (ハンナ・リグレット) was the only maid of the Argyle household. She's implied to be Felix Argyle's true birth mother from a potential affair with her master Biehn Argyle. \n\n",
     "character_name": "Hannah Regret",
     "name": "Hannah Regret",
     "Kanji": "ハンナ・リグレット",
@@ -1842,7 +1842,7 @@
     "Debuts": { "Light Novel": "Ex Volume 1" }
   },
   {
-    "character_description": "\n\n\nHector (ヘクトール) is the Warlock of Melancholy. Currently, not much is known about him. He has some importance in Roswaal's and Echidna's backstories as well as to the origin of the Sanctuary, as he was the reason for its creation.\nRoughly 400 years ago, he pursued Echidna to the Sanctuary, where he swiftly defeated Roswaal's ancestor, Roswaal A Mathers, and engaged the Witch of Greed. The outcome of their fight, as well as his current status and whereabouts are unknown. His name seems to be completely absent from historical records.[1]\n\n",
+    "description": "\n\n\nHector (ヘクトール) is the Warlock of Melancholy. Currently, not much is known about him. He has some importance in Roswaal's and Echidna's backstories as well as to the origin of the Sanctuary, as he was the reason for its creation.\nRoughly 400 years ago, he pursued Echidna to the Sanctuary, where he swiftly defeated Roswaal's ancestor, Roswaal A Mathers, and engaged the Witch of Greed. The outcome of their fight, as well as his current status and whereabouts are unknown. His name seems to be completely absent from historical records.[1]\n\n",
     "character_name": "Hector",
     "name": "Hector",
     "Kanji": "ヘクトール",
@@ -1866,7 +1866,7 @@
     "Portrayal": { "Japanese Voice": "Suwabe Junichi", "English Voice": "J. Michael Tatum" }
   },
   {
-    "character_description": "\n\n\nHeinkel Astrea (ハインケル・アストレア) is the current Patriarch of House Astrea and the Deputy Commander of the Royal Guard. He is first introduced in Arc 5.\nOnce a gentle and kind man, after his wife fell into a coma he turned into an alcoholic, causing him to neglect his son and abuse his power as Deputy Commander. Some time prior to Arc 5, he joined the Priscilla Camp in hopes that, if their camp won the Royal Selection, he can gain access to the Dragon's Blood and save his wife.\n\n",
+    "description": "\n\n\nHeinkel Astrea (ハインケル・アストレア) is the current Patriarch of House Astrea and the Deputy Commander of the Royal Guard. He is first introduced in Arc 5.\nOnce a gentle and kind man, after his wife fell into a coma he turned into an alcoholic, causing him to neglect his son and abuse his power as Deputy Commander. Some time prior to Arc 5, he joined the Priscilla Camp in hopes that, if their camp won the Royal Selection, he can gain access to the Dragon's Blood and save his wife.\n\n",
     "character_name": "Heinkel Astrea",
     "name": "Heinkel Astrea",
     "Kanji": "ハインケル・アストレア",
@@ -1909,7 +1909,7 @@
     "Debuts": { "Light Novel": "Volume 16" }
   },
   {
-    "character_description": "\n\n\nHetaro Pearlbaton (ヘータロー・パールバトン) is one of Anastasia Hoshin's followers and is one of the three vice captains of the mercenary group known as the Iron Fang.\n\n",
+    "description": "\n\n\nHetaro Pearlbaton (ヘータロー・パールバトン) is one of Anastasia Hoshin's followers and is one of the three vice captains of the mercenary group known as the Iron Fang.\n\n",
     "character_name": "Hetaro Pearlbaton",
     "name": "Hetaro Pearlbaton",
     "Kanji": "ヘータロー・パールバトン",
@@ -1950,7 +1950,7 @@
     "Portrayal": { "Japanese Voice": "Han Megumi", "English Voice": "Kira Buckland" }
   },
   {
-    "character_description": "\n\n\nHiain Yatz (ヒアイン・ヤッツ) is a former gladiator at the Gladiator Island Ginunhive and a member of Subaru's Unit during the latter's stay on the island who later joined the Pleiades Battalion. He made his debut in Arc 7.\n\n",
+    "description": "\n\n\nHiain Yatz (ヒアイン・ヤッツ) is a former gladiator at the Gladiator Island Ginunhive and a member of Subaru's Unit during the latter's stay on the island who later joined the Pleiades Battalion. He made his debut in Arc 7.\n\n",
     "character_name": "Hiain Yatz",
     "name": "Hiain Yatz",
     "Kanji": "ヒアイン・ヤッツ",
@@ -1965,7 +1965,7 @@
     "Debuts": { "Light Novel": "Volume 31" }
   },
   {
-    "character_description": "\n\n\nHolly Shudrak (ホーリィ・シュドラク) is a member of the People of Shudrak located in the depths of the Buddheim Jungle, in the Empire of Vollachia. She debuted in Arc 7.\n\n",
+    "description": "\n\n\nHolly Shudrak (ホーリィ・シュドラク) is a member of the People of Shudrak located in the depths of the Buddheim Jungle, in the Empire of Vollachia. She debuted in Arc 7.\n\n",
     "character_name": "Holly Shudrak",
     "name": "Holly Shudrak",
     "Kanji": "ホーリィ・シュドラク",
@@ -1982,7 +1982,7 @@
     "Debuts": { "Light Novel": "Volume 26" }
   },
   {
-    "character_description": "\n\n\nHornet (ホーネット) was a gladiator at the Gladiator Island Ginunhive. During the Gladiator Island insurgence covered in Ex 5, she helped the uprising's mastermind, Ubilk, attempt to free the island from the mainland, knowing it would end in failure. She was killed during her fight with Al and Arakiya by being poisoned, dying a non-honourary death against her wishes.\nIn Arc 8, Hornet appears as a zombie during the Great Disaster, facing off against Goz Ralfon outside the Fortified City of Garkla.\n\n",
+    "description": "\n\n\nHornet (ホーネット) was a gladiator at the Gladiator Island Ginunhive. During the Gladiator Island insurgence covered in Ex 5, she helped the uprising's mastermind, Ubilk, attempt to free the island from the mainland, knowing it would end in failure. She was killed during her fight with Al and Arakiya by being poisoned, dying a non-honourary death against her wishes.\nIn Arc 8, Hornet appears as a zombie during the Great Disaster, facing off against Goz Ralfon outside the Fortified City of Garkla.\n\n",
     "character_name": "Hornet",
     "name": "Hornet",
     "Kanji": "ホーネット",
@@ -2003,7 +2003,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 5 (side story)", "Volume 37 (main story)"] }
   },
   {
-    "character_description": "\n\n\nIdra Missanga (イドラ・ミサンガ) is a former gladiator at the Gladiator Island Ginunhive and a member of Subaru's Unit during the latter's stay on the island who later joined the Pleiades Battalion. He made his debut in Arc 7.\n\n",
+    "description": "\n\n\nIdra Missanga (イドラ・ミサンガ) is a former gladiator at the Gladiator Island Ginunhive and a member of Subaru's Unit during the latter's stay on the island who later joined the Pleiades Battalion. He made his debut in Arc 7.\n\n",
     "character_name": "Idra Missanga",
     "name": "Idra Missanga",
     "Kanji": "イドラ・ミサンガ",
@@ -2023,7 +2023,7 @@
     "Debuts": { "Light Novel": "Volume 31" }
   },
   {
-    "character_description": "\n\n\nIlya (イリア) is Doltero Amule and Kalifa's daughter.\n\n",
+    "description": "\n\n\nIlya (イリア) is Doltero Amule and Kalifa's daughter.\n\n",
     "character_name": "Ilya",
     "name": "Ilya",
     "Kanji": "イリア",
@@ -2046,7 +2046,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 4" }
   },
   {
-    "character_description": "\n\n\nJamal Aurélie (ジャマル・オーレリー) is a Low Count of the Sacred Vollachia Empire and a Third-Class General of the Imperial Army. He, alongside Todd, were from the regiment of the Imperial Army that captured Subaru, Rem, and Rui at the start of Arc 7. During the time Subaru was unconscious after jumping into the river to save his life, Jamal and his squad found and were subsequently defeated by Rem.\nInitially appearing as a Private First-Class, Jmamal was captured by members of the People of Shudrak during the Fall of Guaral and held under Second-Class General Zikr Osman's forces. Eventually, he joined the two groups in helping Emperor Vincent Vollachia reclaim his throne. During the Great Disaster in Arc 8, Jamal was promoted to a Third-Class General and became Vincent's appointed bodyguard while on the way to Lupugana.\n\n",
+    "description": "\n\n\nJamal Aurélie (ジャマル・オーレリー) is a Low Count of the Sacred Vollachia Empire and a Third-Class General of the Imperial Army. He, alongside Todd, were from the regiment of the Imperial Army that captured Subaru, Rem, and Rui at the start of Arc 7. During the time Subaru was unconscious after jumping into the river to save his life, Jamal and his squad found and were subsequently defeated by Rem.\nInitially appearing as a Private First-Class, Jmamal was captured by members of the People of Shudrak during the Fall of Guaral and held under Second-Class General Zikr Osman's forces. Eventually, he joined the two groups in helping Emperor Vincent Vollachia reclaim his throne. During the Great Disaster in Arc 8, Jamal was promoted to a Third-Class General and became Vincent's appointed bodyguard while on the way to Lupugana.\n\n",
     "character_name": "Jamal Aurélie",
     "name": "Jamal Aurélie",
     "Kanji": "ジャマル・オーレリー",
@@ -2073,7 +2073,7 @@
     "Debuts": { "Light Novel": "Volume 26" }
   },
   {
-    "character_description": "\n\n\nJorah Pendleton (ジョラー・ペンダルトン) was a Mid-Count of the Vollachia Empire and the first husband of Priscilla Barielle. He played an important supporting role in the second and third chapters of Ex 5.\n\n",
+    "description": "\n\n\nJorah Pendleton (ジョラー・ペンダルトン) was a Mid-Count of the Vollachia Empire and the first husband of Priscilla Barielle. He played an important supporting role in the second and third chapters of Ex 5.\n\n",
     "character_name": "Jorah Pendleton",
     "name": "Jorah Pendleton",
     "Kanji": "ジョラー・ペンダルトン",
@@ -2096,7 +2096,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 5 (side story)"] }
   },
   {
-    "character_description": "\n\n\nJoseph (ヨーゼフ), also known as Gian (ジャイアン) in the Web Novel, is an earth dragon that the Emilia Camp borrowed on their journey to the Pleiades Watchtower while travelling through the Augria Sand Dunes.\n\n",
+    "description": "\n\n\nJoseph (ヨーゼフ), also known as Gian (ジャイアン) in the Web Novel, is an earth dragon that the Emilia Camp borrowed on their journey to the Pleiades Watchtower while travelling through the Augria Sand Dunes.\n\n",
     "character_name": "JosephGian",
     "name": "JosephGian",
     "Kanji": ["ヨーゼフ", "ジャイアン"],
@@ -2108,7 +2108,7 @@
     "Debuts": { "Light Novel": "Volume 21" }
   },
   {
-    "character_description": "\n\n\nJoshua Juukulius (ヨシュア・ユークリウス) is Julius Juukulius' adoptive younger brother and a member of the Anastasia Camp.\nDebuting in Arc 5, Joshua played a passive role throughout the Arc, and could be often seen travelling around with his fellow Camp companions as well as with Julius. Half way through the Arc, Joshua unluckily stumbled across the Sin Archbishop of Gluttony who ate his name and memories, putting him in a vegetative-like state. Currently, Joshua is yet to wake up.\n\n",
+    "description": "\n\n\nJoshua Juukulius (ヨシュア・ユークリウス) is Julius Juukulius' adoptive younger brother and a member of the Anastasia Camp.\nDebuting in Arc 5, Joshua played a passive role throughout the Arc, and could be often seen travelling around with his fellow Camp companions as well as with Julius. Half way through the Arc, Joshua unluckily stumbled across the Sin Archbishop of Gluttony who ate his name and memories, putting him in a vegetative-like state. Currently, Joshua is yet to wake up.\n\n",
     "character_name": "Joshua Juukulius",
     "name": "Joshua Juukulius",
     "Kanji": "ヨシュア・ユークリウス",
@@ -2140,7 +2140,7 @@
     }
   },
   {
-    "character_description": "\n\n\nJulius Juukulius (ユリウス・ユークリウス) is Anastasia Hoshin's knight and a member of the Royal Guard. He is a supporting character in Re:Zero, with pivotal roles in both Arc 3 and Arc 6, while having a lesser supporting role in Arc 5. Julius also played the role of a protagonist in Ex Volume 4, which is set roughly 3–4 months before the start of the main story and half a year before the start of the Royal Selection.\nHe and Subaru initially started out on the wrong foot, due to their seemingly incompatible personalities. However, during the events of Arc 5, he had his name eaten by the Sin Archbishop of Gluttony, ironically making Subaru the only one who can remember him. In Arc 6, the two finally became friends after realizing they actually have a lot in common.\n\n",
+    "description": "\n\n\nJulius Juukulius (ユリウス・ユークリウス) is Anastasia Hoshin's knight and a member of the Royal Guard. He is a supporting character in Re:Zero, with pivotal roles in both Arc 3 and Arc 6, while having a lesser supporting role in Arc 5. Julius also played the role of a protagonist in Ex Volume 4, which is set roughly 3–4 months before the start of the main story and half a year before the start of the Royal Selection.\nHe and Subaru initially started out on the wrong foot, due to their seemingly incompatible personalities. However, during the events of Arc 5, he had his name eaten by the Sin Archbishop of Gluttony, ironically making Subaru the only one who can remember him. In Arc 6, the two finally became friends after realizing they actually have a lot in common.\n\n",
     "character_name": "Julius Juukulius",
     "name": "Julius Juukulius",
     "Kanji": "ユリウス・ユークリウス",
@@ -2206,7 +2206,7 @@
     }
   },
   {
-    "character_description": "\n\n\nKadomon Risch (カドモン・リッシュ) is a fruit seller in the Royal Capital of Lugunica.\n\n",
+    "description": "\n\n\nKadomon Risch (カドモン・リッシュ) is a fruit seller in the Royal Capital of Lugunica.\n\n",
     "character_name": "Kadomon Risch",
     "name": "Kadomon Risch",
     "Kanji": "カドモン・リッシュ",
@@ -2229,7 +2229,7 @@
     "Portrayal": { "Japanese Voice": "Miyake Kenta", "English Voice": "Patrick Seitz" }
   },
   {
-    "character_description": "\n\n\nKafma Irulux (カフマ・イルルクス) is a Second-Class General of the Sacred Vollachia Empire.\nDebuting in Arc 7, Kafma first appeared as the false Emperor's escort and encountered Subaru, Al, and Medium O'Connell in Chaosflame's Crimson Lapis Castle, where he immediately became hostile attacked the group shortly after.\n\n",
+    "description": "\n\n\nKafma Irulux (カフマ・イルルクス) is a Second-Class General of the Sacred Vollachia Empire.\nDebuting in Arc 7, Kafma first appeared as the false Emperor's escort and encountered Subaru, Al, and Medium O'Connell in Chaosflame's Crimson Lapis Castle, where he immediately became hostile attacked the group shortly after.\n\n",
     "character_name": "Kafma Irulux",
     "name": "Kafma Irulux",
     "Kanji": "カフマ・イルルクス",
@@ -2249,7 +2249,7 @@
     "Debuts": { "Light Novel": "Volume 28" }
   },
   {
-    "character_description": "\n\n\nKatya Aurélie (カチュア・オーレリー) is Jamal's sister and Todd's fiancée. She is a noble from the Aurélie family and has been prone to illnesses from a very young age.\n\n",
+    "description": "\n\n\nKatya Aurélie (カチュア・オーレリー) is Jamal's sister and Todd's fiancée. She is a noble from the Aurélie family and has been prone to illnesses from a very young age.\n\n",
     "character_name": "Katya Aurélie",
     "name": "Katya Aurélie",
     "Kanji": "カチュア・オーレリー",
@@ -2278,7 +2278,7 @@
     }
   },
   {
-    "character_description": "\n\n\nKetty Muttart (ケティ・ムッタート) was a merchant and a member of the Witch Cult.\n\n",
+    "description": "\n\n\nKetty Muttart (ケティ・ムッタート) was a merchant and a member of the Witch Cult.\n\n",
     "character_name": "Ketty Muttart",
     "name": "Ketty Muttart",
     "Kanji": "ケティ・ムッタート",
@@ -2298,7 +2298,7 @@
     "Portrayal": { "Japanese Voice": "Yanaka Hiroshi" }
   },
   {
-    "character_description": "\n\n\nKiritaka Muse (キリタカ・ミューズ) is a trade representative of Priestella and the owner of the Muse Company. He is the last survivor of the Priestellan Council of Ten.\nMaking his debut in the opening volume of Arc 5, Kirataka played a passive, yet rather strong supporting role throughout the whole Arc, as he influenced many events, including the outcome of the battle against Gluttony.\n\n",
+    "description": "\n\n\nKiritaka Muse (キリタカ・ミューズ) is a trade representative of Priestella and the owner of the Muse Company. He is the last survivor of the Priestellan Council of Ten.\nMaking his debut in the opening volume of Arc 5, Kirataka played a passive, yet rather strong supporting role throughout the whole Arc, as he influenced many events, including the outcome of the battle against Gluttony.\n\n",
     "character_name": "Kiritaka Muse",
     "name": "Kiritaka Muse",
     "Kanji": "キリタカ・ミューズ",
@@ -2318,7 +2318,7 @@
     "Debuts": { "Light Novel": ["Volume 16 (actual)", "Tanpenshuu Volume 1 (side story)"] }
   },
   {
-    "character_description": "\n\n\nKuna Shudrak (クーナ・シュドラク) is a member of the People of Shudrak located in the depths of the Buddheim Jungle, in the Empire of Vollachia. She debuted in Arc 7.\nNot long after Subaru and Vincent's initial meeting at the start of Arc 7, Kuna was the one who first made contact with the former Emperor, and took him to the Shudraks' village, at Vincent's own request.\n\n",
+    "description": "\n\n\nKuna Shudrak (クーナ・シュドラク) is a member of the People of Shudrak located in the depths of the Buddheim Jungle, in the Empire of Vollachia. She debuted in Arc 7.\nNot long after Subaru and Vincent's initial meeting at the start of Arc 7, Kuna was the one who first made contact with the former Emperor, and took him to the Shudraks' village, at Vincent's own request.\n\n",
     "character_name": "Kuna Shudrak",
     "name": "Kuna Shudrak",
     "Kanji": "クーナ・シュドラク",
@@ -2335,7 +2335,7 @@
     "Debuts": { "Light Novel": "Volume 26" }
   },
   {
-    "character_description": "\n\n\nKurgan (クルガン) was a hero of the Sacred Vollachia Empire who was regarded as its strongest warrior.[1] Debuting in Arc 5, he played the role of a secondary antagonist, after the Witch Cult resurrected him as a corpse soldier and used him to wreak havoc in the Watergate City of Priestella. He was defeated by Garfiel Tinsel.\nDuring Stride Vollachia's rampage across the Kingdom of Lugunica, in the years following the Demi-Human War, Kurgan acted as Stride's bodyguard, doing the dirty work for him. In that 1-year-span, he had two duels with Wilhelm van Astrea in a battle that would go down in history as The Silver Flower Dance of Picoutatte. Following Stride's and his own defeat, Kurgan returned to the Empire, where he remained until his death. Roughly 14 years before the event of the main story, Kurgan was slain by Regulus Corneas, who single handedly besieged an Imperial city known as Garkla.\n\n",
+    "description": "\n\n\nKurgan (クルガン) was a hero of the Sacred Vollachia Empire who was regarded as its strongest warrior.[1] Debuting in Arc 5, he played the role of a secondary antagonist, after the Witch Cult resurrected him as a corpse soldier and used him to wreak havoc in the Watergate City of Priestella. He was defeated by Garfiel Tinsel.\nDuring Stride Vollachia's rampage across the Kingdom of Lugunica, in the years following the Demi-Human War, Kurgan acted as Stride's bodyguard, doing the dirty work for him. In that 1-year-span, he had two duels with Wilhelm van Astrea in a battle that would go down in history as The Silver Flower Dance of Picoutatte. Following Stride's and his own defeat, Kurgan returned to the Empire, where he remained until his death. Roughly 14 years before the event of the main story, Kurgan was slain by Regulus Corneas, who single handedly besieged an Imperial city known as Garkla.\n\n",
     "character_name": "Kurgan",
     "name": "Kurgan",
     "Kanji": "クルガン",
@@ -2365,7 +2365,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 3 (side story)", "Volume 17 (main story)"] }
   },
   {
-    "character_description": "\n\n\nLamia Godwin (ラミア・ゴドウィン) was an Imperial Princess of the Sacred Vollachia Empire who participated in the Imperial Selection Ceremony. Playing a key role in Prisca Benedict's childhood, Lamia actively hunted down and killed her siblings during the Imperial Selection Ceremony until she perished at the hand of Prisca after betraying her and besieging the Abellux Castle.\nIn Arc 7 and Arc 8, Lamia and many of her deceased family members appear as zombies during the Great Disaster.\n\n",
+    "description": "\n\n\nLamia Godwin (ラミア・ゴドウィン) was an Imperial Princess of the Sacred Vollachia Empire who participated in the Imperial Selection Ceremony. Playing a key role in Prisca Benedict's childhood, Lamia actively hunted down and killed her siblings during the Imperial Selection Ceremony until she perished at the hand of Prisca after betraying her and besieging the Abellux Castle.\nIn Arc 7 and Arc 8, Lamia and many of her deceased family members appear as zombies during the Great Disaster.\n\n",
     "character_name": "Lamia Godwin",
     "name": "Lamia Godwin",
     "Kanji": "ラミア・ゴドウィン",
@@ -2403,7 +2403,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 5 (side story)", "Volume 33 (main story)"] }
   },
   {
-    "character_description": "\n\n\nLeip Barielle (ライプ・バーリエル) was a count and Priscilla Barielle's former husband and the Dragon History Stone's former administrator. He was a disgraced commander during the Demi-Human War who sought to gain control over the Kingdom of Lugunica after his failures in the civil war. \nLater in life, Leip tried using the Royal Selection to make himself into Lugunica's de facto ruler by abusing Sphinx's powers and puppeteering Priscilla's actions during the selection; however, he was permanently incapacitated by Al after he revealed his true intentions to the knight. Leip eventually succumbed to his extreme trauma and died before the Royal Selection began.\n\n",
+    "description": "\n\n\nLeip Barielle (ライプ・バーリエル) was a count and Priscilla Barielle's former husband and the Dragon History Stone's former administrator. He was a disgraced commander during the Demi-Human War who sought to gain control over the Kingdom of Lugunica after his failures in the civil war. \nLater in life, Leip tried using the Royal Selection to make himself into Lugunica's de facto ruler by abusing Sphinx's powers and puppeteering Priscilla's actions during the selection; however, he was permanently incapacitated by Al after he revealed his true intentions to the knight. Leip eventually succumbed to his extreme trauma and died before the Royal Selection began.\n\n",
     "character_name": "Leip Barielle",
     "name": "Leip Barielle",
     "Kanji": "ライプ・バーリエル",
@@ -2428,7 +2428,7 @@
     }
   },
   {
-    "character_description": "\n\n\nLeno Rex (レノ・レックス) is the City Mayor of Costuul and the leader of The Brotherhood.\n\n",
+    "description": "\n\n\nLeno Rex (レノ・レックス) is the City Mayor of Costuul and the leader of The Brotherhood.\n\n",
     "character_name": "Leno Rex",
     "name": "Leno Rex",
     "Kanji": "レノ・レックス",
@@ -2448,7 +2448,7 @@
     "Debuts": { "Light Novel": ["Petra's Emilia Camp Struggle / Page 3 (side story)"] }
   },
   {
-    "character_description": "\n\n\nLibre Fermi (リブレ・フエルミ) was one of the three leaders of the Demi-Human Alliance during the Demi-Human War. He was an influential warrior who was renowned for his prowess in battle and had a reputation as a hero among demi-humans.\nIn the midst of the war, Libre was betrayed and killed by Sphinx, the backbone of the Alliance, became a corpse soldier, and was used as a puppet in death until he was defeated by Bordeaux Zellgef.\n\n",
+    "description": "\n\n\nLibre Fermi (リブレ・フエルミ) was one of the three leaders of the Demi-Human Alliance during the Demi-Human War. He was an influential warrior who was renowned for his prowess in battle and had a reputation as a hero among demi-humans.\nIn the midst of the war, Libre was betrayed and killed by Sphinx, the backbone of the Alliance, became a corpse soldier, and was used as a puppet in death until he was defeated by Bordeaux Zellgef.\n\n",
     "character_name": "Libre Fermi",
     "name": "Libre Fermi",
     "Kanji": "リブレ・フエルミ",
@@ -2469,7 +2469,7 @@
     "Debuts": { "Light Novel": "Ex Volume 2", "Manga": "Shinmeitan Chapter 4" }
   },
   {
-    "character_description": "\n\n\nLilac (ライラ) is a wandering dream arts user. She, alongside Shion, later joined Omega as one of her travelling companions.\n\n",
+    "description": "\n\n\nLilac (ライラ) is a wandering dream arts user. She, alongside Shion, later joined Omega as one of her travelling companions.\n\n",
     "character_name": "Lilac",
     "name": "Lilac",
     "Kanji": "ライラ",
@@ -2490,7 +2490,7 @@
     "Portrayal": { "Japanese Voice": "Ueda Reina" }
   },
   {
-    "character_description": "\n\n\nLiliana Masquerade (リリアナ・マスカレード) is a bard who is currently associated with Kiritaka Muse.\n\n",
+    "description": "\n\n\nLiliana Masquerade (リリアナ・マスカレード) is a bard who is currently associated with Kiritaka Muse.\n\n",
     "character_name": "Liliana Masquerade",
     "name": "Liliana Masquerade",
     "Kanji": "リリアナ・マスカレード",
@@ -2517,7 +2517,7 @@
     "Debuts": { "Light Novel": ["Volume 16 (actual)", "Tanpenshuu Volume 1 (side story)"] }
   },
   {
-    "character_description": "\n\n\nLouanna Astrea (ルアンナ・アストレア) is Heinkel Astrea's wife and Reinhard van Astrea's mother.\nThough not appearing in the main story, she was brought up in Arc 5 and is plays a vital role to both Heinkel and Reinhard's character arcs.\n\n",
+    "description": "\n\n\nLouanna Astrea (ルアンナ・アストレア) is Heinkel Astrea's wife and Reinhard van Astrea's mother.\nThough not appearing in the main story, she was brought up in Arc 5 and is plays a vital role to both Heinkel and Reinhard's character arcs.\n\n",
     "character_name": "Louanna Astrea",
     "name": "Louanna Astrea",
     "Kanji": "ルアンナ・アストレア",
@@ -2548,7 +2548,7 @@
     "Debuts": { "Light Novel": ["Volume 20 (mentioned)", "Felt-chan Saw! (actual)"] }
   },
   {
-    "character_description": "\n\n\nLucas (リュカ) is a citizen of Arlam Village.\n\n\n",
+    "description": "\n\n\nLucas (リュカ) is a citizen of Arlam Village.\n\n\n",
     "character_name": "Lucas",
     "name": "Lucas",
     "Kanji": "リュカ",
@@ -2568,7 +2568,7 @@
     "Portrayal": { "Japanese Voice": "Yoshino Yuna" }
   },
   {
-    "character_description": "\n\n\nLululala (ルルララ) is a novice artist.\n\n",
+    "description": "\n\n\nLululala (ルルララ) is a novice artist.\n\n",
     "character_name": "Lululala",
     "name": "Lululala",
     "Kanji": "ルルララ",
@@ -2582,7 +2582,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 7" }
   },
   {
-    "character_description": "\n\n\nLusbel Kallard (ルスベル・カラード) is a citizen of Priestella.\n\n",
+    "description": "\n\n\nLusbel Kallard (ルスベル・カラード) is a citizen of Priestella.\n\n",
     "character_name": "Lusbel Kallard",
     "name": "Lusbel Kallard",
     "Kanji": "ルスベル・カラード",
@@ -2599,7 +2599,7 @@
     "Debuts": { "Light Novel": "Volume 16" }
   },
   {
-    "character_description": "\n\n\nLye Batenkaitos (ライ・バテンカイトス) was a Sin Archbishop of the Witch Cult, representing the Gourmet aspect of Gluttony. First introduced in the Arc 3 interludes, he later served as a major antagonist in Arc 5 and one of the main antagonists of Arc 6, alongside his brother and sister. In the climax of Arc 6, Lye fought Ram and was subsequently decapitated by her.\nHe was one of the most mysterious and overlooked Sin Archbishops, as due to the nature of his Authority, he was not held responsible for any attacks orchestrated by the Witch Cult. Accordingly, Lye didn't have any actual enemies that would direct their hate towards him alone. Throughout his years as a Sin Archbishop, he ate an innumerable amount of people, inherited their memories and skills, and all the while utilized all sorts of abilities and techniques which he would use for his own benefit until his end.\n\n",
+    "description": "\n\n\nLye Batenkaitos (ライ・バテンカイトス) was a Sin Archbishop of the Witch Cult, representing the Gourmet aspect of Gluttony. First introduced in the Arc 3 interludes, he later served as a major antagonist in Arc 5 and one of the main antagonists of Arc 6, alongside his brother and sister. In the climax of Arc 6, Lye fought Ram and was subsequently decapitated by her.\nHe was one of the most mysterious and overlooked Sin Archbishops, as due to the nature of his Authority, he was not held responsible for any attacks orchestrated by the Witch Cult. Accordingly, Lye didn't have any actual enemies that would direct their hate towards him alone. Throughout his years as a Sin Archbishop, he ate an innumerable amount of people, inherited their memories and skills, and all the while utilized all sorts of abilities and techniques which he would use for his own benefit until his end.\n\n",
     "character_name": "Lye Batenkaitos",
     "name": "Lye Batenkaitos",
     "Kanji": "ライ・バテンカイトス",
@@ -2635,7 +2635,7 @@
     "Portrayal": { "Japanese Voice": "Kawanishi Kengo", "English Voice": "Erik Scott Kimerer" }
   },
   {
-    "character_description": "This page is about the Divine General. For the woman she was named after, see Minor Characters.\n\n\n\n\nMadelyn Eschart (マデリン・エッシャルト) is the Ninth ranking Divine General of the Sacred Vollachia Empire.\n\n",
+    "description": "This page is about the Divine General. For the woman she was named after, see Minor Characters.\n\n\n\n\nMadelyn Eschart (マデリン・エッシャルト) is the Ninth ranking Divine General of the Sacred Vollachia Empire.\n\n",
     "character_name": "Madelyn Eschart",
     "name": "Madelyn Eschart",
     "Kanji": "マデリン・エッシャルト",
@@ -2656,7 +2656,7 @@
     "Debuts": { "Light Novel": ["Tanpenshuu Volume 7 (side story)", "Volume 29 (main story)"] }
   },
   {
-    "character_description": "\n\n\nMarcos Gildark (マーコス・ギルダーク) is the captain of the Royal Guard and the Knight Commander. Debuting in Arc 3, Marcos' only appearance in the main story so far is during the Royal Selection Ceremony, where he played a proxy role between the five Royal Selection Candidates and the Council of Wise Men.\n\n",
+    "description": "\n\n\nMarcos Gildark (マーコス・ギルダーク) is the captain of the Royal Guard and the Knight Commander. Debuting in Arc 3, Marcos' only appearance in the main story so far is during the Royal Selection Ceremony, where he played a proxy role between the five Royal Selection Candidates and the Council of Wise Men.\n\n",
     "character_name": "Marcos Gildark",
     "name": "Marcos Gildark",
     "Kanji": "マーコス・ギルダーク",
@@ -2697,7 +2697,7 @@
     "Portrayal": { "Japanese Voice": "Inada Tetsu", "English Voice": "Chris Tergliafera" }
   },
   {
-    "character_description": "\n\n\nMarone Lisbon (マローネ・リズボン) is a former citizen of Guineb. She later started to help Regin Suwen at his hospital.\n\n",
+    "description": "\n\n\nMarone Lisbon (マローネ・リズボン) is a former citizen of Guineb. She later started to help Regin Suwen at his hospital.\n\n",
     "character_name": "Marone Lisbon",
     "name": "Marone Lisbon",
     "Kanji": "マローネ・リズボン",
@@ -2717,7 +2717,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 4" }
   },
   {
-    "character_description": "\n\nMazeran Suwen (マゼラン・スーウェン) is the current head of the Suwen Company based in Picoutatte and is the father of Otto, Oslo and Regin Suwen.\n\n",
+    "description": "\n\nMazeran Suwen (マゼラン・スーウェン) is the current head of the Suwen Company based in Picoutatte and is the father of Otto, Oslo and Regin Suwen.\n\n",
     "character_name": "Mazeran Suwen",
     "name": "Mazeran Suwen",
     "Kanji": "マゼラン・スーウェン",
@@ -2741,7 +2741,7 @@
     "Portrayal": { "Japanese Voice": "Miura Katsuyuki" }
   },
   {
-    "character_description": "\n\n\nMeckart Karsten (メッカート・カルステン) is Crusch Karsten's father and the former head of House Karsten.\n\n",
+    "description": "\n\n\nMeckart Karsten (メッカート・カルステン) is Crusch Karsten's father and the former head of House Karsten.\n\n",
     "character_name": "Meckart Karsten",
     "name": "Meckart Karsten",
     "Kanji": "メッカート・カルステン",
@@ -2763,7 +2763,7 @@
     "Debuts": { "Light Novel": "Ex Volume 1" }
   },
   {
-    "character_description": "\n\n\nMedium O'Connell (ミディアム・オコーネル) is the sister of Flop O'Connell. She made her debut in Arc 7.\n\n",
+    "description": "\n\n\nMedium O'Connell (ミディアム・オコーネル) is the sister of Flop O'Connell. She made her debut in Arc 7.\n\n",
     "character_name": "Medium O'Connell",
     "name": "Medium O'Connell",
     "Kanji": "ミディアム・オコーネル",
@@ -2783,7 +2783,7 @@
     "Debuts": { "Light Novel": "Volume 27" }
   },
   {
-    "character_description": "\n\n\nMeili Portroute (メィリィ・ポートルート) is a Demon Beast tamer and a former \"child\" of Mother. First introduced in Arc 2 as a hidden antagonist, she is one of the main antagonists of Arc 4 alongside Elsa Granhiert. After the events of the arc, she was imprisoned but later joined the Emilia Camp and serves as one of the main supporting characters of Arc 6.\nIntroduced as a supposed inhabitant of Arlam Village, she is later revealed to have been behind the Demon Beast attack in Arc 2. In Arc 4, she and Elsa were hired to attack Roswaal Manor, but she surrenders after Elsa is killed. In Arc 6, she accompanies Subaru and his companions to the Pleiades Watchtower while intending to avenge Elsa, but she ultimately gives up on it and joins the Emilia Camp.\n\n",
+    "description": "\n\n\nMeili Portroute (メィリィ・ポートルート) is a Demon Beast tamer and a former \"child\" of Mother. First introduced in Arc 2 as a hidden antagonist, she is one of the main antagonists of Arc 4 alongside Elsa Granhiert. After the events of the arc, she was imprisoned but later joined the Emilia Camp and serves as one of the main supporting characters of Arc 6.\nIntroduced as a supposed inhabitant of Arlam Village, she is later revealed to have been behind the Demon Beast attack in Arc 2. In Arc 4, she and Elsa were hired to attack Roswaal Manor, but she surrenders after Elsa is killed. In Arc 6, she accompanies Subaru and his companions to the Pleiades Watchtower while intending to avenge Elsa, but she ultimately gives up on it and joins the Emilia Camp.\n\n",
     "character_name": "Meili Portroute",
     "name": "Meili Portroute",
     "Kanji": "メィリィ・ポートルート",
@@ -2812,7 +2812,7 @@
     "Portrayal": { "Japanese Voice": "Suzuki Eri", "English Voice": "Erika Harlacher" }
   },
   {
-    "character_description": "\n\nMeina (メイーナ) is a citizen of Arlam Village.\n\n\n",
+    "description": "\n\nMeina (メイーナ) is a citizen of Arlam Village.\n\n\n",
     "character_name": "Meina",
     "name": "Meina",
     "Kanji": "メイーナ",
@@ -2832,7 +2832,7 @@
     "Portrayal": { "Japanese Voice": "Kuwahara Yuuki" }
   },
   {
-    "character_description": "This page is about the spirit. For the human, see Minor Characters.\n\n\n\n\nMelakuera (メラクェラ) was the Arbitrator, a former member of the Four Great Spirits. He was a judgmental spirit who viewed Emilia's existence as a sin because she possessed the same physical characteristics as the Witch of Envy, leading him to try and exterminate her. Seven years prior to the beginning of the story, he was eliminated by Puck in a battle that came to be known as the Day of Red Earth and Sky.\n\n",
+    "description": "This page is about the spirit. For the human, see Minor Characters.\n\n\n\n\nMelakuera (メラクェラ) was the Arbitrator, a former member of the Four Great Spirits. He was a judgmental spirit who viewed Emilia's existence as a sin because she possessed the same physical characteristics as the Witch of Envy, leading him to try and exterminate her. Seven years prior to the beginning of the story, he was eliminated by Puck in a battle that came to be known as the Day of Red Earth and Sky.\n\n",
     "character_name": "Melakuera",
     "name": "Melakuera",
     "Kanji": "メラクェラ",
@@ -2854,7 +2854,7 @@
     "Portrayal": { "Japanese Voice": "Genda Tesshō" }
   },
   {
-    "character_description": "\n\n\nMezoreia (メゾレイア) is a Dragon that resides in the Sacred Vollachia Empire. It made its debut in Arc 7.\n\n",
+    "description": "\n\n\nMezoreia (メゾレイア) is a Dragon that resides in the Sacred Vollachia Empire. It made its debut in Arc 7.\n\n",
     "character_name": "Mezoreia",
     "name": "Mezoreia",
     "Kanji": "メゾレイア",
@@ -2869,7 +2869,7 @@
     "Debuts": { "Light Novel": "Volume 32" }
   },
   {
-    "character_description": "\n\n\nMiklotov McMahon (マイクロトフ・マクマホン) is the representative of the Council of Wise Men who are currently ruling over the Dragon Kingdom of Lugunica. Many have considered Miklotov to be the true brains of the Kingdom who, in the event that the royal family were to disappear, would be a suitable replacement ruler.\n\n",
+    "description": "\n\n\nMiklotov McMahon (マイクロトフ・マクマホン) is the representative of the Council of Wise Men who are currently ruling over the Dragon Kingdom of Lugunica. Many have considered Miklotov to be the true brains of the Kingdom who, in the event that the royal family were to disappear, would be a suitable replacement ruler.\n\n",
     "character_name": "Miklotov McMahon",
     "name": "Miklotov McMahon",
     "Kanji": "マイクロトフ・マクマホン",
@@ -2909,7 +2909,7 @@
     }
   },
   {
-    "character_description": "\n\n\nMild (ミルド) is a citizen of Arlam Village.\n\n",
+    "description": "\n\n\nMild (ミルド) is a citizen of Arlam Village.\n\n",
     "character_name": "Mild",
     "name": "Mild",
     "Kanji": "ミルド",
@@ -2929,7 +2929,7 @@
     "Portrayal": { "Japanese Voice": "Kobayashi Yumiko" }
   },
   {
-    "character_description": "\n\n\nMilde Arlam (ミルデ・アーラム) is the village head of Arlam Village.\nShe is a pervert who groped Natsuki Subaru, which made her feel young again.\n\n\n",
+    "description": "\n\n\nMilde Arlam (ミルデ・アーラム) is the village head of Arlam Village.\nShe is a pervert who groped Natsuki Subaru, which made her feel young again.\n\n\n",
     "character_name": "Milde Arlam",
     "name": "Milde Arlam",
     "Kanji": "ミルデ・アーラム",
@@ -2944,7 +2944,7 @@
     "Portrayal": { "Japanese Voice": "Izawa Maki", "English Voice": "Sarah Anne Williams" }
   },
   {
-    "character_description": "\n\n\nMiles (マイルズ) was a Private First-Class from the Sacred Vollachia Empire's Imperial Army. Though he did not appear in the main story, Miles played a rather important antagonistic role in Ex 1 by manipulating Biehn Argyle in order to obtain the Sacrament of the Immortal King for the Empire. During Ex 4, Miles's death at the hands of Reinhard van Astrea was the driving force for Balleroy Temeglyph's thirst for revenge on him.\n\n",
+    "description": "\n\n\nMiles (マイルズ) was a Private First-Class from the Sacred Vollachia Empire's Imperial Army. Though he did not appear in the main story, Miles played a rather important antagonistic role in Ex 1 by manipulating Biehn Argyle in order to obtain the Sacrament of the Immortal King for the Empire. During Ex 4, Miles's death at the hands of Reinhard van Astrea was the driving force for Balleroy Temeglyph's thirst for revenge on him.\n\n",
     "character_name": "Miles",
     "name": "Miles",
     "Kanji": "マイルズ",
@@ -2964,7 +2964,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 1 (side story)", "Volume 30 (flashback)"] }
   },
   {
-    "character_description": "\n\n\nMimi Pearlbaton (ミミ・パールバトン) is one of Anastasia Hoshin's followers and is one of the three vice captains of the mercenary group known as the Iron Fang.\n\n",
+    "description": "\n\n\nMimi Pearlbaton (ミミ・パールバトン) is one of Anastasia Hoshin's followers and is one of the three vice captains of the mercenary group known as the Iron Fang.\n\n",
     "character_name": "Mimi Pearlbaton",
     "name": "Mimi Pearlbaton",
     "Kanji": "ミミ・パールバトン",
@@ -3006,7 +3006,7 @@
     "Portrayal": { "Japanese Voice": "Fujii Yukiyo", "English Voice": "Erica Mendez" }
   },
   {
-    "character_description": "\n\n\nMinerva (ミネルヴァ) was the Witch of Wrath. She formally debuted in Arc 4 as a supporting character.\nFollowing her death 400 years ago, Echidna collected her soul and brought it to the Sanctuary along with the other Witches. Throughout Arc 4, she and the other Witches helped Subaru accept himself and change his views on Return by Death. After the arc, her soul was transferred into a crystal and she is currently travelling with Omega.\n\n",
+    "description": "\n\n\nMinerva (ミネルヴァ) was the Witch of Wrath. She formally debuted in Arc 4 as a supporting character.\nFollowing her death 400 years ago, Echidna collected her soul and brought it to the Sanctuary along with the other Witches. Throughout Arc 4, she and the other Witches helped Subaru accept himself and change his views on Return by Death. After the arc, her soul was transferred into a crystal and she is currently travelling with Omega.\n\n",
     "character_name": "Minerva",
     "name": "Minerva",
     "Kanji": "ミネルヴァ",
@@ -3041,7 +3041,7 @@
     "Portrayal": { "Japanese Voice": "Komatsu Mikako", "English Voice": "Skyler Davenport" }
   },
   {
-    "character_description": "\n\n\nMizelda Shudrak (ミゼルダ・シュドラク) is the previous Chieftain of the People of Shudrak located in the depths of the Buddheim Jungle, in the Empire of Vollachia. She made her debut in Arc 7. Following her devastating injury she sustained during her fight with Arakiya, Mizelda was unable to fulfil her duties as the Shudraks' Chieftain, thus prompting Taritta to take her place.\n\n",
+    "description": "\n\n\nMizelda Shudrak (ミゼルダ・シュドラク) is the previous Chieftain of the People of Shudrak located in the depths of the Buddheim Jungle, in the Empire of Vollachia. She made her debut in Arc 7. Following her devastating injury she sustained during her fight with Arakiya, Mizelda was unable to fulfil her duties as the Shudraks' Chieftain, thus prompting Taritta to take her place.\n\n",
     "character_name": "Mizelda Shudrak",
     "name": "Mizelda Shudrak",
     "Kanji": "ミゼルダ・シュドラク",
@@ -3061,7 +3061,7 @@
     "Debuts": { "Light Novel": "Volume 26" }
   },
   {
-    "character_description": "\n\n\nMoguro Hagane (モグロ・ハガネ) is the Eighth ranking Divine General of the Sacred Vollachia Empire. They are a living meteor who governs the Imperial Capital of Lupugana's Crystal Palace.\n\n",
+    "description": "\n\n\nMoguro Hagane (モグロ・ハガネ) is the Eighth ranking Divine General of the Sacred Vollachia Empire. They are a living meteor who governs the Imperial Capital of Lupugana's Crystal Palace.\n\n",
     "character_name": "Moguro Hagane",
     "name": "Moguro Hagane",
     "Kanji": "モグロ・ハガネ",
@@ -3076,7 +3076,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 4 (side story)", "Volume 32 (main story)"] }
   },
   {
-    "character_description": "\n\n\nMuraosa (ムラオサ) is the younger brother of Milde Arlam. He pretended to be the village head when Subaru visited the village on a shopping run.\n\n\n",
+    "description": "\n\n\nMuraosa (ムラオサ) is the younger brother of Milde Arlam. He pretended to be the village head when Subaru visited the village on a shopping run.\n\n\n",
     "character_name": "Muraosa",
     "name": "Muraosa",
     "Kanji": "ムラオサ",
@@ -3094,7 +3094,7 @@
     "Debuts": { "Light Novel": "Volume 3", "Anime": "Episode 9" }
   },
   {
-    "character_description": "\n\n\nMusica (ムジカ) is a mole human. He is the son of his clan's chief.\n\n",
+    "description": "\n\n\nMusica (ムジカ) is a mole human. He is the son of his clan's chief.\n\n",
     "character_name": "Musica",
     "name": "Musica",
     "Kanji": "ムジカ",
@@ -3105,7 +3105,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 8" }
   },
   {
-    "character_description": "\n\n\nNatsuki Rigel (ナツキ・リゲル) is the non-canon son of Natsuki Subaru and Rem from the Re: Zero If spinoff.\n\n",
+    "description": "\n\n\nNatsuki Rigel (ナツキ・リゲル) is the non-canon son of Natsuki Subaru and Rem from the Re: Zero If spinoff.\n\n",
     "character_name": "Natsuki Rigel",
     "name": "Natsuki Rigel",
     "Kanji": "ナツキ・リゲル",
@@ -3137,7 +3137,7 @@
     }
   },
   {
-    "character_description": "\n\n\nNatsuki Spica (ナツキ・スピカ) is the non-canon daughter of Natsuki Subaru and Rem.\n\n",
+    "description": "\n\n\nNatsuki Spica (ナツキ・スピカ) is the non-canon daughter of Natsuki Subaru and Rem.\n\n",
     "character_name": "Natsuki Spica",
     "name": "Natsuki Spica",
     "Kanji": "ナツキ・スピカ",
@@ -3163,7 +3163,7 @@
     }
   },
   {
-    "character_description": "\n\n\nNatsuki Subaru (ナツキ・スバル) is the main protagonist of Re:Zero kara Hajimeru Isekai Seikatsu. He is a former hikikomori that was transported to Lugunica through unknown means, and given the ability to Return by Death by Satella. He officially became Emilia's knight and subsequently became a knight of the Dragon Kingdom of Lugunica[1] (though he has no duties towards the Kingdom as the title was only granted to him so he could be given the right to officially become Emilia's knight), following the incident at the Sanctuary and is later revealed to have the necessary qualifications to become a Sage Candidate.\n\n",
+    "description": "\n\n\nNatsuki Subaru (ナツキ・スバル) is the main protagonist of Re:Zero kara Hajimeru Isekai Seikatsu. He is a former hikikomori that was transported to Lugunica through unknown means, and given the ability to Return by Death by Satella. He officially became Emilia's knight and subsequently became a knight of the Dragon Kingdom of Lugunica[1] (though he has no duties towards the Kingdom as the title was only granted to him so he could be given the right to officially become Emilia's knight), following the incident at the Sanctuary and is later revealed to have the necessary qualifications to become a Sage Candidate.\n\n",
     "character_name": "Natsuki Subaru",
     "name": "Natsuki Subaru",
     "Kanji": "ナツキ・スバル (菜月 昴)",
@@ -3245,7 +3245,7 @@
     "Portrayal": { "Japanese Voice": "Kobayashi Yuusuke", "English Voice": "Sean Chiplock" }
   },
   {
-    "character_description": "\n\n\nNeiji Lockhart (ネイジ・ロックハート) is a former gladiator who was the strongest individual at the Gladiator Island Ginunhive. Following Lye Batenkaitos' death, his status remains unknown.\n\n",
+    "description": "\n\n\nNeiji Lockhart (ネイジ・ロックハート) is a former gladiator who was the strongest individual at the Gladiator Island Ginunhive. Following Lye Batenkaitos' death, his status remains unknown.\n\n",
     "character_name": "Neiji Lockhart",
     "name": "Neiji Lockhart",
     "Kanji": "ネイジ・ロックハート",
@@ -3261,7 +3261,7 @@
     "Debuts": { "Light Novel": ["Volume 24 (mentioned)"] }
   },
   {
-    "character_description": "\n\n\nNico Olsen (ニコ・オールセン) is a baron and a renowned art collector in the Royal Capital.\n\n",
+    "description": "\n\n\nNico Olsen (ニコ・オールセン) is a baron and a renowned art collector in the Royal Capital.\n\n",
     "character_name": "Nico Olsen",
     "name": "Nico Olsen",
     "Kanji": "ニコ・オールセン",
@@ -3280,7 +3280,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 9" }
   },
   {
-    "character_description": "\n\n\nNull (ヌル), commonly known as Old Man Null (ヌル爺さん), is a healer who previously resided at the Gladiator Island Ginunhive for many years. He later became a member of the Pleiades Battalion.\n\n",
+    "description": "\n\n\nNull (ヌル), commonly known as Old Man Null (ヌル爺さん), is a healer who previously resided at the Gladiator Island Ginunhive for many years. He later became a member of the Pleiades Battalion.\n\n",
     "character_name": "Null",
     "name": "Null",
     "Kanji": "ヌル",
@@ -3301,7 +3301,7 @@
     "Debuts": { "Light Novel": "Volume 31" }
   },
   {
-    "character_description": "\n\n\nOlbart Dunkelkenn (オルバルト・ダンクルケン) is the Third ranking Divine General of the Sacred Vollachia Empire and the chieftain of the Shinobi. First appearing in Ex Volume 5, Olbart played a minor supporting role. He debuted in Volume 28.\n\n",
+    "description": "\n\n\nOlbart Dunkelkenn (オルバルト・ダンクルケン) is the Third ranking Divine General of the Sacred Vollachia Empire and the chieftain of the Shinobi. First appearing in Ex Volume 5, Olbart played a minor supporting role. He debuted in Volume 28.\n\n",
     "character_name": "Olbart Dunkelkenn",
     "name": "Olbart Dunkelkenn",
     "Kanji": "オルバルト・ダンクルケン",
@@ -3324,7 +3324,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 5 (side story)", "Volume 28 (main story)"] }
   },
   {
-    "character_description": "This page is about Omega–Ryuzu Shima's body which is currently being used by Echidna. For other copies from Arc 4, see Ryuzu Meyer (copy) and for the original Ryuzu, see Ryuzu Meyer (original)\n\n\n\n\n\nOmega (オメガ) is a copy of Ryuzu Meyer who contains the soul of the Witch of Greed. Before the fall of the Sanctuary, the clone was known under the name Shima (シーマ), one of the original four clones who were tasked with overseeing the Sanctuary.\nAccompanied by Colette, Palmyra, Noelle, and Lilac and Shion, Omega was last known to be in the Holy Kingdom of Gusteko.\n\n",
+    "description": "This page is about Omega–Ryuzu Shima's body which is currently being used by Echidna. For other copies from Arc 4, see Ryuzu Meyer (copy) and for the original Ryuzu, see Ryuzu Meyer (original)\n\n\n\n\n\nOmega (オメガ) is a copy of Ryuzu Meyer who contains the soul of the Witch of Greed. Before the fall of the Sanctuary, the clone was known under the name Shima (シーマ), one of the original four clones who were tasked with overseeing the Sanctuary.\nAccompanied by Colette, Palmyra, Noelle, and Lilac and Shion, Omega was last known to be in the Holy Kingdom of Gusteko.\n\n",
     "character_name": "Omega",
     "name": "Omega",
     "Kanji": "オメガ",
@@ -3368,7 +3368,7 @@
     "Portrayal": { "Japanese Voice": "Maaya Sakamoto" }
   },
   {
-    "character_description": "\n\n\nOrphe (オルフェ) is a former con artist who served Bordeaux Zellgef.\n\n",
+    "description": "\n\n\nOrphe (オルフェ) is a former con artist who served Bordeaux Zellgef.\n\n",
     "character_name": "Orphe",
     "name": "Orphe",
     "Kanji": "オルフェ",
@@ -3383,7 +3383,7 @@
     "Debuts": { "Light Novel": "Ex Volume 3" }
   },
   {
-    "character_description": "\n\nOslo Suwen (オスロー・スーウェン) is the representative of the Suwen Company and Otto's older brother.\n\n",
+    "description": "\n\nOslo Suwen (オスロー・スーウェン) is the representative of the Suwen Company and Otto's older brother.\n\n",
     "character_name": "Oslo Suwen",
     "name": "Oslo Suwen",
     "Kanji": "オスロー・スーウェン",
@@ -3415,7 +3415,7 @@
     }
   },
   {
-    "character_description": "This page is about the character. For the anime episode, see Re:Zero Episode 40.\n\n\n\n\nOtto Suwen (オットー・スーウェン) is a former merchant and the current internal affairs officer of the Emilia Camp. Debuting in Arc 3, Otto and Subaru initially started off on a hostile note after their encounter with the Hakugei in a failed loop. After being rescued from the Witch Cult when taken prisoner by a fellow merchant, Otto accompanied Subaru and Emilia to the Sanctuary in Arc 4, where he acted as one of Subaru's biggest supporters, proving crucial to Subaru's plans and allowing him to defeat Roswaal and overcome the problems at the Sanctuary.\nIn the following year, Otto joined the Emilia Camp and became their internal affairs officer. He also plays a crucial role in Arc 5, helping in warding-off two of the three Sin Archbishops of Gluttony, at a cost of suffering a serious injury to his legs.\n\n",
+    "description": "This page is about the character. For the anime episode, see Re:Zero Episode 40.\n\n\n\n\nOtto Suwen (オットー・スーウェン) is a former merchant and the current internal affairs officer of the Emilia Camp. Debuting in Arc 3, Otto and Subaru initially started off on a hostile note after their encounter with the Hakugei in a failed loop. After being rescued from the Witch Cult when taken prisoner by a fellow merchant, Otto accompanied Subaru and Emilia to the Sanctuary in Arc 4, where he acted as one of Subaru's biggest supporters, proving crucial to Subaru's plans and allowing him to defeat Roswaal and overcome the problems at the Sanctuary.\nIn the following year, Otto joined the Emilia Camp and became their internal affairs officer. He also plays a crucial role in Arc 5, helping in warding-off two of the three Sin Archbishops of Gluttony, at a cost of suffering a serious injury to his legs.\n\n",
     "character_name": "Otto Suwen",
     "name": "Otto Suwen",
     "Kanji": "オットー・スーウェン",
@@ -3470,7 +3470,7 @@
     }
   },
   {
-    "character_description": "\n\n\nPandora (パンドラ) is the Witch of Vainglory who has a connection to the Witch Cult. Due to her seeming command over the Cult, she is arguably one of the main antagonists of Re:Zero.\nAround one hundred years ago, Pandora attacked Elior Forest alongside the Sin Archbishop of Greed and the Kurohebi. Her goal was to use the young half-elf girl named Emilia to unlock a mysterious seal located in the depths of the forest, however, her plan failed when Emilia froze everyone in the village including herself. Around fourteen years ago, during the failed Hakugei Subjugation, Pandora appeared and played a part in the death of Theresia van Astrea.\n\n",
+    "description": "\n\n\nPandora (パンドラ) is the Witch of Vainglory who has a connection to the Witch Cult. Due to her seeming command over the Cult, she is arguably one of the main antagonists of Re:Zero.\nAround one hundred years ago, Pandora attacked Elior Forest alongside the Sin Archbishop of Greed and the Kurohebi. Her goal was to use the young half-elf girl named Emilia to unlock a mysterious seal located in the depths of the forest, however, her plan failed when Emilia froze everyone in the village including herself. Around fourteen years ago, during the failed Hakugei Subjugation, Pandora appeared and played a part in the death of Theresia van Astrea.\n\n",
     "character_name": "Pandora",
     "name": "Pandora",
     "Kanji": "パンドラ",
@@ -3494,7 +3494,7 @@
     "Portrayal": { "Japanese Voice": "Kugimiya Rie", "English Voice": "Deneen Melody" }
   },
   {
-    "character_description": "\n\n\nPatrasche (パトラッシュ) is Subaru's earth dragon that he officially received from Crusch Karsten for his efforts in the Hakugei battle.\n\n",
+    "description": "\n\n\nPatrasche (パトラッシュ) is Subaru's earth dragon that he officially received from Crusch Karsten for his efforts in the Hakugei battle.\n\n",
     "character_name": "Patrasche",
     "name": "Patrasche",
     "Kanji": "パトラッシュ",
@@ -3515,7 +3515,7 @@
     "Debuts": { "Light Novel": "Volume 4", "Manga": "Chapter 24", "Anime": "Episode 12" }
   },
   {
-    "character_description": "\n\n\nPetelgeuse Romanée-Conti (ペテルギウス・ロマネコンティ) was a Sin Archbishop of the Witch Cult, representing Sloth. In addition to his position as a Sin Archbishop, he was a spirit who lived for four centuries as well as a co-founder of the Witch Cult. Debuting in Arc 3 as its primary antagonist, he led a group of cultists to attack Arlam Village and Roswaal Manor. Throughout the arc, Petelgeuse acted as a foil to Subaru. He was ultimately defeated when his body was set on fire and crushed under a dragon carriage's wheels.\nDuring Emilia's first trial in Arc 4, it was revealed that he was once close to Emilia and her aunt Fortuna, but he went insane after being deceived into killing the latter by Pandora. Petelgeuse continues to be brought up in following arcs, primarily by the Emilia Camp and his fellow Sin Archbishops.\n\n",
+    "description": "\n\n\nPetelgeuse Romanée-Conti (ペテルギウス・ロマネコンティ) was a Sin Archbishop of the Witch Cult, representing Sloth. In addition to his position as a Sin Archbishop, he was a spirit who lived for four centuries as well as a co-founder of the Witch Cult. Debuting in Arc 3 as its primary antagonist, he led a group of cultists to attack Arlam Village and Roswaal Manor. Throughout the arc, Petelgeuse acted as a foil to Subaru. He was ultimately defeated when his body was set on fire and crushed under a dragon carriage's wheels.\nDuring Emilia's first trial in Arc 4, it was revealed that he was once close to Emilia and her aunt Fortuna, but he went insane after being deceived into killing the latter by Pandora. Petelgeuse continues to be brought up in following arcs, primarily by the Emilia Camp and his fellow Sin Archbishops.\n\n",
     "character_name": "Petelgeuse Romanée-Conti",
     "name": "Petelgeuse Romanée-Conti",
     "Kanji": "ペテルギウス・ロマネコンティ",
@@ -3582,7 +3582,7 @@
     }
   },
   {
-    "character_description": "\n\n\nPetra Leyte (ペトラ・レイテ) is a former inhabitant of Arlam Village who currently lives and works at Roswaal Manor as a maid. She is a supporting character first introduced in Arc 2 and later joins the main cast in Arc 4.\nAfter meeting Subaru, she developed a crush on him, prompting her to get a job as a maid at Roswaal Manor to get closer to him.\n\n",
+    "description": "\n\n\nPetra Leyte (ペトラ・レイテ) is a former inhabitant of Arlam Village who currently lives and works at Roswaal Manor as a maid. She is a supporting character first introduced in Arc 2 and later joins the main cast in Arc 4.\nAfter meeting Subaru, she developed a crush on him, prompting her to get a job as a maid at Roswaal Manor to get closer to him.\n\n",
     "character_name": "Petra Leyte",
     "name": "Petra Leyte",
     "Kanji": "ペトラ・レイテ",
@@ -3616,7 +3616,7 @@
     "Portrayal": { "Japanese Voice": "Kouno Marika", "English Voice": "Erica Mendez" }
   },
   {
-    "character_description": "\n\n\nPivot Arnancy (ピボット・アーナンシー) was the first Deputy Commander of the Zellgef Squadron and a knight of the Royal Army.\n\n",
+    "description": "\n\n\nPivot Arnancy (ピボット・アーナンシー) was the first Deputy Commander of the Zellgef Squadron and a knight of the Royal Army.\n\n",
     "character_name": "Pivot Arnancy",
     "name": "Pivot Arnancy",
     "Kanji": "ピボット・アーナンシー",
@@ -3630,7 +3630,7 @@
     "Debuts": { "Light Novel": "Ex Volume 2" }
   },
   {
-    "character_description": "\n\n\nPlum Risch (プラム・リッシュ) is Kadomon Risch's daughter.\n\n",
+    "description": "\n\n\nPlum Risch (プラム・リッシュ) is Kadomon Risch's daughter.\n\n",
     "character_name": "Plum Risch",
     "name": "Plum Risch",
     "Kanji": "プラム・リッシュ",
@@ -3651,7 +3651,7 @@
     "Portrayal": { "Japanese Voice": "Aimi Tanaka", "English Voice": "Xanthe Huynh" }
   },
   {
-    "character_description": "\n\n\nPriscilla Barielle (プリシラ・バーリエル) is the Matriarch of House Barielle and a candidate to become the 42nd King of Lugunica. While only a supporting character in Arc 3 and Arc 5, she has a major role in Arc 7 and Arc 8.\n\n",
+    "description": "\n\n\nPriscilla Barielle (プリシラ・バーリエル) is the Matriarch of House Barielle and a candidate to become the 42nd King of Lugunica. While only a supporting character in Arc 3 and Arc 5, she has a major role in Arc 7 and Arc 8.\n\n",
     "character_name": "Priscilla Barielle",
     "name": "Priscilla Barielle",
     "Kanji": "プリシラ・バーリエル",
@@ -3712,7 +3712,7 @@
     "Portrayal": { "Japanese Voice": "Tamura Yukari", "English Voice": "Faye Mata" }
   },
   {
-    "character_description": "\n\n\nPuck (パック) is an artificial spirit created by Echidna that Emilia was formerly contracted with. He is counted among the Four Great Spirits as the Beast of the End.[1][2]\nDuring the events of the first four arcs, Puck played a pivotal role for Emilia's mental state, supporting her and acting as her parental figure. In Arc 4, however, Puck forcefully severed the contract with her in order to remove the seal placed over Emilia's memories, giving her a fighting chance in the Witch of Greed's Trials. After using every last bit of power he was capable of mustering up at that time, Puck entered a long period of sleep, inside a powerful glintstone that is currently worn by Emilia. However, the stone is not powerful enough to allow him to materialize. \n\n",
+    "description": "\n\n\nPuck (パック) is an artificial spirit created by Echidna that Emilia was formerly contracted with. He is counted among the Four Great Spirits as the Beast of the End.[1][2]\nDuring the events of the first four arcs, Puck played a pivotal role for Emilia's mental state, supporting her and acting as her parental figure. In Arc 4, however, Puck forcefully severed the contract with her in order to remove the seal placed over Emilia's memories, giving her a fighting chance in the Witch of Greed's Trials. After using every last bit of power he was capable of mustering up at that time, Puck entered a long period of sleep, inside a powerful glintstone that is currently worn by Emilia. However, the stone is not powerful enough to allow him to materialize. \n\n",
     "character_name": "Puck",
     "name": "Puck",
     "Kanji": "パック",
@@ -3760,7 +3760,7 @@
     "Portrayal": { "Japanese Voice": "Uchiyama Yumi", "English Voice": "Erica Mendez" }
   },
   {
-    "character_description": "\n\nQuark (クオーク) was Ram and Rem's father.\n\n",
+    "description": "\n\nQuark (クオーク) was Ram and Rem's father.\n\n",
     "character_name": "Quark",
     "name": "Quark",
     "Kanji": "クオーク",
@@ -3783,7 +3783,7 @@
     "Portrayal": { "Japanese Voice": "Chiba Susumu" }
   },
   {
-    "character_description": "\n\n\nRachins Hoffman (ラチンス・ホフマン), commonly known as Chin (チン), is a runaway noble who was one of the three thugs that attacked Subaru at the very start of Arc 1. He later joined the Felt Camp when Felt employed him after Royal Selection began.\n\n",
+    "description": "\n\n\nRachins Hoffman (ラチンス・ホフマン), commonly known as Chin (チン), is a runaway noble who was one of the three thugs that attacked Subaru at the very start of Arc 1. He later joined the Felt Camp when Felt employed him after Royal Selection began.\n\n",
     "character_name": "Rachins Hoffman",
     "name": "Rachins Hoffman",
     "Kanji": "ラチンス・ホフマン",
@@ -3811,7 +3811,7 @@
     "Portrayal": { "Japanese Voice": "Muro Genki", "English Voice": "Lucien Dodge" }
   },
   {
-    "character_description": "\n\n\nRafiel Thompson (ラフィール・トンプソン) is Garek Thompson and Reala Thompson's daughter.\n\n",
+    "description": "\n\n\nRafiel Thompson (ラフィール・トンプソン) is Garek Thompson and Reala Thompson's daughter.\n\n",
     "character_name": "Rafiel Thompson",
     "name": "Rafiel Thompson",
     "Kanji": "ラフィール・トンプソン",
@@ -3840,7 +3840,7 @@
     "Debuts": { "Light Novel": "Volume 17" }
   },
   {
-    "character_description": "\n\n\nRaksha Risch (ラクシャ・リッシュ) is Kadomon Risch's wife.\n\n\n",
+    "description": "\n\n\nRaksha Risch (ラクシャ・リッシュ) is Kadomon Risch's wife.\n\n\n",
     "character_name": "Raksha Risch",
     "name": "Raksha Risch",
     "Kanji": "ラクシャ・リッシュ",
@@ -3859,7 +3859,7 @@
     "Debuts": { "Light Novel": "Volume 1", "Manga": "Chapter 1", "Anime": "Episode 1" }
   },
   {
-    "character_description": "\n\n\nRam (ラム) is Rem's sister and one of the twin maids working for Margrave Roswaal L Mathers. Debuting in Arc 2, Ram originally played a rather neutral role, neither assisting in Subaru's endeavours nor directly going against him, like her sister–save for one of the failed loops where Rem succumbed to the curse. In the arc's final loop, however, she played a vital role, allowing Subaru to prevail and stop the Demon Beast rampage in the forest. Ram has also played a vital supporting role in Arc 4 and Arc 6, dueling Roswaal in the former Arc and the Sin Archbishop of Gluttony in the latter Arc.\nOriginally, Ram was born into the Oni Clan with a single horn and displayed exceptional talent and strength which resulted in the village referring to her as the second coming of the Oni God. However, after an attack orchestrated by the Witch Cult, she lost her horn and–together with her sister–was saved by Roswaal L Mathers. In return, Ram swore to help Roswaal in his own endeavors, pledging to help him kill the Divine Dragon. During her ten years of serving under the Margrave, she developed strong feelings of love for him, despite initially vowing to kill him and avenge her slaughtered Clan.\n\n",
+    "description": "\n\n\nRam (ラム) is Rem's sister and one of the twin maids working for Margrave Roswaal L Mathers. Debuting in Arc 2, Ram originally played a rather neutral role, neither assisting in Subaru's endeavours nor directly going against him, like her sister–save for one of the failed loops where Rem succumbed to the curse. In the arc's final loop, however, she played a vital role, allowing Subaru to prevail and stop the Demon Beast rampage in the forest. Ram has also played a vital supporting role in Arc 4 and Arc 6, dueling Roswaal in the former Arc and the Sin Archbishop of Gluttony in the latter Arc.\nOriginally, Ram was born into the Oni Clan with a single horn and displayed exceptional talent and strength which resulted in the village referring to her as the second coming of the Oni God. However, after an attack orchestrated by the Witch Cult, she lost her horn and–together with her sister–was saved by Roswaal L Mathers. In return, Ram swore to help Roswaal in his own endeavors, pledging to help him kill the Divine Dragon. During her ten years of serving under the Margrave, she developed strong feelings of love for him, despite initially vowing to kill him and avenge her slaughtered Clan.\n\n",
     "character_name": "Ram",
     "name": "Ram",
     "Kanji": "ラム",
@@ -3897,7 +3897,7 @@
     "Portrayal": { "Japanese Voice": "Murakawa Rie", "English Voice": "Ryan Bartley" }
   },
   {
-    "character_description": "\n\n\nReala Thompson (リアラ・トンプソン), née Reshia Tinsel (リーシア・ティンゼル), is Garfiel and Frederica's mother. First appearing in a flashback in Arc 4, she formally debuted in Arc 5, where she played a pivotal role in Garfiel's character arc.\nShe was believed to have died in a landslide after leaving Sanctuary, which greatly scarred Garfiel. However, in Arc 5, it is revealed that she survived at the cost of her memories. Afterwards, she moved to Priestella, where she remarried and started a new family.\n\n",
+    "description": "\n\n\nReala Thompson (リアラ・トンプソン), née Reshia Tinsel (リーシア・ティンゼル), is Garfiel and Frederica's mother. First appearing in a flashback in Arc 4, she formally debuted in Arc 5, where she played a pivotal role in Garfiel's character arc.\nShe was believed to have died in a landslide after leaving Sanctuary, which greatly scarred Garfiel. However, in Arc 5, it is revealed that she survived at the cost of her memories. Afterwards, she moved to Priestella, where she remarried and started a new family.\n\n",
     "character_name": "Reala Thompson",
     "name": "Reala Thompson",
     "Kanji": ["リアラ・トンプソン", "リーシア・ティンゼル"],
@@ -3932,7 +3932,7 @@
     "Portrayal": { "Japanese Voice": "Endou Aya" }
   },
   {
-    "character_description": "\n\n\nRegin Suwen (レギン・スーウェン) is a veterinarian operating at the Suwen Treatment Center in the town of Pappelt.\n\n",
+    "description": "\n\n\nRegin Suwen (レギン・スーウェン) is a veterinarian operating at the Suwen Treatment Center in the town of Pappelt.\n\n",
     "character_name": "Regin Suwen",
     "name": "Regin Suwen",
     "Kanji": "レギン・スーウェン",
@@ -3955,7 +3955,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 5", "Anime": ["Episode 40 (flashback)"] }
   },
   {
-    "character_description": "\n\n\nRegulus Corneas (レグルス・コルニアス) was a Sin Archbishop of the Witch Cult, representing Greed. He debuted in the second interlude of Arc 3 alongside Lye Batenkaitos, where he took on Crusch's military convoy, completely decimating it alongside its passengers, which included Rem. Later, he appeared in Emilia's first trial during the events of Arc 4, where he played an antagonistic role under Pandora's lead, and finally, Regulus was one of the primary antagonists of Arc 5, where he was subsequently defeated by a joint force consisting of Reinhard van Astrea, Natsuki Subaru, and Emilia. He drowned underneath the streets of the Watergate City of Priestella.\nAs the strongest and one of the oldest Sin Archbishops in the Witch Cult, Regulus had an air of mystery surrounding him and was responsible for many brutal mass-slaughters and annihilations in the century prior to the beginning of the story. During the events of Arc 4, it was revealed he acted as the head of the radical faction inside the Witch Cult 100 years ago.[1]\n\n",
+    "description": "\n\n\nRegulus Corneas (レグルス・コルニアス) was a Sin Archbishop of the Witch Cult, representing Greed. He debuted in the second interlude of Arc 3 alongside Lye Batenkaitos, where he took on Crusch's military convoy, completely decimating it alongside its passengers, which included Rem. Later, he appeared in Emilia's first trial during the events of Arc 4, where he played an antagonistic role under Pandora's lead, and finally, Regulus was one of the primary antagonists of Arc 5, where he was subsequently defeated by a joint force consisting of Reinhard van Astrea, Natsuki Subaru, and Emilia. He drowned underneath the streets of the Watergate City of Priestella.\nAs the strongest and one of the oldest Sin Archbishops in the Witch Cult, Regulus had an air of mystery surrounding him and was responsible for many brutal mass-slaughters and annihilations in the century prior to the beginning of the story. During the events of Arc 4, it was revealed he acted as the head of the radical faction inside the Witch Cult 100 years ago.[1]\n\n",
     "character_name": "Regulus Corneas",
     "name": "Regulus Corneas",
     "Kanji": "レグルス・コルニアス",
@@ -3999,7 +3999,7 @@
     "Portrayal": { "Japanese Voice": "Ishida Akira", "English Voice": "Kyle McCarley" }
   },
   {
-    "character_description": "\n\n\nReid Astrea (レイド・アストレア) was the first Sword Saint and a key figure in the sealing of the Witch of Envy 400 years ago. Mentioned throughout the series, he formally debuted in Arc 6 as a secondary antagonist. \nThroughout Arc 6, his soul acted as the overseer of the second trial of the Pleiades Watchtower and was a major obstacle preventing Subaru and his companions from conquering it, particularly toward Julius. He later achieved rebirth by taking over Roy Alphard's body, but the latter proved to be an unsuitable vessel and his soul shattered during his final duel with Julius, thus marking the end of the first Sword Saint.\n\n",
+    "description": "\n\n\nReid Astrea (レイド・アストレア) was the first Sword Saint and a key figure in the sealing of the Witch of Envy 400 years ago. Mentioned throughout the series, he formally debuted in Arc 6 as a secondary antagonist. \nThroughout Arc 6, his soul acted as the overseer of the second trial of the Pleiades Watchtower and was a major obstacle preventing Subaru and his companions from conquering it, particularly toward Julius. He later achieved rebirth by taking over Roy Alphard's body, but the latter proved to be an unsuitable vessel and his soul shattered during his final duel with Julius, thus marking the end of the first Sword Saint.\n\n",
     "character_name": "Reid Astrea",
     "name": "Reid Astrea",
     "Kanji": "レイド・アストレア",
@@ -4044,7 +4044,7 @@
     }
   },
   {
-    "character_description": "\n\n\nReinhard van Astrea (ラインハルト・ヴァン・アストレア) is the current Sword Saint and a member of the Royal Guard, being the very strongest \"weapon\" the Kingdom has in its arsenal. During the events of Arc 3, he pledged himself to serve as Felt's knight and fully support her throughout the Royal Selection.  \nDebuting in Arc 1, Reinhard played a key role in overcoming the first major obstacle standing in Subaru's way—the northern assassin, Elsa Granhiert. While being almost completely absent from the following three arcs, he returned and played a pivotal role in Arc 5, being one of the key figures in defeating the Witch Cult's Sin Archbishops and retaking the Watergate City of Priestella. \n\n",
+    "description": "\n\n\nReinhard van Astrea (ラインハルト・ヴァン・アストレア) is the current Sword Saint and a member of the Royal Guard, being the very strongest \"weapon\" the Kingdom has in its arsenal. During the events of Arc 3, he pledged himself to serve as Felt's knight and fully support her throughout the Royal Selection.  \nDebuting in Arc 1, Reinhard played a key role in overcoming the first major obstacle standing in Subaru's way—the northern assassin, Elsa Granhiert. While being almost completely absent from the following three arcs, he returned and played a pivotal role in Arc 5, being one of the key figures in defeating the Witch Cult's Sin Archbishops and retaking the Watergate City of Priestella. \n\n",
     "character_name": "Reinhard van Astrea",
     "name": "Reinhard van Astrea",
     "Kanji": "ラインハルト・ヴァン・アストレア",
@@ -4108,7 +4108,7 @@
     "Portrayal": { "Japanese Voice": "Nakamura Yuuichi", "English Voice": "Robbie Daymond" }
   },
   {
-    "character_description": "\n\n\nReisel (ライゼル) was one of Ricardo's colleagues back when he was a slave.\n\n",
+    "description": "\n\n\nReisel (ライゼル) was one of Ricardo's colleagues back when he was a slave.\n\n",
     "character_name": "Reisel",
     "name": "Reisel",
     "Kanji": "ライゼル",
@@ -4125,7 +4125,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 5" }
   },
   {
-    "character_description": "\n\n\nReize (レーゼ) is a citizen of Kararagi and one of the only few surviving Oni other than Rem and Ram. Currently, her only appearance can be traced to Re:IF, a non-canonical spin-off story.\n\n",
+    "description": "\n\n\nReize (レーゼ) is a citizen of Kararagi and one of the only few surviving Oni other than Rem and Ram. Currently, her only appearance can be traced to Re:IF, a non-canonical spin-off story.\n\n",
     "character_name": "Reize",
     "name": "Reize",
     "Kanji": "レーゼ",
@@ -4144,7 +4144,7 @@
     "Debuts": { "Light Novel": ["Re:IF (side story)"] }
   },
   {
-    "character_description": "This page is about the character. For the anime episode, see Re:Zero Episode 11.\n\n\n\n\n\nRem (レム) is a maid in service of Margrave Roswaal L Mathers alongside her sister, Ram. She is one of the main supporting characters of Re:Zero, with major roles in Arc 2, Arc 3, and Arc 7. During the first half of Arc 2, she also served as the secondary antagonist.\nWhile initially distrustful of Subaru, she eventually opened up to him and even developed strong feelings for him after he saved her. However, at the end of Arc 3, she had her name and memories eaten by Lye Batenkaitos and subsequently fell into suspended animation. At the end of Arc 6, she finally woke up from her slumber following Lye's death, but now suffers amnesia due to not having yet regained her memories. She was transported to the Sacred Vollachia Empire with Subaru and Rui Arneb, still without her name and memories.\n\n",
+    "description": "This page is about the character. For the anime episode, see Re:Zero Episode 11.\n\n\n\n\n\nRem (レム) is a maid in service of Margrave Roswaal L Mathers alongside her sister, Ram. She is one of the main supporting characters of Re:Zero, with major roles in Arc 2, Arc 3, and Arc 7. During the first half of Arc 2, she also served as the secondary antagonist.\nWhile initially distrustful of Subaru, she eventually opened up to him and even developed strong feelings for him after he saved her. However, at the end of Arc 3, she had her name and memories eaten by Lye Batenkaitos and subsequently fell into suspended animation. At the end of Arc 6, she finally woke up from her slumber following Lye's death, but now suffers amnesia due to not having yet regained her memories. She was transported to the Sacred Vollachia Empire with Subaru and Rui Arneb, still without her name and memories.\n\n",
     "character_name": "Rem",
     "name": "Rem",
     "Kanji": "レム",
@@ -4188,7 +4188,7 @@
     "Portrayal": { "Japanese Voice": "Minase Inori", "English Voice": "Brianna Knickerbocker" }
   },
   {
-    "character_description": "\n\n\nRicardo Welkin (リカード・ウェルキン) is one of Anastasia Hoshin's followers and the captain of the mercenary group known as the Iron Fang.\n\n",
+    "description": "\n\n\nRicardo Welkin (リカード・ウェルキン) is one of Anastasia Hoshin's followers and the captain of the mercenary group known as the Iron Fang.\n\n",
     "character_name": "Ricardo Welkin",
     "name": "Ricardo Welkin",
     "Kanji": "リカード・ウェルキン",
@@ -4225,7 +4225,7 @@
     "Portrayal": { "Japanese Voice": "Nomura Kenji", "English Voice": "Imari Williams" }
   },
   {
-    "character_description": "\n\n\nRickert Hoffman (リッケルト・ホフマン) is the former Royal Instructor of the Kingdom of Lugunica. Debuting in Arc 3's early stages, Rickert has yet to play a pivotal role in the main story.\n\n",
+    "description": "\n\n\nRickert Hoffman (リッケルト・ホフマン) is the former Royal Instructor of the Kingdom of Lugunica. Debuting in Arc 3's early stages, Rickert has yet to play a pivotal role in the main story.\n\n",
     "character_name": "Rickert Hoffman",
     "name": "Rickert Hoffman",
     "Kanji": "リッケルト・ホフマン",
@@ -4250,7 +4250,7 @@
     "Portrayal": { "Japanese Voice": "Aoyama Yutaka" }
   },
   {
-    "character_description": "\n\n\nRodriguez (ロドリゲス) is Dias Fatsbalm's assistant and follower.\n\n",
+    "description": "\n\n\nRodriguez (ロドリゲス) is Dias Fatsbalm's assistant and follower.\n\n",
     "character_name": "Rodriguez",
     "name": "Rodriguez",
     "Kanji": "ロドリゲス",
@@ -4270,7 +4270,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 3" }
   },
   {
-    "character_description": "\n\n\nValga Cromwell (バルガ・クロムウェル), commonly known as Old Man Rom (ロム爺), is a member of the Felt Camp and the former owner of the Stolen Goods Warehouse.\n\n",
+    "description": "\n\n\nValga Cromwell (バルガ・クロムウェル), commonly known as Old Man Rom (ロム爺), is a member of the Felt Camp and the former owner of the Stolen Goods Warehouse.\n\n",
     "character_name": "Valga Cromwell",
     "name": "Valga Cromwell",
     "Kanji": "バルガ・クロムウェル",
@@ -4308,7 +4308,7 @@
     }
   },
   {
-    "character_description": "\n\n\nRoswaal J Mathers (ロズワール・J・メイザース), formerly known as Julia (ジュリア), was the grandmother of Roswaal L Mathers, the mother of Roswaal K Mathers, and the head of the Roswaal House two generations before Roswaal L Mathers.\n\n",
+    "description": "\n\n\nRoswaal J Mathers (ロズワール・J・メイザース), formerly known as Julia (ジュリア), was the grandmother of Roswaal L Mathers, the mother of Roswaal K Mathers, and the head of the Roswaal House two generations before Roswaal L Mathers.\n\n",
     "character_name": "Roswaal J Mathers",
     "name": "Roswaal J Mathers",
     "Kanji": "ロズワール・J・メイザース",
@@ -4340,7 +4340,7 @@
     "Debuts": { "Light Novel": "Ex Volume 2", "Manga": "Shinmeitan Chapter 1" }
   },
   {
-    "character_description": "\n\n\nRoswaal L Mathers (ロズワール・L・メイザース) is the lord of Roswaal Manor, Margrave of the Mathers Domain, and the Dragon Kingdom of Lugunica's Court Mage. Since the age of 14, Roswaal has been possessed by the soul of his ancestor, Roswaal A Mathers—originally named Altair Mathers.\nAlthough supporting Emilia's quest for the throne, he was actually using her, Subaru, and Ram for his own goals, which involved killing the Divine Dragon and resurrecting his mentor. However, in Arc 4, he made a bet with Subaru and subsequently lost, forcing him to truly support Emilia, though he hasn't given up on his ambitions.\n\n",
+    "description": "\n\n\nRoswaal L Mathers (ロズワール・L・メイザース) is the lord of Roswaal Manor, Margrave of the Mathers Domain, and the Dragon Kingdom of Lugunica's Court Mage. Since the age of 14, Roswaal has been possessed by the soul of his ancestor, Roswaal A Mathers—originally named Altair Mathers.\nAlthough supporting Emilia's quest for the throne, he was actually using her, Subaru, and Ram for his own goals, which involved killing the Divine Dragon and resurrecting his mentor. However, in Arc 4, he made a bet with Subaru and subsequently lost, forcing him to truly support Emilia, though he hasn't given up on his ambitions.\n\n",
     "character_name": "Roswaal L Mathers",
     "name": "Roswaal L Mathers",
     "Kanji": "ロズワール・L・メイザース",
@@ -4414,7 +4414,7 @@
     "Portrayal": { "Japanese Voice": "Koyasu Takehito", "English Voice": "Ray Chase" }
   },
   {
-    "character_description": "\n\n\nRowan Segmunt (ロウアン・セグムント) was a mercenary-for-hire from the Sacred Vollachia Empire and the father of First ranking Divine General Cecilus Segmunt. Initially debuting as a minor character during one of Subaru's failed loops in Arc 7, he later reappeared with a larger role in Arc 8.\nAfter the start of the Great Disaster, Rowan found Heinkel Astrea in his slump of desperation and came across an exhausted Groovy Gumlet who sought to assist the Emperor. The trio ventured to Lupugana together, encountering Al and Rowan's son, Cecilus. Later happening upon Iris in front of the Crystal Palace, Rowan soon realized he could not cut down the woman and severed his own neck, killing himself with the hope that he could defeat her and reach the Heavenly Sword as an undead.\n\n",
+    "description": "\n\n\nRowan Segmunt (ロウアン・セグムント) was a mercenary-for-hire from the Sacred Vollachia Empire and the father of First ranking Divine General Cecilus Segmunt. Initially debuting as a minor character during one of Subaru's failed loops in Arc 7, he later reappeared with a larger role in Arc 8.\nAfter the start of the Great Disaster, Rowan found Heinkel Astrea in his slump of desperation and came across an exhausted Groovy Gumlet who sought to assist the Emperor. The trio ventured to Lupugana together, encountering Al and Rowan's son, Cecilus. Later happening upon Iris in front of the Crystal Palace, Rowan soon realized he could not cut down the woman and severed his own neck, killing himself with the hope that he could defeat her and reach the Heavenly Sword as an undead.\n\n",
     "character_name": "Rowan Segmunt",
     "name": "Rowan Segmunt",
     "Kanji": "ロウアン・セグムント",
@@ -4439,7 +4439,7 @@
     "Debuts": { "Light Novel": "Volume 27" }
   },
   {
-    "character_description": "\n\n\nRoy Alphard (ロイ・アルファルド) is a Sin Archbishop of the Witch Cult, representing the Bizarre Eating aspect of Gluttony. First introduced in Arc 5, Roy later served as one of the main antagonists of Arc 6, alongside his brother and sister. \nDuring the events of Arc 5, he ate Julius' name, causing everyone but Subaru to forget about him. In Arc 6, however, he made a big mistake when he tried to devour Reid Astrea, only to have his body taken over. While he regained control of his body after Reid's soul shattered due to it being incompatible with Roy's body, the fatal wound rendered him unconscious, and he was sealed away with the usage of Yin Magic.\n\n",
+    "description": "\n\n\nRoy Alphard (ロイ・アルファルド) is a Sin Archbishop of the Witch Cult, representing the Bizarre Eating aspect of Gluttony. First introduced in Arc 5, Roy later served as one of the main antagonists of Arc 6, alongside his brother and sister. \nDuring the events of Arc 5, he ate Julius' name, causing everyone but Subaru to forget about him. In Arc 6, however, he made a big mistake when he tried to devour Reid Astrea, only to have his body taken over. While he regained control of his body after Reid's soul shattered due to it being incompatible with Roy's body, the fatal wound rendered him unconscious, and he was sealed away with the usage of Yin Magic.\n\n",
     "character_name": "Roy Alphard",
     "name": "Roy Alphard",
     "Kanji": "ロイ・アルファルド",
@@ -4474,7 +4474,7 @@
     "Debuts": { "Light Novel": "Volume 17" }
   },
   {
-    "character_description": "For this character's current identity, see Spica.\n\n\n\n\nRui Arneb (ルイ・アルネブ) is a Sin Archbishop of the Witch Cult, representing the Satiation aspect of Gluttony. First introduced in Arc 5, she later served as one of the main antagonists of Arc 6, alongside her brothers, Lye and Roy.\nAfter a chance encounter with Natsuki Subaru, she learned of Return by Death and attempted to steal his existence. However, Subaru ultimately managed to defeat her and left her in the Corridor of Memories during the events of Arc 6, though she is later revealed to have survived. This came at the cost of bearing a completely new personality that diverted from her original self, and Subaru later renamed the new personality Spica. \n\n",
+    "description": "For this character's current identity, see Spica.\n\n\n\n\nRui Arneb (ルイ・アルネブ) is a Sin Archbishop of the Witch Cult, representing the Satiation aspect of Gluttony. First introduced in Arc 5, she later served as one of the main antagonists of Arc 6, alongside her brothers, Lye and Roy.\nAfter a chance encounter with Natsuki Subaru, she learned of Return by Death and attempted to steal his existence. However, Subaru ultimately managed to defeat her and left her in the Corridor of Memories during the events of Arc 6, though she is later revealed to have survived. This came at the cost of bearing a completely new personality that diverted from her original self, and Subaru later renamed the new personality Spica. \n\n",
     "character_name": "Rui Arneb",
     "name": "Rui Arneb",
     "Kanji": "ルイ・アルネブ",
@@ -4508,7 +4508,7 @@
     "Debuts": { "Light Novel": "Volume 20" }
   },
   {
-    "character_description": "\n\n\nRussell Fellow (ラッセル・フェロー) is the Treasurer of the Commerce Guild in the Dragon Kingdom of Lugunica. However, behind the scenes, he works as the current director of the mysterious defense organization known as the Six Tongues.\nDebuting in Arc 3, Russell made a deal with Natsuki Subaru to participate and cooperate in negotiations with Crusch Karsten on the condition that he relinquish his cell phone once he had finished hunting the White Whale.[1][2] At some point after the end of the arc, Subaru forfeited his cell phone to Russell under Crusch's supervision.[3]\n\n",
+    "description": "\n\n\nRussell Fellow (ラッセル・フェロー) is the Treasurer of the Commerce Guild in the Dragon Kingdom of Lugunica. However, behind the scenes, he works as the current director of the mysterious defense organization known as the Six Tongues.\nDebuting in Arc 3, Russell made a deal with Natsuki Subaru to participate and cooperate in negotiations with Crusch Karsten on the condition that he relinquish his cell phone once he had finished hunting the White Whale.[1][2] At some point after the end of the arc, Subaru forfeited his cell phone to Russell under Crusch's supervision.[3]\n\n",
     "character_name": "Russell Fellow",
     "name": "Russell Fellow",
     "Kanji": "ラッセル・フェロー",
@@ -4531,7 +4531,7 @@
     "Portrayal": { "Japanese Voice": "Ōkawa Tōru", "English Voice": "Chris Cason" }
   },
   {
-    "character_description": "This page is about the copies. For the original Ryuzu, see Ryuzu Meyer (original)\n\n\n\n\n\nRyuzu Meyer (リューズ・メイエル) is the name of the original Ryuzu Meyer, whom her copies are based on.\n\n",
+    "description": "This page is about the copies. For the original Ryuzu, see Ryuzu Meyer (original)\n\n\n\n\n\nRyuzu Meyer (リューズ・メイエル) is the name of the original Ryuzu Meyer, whom her copies are based on.\n\n",
     "character_name": "Ryuzu Meyer",
     "name": "Ryuzu Meyer",
     "Kanji": "リューズ・メイエル",
@@ -4565,7 +4565,7 @@
     "Portrayal": { "Japanese Voice": "Tanaka Aimi", "English Voice": "Lizzie Freeman" }
   },
   {
-    "character_description": "\n\n\nSatella (サテラ) is the Witch of Envy responsible for the Great Calamity 400 years ago who is currently sealed in the Evil Sealing Stone Shrine, located somewhere in the Augria Sand Dunes, close to where the Pleiades Watchtower is currently standing. In reality, the Witch of Envy (嫉妬の魔女) is a separate personality that formed when she took in the incompatible Witch Factor of Envy. Satella formally debuted in Arc 4 as a supporting character, whilst the Witch serves as an overarching antagonist throughout the series, appearing in most arcs so far, one way or another.\nShe possesses a yet-unexplained connection to both Subaru and Emilia. Throughout the series, the Witch silences Subaru whenever he attempts to talk about his Authority. Satella herself did not debut until Arc 4, where she and the other Witches helped Subaru accept himself and change his views on Return by Death.\n\n",
+    "description": "\n\n\nSatella (サテラ) is the Witch of Envy responsible for the Great Calamity 400 years ago who is currently sealed in the Evil Sealing Stone Shrine, located somewhere in the Augria Sand Dunes, close to where the Pleiades Watchtower is currently standing. In reality, the Witch of Envy (嫉妬の魔女) is a separate personality that formed when she took in the incompatible Witch Factor of Envy. Satella formally debuted in Arc 4 as a supporting character, whilst the Witch serves as an overarching antagonist throughout the series, appearing in most arcs so far, one way or another.\nShe possesses a yet-unexplained connection to both Subaru and Emilia. Throughout the series, the Witch silences Subaru whenever he attempts to talk about his Authority. Satella herself did not debut until Arc 4, where she and the other Witches helped Subaru accept himself and change his views on Return by Death.\n\n",
     "character_name": "Satella",
     "name": "Satella",
     "Kanji": "サテラ",
@@ -4599,7 +4599,7 @@
     "Portrayal": { "Japanese Voice": "Takahashi Rie", "English Voice": "Kayli Mills" }
   },
   {
-    "character_description": "\n\n\nSchult (シュルト) is a member of the Priscilla Camp. He is a loyal and close attendant to Priscilla Barielle.\n\n",
+    "description": "\n\n\nSchult (シュルト) is a member of the Priscilla Camp. He is a loyal and close attendant to Priscilla Barielle.\n\n",
     "character_name": "Schult",
     "name": "Schult",
     "Kanji": "シュルト",
@@ -4620,7 +4620,7 @@
     "Debuts": { "Light Novel": "Volume 6", "Anime": "Episode 12" }
   },
   {
-    "character_description": "\n\n\nSekhmet (セクメト) was the Witch of Sloth. She formally debuted in Arc 4 as a supporting character.\nFollowing her death 400 years ago, Echidna collected her soul and brought it to the Sanctuary along with the other Witches. Throughout Arc 4, she and the other Witches helped Subaru accept himself and change his views on Return by Death. After the arc, her soul was transferred into a crystal and she is currently travelling with Omega.\n\n",
+    "description": "\n\n\nSekhmet (セクメト) was the Witch of Sloth. She formally debuted in Arc 4 as a supporting character.\nFollowing her death 400 years ago, Echidna collected her soul and brought it to the Sanctuary along with the other Witches. Throughout Arc 4, she and the other Witches helped Subaru accept himself and change his views on Return by Death. After the arc, her soul was transferred into a crystal and she is currently travelling with Omega.\n\n",
     "character_name": "Sekhmet",
     "name": "Sekhmet",
     "Kanji": "セクメト",
@@ -4649,7 +4649,7 @@
     "Portrayal": { "Japanese Voice": "Nakahara Mai", "English Voice": "Nicole Gose" }
   },
   {
-    "character_description": "\n\n\nSerena Dracroy (セリーナ・ドラクロイ) is a High Countess hailing from the Sacred Vollachia Empire. She is one of the most prominent nobles in the Empire and an acquaintance of Priscilla Barielle.\nSerena helped Priscilla into the Empire following the events of Arc 5. Furthermore, she played an important role in the second story featured in the spinoff volume Ex 5. She made her debut in Arc 7.\n\n",
+    "description": "\n\n\nSerena Dracroy (セリーナ・ドラクロイ) is a High Countess hailing from the Sacred Vollachia Empire. She is one of the most prominent nobles in the Empire and an acquaintance of Priscilla Barielle.\nSerena helped Priscilla into the Empire following the events of Arc 5. Furthermore, she played an important role in the second story featured in the spinoff volume Ex 5. She made her debut in Arc 7.\n\n",
     "character_name": "Serena Dracroy",
     "name": "Serena Dracroy",
     "Kanji": "セリーナ・ドラクロイ",
@@ -4671,7 +4671,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 5 (side story)", "Volume 32 (main story)"] }
   },
   {
-    "character_description": "\n\nSetanta (セタンタ) was the chief of the Oni Village Ram and Rem lived at when they were young, and the last chief of the Onis. \n\n",
+    "description": "\n\nSetanta (セタンタ) was the chief of the Oni Village Ram and Rem lived at when they were young, and the last chief of the Onis. \n\n",
     "character_name": "Setanta",
     "name": "Setanta",
     "Kanji": "セタンタ",
@@ -4691,7 +4691,7 @@
     "Portrayal": { "Japanese Voice": "Tezuka Hideaki", "English Voice": "Ian Alden" }
   },
   {
-    "character_description": "\n\n\nShaknar (シャクナール) is Julius Juukulius's earth dragon. \n\n",
+    "description": "\n\n\nShaknar (シャクナール) is Julius Juukulius's earth dragon. \n\n",
     "character_name": "Shaknar",
     "name": "Shaknar",
     "Kanji": "シャクナール",
@@ -4710,7 +4710,7 @@
     "Portrayal": { "Japanese Voice": "Koichi Sakaguchi", "English Voice": "Dave Wittenberg" }
   },
   {
-    "character_description": "\n\n\nShaula (シャウラ) is a humanoid Demon Beast and the apprentice of the Sage, Flugel. Mentioned throughout the series due to being confused for her master, she formally debuted in Arc 6 as a secondary antagonist for the beginning and climax as well a supporting character throughout the majority of the arc.\nTasked with guarding the Pleiades Watchtower, she initially acted as an obstacle toward Subaru and his companions. However, she later took a neutral stance when they started taking the tower's trials. Unfortunately, after the rules were violated, she transformed into her Demon Beast form and attacked them due to her contract. In the end, she was turned into a tiny scorpion and is currently in Meili's care, as she is instinctively attracted to her Divine Protection.\n\n",
+    "description": "\n\n\nShaula (シャウラ) is a humanoid Demon Beast and the apprentice of the Sage, Flugel. Mentioned throughout the series due to being confused for her master, she formally debuted in Arc 6 as a secondary antagonist for the beginning and climax as well a supporting character throughout the majority of the arc.\nTasked with guarding the Pleiades Watchtower, she initially acted as an obstacle toward Subaru and his companions. However, she later took a neutral stance when they started taking the tower's trials. Unfortunately, after the rules were violated, she transformed into her Demon Beast form and attacked them due to her contract. In the end, she was turned into a tiny scorpion and is currently in Meili's care, as she is instinctively attracted to her Divine Protection.\n\n",
     "character_name": "Shaula",
     "name": "Shaula",
     "Kanji": "シャウラ",
@@ -4741,7 +4741,7 @@
     "Debuts": { "Light Novel": ["Volume 21", "Volume 10 (mentioned)]"] }
   },
   {
-    "character_description": "\n\n\nShion (シオン) is a wandering dream arts user. She, alongside Lilac, later joined Omega as one of her travelling companions. \n\n",
+    "description": "\n\n\nShion (シオン) is a wandering dream arts user. She, alongside Lilac, later joined Omega as one of her travelling companions. \n\n",
     "character_name": "Shion",
     "name": "Shion",
     "Kanji": "シオン",
@@ -4763,7 +4763,7 @@
     "Portrayal": { "Japanese Voice": "Ueda Reina" }
   },
   {
-    "character_description": "\n\n\nShorty Megan (ショーティ・メイガン) is a novice reporter for the Dragon Times.\n\n",
+    "description": "\n\n\nShorty Megan (ショーティ・メイガン) is a novice reporter for the Dragon Times.\n\n",
     "character_name": "Shorty Megan",
     "name": "Shorty Megan",
     "Kanji": "ショーティ・メイガン",
@@ -4777,7 +4777,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 7" }
   },
   {
-    "character_description": "\n\n\nSirius Romanée-Conti (シリウス・ロマネコンティ) is a Sin Archbishop of the Witch Cult, representing Wrath. Debuting in Arc 5, she acted as one of the main antagonists of that arc, alongside her fellow Sin Archbishops, leading an assault on the Watergate City of Priestella. \nSirius was taken into the Kingdom's custody after losing a battle against Priscilla Barielle and Liliana Masquerade, which led her to be delivered to the Royal Capital by Felt and Reinhard van Astrea. She is currently being held in its Prison Tower, where she remains locked away with the help of Evil Sealing Stones.\n\n",
+    "description": "\n\n\nSirius Romanée-Conti (シリウス・ロマネコンティ) is a Sin Archbishop of the Witch Cult, representing Wrath. Debuting in Arc 5, she acted as one of the main antagonists of that arc, alongside her fellow Sin Archbishops, leading an assault on the Watergate City of Priestella. \nSirius was taken into the Kingdom's custody after losing a battle against Priscilla Barielle and Liliana Masquerade, which led her to be delivered to the Royal Capital by Felt and Reinhard van Astrea. She is currently being held in its Prison Tower, where she remains locked away with the help of Evil Sealing Stones.\n\n",
     "character_name": "Sirius Romanée-Conti",
     "name": "Sirius Romanée-Conti",
     "Kanji": "シリウス・ロマネコンティ",
@@ -4805,7 +4805,7 @@
     "Debuts": { "Light Novel": "Volume 16" }
   },
   {
-    "character_description": "\n\n\nSphinx (スピンクス) is the first copy of Ryuzu Meyer who was created in the Sanctuary by the Witch of Greed, Echidna. She made her first main story debut in the final scene of Arc 7 and later became the main antagonist of Arc 8 as the culprit behind the Sacred Vollachia Empire's Great Disaster.\nBorn as a failed vessel from Echidna's attempts at replicating her existence, Sphinx betrayed her creator's intentions and became responsible for countless deaths. During the Demi-Human War, she gained infamy in the Kingdom of Lugunica for being a “Witch” who utilized undead soldiers, as well as one of the Demi-Human Alliance's most crucial members. After Sphinx fell in the war, she was secretly confined in the Barielle Barony by Leip Barielle, where she spent four decades before she planned and commenced an attack on the Vollachia Empire.\n\n",
+    "description": "\n\n\nSphinx (スピンクス) is the first copy of Ryuzu Meyer who was created in the Sanctuary by the Witch of Greed, Echidna. She made her first main story debut in the final scene of Arc 7 and later became the main antagonist of Arc 8 as the culprit behind the Sacred Vollachia Empire's Great Disaster.\nBorn as a failed vessel from Echidna's attempts at replicating her existence, Sphinx betrayed her creator's intentions and became responsible for countless deaths. During the Demi-Human War, she gained infamy in the Kingdom of Lugunica for being a “Witch” who utilized undead soldiers, as well as one of the Demi-Human Alliance's most crucial members. After Sphinx fell in the war, she was secretly confined in the Barielle Barony by Leip Barielle, where she spent four decades before she planned and commenced an attack on the Vollachia Empire.\n\n",
     "character_name": "Sphinx",
     "name": "Sphinx",
     "Kanji": "スピンクス",
@@ -4842,7 +4842,7 @@
     }
   },
   {
-    "character_description": "\n\n\nStride Vollachia (ストライド・ヴォラキア) was a Sin Archbishop of the Witch Cult, representing Pride. He was a younger Wilhelm van Astrea's mortal enemy.\nAround four decades before the start of the main story, in the months following the end of the Demi-Human War, Stride kicked off his destructive rampages across the Kingdom of Lugunica in the events of Ex 3 and Sword Demon Battle Ballad, causing irreparable damage. Roughly three to four months after his initial appearance, Stride summoned Valgren in the city of Picoutatte, starting an incident that would come to be known as the Subjugation of the Blight Dragon—one of the worst days the Kingdom has ever experienced. He slaughtered hundreds of innocent civilians, indirectly caused the death of Roswaal J Mathers, and was swallowed alongside Melinda, his wife, by the very same Dragon that he had previously summoned.\n\n",
+    "description": "\n\n\nStride Vollachia (ストライド・ヴォラキア) was a Sin Archbishop of the Witch Cult, representing Pride. He was a younger Wilhelm van Astrea's mortal enemy.\nAround four decades before the start of the main story, in the months following the end of the Demi-Human War, Stride kicked off his destructive rampages across the Kingdom of Lugunica in the events of Ex 3 and Sword Demon Battle Ballad, causing irreparable damage. Roughly three to four months after his initial appearance, Stride summoned Valgren in the city of Picoutatte, starting an incident that would come to be known as the Subjugation of the Blight Dragon—one of the worst days the Kingdom has ever experienced. He slaughtered hundreds of innocent civilians, indirectly caused the death of Roswaal J Mathers, and was swallowed alongside Melinda, his wife, by the very same Dragon that he had previously summoned.\n\n",
     "character_name": "Stride Vollachia",
     "name": "Stride Vollachia",
     "Kanji": "ストライド・ヴォラキア",
@@ -4889,7 +4889,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 3 (side story)", "Volume 33 (mentioned)"] }
   },
   {
-    "character_description": "\n\n\nSylphy (シルフィ) was Regulus Corneas' 184th wife until Regulus' death at the hands of Reinhard van Astrea, Natsuki Subaru, and Emilia.\nThough having minimal screen time in Arc 5 and not appearing in the following Arcs, she played a mildly-considerable role in taking down the Sin Archbishop of Greed by providing the Greed Subjugation Squad with valuable info about Regulus. Following her husband's death, it's unknown where she went or what she's doing.\n\n",
+    "description": "\n\n\nSylphy (シルフィ) was Regulus Corneas' 184th wife until Regulus' death at the hands of Reinhard van Astrea, Natsuki Subaru, and Emilia.\nThough having minimal screen time in Arc 5 and not appearing in the following Arcs, she played a mildly-considerable role in taking down the Sin Archbishop of Greed by providing the Greed Subjugation Squad with valuable info about Regulus. Following her husband's death, it's unknown where she went or what she's doing.\n\n",
     "character_name": "Sylphy",
     "name": "Sylphy",
     "Kanji": "シルフィ",
@@ -4917,7 +4917,7 @@
     "Debuts": { "Light Novel": "Volume 18" }
   },
   {
-    "character_description": "\n\n\nTanza (タンザ) is a servant of Yorna Mishigure who resides within Chaosflame's Crimson Lapis Castle.\n\n",
+    "description": "\n\n\nTanza (タンザ) is a servant of Yorna Mishigure who resides within Chaosflame's Crimson Lapis Castle.\n\n",
     "character_name": "Tanza",
     "name": "Tanza",
     "Kanji": "タンザ",
@@ -4938,7 +4938,7 @@
     "Debuts": { "Light Novel": "Volume 28" }
   },
   {
-    "character_description": "\n\n\nTaritta Shudrak (タリッタ・シュドラク) is a member of the People of Shudrak located in the depths of the Buddheim Jungle, in the Empire of Vollachia. She made her debut in Arc 7. \nAfter Arakiya's attack in Guaral, Mizelda decided to give Taritta her title of Chieftain of the People of Shudrak after losing her right leg and being unable to fulfil the duties of the Shudraks' Chieftain.\n\n",
+    "description": "\n\n\nTaritta Shudrak (タリッタ・シュドラク) is a member of the People of Shudrak located in the depths of the Buddheim Jungle, in the Empire of Vollachia. She made her debut in Arc 7. \nAfter Arakiya's attack in Guaral, Mizelda decided to give Taritta her title of Chieftain of the People of Shudrak after losing her right leg and being unable to fulfil the duties of the Shudraks' Chieftain.\n\n",
     "character_name": "Taritta Shudrak",
     "name": "Taritta Shudrak",
     "Kanji": "タリッタ・シュドラク",
@@ -4962,7 +4962,7 @@
     "Debuts": { "Light Novel": "Volume 26" }
   },
   {
-    "character_description": "\n\nTemae (テマエ) was Ram and Rem's mother.\n\n",
+    "description": "\n\nTemae (テマエ) was Ram and Rem's mother.\n\n",
     "character_name": "Temae",
     "name": "Temae",
     "Kanji": "テマエ",
@@ -4985,7 +4985,7 @@
     "Portrayal": { "Japanese Voice": "Kimura Akiko", "English Voice": "Erika Harlacher" }
   },
   {
-    "character_description": "\n\n\nTheresia van Astrea (テレシア・ヴァン・アストレア) was Wilhelm van Astrea's wife and the previous generation's Sword Saint who fought and single handedly brought an end to the Demi-Human War roughly 40 years before the start of the main story. Though a minor character overall, she is pivotal to the character arcs of her relatives and later serves as a secondary antagonist in Arc 5.\nAfter dying at the hands of the Hakugei 14 years ago, Wilhelm vowed to avenge her, which he does in Arc 3. However, the Witch Cult reanimated her as a corpse soldier and she was controlled like a puppet during the events of Arc 5. In the end, her grandson, Reinhard, put her out of her misery, an act that completely shattered his relationship with Wilhelm.\n\n",
+    "description": "\n\n\nTheresia van Astrea (テレシア・ヴァン・アストレア) was Wilhelm van Astrea's wife and the previous generation's Sword Saint who fought and single handedly brought an end to the Demi-Human War roughly 40 years before the start of the main story. Though a minor character overall, she is pivotal to the character arcs of her relatives and later serves as a secondary antagonist in Arc 5.\nAfter dying at the hands of the Hakugei 14 years ago, Wilhelm vowed to avenge her, which he does in Arc 3. However, the Witch Cult reanimated her as a corpse soldier and she was controlled like a puppet during the events of Arc 5. In the end, her grandson, Reinhard, put her out of her misery, an act that completely shattered his relationship with Wilhelm.\n\n",
     "character_name": "Theresia van Astrea",
     "name": "Theresia van Astrea",
     "Kanji": "テレシア・ヴァン・アストレア",
@@ -5042,7 +5042,7 @@
     "Portrayal": { "Japanese Voice": "Takahashi Minami", "English Voice": "Xanthe Huynh" }
   },
   {
-    "character_description": "\n\n\nTholter Weasily (トルタ・ウィズリー) was a common soldier of the Royal Army and a close friend of Grimm Fauzen. He died early on in the Demi-Human War at the Battle of Castour Field.\n\n",
+    "description": "\n\n\nTholter Weasily (トルタ・ウィズリー) was a common soldier of the Royal Army and a close friend of Grimm Fauzen. He died early on in the Demi-Human War at the Battle of Castour Field.\n\n",
     "character_name": "Tholter Weasily",
     "name": "Tholter Weasily",
     "Kanji": "トルタ・ウィズリー",
@@ -5062,7 +5062,7 @@
     "Debuts": { "Light Novel": "Ex Volume 2" }
   },
   {
-    "character_description": "\n\n\nTina (ティーナ) is a citizen of Priestella.\n\n",
+    "description": "\n\n\nTina (ティーナ) is a citizen of Priestella.\n\n",
     "character_name": "Tina",
     "name": "Tina",
     "Kanji": "ティーナ",
@@ -5076,7 +5076,7 @@
     "Debuts": { "Light Novel": "Volume 17" }
   },
   {
-    "character_description": "\n\n\nTiriena (ティリエナ) is a noblewoman from Gusteko and its Archbishop's daughter.\n\n",
+    "description": "\n\n\nTiriena (ティリエナ) is a noblewoman from Gusteko and its Archbishop's daughter.\n\n",
     "character_name": "Tiriena",
     "name": "Tiriena",
     "Kanji": "ティリエナ",
@@ -5092,7 +5092,7 @@
     "Debuts": { "Light Novel": "Ex Volume 1" }
   },
   {
-    "character_description": "\n\n\nTishua Astrea (ティシュア・アストレア) was the mother of Theresia van Astrea and the wife of Veltol Astrea.\n\n",
+    "description": "\n\n\nTishua Astrea (ティシュア・アストレア) was the mother of Theresia van Astrea and the wife of Veltol Astrea.\n\n",
     "character_name": "Tishua Astrea",
     "name": "Tishua Astrea",
     "Kanji": "ティシュア・アストレア",
@@ -5116,7 +5116,7 @@
     "Debuts": { "Light Novel": "Ex Volume 3" }
   },
   {
-    "character_description": "\n\n\nTivey Pearlbaton (ティビー・パールバトン) is one of Anastasia Hoshin's followers and is one of the three vice captains of the mercenary group known as the Iron Fang.\n\n",
+    "description": "\n\n\nTivey Pearlbaton (ティビー・パールバトン) is one of Anastasia Hoshin's followers and is one of the three vice captains of the mercenary group known as the Iron Fang.\n\n",
     "character_name": "Tivey Pearlbaton",
     "name": "Tivey Pearlbaton",
     "Kanji": "ティビー・パールバトン",
@@ -5156,7 +5156,7 @@
     "Portrayal": { "Japanese Voice": "Shimowada Hiroki", "English Voice": "Julie Ann Taylor" }
   },
   {
-    "character_description": "\n\n\nTodd Fang (トッド・ファング) is a soldier in the Sacred Vollachia Empire who holds the rank of a Private First-Class and Katya Aurélie's fiancé. Debuting in Volume 26, Todd, alongside Jamal Aurélie, originally played a supporting role at the start of Arc 7, until he became Subaru's bitter enemy. Later, after rescuing Arakiya from imprisonment in Guaral, he was appointed as her sole subordinate and ventured with her to the Gladiator Island Ginunhive to slaughter the gladiators there on Berstetz Fondalfon's orders.\nDuring the Battle for the Imperial Capital, Todd tried to murder the people responsible for spreading information across the battlefield before they was forced to flee. The Great Disaster began soon afterward, and after helping his fiancé and Subaru's friends escape from the zombies, Todd revealed his lineage to the boy and attempted to slay him once more. However, Todd was defeated by Emilia and Rem and swept up by a flood he sunk to the depths of, leading Subaru to presume him dead.\n\n",
+    "description": "\n\n\nTodd Fang (トッド・ファング) is a soldier in the Sacred Vollachia Empire who holds the rank of a Private First-Class and Katya Aurélie's fiancé. Debuting in Volume 26, Todd, alongside Jamal Aurélie, originally played a supporting role at the start of Arc 7, until he became Subaru's bitter enemy. Later, after rescuing Arakiya from imprisonment in Guaral, he was appointed as her sole subordinate and ventured with her to the Gladiator Island Ginunhive to slaughter the gladiators there on Berstetz Fondalfon's orders.\nDuring the Battle for the Imperial Capital, Todd tried to murder the people responsible for spreading information across the battlefield before they was forced to flee. The Great Disaster began soon afterward, and after helping his fiancé and Subaru's friends escape from the zombies, Todd revealed his lineage to the boy and attempted to slay him once more. However, Todd was defeated by Emilia and Rem and swept up by a flood he sunk to the depths of, leading Subaru to presume him dead.\n\n",
     "character_name": "Todd Fang",
     "name": "Todd Fang",
     "Kanji": "トッド・ファング",
@@ -5188,7 +5188,7 @@
     "Debuts": { "Light Novel": "Volume 26" }
   },
   {
-    "character_description": "\n\n\nTyphon (テュフォン) was the Witch of Pride. Mentioned throughout the series, she formally debuted in Arc 4 as a supporting character.\nFollowing her death 400 years ago, Echidna collected her soul and brought it to the Sanctuary along with the other Witches. Throughout Arc 4, she and the other Witches helped Subaru accept himself and change his views on Return by Death. After the arc, her soul was transferred into a crystal and she is currently travelling with Omega.\n\n",
+    "description": "\n\n\nTyphon (テュフォン) was the Witch of Pride. Mentioned throughout the series, she formally debuted in Arc 4 as a supporting character.\nFollowing her death 400 years ago, Echidna collected her soul and brought it to the Sanctuary along with the other Witches. Throughout Arc 4, she and the other Witches helped Subaru accept himself and change his views on Return by Death. After the arc, her soul was transferred into a crystal and she is currently travelling with Omega.\n\n",
     "character_name": "Typhon",
     "name": "Typhon",
     "Kanji": "テュフォン",
@@ -5223,7 +5223,7 @@
     "Portrayal": { "Japanese Voice": "Kuno Misaki", "English Voice": "Kimberley Anne Campbell" }
   },
   {
-    "character_description": "\n\n\nUbilk (ウビルク) is a former Stargazer in the Sacred Vollachia Empire. He worked for Vollachia's emperor, Vincent Vollachia, by foreseeing the future and delivering prophecies to preserve the Empire's continued existence, up until he finally fulfilled his commandment in Arc 8.\nIn the past, Ubilk used to be a male prostitute and one of Al's acquaintances at the Gladiator Island Ginunhive. Roughly 7 years before the start of the main story and in the time following Vincent Vollachia's coronation as emperor, Ubilk spearheaded a rebellion on the Gladiator Island. He was later revealed to be a surviving member of the Evil Eye Tribe, and he was thought to have escaped Ginunhive via a teleportation mechanism.\n\n",
+    "description": "\n\n\nUbilk (ウビルク) is a former Stargazer in the Sacred Vollachia Empire. He worked for Vollachia's emperor, Vincent Vollachia, by foreseeing the future and delivering prophecies to preserve the Empire's continued existence, up until he finally fulfilled his commandment in Arc 8.\nIn the past, Ubilk used to be a male prostitute and one of Al's acquaintances at the Gladiator Island Ginunhive. Roughly 7 years before the start of the main story and in the time following Vincent Vollachia's coronation as emperor, Ubilk spearheaded a rebellion on the Gladiator Island. He was later revealed to be a surviving member of the Evil Eye Tribe, and he was thought to have escaped Ginunhive via a teleportation mechanism.\n\n",
     "character_name": "Ubilk",
     "name": "Ubilk",
     "Kanji": "ウビルク",
@@ -5244,7 +5244,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 5 (side story)", "Volume 28 (main story)"] }
   },
   {
-    "character_description": "\n\n\nUtakata Shudrak (ウタカタ・シュドラク) is a member of the People of Shudrak located in the depths of the Buddheim Jungle, within the Sacred Vollachia Empire. She made her debut in Arc 7. \n\n",
+    "description": "\n\n\nUtakata Shudrak (ウタカタ・シュドラク) is a member of the People of Shudrak located in the depths of the Buddheim Jungle, within the Sacred Vollachia Empire. She made her debut in Arc 7. \n\n",
     "character_name": "Utakata Shudrak",
     "name": "Utakata Shudrak",
     "Kanji": "ウタカタ・シュドラク",
@@ -5262,7 +5262,7 @@
     "Debuts": { "Light Novel": "Volume 26" }
   },
   {
-    "character_description": "\n\n\nValgren (バルグレン) was a Dragon that was summoned by Stride Vollachia roughly four decades before the start of the series and a year after the end of the Demi-Human War. It was reduced to ash by the Divine Dragon Volcanica.\nIn the events of Arc 8, Valgren appears as an undead during the Great Disaster.\n\n",
+    "description": "\n\n\nValgren (バルグレン) was a Dragon that was summoned by Stride Vollachia roughly four decades before the start of the series and a year after the end of the Demi-Human War. It was reduced to ash by the Divine Dragon Volcanica.\nIn the events of Arc 8, Valgren appears as an undead during the Great Disaster.\n\n",
     "character_name": "Valgren",
     "name": "Valgren",
     "Kanji": "バルグレン",
@@ -5279,7 +5279,7 @@
     "Debuts": { "Light Novel": ["Sword Demon Battle Ballad: Act 1 (side story)"] }
   },
   {
-    "character_description": "\n\n\nVeltol Astrea (ベルトール・アストレア) was the father of Theresia van Astrea. Though not making an appearence in the main story, Veltol played a pivotal role in Theresia's character development during Ex 2 and Ex 3, as well as serving as a pillar of strength for Wilhelm in those same volumes. \nHe died in Sword Demon Battle Ballad after getting cut down by Carol Remendis, who was being controlled by one of Stride Vollachia's rings.\n\n",
+    "description": "\n\n\nVeltol Astrea (ベルトール・アストレア) was the father of Theresia van Astrea. Though not making an appearence in the main story, Veltol played a pivotal role in Theresia's character development during Ex 2 and Ex 3, as well as serving as a pillar of strength for Wilhelm in those same volumes. \nHe died in Sword Demon Battle Ballad after getting cut down by Carol Remendis, who was being controlled by one of Stride Vollachia's rings.\n\n",
     "character_name": "Veltol Astrea",
     "name": "Veltol Astrea",
     "Kanji": "ベルトール・アストレア",
@@ -5310,7 +5310,7 @@
     "Debuts": { "Light Novel": "Ex Volume 3" }
   },
   {
-    "character_description": "This page is about the character. For the story arc, see Arc 8.\n\n\n\n\nVincent Vollachia (ヴィンセント・ヴォラキア), also temporarily known by the alias Abel (アベル), is the seventy-seventh emperor of the Sacred Vollachia Empire. Debuting in the main story at the beginning of Arc 7, he stepped down from his position and fled the Imperial Capital of Lupugana after a coup d'état was sprung against him by Prime Minister Berstetz Fondalfon and supposed conspirator Chisha Gold, the Fourth ranking Divine General.\nIn actuality, Vincent attempted to lay down his own life for the benefit of his country by preventing the Great Disaster, an incident foretold to commence with the death of “Vincent Vollachia”, from bringing ruination to the Empire. He later reassumed his position as emperor after Chisha used his ability to take on Vincent's own appearance and die in his place.\n\n",
+    "description": "This page is about the character. For the story arc, see Arc 8.\n\n\n\n\nVincent Vollachia (ヴィンセント・ヴォラキア), also temporarily known by the alias Abel (アベル), is the seventy-seventh emperor of the Sacred Vollachia Empire. Debuting in the main story at the beginning of Arc 7, he stepped down from his position and fled the Imperial Capital of Lupugana after a coup d'état was sprung against him by Prime Minister Berstetz Fondalfon and supposed conspirator Chisha Gold, the Fourth ranking Divine General.\nIn actuality, Vincent attempted to lay down his own life for the benefit of his country by preventing the Great Disaster, an incident foretold to commence with the death of “Vincent Vollachia”, from bringing ruination to the Empire. He later reassumed his position as emperor after Chisha used his ability to take on Vincent's own appearance and die in his place.\n\n",
     "character_name": "Vincent Vollachia",
     "name": "Vincent Vollachia",
     "Kanji": "ヴィンセント・ヴォラキア",
@@ -5356,7 +5356,7 @@
     "Debuts": { "Light Novel": ["Ex Volume 4 (side story)", "Volume 26 (main story)"] }
   },
   {
-    "character_description": "\n\n\nVolcanica (ボルカニカ), also known as the Divine Dragon (神龍), is a key figure in the sealing of the Witch of Envy 400 years ago. It is the guardian of the Kingdom of Lugunica and is worshiped by its inhabitants as it is the very symbol of hope and trust for the entire nation. Mentioned throughout the series, it formally debuted during the climax of Arc 6 as a minor antagonist and later in a minor supporting role.\nDuring Arc 6's climax, it acted as the overseer of the third trial of the Pleiades Watchtower and the final obstacle preventing Emilia from conquering it. It was also revealed that decades of neglect caused the Divine Dragon's mind to break, reducing it to a shell of its former self and putting it into a hibernation-like state.\n\n",
+    "description": "\n\n\nVolcanica (ボルカニカ), also known as the Divine Dragon (神龍), is a key figure in the sealing of the Witch of Envy 400 years ago. It is the guardian of the Kingdom of Lugunica and is worshiped by its inhabitants as it is the very symbol of hope and trust for the entire nation. Mentioned throughout the series, it formally debuted during the climax of Arc 6 as a minor antagonist and later in a minor supporting role.\nDuring Arc 6's climax, it acted as the overseer of the third trial of the Pleiades Watchtower and the final obstacle preventing Emilia from conquering it. It was also revealed that decades of neglect caused the Divine Dragon's mind to break, reducing it to a shell of its former self and putting it into a hibernation-like state.\n\n",
     "character_name": "Volcanica",
     "name": "Volcanica",
     "Kanji": "ボルカニカ",
@@ -5385,7 +5385,7 @@
     }
   },
   {
-    "character_description": "\n\n\nWeitz Rogen (ヴァイツ・ログン) is a former gladiator at the Gladiator Island Ginunhive and a member of Subaru's Unit during the latter's stay on the island who later joined the Pleiades Battalion. He made his debut in Arc 7.\n\n",
+    "description": "\n\n\nWeitz Rogen (ヴァイツ・ログン) is a former gladiator at the Gladiator Island Ginunhive and a member of Subaru's Unit during the latter's stay on the island who later joined the Pleiades Battalion. He made his debut in Arc 7.\n\n",
     "character_name": "Weitz Rogen",
     "name": "Weitz Rogen",
     "Kanji": "ヴァイツ・ログン",
@@ -5406,7 +5406,7 @@
     "Debuts": { "Light Novel": "Volume 31" }
   },
   {
-    "character_description": "This page is about the character. For the anime episode, see Re:Zero Episode 20.\n\n\n\n\nWilhelm van Astrea (ヴィルヘルム・ヴァン・アストレア), né Trias (トリアス), is a member of the Crusch Camp and was Theresia van Astrea's husband. He is a supporting character in Re:Zero, with especially large roles in Arc 3 and Arc 5. Wilhelm also was the main character in two spinoff novels set roughly 40 years before Arc 1, during his youth–Ex 2 and Ex 3.\nIn his youth, Wilhelm fought in the Demi-Human War, where he earned the title of Sword Demon. Following the end of the Demi-Human War and Bordeaux's resignation, he was given the honour of being the new Captain of the Zelgeff Squadron. In roughly a year, Wilhelm then advanced even further, and was given the title of the Captain of the Royal Guard. After his wife was killed by the Hakugei, he vowed to avenge her, left the ranks of Knights and the Astrea Family.\nFifteen years later, he finally managed to fulfil his life-long goal of avenging his wife, during the climax of Arc 3. However, in Arc 5, he realizes that his quest caused him to neglect his family, especially his grandson Reinhard, and he tried to make amends. Unfortunately, it ended in tragedy when the Witch Cult reanimated his wife's corpse, forcing Reinhard to kill her, shattering their relationship.\n\n",
+    "description": "This page is about the character. For the anime episode, see Re:Zero Episode 20.\n\n\n\n\nWilhelm van Astrea (ヴィルヘルム・ヴァン・アストレア), né Trias (トリアス), is a member of the Crusch Camp and was Theresia van Astrea's husband. He is a supporting character in Re:Zero, with especially large roles in Arc 3 and Arc 5. Wilhelm also was the main character in two spinoff novels set roughly 40 years before Arc 1, during his youth–Ex 2 and Ex 3.\nIn his youth, Wilhelm fought in the Demi-Human War, where he earned the title of Sword Demon. Following the end of the Demi-Human War and Bordeaux's resignation, he was given the honour of being the new Captain of the Zelgeff Squadron. In roughly a year, Wilhelm then advanced even further, and was given the title of the Captain of the Royal Guard. After his wife was killed by the Hakugei, he vowed to avenge her, left the ranks of Knights and the Astrea Family.\nFifteen years later, he finally managed to fulfil his life-long goal of avenging his wife, during the climax of Arc 3. However, in Arc 5, he realizes that his quest caused him to neglect his family, especially his grandson Reinhard, and he tried to make amends. Unfortunately, it ended in tragedy when the Witch Cult reanimated his wife's corpse, forcing Reinhard to kill her, shattering their relationship.\n\n",
     "character_name": "Wilhelm van Astrea né Trias",
     "name": "Wilhelm van Astrea né Trias",
     "Kanji": ["ヴィルヘルム・ヴァン・アストレア (current)", "ヴィルヘルム・トリアス (former)"],
@@ -5479,7 +5479,7 @@
     }
   },
   {
-    "character_description": "\n\n\nYae Tenzen (ヤエ・テンゼン) is a former member of the Priscilla Camp. She was a maid who served the role of Priscilla's Grand Chamberlain. However, it was later revealed that she was an assassin who was tasked to kill Priscilla for unknown reasons.\n\n",
+    "description": "\n\n\nYae Tenzen (ヤエ・テンゼン) is a former member of the Priscilla Camp. She was a maid who served the role of Priscilla's Grand Chamberlain. However, it was later revealed that she was an assassin who was tasked to kill Priscilla for unknown reasons.\n\n",
     "character_name": "Yae Tenzen",
     "name": "Yae Tenzen",
     "Kanji": "ヤエ・テンゼン",
@@ -5501,7 +5501,7 @@
     "Debuts": { "Light Novel": "Tanpenshuu Volume 4" }
   },
   {
-    "character_description": "\n\n\nYaktol Suwen (ヤクトル・スーウェン) is the former head and representative of the Suwen Company.\n\n",
+    "description": "\n\n\nYaktol Suwen (ヤクトル・スーウェン) is the former head and representative of the Suwen Company.\n\n",
     "character_name": "Yaktol Suwen",
     "name": "Yaktol Suwen",
     "Kanji": "ヤクトル・スーウェン",
@@ -5529,7 +5529,7 @@
     "Debuts": { "Light Novel": "Ex Volume 3" }
   },
   {
-    "character_description": "\n\n\nYorna Mishigure (ヨルナ・ミシグレ) is the Seventh ranking Divine General of the Sacred Vollachia Empire and the ruler of the Demon City of Chaosflame.\n\n",
+    "description": "\n\n\nYorna Mishigure (ヨルナ・ミシグレ) is the Seventh ranking Divine General of the Sacred Vollachia Empire and the ruler of the Demon City of Chaosflame.\n\n",
     "character_name": "Yorna Mishigure",
     "name": "Yorna Mishigure",
     "Kanji": "ヨルナ・ミシグレ",
@@ -5558,7 +5558,7 @@
     "Debuts": { "Light Novel": "Volume 28" }
   },
   {
-    "character_description": "\n\n\nZarestia (ザーレスティア) is the the Slasher, one of the Four Great Spirits. She dwells at Zarestia's Bed.\n\n",
+    "description": "\n\n\nZarestia (ザーレスティア) is the the Slasher, one of the Four Great Spirits. She dwells at Zarestia's Bed.\n\n",
     "character_name": "Zarestia",
     "name": "Zarestia",
     "Kanji": "ザーレスティア",
@@ -5596,7 +5596,7 @@
     }
   },
   {
-    "character_description": "\n\n\nZikr Osman (ズィクル・オスマン) is a Second-Class General of the Sacred Vollachia Empire's Imperial Army who was tasked to lead a force with the goal of subjugating the Shudrak Clan. Following his defeat at the hands of Vincent Abellux, he joined the former Emperor's side.\n\n",
+    "description": "\n\n\nZikr Osman (ズィクル・オスマン) is a Second-Class General of the Sacred Vollachia Empire's Imperial Army who was tasked to lead a force with the goal of subjugating the Shudrak Clan. Following his defeat at the hands of Vincent Abellux, he joined the former Emperor's side.\n\n",
     "character_name": "Zikr Osman",
     "name": "Zikr Osman",
     "Kanji": "ズィクル・オスマン",
