@@ -125,7 +125,7 @@ const filteredCharacters = computed(() => {
 <template>
   <div>
     <div class="search-container">
-      <SearchBar v-model="searchTerm" />
+      <SearchBar v-model="searchTerm" :placeholder="'Search by EN or JP name...'" />
     </div>
 
     <div v-if="filteredCharacters.length" class="card-container">

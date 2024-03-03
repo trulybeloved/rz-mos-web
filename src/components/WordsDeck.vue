@@ -70,7 +70,7 @@ const filteredWords = computed(() => {
 <template>
   <div>
     <div class="search-container">
-      <SearchBar v-model="searchTerm" />
+      <SearchBar v-model="searchTerm" :placeholder="'Search all fields...'" />
     </div>
 
     <div v-if="filteredWords.length" class="words-container">

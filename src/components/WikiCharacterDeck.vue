@@ -2,6 +2,8 @@
 import SearchBar from './SearchBar.vue'
 import { ref, computed } from 'vue'
 import { makeHttpRequest } from './axiosRequest.js'
+import RadixSwitch from './RadixSwitch.vue'
+// import { switchState } from './RadixSwitch.vue'
 
 const wiki_characters = await makeHttpRequest(
   'https://rzmosweb.pages.dev/rz_wiki_character_details.json',
@@ -9,13 +11,37 @@ const wiki_characters = await makeHttpRequest(
 )
 
 const searchTerm = ref('')
+const searchAllFields = ref(false)
+const searchBarPlaceholder = computed(() => {
+  if (searchAllFields.value) {
+    return 'Search all fields...'
+  } else {
+    return 'Search by EN or JP name...'
+  }
+})
 
 const filteredCharacters = computed(() => {
   let filtered = wiki_characters.filter((characterEntry) => {
-    const characterEngName = characterEntry.name
-    const characterJapName = characterEntry.kanji
+    if (searchAllFields.value) {
 
-    if (
+      var fullCharacterEntryString = JSON.stringify(characterEntry, null, 2)
+      fullCharacterEntryString = fullCharacterEntryString.replace(/["']/g, '')
+
+      if (
+      (fullCharacterEntryString &&
+        typeof fullCharacterEntryString === 'string' &&
+        fullCharacterEntryString.toLowerCase().includes(searchTerm.value.toLowerCase()))
+      
+    ) {
+      return true
+    } else {
+      return false
+    }
+
+    } else {
+      const characterEngName = characterEntry.name
+      const characterJapName = characterEntry.kanji
+      if (
       (characterEngName &&
         typeof characterEngName === 'string' &&
         characterEngName.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
@@ -27,6 +53,8 @@ const filteredCharacters = computed(() => {
     } else {
       return false
     }
+    }
+
   })
   // Sort filtered characters alphabetically based on the .name string
   filtered.sort((a, b) => {
@@ -43,8 +71,11 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
 <template>
   <div>
     <div class="search-container">
-      <SearchBar v-model="searchTerm" />
+      <SearchBar v-model="searchTerm" :placeholder="searchBarPlaceholder" />
     </div>
+    <div class="search-options">
+        <RadixSwitch class="switch" @checked="searchAllFields = !searchAllFields" :label="'Search all fields'"/>
+      </div>
 
     <div v-if="filteredCharacters.length" class="card-container">
 
@@ -127,7 +158,16 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-bottom: 30px;
+  padding-bottom: 1rem;
+}
+
+.search-options {
+  display: flex;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0;
+  justify-content: flex-end;
+  padding-bottom: 1rem;
 }
 
 .card-container {
