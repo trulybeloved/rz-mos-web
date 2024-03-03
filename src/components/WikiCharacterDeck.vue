@@ -40,7 +40,7 @@ const filteredCharacters = computed(() => {
 
     } else {
       const characterEngName = characterEntry.name
-      const characterJapName = characterEntry.kanji
+      const characterJapName = characterEntry.Kanji
       if (
       (characterEngName &&
         typeof characterEngName === 'string' &&
