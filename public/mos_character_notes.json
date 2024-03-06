@@ -252,6 +252,25 @@
     },
 
     {
+        "character": "Ryuzu Meyer (Copy/ies)",
+        "name_in_jp": "リューズ・メイエル",
+        "japanese_speech_quirks": [
+            "Pronoun – “儂” (Pre-copies reveal WN only), “儂ら” (post-copies reveal WN only), “ワシ” (Pre-copies reveal LN only), “ワシら” (post-copies reveal LN only)"
+        ],
+        "english_speech_quirks": [
+            "Uses some contractions such as “I’m” / “don’t(’cha)” / “-in’” / “kinda” / “tho” / “‘bout” / “‘em” / “‘cause”, but doesn’t use “(y’)ain’t” / “y’all” / “’n” / “y’know”",
+            "Should sound like an old woman"
+        ],
+        "notes": [
+            "Uses Fuu(フー) for Frederica sometimes",
+            "Uses Gar-bo for Garfiel(ガー坊)",
+            "Uses Su-bo for Subaru(スー坊)",
+            "Uses Ros-bo for Roswaal(ロズ坊)",
+            "Refers to Emilia with “sama” 様"
+        ]
+    },
+
+    {
         "character": "Aldebaran",
         "name_in_jp": "アル / アルデバラン",
         "japanese_speech_quirks": [
