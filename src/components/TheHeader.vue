@@ -42,6 +42,7 @@ import { RouterLink } from 'vue-router'
       <nav>
         <RouterLink to="/">Characters</RouterLink>
         <RouterLink to="/words">Words and Phrases</RouterLink>
+        <RouterLink to="/formatting">Formatting</RouterLink>
         <RouterLink to="/wiki">Wiki</RouterLink>
       </nav>
     </div>
