@@ -32,7 +32,7 @@ import ClipboardButton from './ClipboardButton.vue';
     display: flex;
     flex-direction: column;
     width: 100%;
-    background-color: rgb(12, 12, 12);
+    background-color: rgb(17, 17, 17);
     border-radius: 1em;
     padding: 0.5em;
     margin-top: 1em;
@@ -45,6 +45,7 @@ import ClipboardButton from './ClipboardButton.vue';
   justify-content: center;
   gap: 1em;
   flex-wrap: wrap;
+  padding-bottom: 1em;
 }
 
 @media screen and (max-width: 700px) {
