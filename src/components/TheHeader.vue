@@ -95,6 +95,7 @@ h4 {
 .header-text h1,
 .header-text h3 {
   text-align: left;
+  cursor: default;
 }
 
 .header-logo {
