@@ -10,9 +10,9 @@ import ClipboardButton from './ClipboardButton.vue';
             <ClipboardButton buttonText="Em dash" textToCopy = "—" />
             <ClipboardButton buttonText="Ellipsis" textToCopy = "…" />
             <ClipboardButton buttonText="Tilde" textToCopy = "~" />
-            <ClipboardButton buttonText="Dialogue Tag" textToCopy = ":[]" />
-            <ClipboardButton buttonText="" textToCopy = ":[————]" />
-            <ClipboardButton buttonText="" textToCopy = ":[——Hk!]" />
+            <ClipboardButton buttonText="Dialogue Tag" textToCopy = ": []" />
+            <ClipboardButton buttonText="" textToCopy = ": [————]" />
+            <ClipboardButton buttonText="" textToCopy = ": [——Hk!]" />
         </div>
     </div>
 
