@@ -488,6 +488,26 @@
     },
 
     {
+        "character": "Hayden Garo",
+        "name_in_jp": "ヘイデン・ガロ",
+        "japanese_speech_quirks": [
+            "Pronoun – “オレ”"
+        ],
+        "english_speech_quirks": [
+            "Harsh and rough without being too grating",
+            "Uses contractions such as “I’m” / “don’t” / “c’mon”, etc, but does not use “-in’” / “’n” / “y’all”",
+            "“ain’t” is sometimes used (never “y’ain’t”)",
+            "“You” to be stylized as “ya”, except in “you’re” and “you’ve”",
+            "“Your(s)” to be stylized as “yer(s)”"
+        ],
+        "notes": [
+            "Uses “future Queen” for Frederica (正妃)",
+            "Uses “unselected blood” for Garfiel (選外の血)",
+            "Uses “inferiors” when describing humans (劣等)"
+        ]
+    },
+    
+    {
         "character": "Berstetz Fondalfon",
         "name_in_jp": "ベルステツ・フォンダルフォン",
         "japanese_speech_quirks": [
