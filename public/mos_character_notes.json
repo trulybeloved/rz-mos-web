@@ -495,7 +495,7 @@
         ],
         "english_speech_quirks": [
             "Harsh and rough without being too grating",
-            "Uses contractions such as “I’m” / “don’t” / “c’mon”, etc, but does not use “-in’” / “’n” / “y’all”",
+            "Uses contractions such as “I’m” / “don’t” / “c’mon” , etc, but does not use “-in’” / “’n” / “y’all”, ‘bout, “don’t(‘cha)”, “ain’t” is sometimes used (never “y’ain’t”)",
             "“ain’t” is sometimes used (never “y’ain’t”)",
             "“You” to be stylized as “ya”, except in “you’re” and “you’ve”",
             "“Your(s)” to be stylized as “yer(s)”"
@@ -1263,6 +1263,22 @@
         "notes": [
             "Referred to as “虎狩” (Tiger Hunter)"
         ]
+    },
+    {
+        "character": "Sphinx",
+        "name_in_jp": "スピンクス",
+        "japanese_speech_quirks": [
+            "Pronoun – “私”, later “ワタシ”",
+            "Speaks robotically, without emotion"
+        ],
+        "english_speech_quirks": [
+            "No contractions whatsoever",
+            "Stiff and robotic, but should sound polite-ish"
+        ],
+        "notes": [
+            "Has a trait of speaking like “要・X”, to be localized as “X: Required”"
+        ]
     }
+    
     
 ]
