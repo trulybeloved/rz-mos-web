@@ -11,7 +11,7 @@ const characters = await makeHttpRequest(
 )
 
 const characterNotes = await makeHttpRequest(
-  'https://raw.githubusercontent.com/trulybeloved/rz-mos-web/main/public/mos_character_notes.json'
+  'https://rzmosweb.pages.dev/mos_character_notes.json'
 )
 
 function parseJSON(jsonData) {
