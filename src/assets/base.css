@@ -186,6 +186,13 @@
   margin: 0;
 }
 
+@media screen and (max-width: 500px) {
+  :root {
+    font-size: 14px;
+  }
+  
+}
+
 body {
   min-height: 100vh;
   color: var(--color-text);
