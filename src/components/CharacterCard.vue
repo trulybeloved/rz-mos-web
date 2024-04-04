@@ -160,7 +160,9 @@ export default {
 }
 
 .field-label {
-  font-weight: 150;
+  font-weight: 250;
+  font-size: 1rem;
+  color: var(--card-color);
 }
 
 .card-body {
