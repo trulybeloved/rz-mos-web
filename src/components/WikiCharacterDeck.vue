@@ -189,10 +189,10 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
   background-color: var(--card-background-color);
   border: 1px solid var(--card-border-color);
   border-radius: 10px;
-  padding: 20px;
+  padding: 1rem;
   /* width: 100%; */
   min-width: 0;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 .card-header {
