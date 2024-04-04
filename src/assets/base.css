@@ -19,10 +19,93 @@
   --vt-c-text-light-2: rgba(60, 60, 60, 0.66);
   --vt-c-text-dark-1: var(--vt-c-white);
   --vt-c-text-dark-2: rgba(235, 235, 235, 0.64);
+
+  --section-gap: 160px;
+
+  font-size: 16px;
 }
 
 /* semantic color variables for this project */
 :root {
+
+  --color-background: var(--vt-c-white);
+  --color-background-soft: var(--vt-c-white-soft);
+  --color-background-mute: var(--vt-c-white-mute);
+
+  --color-border: var(--vt-c-divider-light-2);
+  --color-border-hover: var(--vt-c-divider-light-1);
+
+  --color-heading: var(--vt-c-text-light-1);
+  --color-text: var(--vt-c-text-light-2);
+
+  /* Green text */
+  --color-text-green: hsla(160, 100%, 37%, 1);
+  --background-color-green: hsla(119, 100%, 75%, 0.131);
+
+  /* Topbar Buttons */
+  --top-bar-button-font-color: #000000;
+  --top-bar-button-hover-font-color: #ffffff;
+  --top-bar-button-background: #fafafa;
+  --top-bar-button-hover-background: #adadad;
+  --top-bar-button-border-color: #9c9c9c;
+  --top-bar-button-hover-border-color: #8d8d8d;
+
+  /* Nav */
+
+  --nav-background-color: #ffffff;
+  --nav-color: #000000;
+  --nav-border-color: #bababa;
+
+  --nav-active-background-color: #d1ffd8;
+  --nav-active-color: #000000;
+
+  /* Search */
+
+  --search-background-color: #ffffff;
+  --search-color: #000000;
+  --search-border-color: #393939;
+
+  /* Cards */
+
+  --card-background-color: #ffffff;
+  --card-color: #000000;
+  --card-border-color: #bababa;
+
+  --card-header-color: #000000;
+  --card-header-background-color: #f4f4f4;
+
+  --card-contents-color: #000000;
+  --card-contents-background-color: #fcfcfc;
+
+  --category-label-color: #494949;
+
+  /* Words */
+  --used-for-color: #505050;
+  --notes-color: var(--used-for-color);
+
+  /* Switch */
+  --switch-root-background-color: rgb(0, 0, 0);
+  --switch-root-checked-background-color: rgb(22, 109, 22);
+
+  --switch-thumb-background-color: rgb(255, 255, 255);
+  --switch-label-color: rgb(78, 78, 78);
+
+  /* Text */
+  --formatting-text-color: #000000;
+  --formatting-text-background-color: #ffffff;
+
+  /* Clipboard */
+
+  --clipboard-color: #000000;
+  --clipboard-background-color: #e0e0e0;
+
+  --clipboard-hover-background-color: #026d00;
+  --clipboard-active-background-color: #012500;
+
+}
+
+.dark-mode {
+
   --color-background: var(--vt-c-black);
   --color-background-soft: var(--vt-c-black-soft);
   --color-background-mute: var(--vt-c-black-mute);
@@ -33,21 +116,67 @@
   --color-heading: var(--vt-c-text-dark-1);
   --color-text: var(--vt-c-text-dark-2);
 
-  --section-gap: 160px;
-}
+  /* Green text */
+  --color-text-green: hsla(160, 100%, 37%, 1);
+  --background-color-green: hsla(160, 100%, 37%, 0.2);
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-background: var(--vt-c-black);
-    --color-background-soft: var(--vt-c-black-soft);
-    --color-background-mute: var(--vt-c-black-mute);
+  /* Topbar Buttons */
+  --top-bar-button-font-color: #b4b4b4;
+  --top-bar-button-hover-font-color: #c9c9c9;
+  --top-bar-button-background: #363636;
+  --top-bar-button-hover-background: #adadad;
+  --top-bar-button-border-color: #838383;
+  --top-bar-button-hover-border-color: #adadad;
 
-    --color-border: var(--vt-c-divider-dark-2);
-    --color-border-hover: var(--vt-c-divider-dark-1);
+  /* Nav */
 
-    --color-heading: var(--vt-c-text-dark-1);
-    --color-text: var(--vt-c-text-dark-2);
-  }
+  --nav-background-color: #ffffff;
+  --nav-color: #000000;
+  --nav-border-color: #bababa;
+  --nav-active-background-color: #003007;
+  --nav-active-color: #ffffff;
+
+  /* Search */
+
+  --search-background-color: #000000;
+  --search-color: #ffffff;
+  --search-border-color: #393939;
+
+  /* Cards */
+
+  --card-background-color: #2c2c2c;
+  --card-color: #ececec;
+  --card-border-color: #393939;
+
+  --card-header-color: #e4e4e4;
+  --card-header-background-color: #333;
+
+  --card-contents-color: #d1d1d1;
+  --card-contents-background-color: #292929;
+
+  --category-label-color: #9c9c9c;
+
+  /* Words */
+  --used-for-color: #a5a5a5;
+  --notes-color: var(--used-for-color);
+
+  /* Switch */
+  --switch-root-background-color: rgb(37, 37, 37);
+  --switch-root-checked-background-color: rgb(15, 136, 98);
+
+  --switch-thumb-background-color: rgb(0, 187, 50);
+  --switch-label-color: rgb(179, 179, 179);
+
+  /* Text */
+  --formatting-text-color: #0rgb(255, 255, 255) --formatting-text-background-color: #000000;
+
+  /* Clipboard */
+
+  --clipboard-color: #000000;
+  --clipboard-background-color: rgb(17, 17, 17);
+
+  --clipboard-hover-background-color: #013c00;
+  --clipboard-active-background-color: #012500;
 }
 
 *,
@@ -62,8 +191,8 @@ body {
   color: var(--color-text);
   background: var(--color-background);
   transition:
-    color 0.1s,
-    background-color 0.1s;
+    color 0.4s,
+    background-color 0.4s;
   line-height: 1.6;
   font-family:
     Inter,
@@ -78,7 +207,6 @@ body {
     'Droid Sans',
     'Helvetica Neue',
     sans-serif;
-  font-size: 15px;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

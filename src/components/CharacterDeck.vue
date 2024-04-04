@@ -172,7 +172,7 @@ const filteredCharacters = computed(() => {
   padding: 1rem;
   font-size: 2em;
   border-radius: 10px;
-  background-color: #333;
+  background-color: var(--card-contents-background-color);
 }
 
 </style>

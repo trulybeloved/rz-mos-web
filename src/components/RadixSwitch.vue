@@ -42,21 +42,21 @@ button {
 .SwitchRoot {
   width: 42px;
   height: 25px;
-  background-color: rgb(37, 37, 37);
+  background-color: var(--switch-root-background-color); 
   border-radius: 9999px;
   position: relative;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 .SwitchRoot[data-state='checked'] {
-  background-color: rgb(15, 136, 98);
+  background-color: var(--switch-root-checked-background-color)
 }
 
 .SwitchThumb {
   display: block;
   width: 21px;
   height: 21px;
-  background-color: rgb(0, 207, 145);
+  background-color: var(--switch-thumb-background-color);
   border-radius: 9999px;
   transition: transform 100ms;
   transform: translateX(2px);
@@ -68,7 +68,7 @@ button {
 }
 
 .Label {
-  color: rgb(179, 179, 179);
+  color: var(--switch-label-color);
   font-size: 15px;
   line-height: 1;
   padding-right: 1em;

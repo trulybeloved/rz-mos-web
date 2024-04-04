@@ -33,7 +33,7 @@ import ClipboardButton from './ClipboardButton.vue';
     display: flex;
     flex-direction: column;
     width: 100%;
-    background-color: rgb(17, 17, 17);
+    background-color: var(--clipboard-background-color);
     border-radius: 1em;
     padding: 0.5em;
     margin-top: 1em;

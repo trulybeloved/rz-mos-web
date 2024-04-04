@@ -115,9 +115,9 @@ const filteredWords = computed(() => {
 }
 
 .word-entry {
-  color: #ececec;
-  background-color: #2c2c2c;
-  border: 1px solid #393939;
+  color: var(--card-color);
+  background-color: var(--card-background-color);
+  border: 1px solid var(--card-border-color);
   padding: 10px;
   border-radius: 5px;
 }
@@ -127,29 +127,29 @@ const filteredWords = computed(() => {
 }
 
 .japanese {
-  font-size: 2em;
+  font-size: 2rem;
 }
 
 .english {
-  font-size: 1.4em;
+  font-size: 1.4rem;
 }
 
 .used-for {
-  font-size: 1.1em;
-  color: #a5a5a5;
+  font-size: 1.1rem;
+  color: var(--used-for-color);
 }
 
 .notes {
-  font-size: 1.1em;
-  color: #a5a5a5;
+  font-size: 1.1rem;
+  color: var(--notes-color);
 }
 
 .no-result {
   text-align: center;
   padding: 1rem;
-  font-size: 2em;
+  font-size: 2rem;
   border-radius: 10px;
-  background-color: #333;
+  background-color: var(--card-contents-background-color);
 }
 
 </style>

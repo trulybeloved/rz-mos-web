@@ -86,24 +86,29 @@ export default {
 
 <style scoped>
 .character-card {
-  color: #ececec;
-  background-color: #2c2c2c;
-  border: 1px solid #393939;
+  color: var(--card-color);
+  background-color: var(--card-background-color);
+  border: 1px solid var(--card-border-color);
   border-radius: 10px;
   padding: 20px;
-  /* width: 100%; */
   min-width: 0;
-  font-size: 1.2em;
+  font-size: 1rem;
+}
+
+@media screen and (max-width: 750px) {
+  .character-card {
+    padding: 14px;
+  }
 }
 
 .category-labels {
-  color: #b1b1b1;
+  color: var(--category-label-color);
   padding-bottom: 5px;
 }
 
 .card-header {
-  background-color: #333;
-  color: #e4e4e4;
+  background-color: var(--card-header-background-color);
+  color: var(--card-header-color);
   font-weight: 700;
   padding: 5px;
   padding-left: 10px;
@@ -113,17 +118,18 @@ export default {
 }
 
 .card-title {
-  font-size: 1.5em;
+  font-size: 1.5rem;
 }
 
 .card-subtitle {
-  font-size: 1em;
+  font-size: 1rem;
   font-weight: 150;
   filter: brightness(80%);
 }
 
 .character-notes {
   padding-top: 10px;
+  
 }
 
 .character-notes div {
@@ -134,12 +140,12 @@ export default {
 .note-list {
   list-style-type: disc;
   list-style-position: outside;
-  background-color: #292929;
+  background-color: var(--card-contents-background-color);
   padding: 10px 10px 10px 0px;
   border-radius: 10px;
-  font-size: 1em;
+  font-size: 1rem;
   line-height: 1.5;
-  color: #d1d1d1;
+  color: var(--card-contents-color);
   text-align: left;
   text-anchor: middle;
 }

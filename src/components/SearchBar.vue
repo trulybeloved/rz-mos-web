@@ -19,13 +19,13 @@ defineProps({
 <style scoped>
 .search-input {
   display: block;
-  color: #ccc;
-  background-color: #090909;
+  color: var(--search-color);
+  background-color: var(--search-background-color);
   width: 100%;
   padding: 1em;
-  border: 1px solid #474747;
+  border: 1px solid var(--search-border-color);
   border-radius: 10px;
-  font-size: 16px;
+  font-size: 1rem;
   outline: none;
   max-width: 1000px;
 }

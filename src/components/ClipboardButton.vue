@@ -75,6 +75,7 @@ function showTooltip(element, message) {
   padding: 0.5em 1em;
   font-size: 1rem;
   line-height: 1.25em;
+  cursor: pointer;
   /* transition: background-color 0.1s ease-in-out, border-color 0.1s ease-in-out, color 0.1s ease-in-out; */
 }
 
@@ -92,11 +93,11 @@ function showTooltip(element, message) {
 }
 
 .btn-primary:hover {
-  background-color: #013c00;
+  background-color: var(--clipboard-hover-background-color);
 }
 
 .btn-primary:active {
-  background-color: #012500;
+  background-color: var(--clipboard-active-background-color);
 }
 
 .btn-secondary {

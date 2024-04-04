@@ -185,19 +185,19 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
 }
 
 .character-card {
-  color: #ececec;
-  background-color: #2c2c2c;
-  border: 1px solid #393939;
+  color: var(--card-color);
+  background-color: var(--card-background-color);
+  border: 1px solid var(--card-border-color);
   border-radius: 10px;
   padding: 20px;
   /* width: 100%; */
   min-width: 0;
-  font-size: 1.2em;
+  font-size: 1.2rem;
 }
 
 .card-header {
-  background-color: #333;
-  color: #e4e4e4;
+  background-color: var(--card-header-background-color);
+  color: var(--card-header-color);
   font-weight: 700;
   padding: 5px;
   padding-left: 10px;
@@ -207,11 +207,11 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
 }
 
 .card-title {
-  font-size: 1.5em;
+  font-size: 1.5rem;
 }
 
 .card-subtitle {
-  font-size: 1em;
+  font-size: 1rem;
   font-weight: 150;
   filter: brightness(80%);
 }
@@ -230,14 +230,14 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
 
 .section-title {
     padding-left: 1rem;
-    font-size: 1.1em;
+    font-size: 1.1rem;
     font-weight: 250;
 }
 
 .section-content {
     padding: 1rem 1rem 1rem 1.5rem;
     border-radius: 10px;
-    background-color: #242424;
+    background-color: var(--card-contents-background-color);
 }
 
 .field-label {
@@ -252,9 +252,9 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
 .no-result {
   text-align: center;
   padding: 1rem;
-  font-size: 2em;
+  font-size: 2rem;
   border-radius: 10px;
-  background-color: #333;
+  background-color: var(--card-contents-background-color);
 }
 
 </style>

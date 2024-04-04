@@ -1,6 +1,48 @@
 <script setup>
+import ButtonDarkModeToggle from './ButtonDarkModeToggle.vue'
 import { RouterLink } from 'vue-router'
+import { useGeneralStore } from '@/store/general'
+import { onMounted } from 'vue';
+
+const generalStore = useGeneralStore();
+
+const toggleDarkMode = () => {
+  generalStore.toggleDarkMode();
+  const root = document.documentElement;
+  root.classList.toggle('dark-mode');
+  localStorage.setItem("darkModeEnabled", generalStore.getDarkMode);
+}
+
+const setDarkMode = (value) => {
+  generalStore.setDarkMode(value);
+  const root = document.documentElement;
+  if (value) {
+    root.classList.add('dark-mode');
+  } else {
+    root.classList.remove('dark-mode');
+  }
+  localStorage.setItem("darkModeEnabled", generalStore.getDarkMode);
+}
+
+const initializeDarkMode = () => {
+  var darkModeEnabled = localStorage.getItem("darkModeEnabled");
+  if (darkModeEnabled === "true") {
+    setDarkMode(true);
+  } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    setDarkMode(true);
+  } else {
+    setDarkMode(false);
+  }
+}
+
+onMounted(() => {
+  initializeDarkMode();
+})
+
+
 </script>
+
+
 
 <template>
   <div class="topbar">
@@ -36,6 +78,9 @@ import { RouterLink } from 'vue-router'
           <span style="font-weight: 200">(updates every 24 hours thanks to @kroatoan)</span>
         </h4>
       </div>
+      <div class="appearance-button-container">
+        <buttonDarkModeToggle @click="toggleDarkMode"/>
+      </div>
     </div>
 
     <div class="navigation">
@@ -53,6 +98,7 @@ import { RouterLink } from 'vue-router'
 .topbar {
   display: flex;
   flex-direction: column;
+  user-select: none;
 }
 
 .header-container {
@@ -74,10 +120,19 @@ import { RouterLink } from 'vue-router'
   flex-direction: column;
   flex-grow: 0;
   flex-shrink: 1;
-  flex-basis: 92%;
+  flex-basis: 84%;
   justify-content: start;
   align-items: start;
   padding-left: 1rem;
+}
+
+.appearance-button-container {
+  display: flex;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 8%;
+  justify-content: flex-end;
+  padding-right: 1rem;
 }
 
 h1 {
@@ -119,8 +174,8 @@ nav {
 }
 
 nav a.router-link-exact-active {
-  color: var(--color-text);
-  background-color: #242424;
+  color: var(--nav-active-color);
+  background-color: var(--nav-active-background-color);
 }
 
 nav a {
@@ -147,12 +202,16 @@ nav a:first-of-type {
 @media screen and (max-width: 500px) {
 
   .logo {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
   }
 
   h1 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+  }
+
+  nav {
+    font-size: 0.9rem;
   }
   
 }

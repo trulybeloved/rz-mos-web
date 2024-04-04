@@ -127,6 +127,7 @@
 <style scoped>
 .formatting-text {
     font-size: 1.2rem;
+    color: var(--formatting-text-color);
 }
 
 @media screen and (max-width: 600px) {
@@ -140,6 +141,5 @@
 h2, h3 {
     padding-top: 1em;
 }
-
 
 </style>
