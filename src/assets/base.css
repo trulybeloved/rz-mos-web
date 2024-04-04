@@ -102,6 +102,10 @@
   --clipboard-hover-background-color: #026d00;
   --clipboard-active-background-color: #012500;
 
+  /* Scrollbar */
+  --scrollbar-track-color: #f3f3f3;
+  --scrollbar-thumb-color: #dedede;
+
 }
 
 .dark-mode {
@@ -177,6 +181,11 @@
 
   --clipboard-hover-background-color: #013c00;
   --clipboard-active-background-color: #012500;
+
+  /* Scrollbar */
+  --scrollbar-track-color: #151515;
+  --scrollbar-thumb-color: #2e2e2e;
+
 }
 
 *,
@@ -190,7 +199,34 @@
   :root {
     font-size: 14px;
   }
-  
+
+}
+
+/* SCROLLBAR OVERRIDE */
+
+/* WebKit (Chrome, Safari) */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-thumb-color);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: var(--scrollbar-track-color);
+}
+
+/* Firefox */
+/* Note: Firefox uses scrollbar-width property and not pseudo-elements */
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-thumb-color);
+}
+
+*::-webkit-scrollbar-track {
+  background-color: var(--scrollbar-track-color);
 }
 
 body {
