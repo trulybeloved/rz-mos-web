@@ -127,7 +127,7 @@ const filteredWords = computed(() => {
 }
 
 .japanese {
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 
 .english {
@@ -135,12 +135,12 @@ const filteredWords = computed(() => {
 }
 
 .used-for {
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: var(--used-for-color);
 }
 
 .notes {
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: var(--notes-color);
 }
 

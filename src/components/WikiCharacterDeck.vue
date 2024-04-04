@@ -192,7 +192,7 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
   padding: 20px;
   /* width: 100%; */
   min-width: 0;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 .card-header {
@@ -207,11 +207,11 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
 }
 
 .card-title {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
 }
 
 .card-subtitle {
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 150;
   filter: brightness(80%);
 }
