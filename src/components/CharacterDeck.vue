@@ -61,7 +61,7 @@ function generateHtmlFromJson(data) {
   let html = '<ul>'
   keysToInclude.forEach((key) => {
     if (data[key]) {
-      html += `<li><span class="field-label" style="font-weight: 250;">"${key} -> </span>${data[key]}</li>`
+      html += `<li><span class="field-label" style="font-weight: 250;">${key} -> </span>${data[key]}</li>`
     }
   })
   html += '</ul>'
