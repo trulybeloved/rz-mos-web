@@ -7,13 +7,17 @@ import ClipboardButton from './ClipboardButton.vue';
     <div class="clipboard">
         <div class="text">Clipboard:&nbsp;</div>
         <div class="button-container">
-            <ClipboardButton buttonText="Em dash" textToCopy = "―" />
+            <ClipboardButton buttonText="Horizontal Bar/Em dash" textToCopy = "―" />
             <ClipboardButton buttonText="Ellipsis" textToCopy = "…" />
             <ClipboardButton buttonText="Tilde" textToCopy = "~" />
             <ClipboardButton buttonText="Dialogue Tag" textToCopy = ": []" />
             <ClipboardButton buttonText="" textToCopy = "――" />
             <ClipboardButton buttonText="" textToCopy = ": [――――]" />
             <ClipboardButton buttonText="" textToCopy = ": [――Hk!]" />
+            <ClipboardButton buttonText="" textToCopy = "[――Roar!]" />
+            <ClipboardButton buttonText="Double Quote" textToCopy = "“”" />
+            <ClipboardButton buttonText="Double Angle Quote" textToCopy = "«»" />
+            <ClipboardButton buttonText="Single Quote" textToCopy = "‘’" />
         </div>
     </div>
 
