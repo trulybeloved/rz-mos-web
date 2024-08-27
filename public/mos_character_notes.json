@@ -261,7 +261,8 @@
     ],
     "notes": [
       "Full name is Aldebaran (アルデバラン)",
-      "Uses “俺” once in the Third Trial, might happen again"
+      "Uses “俺” once in the Third Trial, might happen again",
+      "Has a catchphrase when using Authority, “領域展開、マトリクス再定義”, translated as “Expand territory, matrix redefinition” (matrix is Engrish)"
     ]
   },
 
@@ -657,7 +658,7 @@
   },
 
   {
-    "character": "Olbart Dunklekenn",
+    "character": "Olbart Dunkelkenn",
     "name_in_jp": "オルバルト・ダンクルケン",
     "japanese_speech_quirks": [
       "Pronoun – “ワシ”",
