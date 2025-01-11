@@ -56,6 +56,7 @@
       "No contractions",
       "Ends almost every sentence with a statement in kanji, the format should be “Dialogue. Statement.”",
       "Refers to Roswaal with “旦那様” should always be translated as “Master” or “the Master”.",
+      "When 万能 is used for him it should be translated as “versatile”.",
       "Refers to anyone above him with with “sama” 様",
       "When using his “power” will say the word “憂鬱” should always be translated to “Tristitia”"
     ],
@@ -306,6 +307,14 @@
     "japanese_speech_quirks": ["Pronoun – “僕”"],
     "english_speech_quirks": ["No contractions", "Very formal speech, simple words preferred"],
     "notes": ["Refers to almost everyone with Sama (様)", "Often stutters words"]
+  },
+
+  {
+    "character": "Yae Tenzen",
+    "name_in_jp": "ヤエ・テンゼン",
+    "japanese_speech_quirks": ["Pronoun – “私”"],
+    "english_speech_quirks": ["Uses basic contractions sometimes", "Frequently uses tildes"],
+    "notes": []
   },
 
   {
