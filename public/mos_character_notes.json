@@ -117,6 +117,19 @@
   },
 
   {
+    "character": "Meili Portroute",
+    "name_in_jp": "メィリィ・ポートルート",
+    "japanese_speech_quirks": ["Pronoun – “わたし”"],
+    "english_speech_quirks": [
+      "Casual, innocent-but-not-really",
+      "Uses contractions",
+      "Very slight child-like way of speaking",
+      "Tends to extend last words of a sentence, denoted “like thi~is”"
+    ],
+    "notes": []
+  },
+
+  {
     "character": "Natsuki Subaru",
     "name_in_jp": "ナツキ・スバル (菜月・昴)",
     "japanese_speech_quirks": ["Pronoun – “俺”", "Casual speech"],
