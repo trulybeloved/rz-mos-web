@@ -48,7 +48,7 @@
       "Second person pronoun/s – “あなた”",
       "Elongates the word “すごく” as “すごーく”",
       "Not really a quirk but she does use the phrase “そこまでよ” a lot",
-      "Uses oldtimeyvocabulary from time to time[b]"
+      "Uses old timey vocabulary from time to time"
     ],
     "english_speech_quirks": [
       "Simple vocabulary",
@@ -95,7 +95,7 @@
     "name_in_jp": "ガーフィール・ティンゼル",
     "japanese_speech_quirks": [
       "First person pronoun – “俺様”",
-      "Second person pronoun/s – “お前,てめェ”"
+      "Second person pronoun/s – “お前, てめェ”"
     ],
     "english_speech_quirks": [
       "Uses of “俺様” shall be localized as “my amazin’ self”",
@@ -162,9 +162,9 @@
     "english_speech_quirks": [
       "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “’n” / “y’all”, “ain’t” is used scarcely (never “y’ain’t”)",
       "Relatively simple speaking style, avoid very complicated words",
-      "His “kind-of” catch-phrase, “馬鹿か、俺は。いや、馬鹿だ俺は”, should always be TL’d as “Am I an idiot? No, I am definitely an idiot.”",
+      "His “kind-of” catch-phrase, “馬鹿か、俺は。いや、馬鹿だ俺は”, should always be TL’d as “Am I an idiot? No, I am definitely an idiot.”May be “バカ” at times instead of “馬鹿”",
       "May be “バカ” at times instead of “馬鹿”",
-      "Has another sort of catch-phrase, “運命様、上等だ”, which has been TLd on multiple instances as “Bring it on, oh inevitable fate”",
+      "Has another sort of catch-phrase, “運命様、上等だ”, which has been TLd on multiple instances as “Bring it on, oh inevitable fate”Al also uses this phrase more than once",
       "Al also uses this phrase more than once",
       "HAS YET ANOTHER sort of catch-phrase, “俺が必ずお前を救ってみせる”, which has a bunch of variations (e.g. with “助ける” rather than “救う”, for Shaula in Arc 6 Chapter 70), and has been TLd as “I, no matter what, will save you”",
       "Has a bit of a gag with Emilia with old-timey expressions, to which he replies “Who even says X these days” (...ってきょうび聞かねぇな)",
@@ -233,7 +233,7 @@
     "name_in_jp": "ラム",
     "japanese_speech_quirks": [
       "First person pronoun – Own name in third person",
-      "Second person pronoun/s – “あなた”",
+      "Second person pronoun/s – “あなた”Uses “姉” to refer to herself when talking about Rem Should be translated as “older sister”Very curt with people, but speaks politely",
       "Uses “姉” to refer to herself when talking about Rem Should be translated as “older sister”",
       "Very curt with people, but speaks politely",
       "Uses “ください”, “馬鹿ね” from time-to-time"
@@ -294,7 +294,7 @@
     "name_suffix": "",
     "name_in_jp": "リューズ・メイエル",
     "japanese_speech_quirks": [
-      "First person pronoun – “儂(Pre-copies reveal WN only),  儂ら(post-copies reveal WN only) ワシ(Pre-copies reveal LN only) ワシら(post-copies reveal LN only)”"
+      "First person pronoun – “儂(Pre-copies reveal WN only),  儂ら(post-copies reveal WN only) ワシ(Pre-copies reveal LN only) ワシら(post-copies reveal LN only)”"
     ],
     "english_speech_quirks": [
       "Uses some contractions such as “I’m” / “don’t(’cha)” / “-in’” / “kinda” / “tho” / “‘bout” / “‘em” / “‘cause” , but doesn’t use “(y’)ain’t” / “y’all” / “’n” / “y’know”",
@@ -348,7 +348,7 @@
     "name_in_jp": "ハインケル・アストレア",
     "japanese_speech_quirks": ["First person pronoun – “俺”", "Casual, crude style of speech"],
     "english_speech_quirks": [
-      "Uses mostly contractions such as “I’m” / “don’t” but does not use  “gonna” / “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”, etc"
+      "Uses mostly contractions such as “I’m” / “don’t” but does not use  “gonna” / “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”, etc"
     ],
     "notes": [
       "Eye color should be written as “sky-blue”",
@@ -398,7 +398,7 @@
     "name_in_jp": "ヤエ・テンゼン",
     "japanese_speech_quirks": ["First person pronoun – “私”"],
     "english_speech_quirks": ["Uses basic contractions sometimes", "Frequently uses tildes"],
-    "notes": [""]
+    "notes": []
   },
   {
     "wip": false,
@@ -438,7 +438,7 @@
     "name_in_jp": "ヘータロー・パールバトン",
     "japanese_speech_quirks": ["First person pronoun – “”", "X"],
     "english_speech_quirks": ["X", "Y"],
-    "notes": [""]
+    "notes": []
   },
   {
     "wip": false,
@@ -453,7 +453,7 @@
     ],
     "notes": [
       "Can use the name Juli (ユーリ) when he does his pronoun becomes 俺",
-      "His Spirits’ names are as follows:",
+      "His Spirits’ names are as follows:イア (fire) - Iaアロ (wind) - Aroクア (ground) - Quaイク (water) - Ikイン (yin) - Inネス (yang) - Ness",
       "イア (fire) - Ia",
       "アロ (wind) - Aro",
       "クア (ground) - Qua",
@@ -469,7 +469,7 @@
     "name_in_jp": "ミミ・パールバトン",
     "japanese_speech_quirks": ["First person pronoun – Own name in third person", "X"],
     "english_speech_quirks": ["X", "Y"],
-    "notes": [""]
+    "notes": []
   },
   {
     "wip": true,
@@ -478,7 +478,7 @@
     "name_in_jp": "リカード・ウェルキン",
     "japanese_speech_quirks": ["First person pronoun – “ワイ”", "X"],
     "english_speech_quirks": ["X", "Y"],
-    "notes": [""]
+    "notes": []
   },
   {
     "wip": true,
@@ -487,7 +487,7 @@
     "name_in_jp": "ティビー・パールバトン",
     "japanese_speech_quirks": ["First person pronoun – “”", "X"],
     "english_speech_quirks": ["X", "Y"],
-    "notes": [""]
+    "notes": []
   },
   {
     "wip": true,
@@ -505,7 +505,7 @@
     "name_in_jp": "キャロル・ファウゼン / キャロル・レメンディス",
     "japanese_speech_quirks": ["First person pronoun – “”", "X"],
     "english_speech_quirks": ["X", "Y"],
-    "notes": [""]
+    "notes": []
   },
   {
     "wip": false,
@@ -523,7 +523,7 @@
     "name_in_jp": "フェルト",
     "japanese_speech_quirks": ["First person pronoun – “あたし”", "X"],
     "english_speech_quirks": ["X", "Y"],
-    "notes": [""]
+    "notes": []
   },
   {
     "wip": false,
@@ -559,7 +559,7 @@
     "name_in_jp": "グリム・ファウゼン",
     "japanese_speech_quirks": ["First person pronoun – “”", "X"],
     "english_speech_quirks": ["X", "Y"],
-    "notes": [""]
+    "notes": []
   },
   {
     "wip": true,
@@ -748,7 +748,7 @@
     "name_in_jp": "セリーナ・ドラクロイ",
     "japanese_speech_quirks": ["First person pronoun – “私”"],
     "english_speech_quirks": [
-      "Uses mostly contractions such as “I’m” / “don’t”, but does not use  “y’all”/ “(y’)ain’t” / “‘bout” / “gonna” / “-in’” / “’n” / etc",
+      "Uses mostly contractions such as “I’m” / “don’t”, but does not use  “y’all”/ “(y’)ain’t” / “‘bout” / “gonna” / “-in’” / “’n” / etc",
       "Not very formal nor very casual"
     ],
     "notes": ["Is a High Countess in title (上級伯), also nicknamed the Scorching Lady (灼熱公)"]
@@ -766,14 +766,14 @@
     "wip": false,
     "character": "Ubilk",
     "name_suffix": "",
-    "name_in_jp": "",
+    "name_in_jp": "ウビールク",
     "japanese_speech_quirks": [
       "First person pronoun – “ぼく”",
       "“ぼくは” becomes “ぼかぁ”",
       "Tends to elongate one of the first words in his lines"
     ],
     "english_speech_quirks": [
-      "Uses mostly contractions such as “I’m” / “don’t” / “gonna”, etc, but does not use  “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”",
+      "Uses mostly contractions such as “I’m” / “don’t” / “gonna”, etc, but does not use  “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”",
       "Relatively simple speaking style, tone should be laid-back",
       "Hair color should be referred to as “ashen” (灰色)",
       "First word or thereabouts in his line should be elongated if the JP also elongates it with “ー” (don’t forget to insert the ~ at the end)"
@@ -800,7 +800,7 @@
       "In Arc 8, his speaker tag is “Vincent:”, regardless of whose PoV it is",
       "Birth name is “Vincent Abellux” (ヴィンセント・アベルクス)",
       "Uses “大儀であった” frequently (translated as “it was a great deed”)",
-      "Referred to as:",
+      "Referred to as:His Excellency the Emperor (皇帝閣下)His Majesty the Emperor (皇帝陛下) -> only used as tongue-in-cheek by Subaru",
       "His Excellency the Emperor (皇帝閣下)",
       "His Majesty the Emperor (皇帝陛下) -> only used as tongue-in-cheek by Subaru"
     ]
@@ -861,7 +861,7 @@
     "name_in_jp": "セシルス・セグムント",
     "japanese_speech_quirks": ["First person pronoun – “僕”", "Casual speech"],
     "english_speech_quirks": [
-      "Uses mostly contractions such as “I’m” / “don’t” / “kinda” (not wanna or gotta, so “something + of” rather than “something + to”) /”y’all”/ “lil’”, etc, but does not use “-in’” / “’n”, “ain’t” is used scarcely",
+      "Uses mostly contractions such as “I’m” / “don’t” / “kinda” (not wanna or gotta, so “something + of” rather than “something + to”) / ”y’all” / “lil’”, etc, but does not use “-in’” / “’n”, “ain’t” is used scarcely",
       "Flowery and grandiose but simple vocabulary",
       "Calls Subaru “Basu” (バッスー), and later on, “Boss”, in Engrish (ボス)",
       "Sometimes refers to himself and others as “役者” (actor), himself as “花形役者”/”主演役者” (star/lead actor) from time to time",
@@ -883,7 +883,7 @@
     ],
     "english_speech_quirks": [
       "No contractions",
-      "Last vowel of words at the end of sentences that end in “なぁ” in the JP should be elongated.",
+      "Last vowel of words at the end of sentences that end in “なぁ” in the JP should be elongated.E.g.: “聞いた話では、親が子の躾に持ち出すそうですなぁ。” -> “From what I have heard, it seems parents mention it for disciplining their childreeen”",
       "E.g.: “聞いた話では、親が子の躾に持ち出すそうですなぁ。” -> “From what I have heard, it seems parents mention it for disciplining their childreeen”"
     ],
     "notes": [
@@ -909,7 +909,7 @@
     "english_speech_quirks": [
       "When using クソ as an adjective, it should be translated as “fucking”",
       "When using クソ on its own, it should just be translated as “FUCK/fuck”",
-      "Uses mostly contractions such as “I’m” / “don’t” / “gonna”, etc, but does not use  “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”",
+      "Uses mostly contractions such as “I’m” / “don’t” / “gonna”, etc, but does not use  “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”",
       "チクショウ to be translated as “Goddammit” or “Goddamn” depending on context"
     ],
     "notes": ["None"]
@@ -925,7 +925,7 @@
     ],
     "english_speech_quirks": [
       "First person pronoun should be translated as “I, the dragon” (singular) or “I, the Dragon, and you” (plural if speaking of people) or “us dragons” (plural if speaking of her flying dragons), or “this dragon”",
-      "Uses mostly contractions such as “I’m” / “don’t” but does not use  “gonna” / “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”, etc",
+      "Uses mostly contractions such as “I’m” / “don’t” but does not use  “gonna” / “y’all” / “ain’t” / “y’know” / “-in’” / “y’ain’t” / “’n”, etc",
       "Use of “っちゃ” should be localized with a “frig’/friggin’”"
     ],
     "notes": ["None"]
@@ -1033,7 +1033,7 @@
       "Is a lot more polite when talking to someone of higher status (like Serena) or when buttering up to someone (like Reinhard)"
     ],
     "english_speech_quirks": [
-      "Uses mostly contractions such as “I’m” / “don’t” / “y’all”/ “(y’)ain’t” / “‘bout” / “gonna”  but does not use / “-in’” / “’n” / etc",
+      "Uses mostly contractions such as “I’m” / “don’t” / “y’all”/ “(y’)ain’t” / “‘bout” / “gonna”  but does not use / “-in’” / “’n” / etc",
       "Switches to a polite style without contractions when talking to someone of higher status or buttering up to them (denote this by the use of “ワタクシ”)"
     ],
     "notes": [
@@ -1050,7 +1050,7 @@
     "english_speech_quirks": [
       "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “’n” / “y’all”, “ain’t” is used scarcely (never “y’ain’t”)",
       "Relatively simple speaking style, avoid very complicated words",
-      "“せーのっ” to be done as“One, two aaand three!”"
+      "“せーのっ” to be done as “One, two aaand three!”"
     ],
     "notes": [
       "When using “嬢ちゃん”, can be translated as “miss”",
@@ -1165,7 +1165,7 @@
       "Refers to herself as “Uu”",
       "Final word before comma or period should be italicized if the final syllable is a Katakana character and the word is not usually in Katakana",
       "Casual speech and very childlike, vocabulary should be as simple as possible",
-      "Calls everyone by the first syllable of their name + the vowel of that syllable",
+      "Calls everyone by the first syllable of their name + the vowel of that syllableE.g.: Subaru -> Suu, Mizelda -> Mii, Taritta -> Taa, Rem -> Ree…Exceptions: Schult -> Shuu, Flop -> Fuu, Medium -> Midii (this because the Me in Medium is pronounced Mi), Beatrice -> Bae (This is because Bea in Beatrice is pronounced as Bay), Frederica -> Freh, Emilia -> Em",
       "E.g.: Subaru -> Suu, Mizelda -> Mii, Taritta -> Taa, Rem -> Ree…",
       "Exceptions: Schult -> Shuu, Flop -> Fuu, Medium -> Midii (this because the Me in Medium is pronounced Mi), Beatrice -> Bae (This is because Bea in Beatrice is pronounced as Bay), Frederica -> Freh, Emilia -> Em"
     ],
@@ -1192,7 +1192,7 @@
     "wip": false,
     "character": "Hiain Yatz",
     "name_suffix": "",
-    "name_in_jp": "",
+    "name_in_jp": "ヒアイン・ヤッツ",
     "japanese_speech_quirks": ["First person pronoun – “俺”"],
     "english_speech_quirks": [
       "Uses mostly contractions such as “I’m” / “don’t” / “y’all” / “(y’)ain’t” / “y’know” / “gonna” / “hafta” / “tho’”, etc, but does not use “-in’” / “’n” / “‘cause”",
@@ -1339,7 +1339,7 @@
     "english_speech_quirks": [
       "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
       "Refers to Jamal as お兄ちゃん",
-      "“せーのっ” to be done as“One, two aaand three!”"
+      "“せーのっ” to be done as “One, two aaand three!”"
     ],
     "notes": ["Often stutters"]
   },
@@ -1594,7 +1594,7 @@
     "japanese_speech_quirks": ["First person pronoun – “”", "X"],
     "english_speech_quirks": ["X", "Y"],
     "notes": [
-      "Has two signature lines whenever she gets a new song:",
+      "Has two signature lines whenever she gets a new song:“閃きました” - “Inspiration flashed”“聞いてください” - “Please listen”",
       "“閃きました” - “Inspiration flashed”",
       "“聞いてください” - “Please listen”"
     ]
