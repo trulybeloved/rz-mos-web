@@ -6,8 +6,14 @@
       <span v-if="character.subcategory">{{ character.subcategory }}</span>
     </div>
     <div class="card-header">
-      <span class="card-title">{{ character.character }}</span>
-      <span class="card-subtitle"><br />{{ character.name_in_jp }}</span>
+      <div class="class-header-main">
+        <span class="card-title">{{ character.character }}</span>
+        <span class="suffix" v-if="character.name_suffix">{{ character.name_suffix }}</span>
+        <span class="card-subtitle"><br />{{ character.name_in_jp }}</span>
+      </div>
+      <div class="card-header-badge-container">
+        <div v-if="character.wip" class="card-header-badge">WIP</div>
+      </div>
     </div>
     <div class="card-body">
       <div class="character-notes">
@@ -107,6 +113,9 @@ export default {
 }
 
 .card-header {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
   background-color: var(--card-header-background-color);
   color: var(--card-header-color);
   font-weight: 700;
@@ -117,8 +126,36 @@ export default {
   border-top-right-radius: 5px;
 }
 
+.card-header-main {
+  display: flex;
+  flex-grow: 1;
+  flex-basis: 100%;
+}
+
+.card-header-badge-container {
+  display: flex;
+  flex-grow: 0;
+  flex-shrink: 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-header-badge {
+  display: flex;
+  padding: 0.5rem;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.11);
+  border-radius: 5px;
+}
+
 .card-title {
   font-size: 1.5rem;
+}
+
+.suffix {
+  padding-left: 0.5rem;
+  font-size: 1.25rem;
 }
 
 .card-subtitle {
@@ -129,7 +166,6 @@ export default {
 
 .character-notes {
   padding-top: 10px;
-  
 }
 
 .character-notes div {

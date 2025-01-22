@@ -4,15 +4,16 @@ import SearchBar from './SearchBar.vue' // Import the SearchBar component
 import { ref, computed } from 'vue'
 // import characters from './assets/speech-style-raw-data.json';
 import { makeHttpRequest } from './axiosRequest.js'
+import router from '@/router'
+import { useRoute } from 'vue-router'
+const route = useRoute()
 
 const characters = await makeHttpRequest(
   'https://storage.googleapis.com/rezero-search-public-assets/speech-style-data/speech-style-raw-data.json',
   'https://raw.githubusercontent.com/trulybeloved/rz-mos-web/main/public/speech-style-raw-data.json'
 )
 
-const characterNotes = await makeHttpRequest(
-  'https://rzmosweb.pages.dev/mos_character_notes.json'
-)
+const characterNotes = await makeHttpRequest(`${route.path.split('/')[0]}/mos_character_notes.json`)
 
 function parseJSON(jsonData) {
   const parsedData = []
@@ -94,7 +95,7 @@ const searchTerm = ref('')
 
 const filteredCharacters = computed(() => {
   let filtered = mergedArray.filter((characterEntry) => {
-    const characterEngName = characterEntry.character
+    const characterEngName = characterEntry.character + ' ' + characterEntry.name_suffix
     const characterJapName = characterEntry.name_in_jp
 
     if (
@@ -140,7 +141,6 @@ const filteredCharacters = computed(() => {
     <div v-else class="no-result">
       <p>No results</p>
     </div>
-
   </div>
 </template>
 
@@ -174,5 +174,4 @@ const filteredCharacters = computed(() => {
   border-radius: 10px;
   background-color: var(--card-contents-background-color);
 }
-
 </style>
