@@ -131,23 +131,32 @@ def parse_character_html(html):
 
 
 if __name__ == "__main__":
+    from py_download_mos import download_original_file
 
     # the mammoth lib is used to convert docx to html, which is then parsed using beautiful soup
     import mammoth
     import git
 
-    with open("mos_parser_datastore/Manual of Style.docx", "rb") as docx_file:
-        result = mammoth.convert_to_html(docx_file)
-        mos_html = result.value  # The generated HTML
-        messages = result.messages  # Any messages, such as warnings during conversion
+    shared_link = "https://drive.google.com/file/d/12Z5Jb61kz2QGQibnIukgEjK4oIgMYX45/edit"
+    output_file = "mos_parser_datastore/mos.docx"
+    credentials_file = "gcloud_credentials.json"
+    token_file = "token.json"
 
-    character_notes_html = mos_html.split(split_point)[1]
-    parsed_json = parse_character_html(character_notes_html)
-    with open('public/mos_character_notes.json', 'w', encoding='utf-8') as json_file:
-        json_file.write(parsed_json)
+    # Downloads the original mos docx file via the Google Drive API
+    mos_dl_sucessful = download_original_file(shared_link, output_file, credentials_file, token_file)
 
-    working_dir = os.getcwd()
-    Git.git_pull(working_dir, 'main')
-    Git.git_commit_all(working_dir, 'mos character notes update')
-    Git.git_push(working_dir, 'main')
+    if mos_dl_sucessful:
+        with open("mos_parser_datastore/mos.docx", "rb") as docx_file:
+            result = mammoth.convert_to_html(docx_file)
+            mos_html = result.value  # The generated HTML
+            messages = result.messages  # Any messages, such as warnings during conversion
 
+        character_notes_html = mos_html.split(split_point)[1]
+        parsed_json = parse_character_html(character_notes_html)
+        with open('public/mos_character_notes.json', 'w', encoding='utf-8') as json_file:
+            json_file.write(parsed_json)
+
+        working_dir = os.getcwd()
+        Git.git_pull(working_dir, 'main')
+        Git.git_commit_all(working_dir, 'mos character notes update')
+        Git.git_push(working_dir, 'main')
