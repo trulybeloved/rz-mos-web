@@ -81,14 +81,3 @@ def download_original_file(shared_link: str, output_file: str, credentials_file:
     print(f"File downloaded successfully: {output_file}")
 
     return True
-
-
-
-# Example usage:
-# Replace the below variables with your actual values
-shared_link = "https://drive.google.com/file/d/12Z5Jb61kz2QGQibnIukgEjK4oIgMYX45/edit"
-output_file = "mos_parser_datastore/mos.docx"
-credentials_file = "gcloud_credentials.json"
-token_file = "token.json"
-
-download_original_file(shared_link, output_file, credentials_file, token_file)
