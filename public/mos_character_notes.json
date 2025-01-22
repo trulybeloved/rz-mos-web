@@ -321,7 +321,7 @@
   {
     "wip": false,
     "character": "Aldebaran",
-    "name_suffix": "",
+    "name_suffix": "aka Al",
     "name_in_jp": "アル",
     "japanese_speech_quirks": [
       "First person pronoun – “オレ”",
@@ -630,7 +630,7 @@
   {
     "wip": true,
     "character": "Wilhelm van Astrea",
-    "name_suffix": "",
+    "name_suffix": "(née Trias)",
     "name_in_jp": "ヴィルヘルム・ヴァン・アストレア (ヴィルヘルム・トリアス)",
     "japanese_speech_quirks": ["First person pronoun – “私(Old Wilhelm) 俺(Young Wilhelm)”", "X"],
     "english_speech_quirks": ["X", "Y"],
