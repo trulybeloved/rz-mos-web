@@ -30,7 +30,8 @@ def authenticate(credentials_file: str, token_file: str) -> Credentials:
     # If no valid token exists, initiate the OAuth flow
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
+            print('Credentials expired')
+            # creds.refresh(Request())
         else:
             flow = InstalledAppFlow.from_client_secrets_file(credentials_file, SCOPES)
             creds = flow.run_local_server(port=0)
