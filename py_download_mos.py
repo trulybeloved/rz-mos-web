@@ -4,6 +4,7 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload
 import io
 import re
+from google.auth.transport.requests import Request
 
 # Define the required API scope
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
@@ -29,12 +30,12 @@ def authenticate(credentials_file: str, token_file: str) -> Credentials:
 
     # If no valid token exists, initiate the OAuth flow
     if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            print('Credentials expired')
-            # creds.refresh(Request())
-        else:
-            flow = InstalledAppFlow.from_client_secrets_file(credentials_file, SCOPES)
-            creds = flow.run_local_server(port=0)
+        # if creds and creds.expired and creds.refresh_token:
+        #     # print('Credentials expired')
+        #     creds.refresh(Request())
+    # else:
+        flow = InstalledAppFlow.from_client_secrets_file(credentials_file, SCOPES)
+        creds = flow.run_local_server(port=0)
 
         # Save the credentials for future use
         with open(token_file, 'w') as token:
