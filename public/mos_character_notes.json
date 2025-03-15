@@ -434,16 +434,18 @@
     ]
   },
   {
-    "wip": true,
+    "wip": false,
     "character": "Yae Tenzen",
     "name_suffix": "",
     "name_in_jp": "ヤエ・テンゼン",
     "japanese_speech_quirks": [
-      "First person pronoun – “私”"
+      "First person pronoun – “私”",
+      "Frequently uses tildes"
     ],
     "english_speech_quirks": [
       "Uses basic contractions sometimes",
-      "Frequently uses tildes"
+      "Very flirty and playful demeanor",
+      "Tildes are to split words up rather than being moved towards the end of words"
     ],
     "notes": []
   },
@@ -592,14 +594,30 @@
     "name_suffix": "(née Remendis)",
     "name_in_jp": "キャロル・ファウゼン / キャロル・レメンディス",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
-      "X"
+      "First person pronoun – “私”"
+    ],
+    "english_speech_quirks": [
+      "Avoids contractions except for end of questions (isn’t it, haven’t you, etc)",
+      "Polite and modest, can get a bit hotheaded"
+    ],
+    "notes": []
+  },
+  {
+    "wip": false,
+    "character": "Doltero Amule",
+    "name_suffix": "",
+    "name_in_jp": "ドルテロ・アムル",
+    "japanese_speech_quirks": [
+      "First person pronoun – ?",
+      "Uses a lot of puns related to pigs (because he’s a pigman)"
     ],
     "english_speech_quirks": [
       "X",
       "Y"
     ],
-    "notes": []
+    "notes": [
+      "Polite speech, devoid of contractions"
+    ]
   },
   {
     "wip": false,
@@ -691,11 +709,11 @@
     "name_in_jp": "グリム・ファウゼン",
     "japanese_speech_quirks": [
       "First person pronoun – “”",
-      "X"
+      "Everything is written, can’t talk"
     ],
     "english_speech_quirks": [
-      "X",
-      "Y"
+      "Avoids contractions except for end of questions (isn’t it, haven’t you, etc)",
+      "Speech should be rendered as cursed speech (see how Ice did it in BB, or how monster Izmail was done in Arc 8)"
     ],
     "notes": []
   },
@@ -731,9 +749,7 @@
       "“そこまでだ” should be translated as “That will be as far as you go”",
       "“授かった” should be translated as “I have received it” (when getting new DPs)"
     ],
-    "notes": [
-      "None"
-    ]
+    "notes": []
   },
   {
     "wip": true,
@@ -742,11 +758,10 @@
     "name_in_jp": "ロム (バルガ・クロムウェル)",
     "japanese_speech_quirks": [
       "First person pronoun – “ワシ”",
-      "X"
+      "Very old person style of speech"
     ],
     "english_speech_quirks": [
-      "X",
-      "Y"
+      "Contractions aplenty"
     ],
     "notes": [
       "Often referred to as “ロム爺” (Old Man Rom)"
