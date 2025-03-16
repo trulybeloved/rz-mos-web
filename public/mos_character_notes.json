@@ -718,6 +718,23 @@
     "notes": []
   },
   {
+    "wip": false,
+    "character": "Manfred Madison",
+    "name_suffix": "",
+    "name_in_jp": "マンフレッド・マディソン",
+    "japanese_speech_quirks": [
+      "First person pronoun – ?",
+      "X"
+    ],
+    "english_speech_quirks": [
+      "X",
+      "Y"
+    ],
+    "notes": [
+      "Often called 『天秤』のマンフレッド, translated as “Manfred of the Balance”"
+    ]
+  },
+  {
     "wip": true,
     "character": "Rachins Hoffman",
     "name_suffix": "",
@@ -762,6 +779,22 @@
     ],
     "english_speech_quirks": [
       "Contractions aplenty"
+    ],
+    "notes": [
+      "Often referred to as “ロム爺” (Old Man Rom)"
+    ]
+  },
+  {
+    "wip": false,
+    "character": "Toto",
+    "name_suffix": "",
+    "name_in_jp": "トト",
+    "japanese_speech_quirks": [
+      "First person pronoun – ?",
+      "Hoe"
+    ],
+    "english_speech_quirks": [
+      "Style like Yorna maybe"
     ],
     "notes": [
       "Often referred to as “ロム爺” (Old Man Rom)"
