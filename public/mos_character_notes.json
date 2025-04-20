@@ -371,7 +371,8 @@
     "notes": [
       "Full name is Aldebaran (アルデバラン)",
       "Uses “俺” once in the Third Trial, might happen again",
-      "Has a catchphrase when using Authority, “領域展開、マトリクス再定義”, translated as “Expand territory, matrix redefinition” (matrix is Engrish)"
+      "Has a catchphrase when using Authority, “領域展開、マトリクス再定義”, translated as “Expand territory, matrix redefinition” (matrix is Engrish, and be lower-case)",
+      "Has a variant which is “領域再展開、マトリクス再定義”, translated as “Re-expand territory, matrix redefinition” (matrix is Engrish, and should be lower-case"
     ]
   },
   {
@@ -1898,12 +1899,29 @@
     "name_suffix": "",
     "name_in_jp": "",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “僕たち”",
       "X"
     ],
     "english_speech_quirks": [
-      "X",
-      "Y"
+      "Elongates small interjections with Katakana, as in “へェ” or “あァ”, which should have a tilde at the end, becoming “Heh~” and “Ah~” respectively;",
+      "Tends to go on a limb with multiple similar expressions separated by a comma, an example and how to render below:<X>ね - “how <X>”<X>よ - “so <X>”<X>さ - “quite <X>”<X>とも - “very <X>”<X>から - “as it’s <X>”<X>じゃない - “isn’t it <X>”<X>だろうさ - “as it’s probably <X>”<X>かも - “perhaps it is <X>”<X>だろう - “surely it is <X>”<X>だろうから - “because surely it is <X>”<X>ともさ - “so quite <X>”<X>だろうとも - “certainly it is <X>”<X>だろうともさ - “certainly it is quite <X>”<X>だろうからこそ - “because it is certainly <X>”<X>って - “at/by how <X>”",
+      "<X>ね - “how <X>”",
+      "<X>よ - “so <X>”",
+      "<X>さ - “quite <X>”",
+      "<X>とも - “very <X>”",
+      "<X>から - “as it’s <X>”",
+      "<X>じゃない - “isn’t it <X>”",
+      "<X>だろうさ - “as it’s probably <X>”",
+      "<X>かも - “perhaps it is <X>”",
+      "<X>だろう - “surely it is <X>”",
+      "<X>だろうから - “because surely it is <X>”",
+      "<X>ともさ - “so quite <X>”",
+      "<X>だろうとも - “certainly it is <X>”",
+      "<X>だろうともさ - “certainly it is quite <X>”",
+      "<X>だろうからこそ - “because it is certainly <X>”",
+      "<X>って - “at/by how <X>”",
+      "“暴飲ッ！　暴食ッ！” - “暴飲” shall be “gluttonous drinking”, “暴食” shall be “gluttony”;",
+      "The “tsus” (ッ) will be rendered with a single hyphen (-);"
     ],
     "notes": [
       "None"
