@@ -643,7 +643,7 @@
     "name_suffix": "",
     "name_in_jp": "フェルト",
     "japanese_speech_quirks": [
-      "First person pronoun – “あたし”",
+      "First person pronoun – “アタシ”",
       "X"
     ],
     "english_speech_quirks": [
@@ -848,12 +848,11 @@
     "name_suffix": "(née Trias)",
     "name_in_jp": "ヴィルヘルム・ヴァン・アストレア (ヴィルヘルム・トリアス)",
     "japanese_speech_quirks": [
-      "First person pronoun – “私(Old Wilhelm) 俺(Young Wilhelm)”",
-      "X"
+      "First person pronoun – “私” (Old Wilhelm) / “俺” (Young Wilhelm)",
+      "Extremely polite (in old age)"
     ],
     "english_speech_quirks": [
-      "X",
-      "Y"
+      "No contractions, extremely polite speech"
     ],
     "notes": []
   },
@@ -928,6 +927,25 @@
     ],
     "notes": [
       "Also known as the Divine Dragon (神龍)"
+    ]
+  },
+  {
+    "wip": true,
+    "character": "Liliana Masquerade",
+    "name_suffix": "",
+    "name_in_jp": "リリアナ・マスカレード",
+    "japanese_speech_quirks": [
+      "First person pronoun – “”",
+      "X"
+    ],
+    "english_speech_quirks": [
+      "X",
+      "Y"
+    ],
+    "notes": [
+      "Has two signature lines whenever she gets a new song:“閃きました” - “Inspiration flashed”“聞いてください” - “Please listen”",
+      "“閃きました” - “Inspiration flashed”",
+      "“聞いてください” - “Please listen”"
     ]
   },
   {
@@ -1814,7 +1832,7 @@
     "name_suffix": "",
     "name_in_jp": "",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “アタクシ”",
       "X"
     ],
     "english_speech_quirks": [
@@ -1831,7 +1849,7 @@
     "name_suffix": "",
     "name_in_jp": "",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronouns – “俺たち” and “僕たち”",
       "X"
     ],
     "english_speech_quirks": [
@@ -1848,7 +1866,7 @@
     "name_suffix": "",
     "name_in_jp": "",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronouns – “私たち” and “あたしたち”",
       "X"
     ],
     "english_speech_quirks": [
@@ -1865,7 +1883,7 @@
     "name_suffix": "",
     "name_in_jp": "ペテルギウス・ロマネコンティ",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “ワタシ”, formerly “私” as Juice",
       "X"
     ],
     "english_speech_quirks": [
@@ -1882,7 +1900,7 @@
     "name_suffix": "",
     "name_in_jp": "",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “僕”",
       "X"
     ],
     "english_speech_quirks": [
@@ -1899,7 +1917,7 @@
     "name_suffix": "",
     "name_in_jp": "",
     "japanese_speech_quirks": [
-      "First person pronoun – “僕たち”",
+      "First person pronouns – “俺たち” and “僕たち”",
       "X"
     ],
     "english_speech_quirks": [
@@ -1933,7 +1951,7 @@
     "name_suffix": "",
     "name_in_jp": "",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “私”",
       "X"
     ],
     "english_speech_quirks": [
@@ -2112,25 +2130,6 @@
     ],
     "notes": [
       "Has a trait of speaking like “要・X”, to be localized as “X: Required”"
-    ]
-  },
-  {
-    "wip": false,
-    "character": "Liliana Masquerade",
-    "name_suffix": "",
-    "name_in_jp": "リリアナ・マスカレード",
-    "japanese_speech_quirks": [
-      "First person pronoun – “”",
-      "X"
-    ],
-    "english_speech_quirks": [
-      "X",
-      "Y"
-    ],
-    "notes": [
-      "Has two signature lines whenever she gets a new song:“閃きました” - “Inspiration flashed”“聞いてください” - “Please listen”",
-      "“閃きました” - “Inspiration flashed”",
-      "“聞いてください” - “Please listen”"
     ]
   }
 ]
