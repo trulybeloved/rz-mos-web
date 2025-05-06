@@ -1,9 +1,9 @@
 <script setup>
-import FormattingDeck from '@/components/FormattingDeck.vue';
+import FormattingDeck from '@/components/FormattingDeck.vue'
 </script>
 
 <template>
   <main>
-      <FormattingDeck />
+    <FormattingDeck />
   </main>
 </template>

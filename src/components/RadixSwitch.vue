@@ -4,7 +4,7 @@ import { ref } from 'vue'
 
 const switchState = ref(false)
 
-defineEmits (['checked'])
+defineEmits(['checked'])
 
 defineProps({
   label: {
@@ -12,11 +12,10 @@ defineProps({
     required: false
   }
 })
-
 </script>
 
 <template>
-  <div :style="{ display: 'flex', alignItems: 'center'}">
+  <div :style="{ display: 'flex', alignItems: 'center' }">
     <label class="Label" for="airplane-mode">
       {{ label }}
     </label>
@@ -26,15 +25,12 @@ defineProps({
       @update:checked="$emit('checked')"
       class="SwitchRoot"
     >
-      <SwitchThumb
-        class="SwitchThumb"
-      />
+      <SwitchThumb class="SwitchThumb" />
     </SwitchRoot>
   </div>
 </template>
 
 <style>
-
 button {
   all: unset;
 }
@@ -42,14 +38,14 @@ button {
 .SwitchRoot {
   width: 42px;
   height: 25px;
-  background-color: var(--switch-root-background-color); 
+  background-color: var(--switch-root-background-color);
   border-radius: 9999px;
   position: relative;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 .SwitchRoot[data-state='checked'] {
-  background-color: var(--switch-root-checked-background-color)
+  background-color: var(--switch-root-checked-background-color);
 }
 
 .SwitchThumb {

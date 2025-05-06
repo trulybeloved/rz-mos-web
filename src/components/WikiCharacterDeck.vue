@@ -23,38 +23,34 @@ const searchBarPlaceholder = computed(() => {
 const filteredCharacters = computed(() => {
   let filtered = wiki_characters.filter((characterEntry) => {
     if (searchAllFields.value) {
-
       var fullCharacterEntryString = JSON.stringify(characterEntry, null, 2)
       fullCharacterEntryString = fullCharacterEntryString.replace(/["']/g, '')
 
       if (
-      (fullCharacterEntryString &&
+        fullCharacterEntryString &&
         typeof fullCharacterEntryString === 'string' &&
-        fullCharacterEntryString.toLowerCase().includes(searchTerm.value.toLowerCase()))
-      
-    ) {
-      return true
-    } else {
-      return false
-    }
-
+        fullCharacterEntryString.toLowerCase().includes(searchTerm.value.toLowerCase())
+      ) {
+        return true
+      } else {
+        return false
+      }
     } else {
       const characterEngName = characterEntry.name
       const characterJapName = characterEntry.Kanji
       if (
-      (characterEngName &&
-        typeof characterEngName === 'string' &&
-        characterEngName.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
-      (characterJapName &&
-        typeof characterJapName === 'string' &&
-        characterJapName.toLowerCase().includes(searchTerm.value.toLowerCase()))
-    ) {
-      return true
-    } else {
-      return false
+        (characterEngName &&
+          typeof characterEngName === 'string' &&
+          characterEngName.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
+        (characterJapName &&
+          typeof characterJapName === 'string' &&
+          characterJapName.toLowerCase().includes(searchTerm.value.toLowerCase()))
+      ) {
+        return true
+      } else {
+        return false
+      }
     }
-    }
-
   })
   // Sort filtered characters alphabetically based on the .name string
   filtered.sort((a, b) => {
@@ -65,7 +61,7 @@ const filteredCharacters = computed(() => {
   return filtered
 })
 
-const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "description"]
+const sectionFilterList = ['character_name', 'name', 'Kanji', 'Romaji', 'description']
 </script>
 
 <template>
@@ -74,13 +70,19 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
       <SearchBar v-model="searchTerm" :placeholder="searchBarPlaceholder" />
     </div>
     <div class="search-options">
-        <RadixSwitch class="switch" @checked="searchAllFields = !searchAllFields" :label="'Search all fields'"/>
-      </div>
+      <RadixSwitch
+        class="switch"
+        @checked="searchAllFields = !searchAllFields"
+        :label="'Search all fields'"
+      />
+    </div>
 
     <div v-if="filteredCharacters.length" class="card-container">
-
-      <div v-for="(characterEntry, index) in filteredCharacters" :key="index" class="character-card">
-
+      <div
+        v-for="(characterEntry, index) in filteredCharacters"
+        :key="index"
+        class="character-card"
+      >
         <div class="card-header">
           <div class="card-title">{{ characterEntry.name }}</div>
           <div class="card-subtitle">{{ characterEntry.Kanji }} ({{ characterEntry.Romaji }})</div>
@@ -90,55 +92,55 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
           {{ characterEntry.description }}
         </div>
 
-        <div v-for="(section, section_title) in characterEntry" :key="section_title" class="section-container"> 
-            
-          <div v-if="!sectionFilterList.includes(section_title) && typeof section === 'object'" class="section">
-            <div class="section-title">{{ section_title }}</div> 
-              <div class="section-content">
-                  
-                <div v-for="(subsection, index) in section" :key="index" class="subsection-container">
-                    
-                  <div v-if="typeof index === 'string'" class="subsection">
-                      
-                    <div v-if="(typeof subsection === 'string')">
-                      <span class="field-label">{{ index }}: </span>{{ subsection }}
-                    </div>
-
-                    <div v-else >
-                        <span class="field-label">{{ index }}: </span>
-                        <ul>
-                          <li v-for="(subsubsection, index) in subsection" :key="index">
-                              {{ subsubsection }}
-                          </li>
-                        </ul>
-                    </div>
-                      
+        <div
+          v-for="(section, section_title) in characterEntry"
+          :key="section_title"
+          class="section-container"
+        >
+          <div
+            v-if="!sectionFilterList.includes(section_title) && typeof section === 'object'"
+            class="section"
+          >
+            <div class="section-title">{{ section_title }}</div>
+            <div class="section-content">
+              <div v-for="(subsection, index) in section" :key="index" class="subsection-container">
+                <div v-if="typeof index === 'string'" class="subsection">
+                  <div v-if="typeof subsection === 'string'">
+                    <span class="field-label">{{ index }}: </span>{{ subsection }}
                   </div>
 
-                  <div v-else-if="typeof index === 'number'" class="subsection">
-                      <ul>
-                      <li>{{ subsection }}</li>
-                      </ul>
+                  <div v-else>
+                    <span class="field-label">{{ index }}: </span>
+                    <ul>
+                      <li v-for="(subsubsection, index) in subsection" :key="index">
+                        {{ subsubsection }}
+                      </li>
+                    </ul>
                   </div>
-
                 </div>
-                  
+
+                <div v-else-if="typeof index === 'number'" class="subsection">
+                  <ul>
+                    <li>{{ subsection }}</li>
+                  </ul>
+                </div>
               </div>
-          </div>
-          
-          <div v-else>
-              <div v-if="!sectionFilterList.includes(section_title) && typeof section === 'string'" class="section">
-                  <div class="section-title">{{ section_title }}</div> 
-                  <div class="section-content">
-                      <div class="subsection">{{ section }}</div> 
-                  </div>
-              </div>  
+            </div>
           </div>
 
+          <div v-else>
+            <div
+              v-if="!sectionFilterList.includes(section_title) && typeof section === 'string'"
+              class="section"
+            >
+              <div class="section-title">{{ section_title }}</div>
+              <div class="section-content">
+                <div class="subsection">{{ section }}</div>
+              </div>
+            </div>
+          </div>
         </div>
-      
       </div>
-    
     </div>
 
     <div v-else class="no-result">
@@ -217,31 +219,31 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
 }
 
 .description {
-    padding: 1rem;
-    padding-bottom: 0;
-    filter: brightness(95%)
+  padding: 1rem;
+  padding-bottom: 0;
+  filter: brightness(95%);
 }
 
 .section {
-    padding-top: 1rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .section-title {
-    padding-left: 1rem;
-    font-size: 1.1rem;
-    font-weight: 250;
+  padding-left: 1rem;
+  font-size: 1.1rem;
+  font-weight: 250;
 }
 
 .section-content {
-    padding: 1rem 1rem 1rem 1.5rem;
-    border-radius: 10px;
-    background-color: var(--card-contents-background-color);
+  padding: 1rem 1rem 1rem 1.5rem;
+  border-radius: 10px;
+  background-color: var(--card-contents-background-color);
 }
 
 .field-label {
-    font-weight: 250;
+  font-weight: 250;
 }
 
 .content-source {
@@ -256,5 +258,4 @@ const sectionFilterList = ["character_name", "name", "Kanji", "Romaji", "descrip
   border-radius: 10px;
   background-color: var(--card-contents-background-color);
 }
-
 </style>
