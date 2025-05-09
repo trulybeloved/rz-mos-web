@@ -1,46 +1,42 @@
 <script setup>
-import ClipboardButton from './ClipboardButton.vue';
+import ClipboardButton from './ClipboardButton.vue'
 </script>
 
 <template>
-    
-    <div class="clipboard">
-        <div class="text">Clipboard:&nbsp;</div>
-        <div class="button-container">
-            <ClipboardButton buttonText="Horizontal Bar/Em dash" textToCopy = "―" />
-            <ClipboardButton buttonText="Ellipsis" textToCopy = "…" />
-            <ClipboardButton buttonText="Tilde" textToCopy = "~" />
-            <ClipboardButton buttonText="Dialogue Tag" textToCopy = ": []" />
-            <ClipboardButton buttonText="" textToCopy = "――" />
-            <ClipboardButton buttonText="" textToCopy = ": [――――]" />
-            <ClipboardButton buttonText="" textToCopy = ": [――Hk!]" />
-            <ClipboardButton buttonText="" textToCopy = "[――Roar!]" />
-            <ClipboardButton buttonText="Double Quote" textToCopy = "“”" />
-            <ClipboardButton buttonText="Double Angle Quote" textToCopy = "«»" />
-            <ClipboardButton buttonText="Single Quote" textToCopy = "‘’" />
-        </div>
+  <div class="clipboard">
+    <div class="text">Clipboard:&nbsp;</div>
+    <div class="button-container">
+      <ClipboardButton buttonText="Horizontal Bar/Em dash" textToCopy="―" />
+      <ClipboardButton buttonText="Ellipsis" textToCopy="…" />
+      <ClipboardButton buttonText="Tilde" textToCopy="~" />
+      <ClipboardButton buttonText="Dialogue Tag" textToCopy=": []" />
+      <ClipboardButton buttonText="" textToCopy="――" />
+      <ClipboardButton buttonText="" textToCopy=": [――――]" />
+      <ClipboardButton buttonText="" textToCopy=": [――Hk!]" />
+      <ClipboardButton buttonText="" textToCopy="[――Roar!]" />
+      <ClipboardButton buttonText="Double Quote" textToCopy="“”" />
+      <ClipboardButton buttonText="Double Angle Quote" textToCopy="«»" />
+      <ClipboardButton buttonText="Single Quote" textToCopy="‘’" />
     </div>
-
-
+  </div>
 </template>
 
 <style scoped>
-
 .text {
-    font-weight: 600;
-    font-size: 1rem;
-    text-align: center;
-    padding-bottom: 0.5em;
+  font-weight: 600;
+  font-size: 1rem;
+  text-align: center;
+  padding-bottom: 0.5em;
 }
 
 .clipboard {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    background-color: var(--clipboard-background-color);
-    border-radius: 1em;
-    padding: 0.5em;
-    margin-top: 1em;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: var(--clipboard-background-color);
+  border-radius: 1em;
+  padding: 0.5em;
+  margin-top: 1em;
 }
 
 .button-container {
@@ -54,9 +50,8 @@ import ClipboardButton from './ClipboardButton.vue';
 }
 
 @media screen and (max-width: 700px) {
-    .text {
-        font-size: 0.8rem;
-    }
-    
+  .text {
+    font-size: 0.8rem;
+  }
 }
 </style>

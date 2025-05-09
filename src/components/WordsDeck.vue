@@ -95,7 +95,6 @@ const filteredWords = computed(() => {
     <div v-else class="no-result">
       <p>No results</p>
     </div>
-    
   </div>
 </template>
 
@@ -151,5 +150,4 @@ const filteredWords = computed(() => {
   border-radius: 10px;
   background-color: var(--card-contents-background-color);
 }
-
 </style>

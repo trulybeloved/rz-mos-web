@@ -2,47 +2,43 @@
 import ButtonDarkModeToggle from './ButtonDarkModeToggle.vue'
 import { RouterLink } from 'vue-router'
 import { useGeneralStore } from '@/store/general'
-import { onMounted } from 'vue';
+import { onMounted } from 'vue'
 
-const generalStore = useGeneralStore();
+const generalStore = useGeneralStore()
 
 const toggleDarkMode = () => {
-  generalStore.toggleDarkMode();
-  const root = document.documentElement;
-  root.classList.toggle('dark-mode');
-  localStorage.setItem("darkModeEnabled", generalStore.getDarkMode);
+  generalStore.toggleDarkMode()
+  const root = document.documentElement
+  root.classList.toggle('dark-mode')
+  localStorage.setItem('darkModeEnabled', generalStore.getDarkMode)
 }
 
 const setDarkMode = (value) => {
-  generalStore.setDarkMode(value);
-  const root = document.documentElement;
+  generalStore.setDarkMode(value)
+  const root = document.documentElement
   if (value) {
-    root.classList.add('dark-mode');
+    root.classList.add('dark-mode')
   } else {
-    root.classList.remove('dark-mode');
+    root.classList.remove('dark-mode')
   }
-  localStorage.setItem("darkModeEnabled", generalStore.getDarkMode);
+  localStorage.setItem('darkModeEnabled', generalStore.getDarkMode)
 }
 
 const initializeDarkMode = () => {
-  var darkModeEnabled = localStorage.getItem("darkModeEnabled");
-  if (darkModeEnabled === "true") {
-    setDarkMode(true);
+  var darkModeEnabled = localStorage.getItem('darkModeEnabled')
+  if (darkModeEnabled === 'true') {
+    setDarkMode(true)
   } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    setDarkMode(true);
+    setDarkMode(true)
   } else {
-    setDarkMode(false);
+    setDarkMode(false)
   }
 }
 
 onMounted(() => {
-  initializeDarkMode();
+  initializeDarkMode()
 })
-
-
 </script>
-
-
 
 <template>
   <div class="topbar">
@@ -79,7 +75,7 @@ onMounted(() => {
         </h4>
       </div>
       <div class="appearance-button-container">
-        <buttonDarkModeToggle @click="toggleDarkMode"/>
+        <buttonDarkModeToggle @click="toggleDarkMode" />
       </div>
     </div>
 
@@ -200,7 +196,6 @@ nav a:first-of-type {
 }
 
 @media screen and (max-width: 500px) {
-
   .logo {
     width: 40px;
     height: 40px;
@@ -213,6 +208,5 @@ nav a:first-of-type {
   nav {
     font-size: 0.9rem;
   }
-  
 }
 </style>

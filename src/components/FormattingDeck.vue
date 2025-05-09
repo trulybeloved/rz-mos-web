@@ -1,14 +1,11 @@
-<script setup> 
-import FormattingRulesCard from './FormattingRulesCard.vue';
-import TheClipboard from './TheClipboard.vue';
+<script setup>
+import FormattingRulesCard from './FormattingRulesCard.vue'
+import TheClipboard from './TheClipboard.vue'
 </script>
 
 <template>
-    <TheClipboard />
-    <FormattingRulesCard />
+  <TheClipboard />
+  <FormattingRulesCard />
 </template>
 
-<style scoped>
-
-
-</style>
+<style scoped></style>

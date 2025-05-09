@@ -28,6 +28,6 @@ a,
 
 @media (hover: hover) {
   a:hover {
-    background-color: var(--background-color-green)
+    background-color: var(--background-color-green);
   }
 }

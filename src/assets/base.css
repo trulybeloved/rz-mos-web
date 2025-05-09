@@ -27,7 +27,6 @@
 
 /* semantic color variables for this project */
 :root {
-
   --color-background: var(--vt-c-white);
   --color-background-soft: var(--vt-c-white-soft);
   --color-background-mute: var(--vt-c-white-mute);
@@ -105,11 +104,9 @@
   /* Scrollbar */
   --scrollbar-track-color: #f3f3f3;
   --scrollbar-thumb-color: #dedede;
-
 }
 
 .dark-mode {
-
   --color-background: var(--vt-c-black);
   --color-background-soft: var(--vt-c-black-soft);
   --color-background-mute: var(--vt-c-black-mute);
@@ -185,7 +182,6 @@
   /* Scrollbar */
   --scrollbar-track-color: #151515;
   --scrollbar-thumb-color: #2e2e2e;
-
 }
 
 *,
@@ -199,7 +195,6 @@
   :root {
     font-size: 14px;
   }
-
 }
 
 /* SCROLLBAR OVERRIDE */
