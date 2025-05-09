@@ -389,7 +389,7 @@
     ],
     "notes": [
       "Eye color should be written as “sky-blue”",
-      "Hair color should be witten as “blazing red”"
+      "Hair color should be written as “blazing red”"
     ]
   },
   {
@@ -930,7 +930,7 @@
     ]
   },
   {
-    "wip": true,
+    "wip": false,
     "character": "Liliana Masquerade",
     "name_suffix": "",
     "name_in_jp": "リリアナ・マスカレード",
