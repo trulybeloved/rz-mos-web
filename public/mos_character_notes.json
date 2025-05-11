@@ -448,7 +448,9 @@
       "Very flirty and playful demeanor",
       "Tildes are to split words up rather than being moved towards the end of words"
     ],
-    "notes": []
+    "notes": [
+      "Refers to Priscilla with “奥様”, which should be translated as “Madam” or “the Madam”"
+    ]
   },
   {
     "wip": false,
@@ -930,12 +932,12 @@
     ]
   },
   {
-    "wip": false,
+    "wip": true,
     "character": "Liliana Masquerade",
     "name_suffix": "",
     "name_in_jp": "リリアナ・マスカレード",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “私”",
       "X"
     ],
     "english_speech_quirks": [
@@ -947,6 +949,21 @@
       "“閃きました” - “Inspiration flashed”",
       "“聞いてください” - “Please listen”"
     ]
+  },
+  {
+    "wip": true,
+    "character": "Marcos Gildark",
+    "name_suffix": "",
+    "name_in_jp": "マーコス・ギルダーク",
+    "japanese_speech_quirks": [
+      "First person pronoun – “俺”",
+      "X"
+    ],
+    "english_speech_quirks": [
+      "X",
+      "Y"
+    ],
+    "notes": []
   },
   {
     "wip": false,
