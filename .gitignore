@@ -31,3 +31,4 @@ coverage
 gcloud_credentials.json
 token.json
 .env
+venv
