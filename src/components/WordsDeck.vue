@@ -2,6 +2,7 @@
 import SearchBar from './SearchBar.vue'
 import { ref, computed, onMounted, watch } from 'vue'
 import { makeHttpRequest } from './axiosRequest.js'
+import { watchDebounced } from '@vueuse/core'
 
 import { useHighlight } from './useHighlight.js'
 
@@ -70,7 +71,7 @@ const filteredWords = computed(() => {
         typeof notes === 'string' &&
         notes.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
       (cries &&
-        typeof cries === 'string' && (searchTerm.value.toLowerCase().includes('cries') || searchTerm.value.toLowerCase().includes('cry') || searchTerm.value.toLowerCase().includes('crie') ||
+        typeof cries === 'string' && (searchTerm.value.toLowerCase().includes('cries') || searchTerm.value.toLowerCase().includes('cry') || 'cries'.includes(searchTerm.value.toLowerCase()) ||
           cries.toLowerCase().includes(searchTerm.value.toLowerCase()))) ||
       (relevant_characters &&
         typeof relevant_characters === 'string' &&
@@ -82,22 +83,16 @@ const filteredWords = computed(() => {
     }
   })
 
+  return filtered
+})
+
+watchDebounced(filteredWords, () => {
   if (searchTerm.value.trim()) {
     highlight(searchTerm.value)
   } else {
     unmark()
   }
-
-  return filtered
-})
-
-watch(searchTerm, (newTerm) => {
-  if (newTerm.trim()) {
-    highlight(newTerm)
-  } else {
-    unmark()
-  }
-})
+}, { debounce: 50 })
 </script>
 
 <template>

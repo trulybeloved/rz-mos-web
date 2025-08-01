@@ -11,6 +11,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@vueuse/core": "^13.6.0",
     "axios": "^1.6.7",
     "mark.js": "^8.11.1",
     "pinia": "^2.1.7",
