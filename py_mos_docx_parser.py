@@ -156,7 +156,7 @@ if __name__ == "__main__":
         with open('public/mos_character_notes.json', 'w', encoding='utf-8') as json_file:
             json_file.write(parsed_json)
 
-        working_dir = os.getcwd()
-        Git.git_pull(working_dir, 'main')
-        Git.git_commit_all(working_dir, 'mos character notes update')
-        Git.git_push(working_dir, 'main')
+        # working_dir = os.getcwd()
+        # Git.git_pull(working_dir, 'main')
+        # Git.git_commit_all(working_dir, 'mos character notes update')
+        # Git.git_push(working_dir, 'main')
