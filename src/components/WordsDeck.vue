@@ -1,7 +1,9 @@
 <script setup>
 import SearchBar from './SearchBar.vue'
-import { ref, computed } from 'vue'
+import { ref, computed, onMounted, watch } from 'vue'
 import { makeHttpRequest } from './axiosRequest.js'
+
+import { useHighlight } from './useHighlight.js'
 
 const mos_words = await makeHttpRequest(
   'https://storage.googleapis.com/rezero-search-public-assets/manual-of-style-data/manual-of-style-raw.json',
@@ -14,7 +16,7 @@ function parseJSON(jsonData) {
     for (const [key, value] of Object.entries(obj)) {
       const newArray = []
       for (const [key2, value2] of Object.entries(value)) {
-        const formattedKey = key2.toLowerCase().replace(/[\s-]+/g, '_')
+        const formattedKey = key2.toLowerCase().replace('cries (for witchbeasts etc)', 'cries').replaceAll(/[\s-]+/g, '_')
         newArray[formattedKey] = value2
       }
       parsedObj[key] = newArray
@@ -28,13 +30,21 @@ function parseJSON(jsonData) {
       parsedData.push(value)
     }
   })
-
   return parsedData
 }
 
 const parsedWords = parseJSON(mos_words)
 
 const searchTerm = ref('')
+const wordsContainer = ref(null)
+
+const { initializeMarker, highlight, unmark, isHighlighting } = useHighlight({
+  className: 'custom-highlight'
+})
+
+onMounted(() => {
+  initializeMarker(wordsContainer.value)
+})
 
 const filteredWords = computed(() => {
   let filtered = parsedWords.filter((wordEntry) => {
@@ -42,6 +52,9 @@ const filteredWords = computed(() => {
     const english = wordEntry.english
     const usedFor = wordEntry.used_for
     const notes = wordEntry.notes
+    const cries = wordEntry.cries
+    const relevant_characters = wordEntry.relevant_characters
+
 
     if (
       (japanese &&
@@ -55,7 +68,13 @@ const filteredWords = computed(() => {
         usedFor.toString().toLowerCase().includes(searchTerm.value.toLowerCase())) ||
       (notes &&
         typeof notes === 'string' &&
-        notes.toLowerCase().includes(searchTerm.value.toLowerCase()))
+        notes.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
+      (cries &&
+        typeof cries === 'string' && (searchTerm.value.toLowerCase().includes('cries') || searchTerm.value.toLowerCase().includes('cry') || searchTerm.value.toLowerCase().includes('crie') ||
+          cries.toLowerCase().includes(searchTerm.value.toLowerCase()))) ||
+      (relevant_characters &&
+        typeof relevant_characters === 'string' &&
+        relevant_characters.toLowerCase().includes(searchTerm.value.toLowerCase()))
     ) {
       return true
     } else {
@@ -63,7 +82,21 @@ const filteredWords = computed(() => {
     }
   })
 
+  if (searchTerm.value.trim()) {
+    highlight(searchTerm.value)
+  } else {
+    unmark()
+  }
+
   return filtered
+})
+
+watch(searchTerm, (newTerm) => {
+  if (newTerm.trim()) {
+    highlight(newTerm)
+  } else {
+    unmark()
+  }
 })
 </script>
 
@@ -73,20 +106,31 @@ const filteredWords = computed(() => {
       <SearchBar v-model="searchTerm" :placeholder="'Search all fields...'" />
     </div>
 
-    <div v-if="filteredWords.length" class="words-container">
+    <div v-if="filteredWords.length" class="words-container" ref="wordsContainer">
       <div v-for="(wordEntry, index) in filteredWords" :key="index" class="word-entry">
         <div class="word-details">
           <span class="japanese">{{ wordEntry.japanese }} :&nbsp;</span>
           <span class="english">{{ wordEntry.english }}</span>
           <div v-if="wordEntry.used_for" class="used-for">
             <span>Used for : |</span>
-            <span v-for="(usedFor, index) in wordEntry.used_for" :key="index" class="used-for-item"
-              >| {{ usedFor }} |</span
-            >
+            <span v-for="(usedFor, index) in wordEntry.used_for" :key="index" class="used-for-item">| {{ usedFor }}
+              |</span>
             <span>|</span>
           </div>
+          <div v-if="wordEntry['prefix/suffix']" class="notes">
+            Prefix/Suffix: {{ wordEntry['prefix/suffix'].replaceAll('\\n', ' || ') }}
+          </div>
           <div v-if="wordEntry.notes" class="notes">
-            Notes: {{ wordEntry.notes.replace('\\n', ' || ') }}
+            Notes: {{ wordEntry.notes.replaceAll('\\n', ' || ') }}
+          </div>
+          <div v-if="wordEntry.cries" class="notes">
+            Cries: {{ wordEntry.cries.replaceAll('\\n', ' || ') }}
+          </div>
+          <div v-if="wordEntry.observations" class="notes">
+            Observations: {{ wordEntry.observations.replaceAll('\\n', ' || ') }}
+          </div>
+          <div v-if="wordEntry.relevant_characters" class="notes">
+            Relevant Characters: {{ wordEntry.relevant_characters.replaceAll('\\n', ' | ') }}
           </div>
         </div>
       </div>

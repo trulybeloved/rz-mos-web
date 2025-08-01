@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "axios": "^1.6.7",
+    "mark.js": "^8.11.1",
     "pinia": "^2.1.7",
     "radix-vue": "^1.4.9",
     "vue": "^3.4.15",
