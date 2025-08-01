@@ -100,40 +100,42 @@ watchDebounced(filteredWords, () => {
     <div class="search-container">
       <SearchBar v-model="searchTerm" :placeholder="'Search all fields...'" />
     </div>
-
-    <div v-if="filteredWords.length" class="words-container" ref="wordsContainer">
-      <div v-for="(wordEntry, index) in filteredWords" :key="index" class="word-entry">
-        <div class="word-details">
-          <span class="japanese">{{ wordEntry.japanese }} :&nbsp;</span>
-          <span class="english">{{ wordEntry.english }}</span>
-          <div v-if="wordEntry.used_for" class="used-for">
-            <span>Used for : |</span>
-            <span v-for="(usedFor, index) in wordEntry.used_for" :key="index" class="used-for-item">| {{ usedFor }}
-              |</span>
-            <span>|</span>
-          </div>
-          <div v-if="wordEntry['prefix/suffix']" class="notes">
-            Prefix/Suffix: {{ wordEntry['prefix/suffix'].replaceAll('\\n', ' || ') }}
-          </div>
-          <div v-if="wordEntry.notes" class="notes">
-            Notes: {{ wordEntry.notes.replaceAll('\\n', ' || ') }}
-          </div>
-          <div v-if="wordEntry.cries" class="notes">
-            Cries: {{ wordEntry.cries.replaceAll('\\n', ' || ') }}
-          </div>
-          <div v-if="wordEntry.observations" class="notes">
-            Observations: {{ wordEntry.observations.replaceAll('\\n', ' || ') }}
-          </div>
-          <div v-if="wordEntry.relevant_characters" class="notes">
-            Relevant Characters: {{ wordEntry.relevant_characters.replaceAll('\\n', ' | ') }}
+    <div ref="wordsContainer">
+      <div v-if="filteredWords.length" class="words-container">
+        <div v-for="(wordEntry, index) in filteredWords" :key="index" class="word-entry">
+          <div class="word-details">
+            <span class="japanese">{{ wordEntry.japanese }} :&nbsp;</span>
+            <span class="english">{{ wordEntry.english }}</span>
+            <div v-if="wordEntry.used_for" class="used-for">
+              <span>Used for : |</span>
+              <span v-for="(usedFor, index) in wordEntry.used_for" :key="index" class="used-for-item">| {{ usedFor }}
+                |</span>
+              <span>|</span>
+            </div>
+            <div v-if="wordEntry['prefix/suffix']" class="notes">
+              Prefix/Suffix: {{ wordEntry['prefix/suffix'].replaceAll('\\n', ' || ') }}
+            </div>
+            <div v-if="wordEntry.notes" class="notes">
+              Notes: {{ wordEntry.notes.replaceAll('\\n', ' || ') }}
+            </div>
+            <div v-if="wordEntry.cries" class="notes">
+              Cries: {{ wordEntry.cries.replaceAll('\\n', ' || ') }}
+            </div>
+            <div v-if="wordEntry.observations" class="notes">
+              Observations: {{ wordEntry.observations.replaceAll('\\n', ' || ') }}
+            </div>
+            <div v-if="wordEntry.relevant_characters" class="notes">
+              Relevant Characters: {{ wordEntry.relevant_characters.replaceAll('\\n', ' | ') }}
+            </div>
           </div>
         </div>
       </div>
+      <div v-else class="no-result">
+        <p>No results</p>
+      </div>
+
     </div>
 
-    <div v-else class="no-result">
-      <p>No results</p>
-    </div>
   </div>
 </template>
 
