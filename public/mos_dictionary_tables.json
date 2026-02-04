@@ -9,13 +9,21 @@
     {
       "Japanese": "三英傑",
       "English translation": "Three Great Heroes",
-      "Used for": "Flugel Shaula Reid Astrea Volcanica",
+      "Used for": [
+        "Flugel",
+        "Shaula",
+        "Reid Astrea",
+        "Volcanica"
+      ],
       "Notes": ""
     },
     {
       "Japanese": "賢人",
       "English translation": "Sage",
-      "Used for": "Flugel Shaula",
+      "Used for": [
+        "Flugel",
+        "Shaula"
+      ],
       "Notes": ""
     },
     {
@@ -27,7 +35,16 @@
     {
       "Japanese": "魔女",
       "English translation": "Witch",
-      "Used for": "Carmilla Daphne Echidna Minerva Pandora Satella Sekhmet Typhon",
+      "Used for": [
+        "Carmilla",
+        "Daphne",
+        "Echidna",
+        "Minerva",
+        "Pandora",
+        "Satella",
+        "Sekhmet",
+        "Typhon"
+      ],
       "Notes": "Also used for Emilia (is listed separately"
     },
     {
@@ -39,13 +56,28 @@
     {
       "Japanese": "大罪",
       "English translation": "Sin Archbishop",
-      "Used for": "Capella Emerada Lugunica Louis Arneb Ley Batenkaitos Petelgeuse Romanée-Conti Regulus Corneas Roy Alphard Sirius Romanée-Conti Stride Vollachia",
+      "Used for": [
+        "Capella Emerada Lugunica",
+        "Louis Arneb",
+        "Ley Batenkaitos",
+        "Petelgeuse Romanée-Conti",
+        "Regulus Corneas",
+        "Roy Alphard",
+        "Sirius Romanée-Conti",
+        "Stride Vollachia"
+      ],
       "Notes": "Also used for Natsuki Subaru in Ayamatsu IF"
     },
     {
       "Japanese": "王選候補者",
       "English translation": "Royal Candidate",
-      "Used for": "Anastasia Hoshin Crusch Karsten Emilia Felt Priscilla Barielle",
+      "Used for": [
+        "Anastasia Hoshin",
+        "Crusch Karsten",
+        "Emilia",
+        "Felt",
+        "Priscilla Barielle"
+      ],
       "Notes": ""
     },
     {
@@ -57,7 +89,10 @@
     {
       "Japanese": "団長",
       "English translation": "Commander",
-      "Used for": "Marcos Gildark Wilhelm van Astrea (formerly)",
+      "Used for": [
+        "Marcos Gildark",
+        "Wilhelm van Astrea (formerly)"
+      ],
       "Notes": "In the context of Lugunica’s Royal Guards"
     },
     {
@@ -69,32 +104,61 @@
     {
       "Japanese": "神将",
       "English translation": "Divine General",
-      "Used for": "Arakiya Cecilus Segmunt Chisha Gold Goz Ralfon Groovy Gumlet Madelyn Eschart Moguro Hagane Olbart Dunklekenn Yorna Mishigure",
+      "Used for": [
+        "Arakiya",
+        "Cecilus Segmunt",
+        "Chisha Gold",
+        "Goz Ralfon",
+        "Groovy Gumlet",
+        "Madelyn Eschart",
+        "Moguro Hagane",
+        "Olbart Dunklekenn",
+        "Yorna Mishigure"
+      ],
       "Notes": ""
     },
     {
       "Japanese": "一将",
       "English translation": "General First-Class",
       "Used for": "All Divine Generals",
-      "Notes": "Plural is “Generals of the First-Class” Can be employed as sort-of honorific"
+      "Notes": [
+        "Plural is “Generals of the First-Class”",
+        "Can be employed as sort-of honorific"
+      ]
     },
     {
       "Japanese": "二将",
       "English translation": "General Second-Class",
-      "Used for": "Zikr Osman Kafma Irulux Gudda Dialmo Toledo Spiegel",
-      "Notes": "Plural is “Generals of the Second-Class” Can be employed as sort-of honorific"
+      "Used for": [
+        "Zikr Osman",
+        "Kafma Irulux",
+        "Gudda DialmoToledo Spiegel"
+      ],
+      "Notes": [
+        "Plural is “Generals of the Second-Class”",
+        "Can be employed as sort-of honorific"
+      ]
     },
     {
       "Japanese": "三将",
       "English translation": "General Third-Class",
       "Used for": "None",
-      "Notes": "Plural is “Generals of the Third-Class” Can be employed as sort-of honorific"
+      "Notes": [
+        "Plural is “Generals of the Third-Class”",
+        "Can be employed as sort-of honorific"
+      ]
     },
     {
       "Japanese": "上等兵",
       "English translation": "Private First-Class",
-      "Used for": "Jamal Aurélie Todd Fang (later)",
-      "Notes": "Plural is “Privates of the First-Class” Can be employed as sort-of honorific"
+      "Used for": [
+        "Jamal Aurélie",
+        "Todd Fang (later)"
+      ],
+      "Notes": [
+        "Plural is “Privates of the First-Class”",
+        "Can be employed as sort-of honorific"
+      ]
     },
     {
       "Japanese": "兵卒",
@@ -103,7 +167,7 @@
       "Notes": ""
     },
     {
-      "Japanese": "筆頭宮廷魔導師 (筆頭宮廷魔術師)",
+      "Japanese": "筆頭宮廷魔導師(筆頭宮廷魔術師)",
       "English translation": "Head Magician of the Court",
       "Used for": "Roswaal L. Mathers",
       "Notes": "筆頭宮廷魔術師 was used in several instances from Arc 2 through Arc 4"
@@ -111,13 +175,23 @@
     {
       "Japanese": "騎士",
       "English translation": "Knight",
-      "Used for": "Julius Juukulius Felix Argyle Reinhard van Astrea Heinkel Astrea Marcos Gildark",
+      "Used for": [
+        "Julius Juukulius",
+        "Felix Argyle",
+        "Reinhard van Astrea",
+        "Heinkel Astrea",
+        "Marcos Gildark"
+      ],
       "Notes": ""
     },
     {
       "Japanese": "皇帝",
       "English translation": "Emperor",
-      "Used for": "Drizen Vollachia Vincent Vollachia (et al.)",
+      "Used for": [
+        "Drizen Vollachia",
+        "Vincent Vollachia",
+        "(et al.)"
+      ],
       "Notes": "There are some derivations on this, see Abel’s section"
     },
     {
@@ -129,13 +203,19 @@
     {
       "Japanese": "王様",
       "English translation": "King/Monarch",
-      "Used for": "Gionis Lugunica Randohal Lugunica",
-      "Notes": "Use King for Gionis/Randohal/any other male king Use Monarch for the candidates’ prospective position (using Queen doesn’t fit so well)"
+      "Used for": [
+        "Gionis Lugunica",
+        "Randohal Lugunica"
+      ],
+      "Notes": "Use King for Gionis/Randohal/any other male kingUse Monarch for the candidates’ prospective position (using Queen doesn’t fit so well)"
     },
     {
       "Japanese": "族長",
       "English translation": "Chieftain",
-      "Used for": "Mizelda Taritta",
+      "Used for": [
+        "Mizelda",
+        "Taritta"
+      ],
       "Notes": ""
     },
     {
@@ -159,7 +239,10 @@
     {
       "Japanese": "剣奴",
       "English translation": "Gladiator",
-      "Used for": "Aldebaran Hornet",
+      "Used for": [
+        "Aldebaran",
+        "Hornet"
+      ],
       "Notes": ""
     },
     {
@@ -424,7 +507,11 @@
     {
       "Japanese": "ミーティア",
       "English TL": "Meteor",
-      "Notes": "Used in Light Novel canon and post-Arc 6 Web Novel for the generality of magic devices Used in Web Novel Arc 5 to refer to a specific device Do not underline"
+      "Notes": [
+        "Used in Light Novel canon and post-Arc 6 Web Novel for the generality of magic devices",
+        "Used in Web Novel Arc 5 to refer to a specific device",
+        "Do not underline"
+      ]
     },
     {
       "Japanese": "魔法器",
@@ -741,7 +828,10 @@
     {
       "Japanese": "伝心",
       "English TL": "Telepathy",
-      "Relevant characters": "Reinhard van Astrea Liliana Masquerade",
+      "Relevant characters": [
+        "Reinhard van Astrea",
+        "Liliana Masquerade"
+      ],
       "Notes": ""
     },
     {
@@ -765,19 +855,30 @@
     {
       "Japanese": "三分",
       "English TL": "Trisection",
-      "Relevant characters": "Mimi Pearlbatton Hetaro Pearlbatton Tivey Pearlbatton",
+      "Relevant characters": [
+        "Mimi Pearlbatton",
+        "Hetaro Pearlbatton",
+        "Tivey Pearlbatton"
+      ],
       "Notes": ""
     },
     {
       "Japanese": "剣聖",
       "English TL": "Sword Saint",
-      "Relevant characters": "Reinhard van Astrea Theresia van Astrea Fribal van Astrea",
+      "Relevant characters": [
+        "Reinhard van Astrea",
+        "Theresia van Astrea",
+        "Fribal van Astrea"
+      ],
       "Notes": "Also used to refer to Reid Astrea as-is"
     },
     {
       "Japanese": "念話",
       "English TL": "Mindspeak",
-      "Relevant characters": "Flam Remendis Grassis Remendis",
+      "Relevant characters": [
+        "Flam Remendis",
+        "Grassis Remendis"
+      ],
       "Notes": ""
     }
   ],
@@ -962,7 +1063,10 @@
       "English TL": "Dragon",
       "Notes": "Should be capitalized always to make a distinction to 竜, which is only capitalized in certain cases",
       "Collective Noun": "weyr",
-      "Cries (for Witchbeasts etc)": "Volcanica: Haahraan Mezoreia: PREAHHHHHH"
+      "Cries (for Witchbeasts etc)": [
+        "Volcanica: Haahraan",
+        "Mezoreia: PREAHHHHHH"
+      ]
     },
     {
       "Japanese": "竜殻",
@@ -1058,17 +1162,26 @@
     {
       "Japanese": "獣人",
       "English TL": "Beastman/men/woman",
-      "Notes": "Which one to be used depends on context Should be lowercase"
+      "Notes": [
+        "Which one to be used depends on context",
+        "Should be lowercase"
+      ]
     },
     {
       "Japanese": "<animal>人の女",
       "English TL": "<animal>woman",
-      "Notes": "E.g.: Catwoman Should be lowercase"
+      "Notes": [
+        "E.g.: Catwoman",
+        "Should be lowercase"
+      ]
     },
     {
       "Japanese": "<animal>人",
       "English TL": "<animal>man/person/kin",
-      "Notes": "Which one to be used depends on context or just sound E.g.: Catman, dragonkin Should be lowercase"
+      "Notes": [
+        "Which one to be used depends on context or just soundE.g.: Catman, dragonkin",
+        "Should be lowercase"
+      ]
     },
     {
       "Japanese": "<animal>人の娘",
@@ -1148,12 +1261,18 @@
     {
       "Japanese": "ハーフエルフ",
       "English TL": "half-elf",
-      "Notes": "Basically Engrish Do not underline"
+      "Notes": [
+        "Basically Engrish",
+        "Do not underline"
+      ]
     },
     {
       "Japanese": "エルフ",
       "English TL": "elf",
-      "Notes": "Basically Engrish Do not underline"
+      "Notes": [
+        "Basically Engrish",
+        "Do not underline"
+      ]
     }
   ],
   [
@@ -1178,7 +1297,11 @@
     {
       "Japanese": "半魔",
       "English TL": "half-devil",
-      "Used for": "Emilia Satella Ryuzu Meyer",
+      "Used for": [
+        "Emilia",
+        "Satella",
+        "Ryuzu Meyer"
+      ],
       "Notes": "Lower-case should be used"
     },
     {
@@ -1188,7 +1311,10 @@
       "Notes": ""
     },
     {
-      "Japanese": "魔獣使い 猛獣使",
+      "Japanese": [
+        "魔獣使い",
+        "猛獣使"
+      ],
       "English TL": "Witchbeast Master",
       "Used for": "Meili Portroute",
       "Notes": ""
@@ -1280,7 +1406,10 @@
     {
       "Japanese": "星詠み",
       "English TL": "Stargazer",
-      "Used for": "Ubilk Mariuli Rowan Segmunt Cecilus Segmunt",
+      "Used for": [
+        "Ubilk",
+        "MariuliRowan SegmuntCecilus Segmunt"
+      ],
       "Notes": ""
     },
     {
@@ -1476,14 +1605,20 @@
       "Notes": ""
     },
     {
-      "Japanese": "帝国軍人 帝国兵",
+      "Japanese": [
+        "帝国軍人",
+        "帝国兵"
+      ],
       "English TL": "Imperial Soldier(s)",
       "Notes": ""
     },
     {
       "Japanese": "九神将",
       "English TL": "Nine Divine Generals",
-      "Notes": "Use “Divine General” when referring to one or more individuals in particular, not the group as a whole Ranks should be ordinals: First, Second, etc"
+      "Notes": [
+        "Use “Divine General” when referring to one or more individuals in particular, not the group as a whole",
+        "Ranks should be ordinals: First, Second, etc"
+      ]
     },
     {
       "Japanese": "近衛騎士",
@@ -1493,7 +1628,10 @@
     {
       "Japanese": "<X>陣営",
       "English TL": "<X> Camp",
-      "Notes": "Capitalized Used for the Royal Candidates"
+      "Notes": [
+        "Capitalized",
+        "Used for the Royal Candidates"
+      ]
     },
     {
       "Japanese": "<X>家",
@@ -1563,7 +1701,10 @@
       "Notes": ""
     },
     {
-      "Japanese": "福音 福音書",
+      "Japanese": [
+        "福音",
+        "福音書"
+      ],
       "English TL": "Gospel",
       "Notes": "As in, the Witch Cult’s, Beatrice’s and Roswaal’s Gospels. From what I could tell, there’s two distinct ways to refer to it so yeah"
     },
@@ -1583,7 +1724,10 @@
       "Notes": ""
     },
     {
-      "Japanese": "魔晶石 魔水晶",
+      "Japanese": [
+        "魔晶石",
+        "魔水晶"
+      ],
       "English TL": "Magic Crystal",
       "Notes": ""
     },
@@ -1865,7 +2009,10 @@
       "Japanese": "坊",
       "English TL": "Little",
       "Prefix/suffix": "Prefix",
-      "Notes": "Can also be localized as “Lil’” depending on the character stylization Can be employed as standalone (as in, not an honorific, just a way to refer to someone)"
+      "Notes": [
+        "Can also be localized as “Lil’” depending on the character stylization",
+        "Can be employed as standalone (as in, not an honorific, just a way to refer to someone)"
+      ]
     },
     {
       "Japanese": "氏",
@@ -1910,7 +2057,10 @@
     {
       "Japanese": "イセカイ",
       "English TL": "Isekai",
-      "Notes": "This is not translated into “(an)other world” to distinguish between usages of “異世界” and “イセカイ” Underline"
+      "Notes": [
+        "This is not translated into “(an)other world” to distinguish between usages of “異世界” and “イセカイ”",
+        "Underline"
+      ]
     },
     {
       "Japanese": "魔女の残り香",
@@ -1960,7 +2110,10 @@
     {
       "Japanese": "ワソー",
       "English TL": "Wasou (?)",
-      "Notes": "Corrupted form of the above (its not corrupted, its just more for clothing while above is for other aspects - garcar) Do not underline"
+      "Notes": [
+        "Corrupted form of the above (its not corrupted, its just more for clothing while above is for other aspects - garcar)",
+        "Do not underline"
+      ]
     },
     {
       "Japanese": "幼児化",
@@ -2330,14 +2483,24 @@
       "Notes": ""
     },
     {
-      "Japanese": "――っ ――ッ",
+      "Japanese": [
+        "――っ",
+        "――ッ"
+      ],
       "English TL": "――Hk!",
-      "Notes": "When used in speech, usually at the end of sentences. Punctuation may also be a full-stop depending on context. Does not apply to Ley Batenkaitos, Louis Arneb and Roy Alphard."
+      "Notes": [
+        "When used in speech, usually at the end of sentences.",
+        "Punctuation may also be a full-stop depending on context.",
+        "Does not apply to Ley Batenkaitos, Louis Arneb and Roy Alphard."
+      ]
     },
     {
       "Japanese": "――ッッ！！",
       "English TL": "――Roar!",
-      "Notes": "Used for roars. A unique sound can be picked for new things"
+      "Notes": [
+        "Used for roars.",
+        "A unique sound can be picked for new things"
+      ]
     }
   ]
 ]

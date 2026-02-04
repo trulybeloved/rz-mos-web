@@ -66,51 +66,41 @@ const sectionFilterList = ['character_name', 'name', 'Kanji', 'Romaji', 'descrip
 
 <template>
   <div>
-    <div class="search-container">
+    <div class="flex items-center justify-center pb-4">
       <SearchBar v-model="searchTerm" :placeholder="searchBarPlaceholder" />
     </div>
-    <div class="search-options">
-      <RadixSwitch
-        class="switch"
-        @checked="searchAllFields = !searchAllFields"
-        :label="'Search all fields'"
-      />
+    <div class="flex flex-grow flex-shrink-0 flex-basis-0 justify-end pb-4">
+      <RadixSwitch class="switch" @checked="searchAllFields = !searchAllFields" :label="'Search all fields'" />
     </div>
 
-    <div v-if="filteredCharacters.length" class="card-container">
-      <div
-        v-for="(characterEntry, index) in filteredCharacters"
-        :key="index"
-        class="character-card"
-      >
-        <div class="card-header">
-          <div class="card-title">{{ characterEntry.name }}</div>
-          <div class="card-subtitle">{{ characterEntry.Kanji }} ({{ characterEntry.Romaji }})</div>
+    <div v-if="filteredCharacters.length"
+      class="grid grid-cols-[repeat(auto-fit,minmax(400px,1fr))] gap-5 justify-between scroll-smooth max-[450px]:grid-cols-1">
+      <div v-for="(characterEntry, index) in filteredCharacters" :key="index"
+        class="border rounded-[10px] p-4 min-w-0 text-base"
+        style="color: var(--card-color); background-color: var(--card-background-color); border-color: var(--card-border-color);">
+        <div class="font-bold py-[5px] px-[10px] pr-[5px] rounded-[10px] rounded-tl-[5px] rounded-tr-[5px]"
+          style="background-color: var(--card-header-background-color); color: var(--card-header-color);">
+          <div class="text-[1.6rem]">{{ characterEntry.name }}</div>
+          <div class="text-[1.1rem] font-[150] brightness-[0.8]">{{ characterEntry.Kanji }} ({{ characterEntry.Romaji
+            }})</div>
         </div>
 
-        <div class="description">
+        <div class="p-4 pb-0 brightness-[0.95]">
           {{ characterEntry.description }}
         </div>
 
-        <div
-          v-for="(section, section_title) in characterEntry"
-          :key="section_title"
-          class="section-container"
-        >
-          <div
-            v-if="!sectionFilterList.includes(section_title) && typeof section === 'object'"
-            class="section"
-          >
-            <div class="section-title">{{ section_title }}</div>
-            <div class="section-content">
+        <div v-for="(section, section_title) in characterEntry" :key="section_title" class="section-container">
+          <div v-if="!sectionFilterList.includes(section_title) && typeof section === 'object'" class="pt-4 px-4">
+            <div class="pl-4 text-[1.1rem] font-[250]">{{ section_title }}</div>
+            <div class="p-4 pl-6 rounded-[10px]" style="background-color: var(--card-contents-background-color);">
               <div v-for="(subsection, index) in section" :key="index" class="subsection-container">
                 <div v-if="typeof index === 'string'" class="subsection">
                   <div v-if="typeof subsection === 'string'">
-                    <span class="field-label">{{ index }}: </span>{{ subsection }}
+                    <span class="font-[250]">{{ index }}: </span>{{ subsection }}
                   </div>
 
                   <div v-else>
-                    <span class="field-label">{{ index }}: </span>
+                    <span class="font-[250]">{{ index }}: </span>
                     <ul>
                       <li v-for="(subsubsection, index) in subsection" :key="index">
                         {{ subsubsection }}
@@ -129,12 +119,9 @@ const sectionFilterList = ['character_name', 'name', 'Kanji', 'Romaji', 'descrip
           </div>
 
           <div v-else>
-            <div
-              v-if="!sectionFilterList.includes(section_title) && typeof section === 'string'"
-              class="section"
-            >
-              <div class="section-title">{{ section_title }}</div>
-              <div class="section-content">
+            <div v-if="!sectionFilterList.includes(section_title) && typeof section === 'string'" class="pt-4 px-4">
+              <div class="pl-4 text-[1.1rem] font-[250]">{{ section_title }}</div>
+              <div class="p-4 pl-6 rounded-[10px]" style="background-color: var(--card-contents-background-color);">
                 <div class="subsection">{{ section }}</div>
               </div>
             </div>
@@ -143,119 +130,15 @@ const sectionFilterList = ['character_name', 'name', 'Kanji', 'Romaji', 'descrip
       </div>
     </div>
 
-    <div v-else class="no-result">
+    <div v-else class="text-center p-4 text-[2rem] rounded-[10px]"
+      style="background-color: var(--card-contents-background-color);">
       <p>No results</p>
     </div>
   </div>
 
-  <div class="content-source">
+  <div class="text-center p-4">
     Content sourced from
     <a href="https://rezero.fandom.com/wiki/Re:Zero_Wiki">Re:ZERO Wiki</a>
     under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> license
   </div>
 </template>
-
-<style scoped>
-.search-container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding-bottom: 1rem;
-}
-
-.search-options {
-  display: flex;
-  flex-grow: 1;
-  flex-shrink: 0;
-  flex-basis: 0;
-  justify-content: flex-end;
-  padding-bottom: 1rem;
-}
-
-.card-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  grid-gap: 20px;
-  justify-content: space-between;
-  scroll-behavior: smooth;
-}
-
-@media screen and (max-width: 450px) {
-  .card-container {
-    grid-template-columns: 1fr;
-  }
-}
-
-.character-card {
-  color: var(--card-color);
-  background-color: var(--card-background-color);
-  border: 1px solid var(--card-border-color);
-  border-radius: 10px;
-  padding: 1rem;
-  /* width: 100%; */
-  min-width: 0;
-  font-size: 1rem;
-}
-
-.card-header {
-  background-color: var(--card-header-background-color);
-  color: var(--card-header-color);
-  font-weight: 700;
-  padding: 5px;
-  padding-left: 10px;
-  border-radius: 10px;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
-}
-
-.card-title {
-  font-size: 1.6rem;
-}
-
-.card-subtitle {
-  font-size: 1.1rem;
-  font-weight: 150;
-  filter: brightness(80%);
-}
-
-.description {
-  padding: 1rem;
-  padding-bottom: 0;
-  filter: brightness(95%);
-}
-
-.section {
-  padding-top: 1rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-.section-title {
-  padding-left: 1rem;
-  font-size: 1.1rem;
-  font-weight: 250;
-}
-
-.section-content {
-  padding: 1rem 1rem 1rem 1.5rem;
-  border-radius: 10px;
-  background-color: var(--card-contents-background-color);
-}
-
-.field-label {
-  font-weight: 250;
-}
-
-.content-source {
-  text-align: center;
-  padding: 1rem;
-}
-
-.no-result {
-  text-align: center;
-  padding: 1rem;
-  font-size: 2rem;
-  border-radius: 10px;
-  background-color: var(--card-contents-background-color);
-}
-</style>
