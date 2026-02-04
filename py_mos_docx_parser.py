@@ -139,17 +139,19 @@ if __name__ == "__main__":
 
     shared_link = "https://drive.google.com/file/d/12Z5Jb61kz2QGQibnIukgEjK4oIgMYX45/edit"
     output_file = "mos_parser_datastore/mos.docx"
-    credentials_file = "gcloud_credentials.json"
-    token_file = "token.json"
+    service_account_file = "rekai-408314-f1c11bd002a0.json"
 
     # Downloads the original mos docx file via the Google Drive API
-    mos_dl_sucessful = download_original_file(shared_link, output_file, credentials_file, token_file)
+    mos_dl_successful = download_original_file(shared_link, output_file, service_account_file)
 
-    if mos_dl_sucessful:
+    if mos_dl_successful:
         with open("mos_parser_datastore/mos.docx", "rb") as docx_file:
             result = mammoth.convert_to_html(docx_file)
             mos_html = result.value  # The generated HTML
             messages = result.messages  # Any messages, such as warnings during conversion
+
+        with open('mos_parser_datastore/mos.html', 'w', encoding='utf-8') as docx_html:
+            docx_html.write(mos_html)
 
         character_notes_html = mos_html.split(split_point)[1]
         parsed_json = parse_character_html(character_notes_html)
