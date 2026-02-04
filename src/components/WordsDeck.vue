@@ -62,6 +62,7 @@ const filteredWords = computed(() => {
       (japanese &&
         typeof japanese === 'string' &&
         japanese.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
+      (japanese && typeof japanese === 'object' && japanese.toString().toLowerCase().includes(searchTerm.value.toLowerCase())) ||
       (english &&
         typeof english === 'string' &&
         english.toLowerCase().includes(searchTerm.value.toLowerCase())) ||
@@ -106,34 +107,55 @@ watchDebounced(filteredWords, () => {
         <div v-for="(wordEntry, index) in filteredWords" :key="index" class="border rounded p-2.5"
           style="color: var(--card-color); background-color: var(--card-background-color); border-color: var(--card-border-color);">
           <div class="p-2">
-            <span class="text-[1.8rem]">{{ wordEntry.japanese }} :&nbsp;</span>
-            <span class="text-[1.4rem]">{{ wordEntry.english_tl }}</span>
-            <div v-if="wordEntry.used_for" class="text-base" style="color: var(--used-for-color);">
-              <fieldset class="">
-                <legend>Used For:</legend>
-                <div v-if="typeof (wordEntry.used_for) === 'string'">Used For: {{ wordEntry.used_for }}</div>
-                <div v-else-if="Array.isArray(wordEntry.used_for)" class="flex flex-row gap-1">
-                  <p v-for="entry in wordEntry.used_for">{{ entry }}</p>
+            <div class="flex items-center gap-2">
+              <div class="flex items-center text-[1.8rem]">
+                <div v-if="typeof (wordEntry.japanese) === 'string'">
+                  {{ wordEntry.japanese }}
+                </div>
+                <div v-else-if="Array.isArray(wordEntry.japanese)" class="flex gap-4">
+                  <p v-for="(entry, index) in wordEntry.japanese">{{ entry }}<span
+                      v-if="index < (wordEntry.japanese.length - 1)">,</span></p>
+                </div>
+              </div>
+              <div class="text-[1.8rem] items-center">
+                :
+              </div>
+              <div class="flex pt-2 text-[1.4rem]">
+                <p>
+                  {{ wordEntry.english_tl }}
+                </p>
+              </div>
+            </div>
+            <div v-if="wordEntry.used_for" class="text-base py-1" style="color: var(--used-for-color);">
+              <fieldset class="border border-neutral-700 rounded p-2">
+                <legend class="px-2">Used For</legend>
+                <div v-if="typeof (wordEntry.used_for) === 'string'" class="px-2 py-1 rounded bg-neutral-900/50 w-fit">
+                  {{
+                    wordEntry.used_for }}</div>
+                <div v-else-if="Array.isArray(wordEntry.used_for)" class="flex flex-row flex-wrap gap-1">
+                  <p v-for="entry in wordEntry.used_for" class="px-2 py-1 rounded bg-neutral-900/50">{{ entry }}</p>
                 </div>
               </fieldset>
             </div>
-            <div v-if="wordEntry['prefix/suffix']" class="text-base" style="color: var(--notes-color);">
-              Prefix/Suffix: {{ wordEntry['prefix/suffix'].replaceAll('\\n', ' || ') }}
-            </div>
-            <div v-if="wordEntry.notes" class="text-base" style="color: var(--notes-color);">
-              <div v-if="typeof (wordEntry.notes) === 'string'">Notes: {{ wordEntry.notes }}</div>
-              <div v-else-if="Array.isArray(wordEntry.notes)">
-                Notes: <p v-for="note in wordEntry.notes">{{ note }}</p>
+            <div class="pt-1">
+              <div v-if="wordEntry['prefix/suffix']" class="text-base" style="color: var(--notes-color);">
+                Prefix/Suffix: {{ wordEntry['prefix/suffix'] }}
               </div>
-            </div>
-            <div v-if="wordEntry.cries" class="text-base" style="color: var(--notes-color);">
-              <!-- Cries: {{ wordEntry.cries.replaceAll('\\n', ' || ') }} -->
-            </div>
-            <div v-if="wordEntry.observations" class="text-base" style="color: var(--notes-color);">
-              <!-- Observations: {{ wordEntry.observations.replaceAll('\\n', ' || ') }} -->
-            </div>
-            <div v-if="wordEntry.relevant_characters" class="text-base" style="color: var(--notes-color);">
-              <!-- Relevant Characters: {{ wordEntry.relevant_characters.replaceAll('\\n', ' | ') }} -->
+              <div v-if="wordEntry.notes" class="text-base" style="color: var(--notes-color);">
+                <div v-if="typeof (wordEntry.notes) === 'string'">Notes: {{ wordEntry.notes }}</div>
+                <div v-else-if="Array.isArray(wordEntry.notes)">
+                  Notes: <p v-for="note in wordEntry.notes">{{ note }}</p>
+                </div>
+              </div>
+              <div v-if="wordEntry.cries" class="text-base" style="color: var(--notes-color);">
+                Cries: {{ wordEntry.cries }}
+              </div>
+              <div v-if="wordEntry.observations" class="text-base" style="color: var(--notes-color);">
+                Observations: {{ wordEntry.observations }}
+              </div>
+              <div v-if="wordEntry.relevant_characters" class="text-base" style="color: var(--notes-color);">
+                Relevant Characters: {{ wordEntry.relevant_characters }}
+              </div>
             </div>
           </div>
         </div>

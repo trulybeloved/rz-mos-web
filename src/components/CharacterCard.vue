@@ -9,10 +9,14 @@
     <div
       class="flex w-full justify-between font-bold py-[5px] px-[10px] pr-[5px] rounded-[10px] rounded-tl-[5px] rounded-tr-[5px]"
       style="background-color: var(--card-header-background-color); color: var(--card-header-color);">
-      <div class="flex flex-grow flex-basis-full">
-        <span class="text-[1.5rem]">{{ character.character }}</span>
-        <span class="pl-2 text-[1.25rem]" v-if="character.name_suffix">{{ character.name_suffix }}</span>
-        <span class="text-base font-[150] brightness-[0.8]"><br />{{ character.name_in_jp }}</span>
+      <div class="flex flex-col">
+        <div>
+          <span class="text-[1.5rem]">{{ character.character }}</span>
+          <span class="pl-2 text-[1.25rem]" v-if="character.name_suffix">{{ character.name_suffix }}</span>
+        </div>
+        <div>
+          <span class="text-base font-[350] brightness-[0.8]">{{ character.name_in_jp }}</span>
+        </div>
       </div>
       <div class="flex flex-grow-0 flex-shrink-0 justify-center items-center">
         <div v-if="character.wip" class="flex p-2 justify-center items-center rounded-[5px] bg-black/[0.11]">WIP</div>

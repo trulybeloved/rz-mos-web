@@ -349,3 +349,33 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+ul {
+  @apply list-disc list-outside pl-8
+}
+
+@layer base {
+  h1 {
+    @apply text-4xl font-black leading-tight mt-8 mb-4;
+  }
+
+  h2 {
+    @apply text-3xl font-semibold leading-snug mt-7 mb-3;
+  }
+
+  h3 {
+    @apply text-2xl font-semibold leading-snug mt-6 mb-3;
+  }
+
+  h4 {
+    @apply text-xl font-semibold leading-snug mt-5 mb-2;
+  }
+
+  h5 {
+    @apply text-lg font-semibold leading-normal mt-4 mb-2;
+  }
+
+  h6 {
+    @apply text-base font-semibold leading-normal mt-4 mb-2 text-gray-700;
+  }
+}
