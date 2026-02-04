@@ -9,8 +9,8 @@ import { useRoute } from 'vue-router'
 const route = useRoute()
 
 const characters = await makeHttpRequest(
-  'https://storage.googleapis.com/rezero-search-public-assets/speech-style-data/speech-style-raw-data.json',
-  'https://raw.githubusercontent.com/trulybeloved/rz-mos-web/main/public/speech-style-raw-data.json'
+  '/speaking_styles.json',
+  'https://raw.githubusercontent.com/trulybeloved/rz-mos-web/main/public/speech-styles.json'
 )
 
 const characterNotes = await makeHttpRequest(`${route.path.split('/')[0]}/mos_character_notes.json`)
@@ -130,12 +130,8 @@ const filteredCharacters = computed(() => {
     </div>
 
     <div v-if="filteredCharacters.length" class="card-container">
-      <CharacterCard
-        v-for="(character, index) in filteredCharacters"
-        :key="index"
-        :character="character"
-        :contractions="character.contractionData"
-      />
+      <CharacterCard v-for="(character, index) in filteredCharacters" :key="index" :character="character"
+        :contractions="character.contractionData" />
     </div>
 
     <div v-else class="no-result">
