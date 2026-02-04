@@ -884,11 +884,10 @@
     "name_in_jp": "フィルオーレ",
     "japanese_speech_quirks": [
       "First person pronoun – “わたくし”",
-      "X"
+      "Normally speaks formally, but may accidentally misspeak and use a less polite form, or break character and act childishly."
     ],
     "english_speech_quirks": [
-      "X",
-      "Y"
+      "When speaking formally, no contractions, but when she slips up or is acting childish, basic contractions should be used."
     ],
     "notes": [
       "None"
@@ -901,11 +900,11 @@
     "name_in_jp": "サクラ・エレメント",
     "japanese_speech_quirks": [
       "First person pronoun – “私”",
-      "X"
+      "Elongates some vowels similarly to Meili, with only a small kana and no elongation mark."
     ],
     "english_speech_quirks": [
-      "X",
-      "Y"
+      "Elongated vowels should be marked like thi~s.",
+      "Uses only basic contractions like I’m, you’re, etc."
     ],
     "notes": [
       "None"
@@ -917,12 +916,10 @@
     "name_suffix": "",
     "name_in_jp": "ティーガ・ラウレオン",
     "japanese_speech_quirks": [
-      "First person pronoun – “俺”",
-      "X"
+      "First person pronoun – “俺”"
     ],
     "english_speech_quirks": [
-      "X",
-      "Y"
+      "Uses only basic contractions like I’m, you’re, etc."
     ],
     "notes": [
       "None"
