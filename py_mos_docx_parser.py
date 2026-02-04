@@ -257,42 +257,36 @@ if __name__ == "__main__":
     output_file = "mos_parser_datastore/mos.docx"
     service_account_file = "rekai-408314-f1c11bd002a0.json"
 
-    # # Downloads the original mos docx file via the Google Drive API
-    # mos_dl_successful = download_original_file(shared_link, output_file, service_account_file)
-    #
-    # if mos_dl_successful:
-    #     with open("mos_parser_datastore/mos.docx", "rb") as docx_file:
-    #         result = mammoth.convert_to_html(docx_file)
-    #         mos_html = result.value  # The generated HTML
-    #         messages = result.messages  # Any messages, such as warnings during conversion
-    #
-    #     with open('mos_parser_datastore/mos.html', 'w', encoding='utf-8') as docx_html:
-    #         docx_html.write(mos_html)
-    #
-    #     character_notes_html = mos_html.split(split_point)[1]
-    #     parsed_json = parse_character_html(character_notes_html)
-    #     with open('public/mos_character_notes.json', 'w', encoding='utf-8') as json_file:
-    #         json_file.write(parsed_json)
+    # Downloads the original mos docx file via the Google Drive API
+    mos_dl_successful = download_original_file(shared_link, output_file, service_account_file)
+
+    if mos_dl_successful:
+        with open("mos_parser_datastore/mos.docx", "rb") as docx_file:
+            result = mammoth.convert_to_html(docx_file)
+            mos_html = result.value  # The generated HTML
+            messages = result.messages  # Any messages, such as warnings during conversion
+
+        with open('mos_parser_datastore/mos.html', 'w', encoding='utf-8') as docx_html:
+            docx_html.write(mos_html)
+
+        character_notes_html = mos_html.split(split_point)[1]
+        parsed_json = parse_character_html(character_notes_html)
+        with open('public/mos_character_notes.json', 'w', encoding='utf-8') as json_file:
+            json_file.write(parsed_json)
 
 
     # Speaking Styles XLSX
 
-    # ss_sheet_link = "https://docs.google.com/spreadsheets/d/1NyI4xID75sY3UvjT9iQPLIJvMCh0luh0AJYsDdD2KJU/edit"
+    ss_sheet_link = "https://docs.google.com/spreadsheets/d/1NyI4xID75sY3UvjT9iQPLIJvMCh0luh0AJYsDdD2KJU/edit"
     csv_output_file = "mos_parser_datastore/speaking_styles.csv"
-    #
-    # speaking_styles_successful = download_sheet_as_csv(ss_sheet_link, csv_output_file, service_account_file)
-    # if speaking_styles_successful:
-    # with open(csv_output_file, 'r', encoding='utf-8') as f:
-    #     speaking_styles_json = csv_to_json(f, is_file=True)
-    # with open('public/speaking_styles.json', 'w', encoding='utf-8') as json_file:
-    #     json_file.write(json.dumps(speaking_styles_json, indent=2, ensure_ascii=False))
 
+    speaking_styles_successful = download_sheet_as_csv(ss_sheet_link, csv_output_file, service_account_file)
+    if speaking_styles_successful:
+        with open(csv_output_file, 'r', encoding='utf-8') as f:
+            speaking_styles_json = csv_to_json(f, is_file=True)
+        with open('public/speaking_styles.json', 'w', encoding='utf-8') as json_file:
+            json_file.write(json.dumps(speaking_styles_json, indent=2, ensure_ascii=False))
 
-
-        # working_dir = os.getcwd()
-        # Git.git_pull(working_dir, 'main')
-        # Git.git_commit_all(working_dir, 'mos character notes update')
-        # Git.git_push(working_dir, 'main')
     with open('mos_parser_datastore/mos.html', 'r', encoding='utf-8') as mos_html_file:
         mos_html_string = mos_html_file.read()
 

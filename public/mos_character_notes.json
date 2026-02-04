@@ -878,6 +878,57 @@
     "notes": []
   },
   {
+    "wip": false,
+    "character": "Filóre",
+    "name_suffix": "",
+    "name_in_jp": "フィルオーレ",
+    "japanese_speech_quirks": [
+      "First person pronoun – “わたくし”",
+      "X"
+    ],
+    "english_speech_quirks": [
+      "X",
+      "Y"
+    ],
+    "notes": [
+      "None"
+    ]
+  },
+  {
+    "wip": false,
+    "character": "Sakura Element",
+    "name_suffix": "",
+    "name_in_jp": "サクラ・エレメント",
+    "japanese_speech_quirks": [
+      "First person pronoun – “私”",
+      "X"
+    ],
+    "english_speech_quirks": [
+      "X",
+      "Y"
+    ],
+    "notes": [
+      "None"
+    ]
+  },
+  {
+    "wip": false,
+    "character": "Tiga Rauleon",
+    "name_suffix": "",
+    "name_in_jp": "ティーガ・ラウレオン",
+    "japanese_speech_quirks": [
+      "First person pronoun – “俺”",
+      "X"
+    ],
+    "english_speech_quirks": [
+      "X",
+      "Y"
+    ],
+    "notes": [
+      "None"
+    ]
+  },
+  {
     "wip": true,
     "character": "Archi",
     "name_suffix": "",
