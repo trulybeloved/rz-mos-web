@@ -155,19 +155,30 @@ def csv_to_json(data: Union[str, io.IOBase], is_file: bool = False) -> Union[Lis
             csv_reader = csv.DictReader(data)
         else:
             # Print first 200 chars for debugging
-            print(f"DEBUG - First 200 chars of input: {repr(data[:200])}")
+            # print(f"DEBUG - First 200 chars of input: {repr(data[:200])}")
             csv_reader = csv.DictReader(io.StringIO(data))
 
         # Debug: print the fieldnames
-        print(f"DEBUG - Field names detected: {csv_reader.fieldnames}")
-        print(f"DEBUG - Number of fields: {len(csv_reader.fieldnames) if csv_reader.fieldnames else 0}")
+        # print(f"DEBUG - Field names detected: {csv_reader.fieldnames}")
+        # print(f"DEBUG - Number of fields: {len(csv_reader.fieldnames) if csv_reader.fieldnames else 0}")
+
+        def process_cell_value(string):
+            if (string.startswith('[') and string.endswith(']')) or (string.startswith('{') and string.endswith('}')):
+                try:
+                    json_value = json.loads(string)
+                    return json_value
+                except Exception as e:
+                    print(e)
+
+            return string
+
 
         result = []
 
         # Process each row
         for row_num, row in enumerate(csv_reader, start=2):
             try:
-                row_dict = {key: (value if value is not None else '') for key, value in row.items()}
+                row_dict = {key: (process_cell_value(value) if value is not None else '') for key, value in row.items()}
                 result.append(row_dict)
             except Exception as e:
                 return f"Error processing row {row_num}: {str(e)}"
@@ -181,6 +192,7 @@ def csv_to_json(data: Union[str, io.IOBase], is_file: bool = False) -> Union[Lis
 def html_table_to_csv(html_string):
     """
     Convert an HTML table to CSV format using BeautifulSoup.
+    Cells with multiple paragraphs will be represented as JSON lists.
 
     Args:
         html_string (str): HTML string containing a table
@@ -205,9 +217,22 @@ def html_table_to_csv(html_string):
         # Get all cells (both th and td)
         cells = tr.find_all(['th', 'td'])
         for cell in cells:
-            # Get all text from the cell, joining multiple elements
-            cell_text = cell.get_text(separator=' ', strip=True)
-            row.append(cell_text)
+            # Find all paragraphs in the cell
+            paragraphs = cell.find_all('p')
+
+            if len(paragraphs) > 1:
+                # Multiple paragraphs: create a list
+                cell_value = [p.get_text(strip=True) for p in paragraphs if p.get_text(strip=True)]
+                # Convert list to JSON string for CSV compatibility
+                row.append(json.dumps(cell_value, ensure_ascii=False))
+            elif len(paragraphs) == 1:
+                # Single paragraph: just get the text
+                row.append(paragraphs[0].get_text(strip=True))
+            else:
+                # No paragraphs: get all text
+                cell_text = cell.get_text(separator=' ', strip=True)
+                row.append(cell_text)
+
         if row:  # Only add non-empty rows
             rows.append(row)
 

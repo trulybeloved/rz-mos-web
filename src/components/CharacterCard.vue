@@ -1,75 +1,86 @@
 <template>
-  <div class="character-card">
-    <div class="category-labels">
+  <div class="border rounded-[10px] p-5 min-w-0 text-base max-[750px]:p-[14px]"
+    style="color: var(--card-color); background-color: var(--card-background-color); border-color: var(--card-border-color);">
+    <div class="pb-[5px]" style="color: var(--category-label-color);">
       <span v-if="character.category">{{ character.category }}</span>
       <span v-if="character.subcategory"> - </span>
       <span v-if="character.subcategory">{{ character.subcategory }}</span>
     </div>
-    <div class="card-header">
-      <div class="class-header-main">
-        <span class="card-title">{{ character.character }}</span>
-        <span class="suffix" v-if="character.name_suffix">{{ character.name_suffix }}</span>
-        <span class="card-subtitle"><br />{{ character.name_in_jp }}</span>
+    <div
+      class="flex w-full justify-between font-bold py-[5px] px-[10px] pr-[5px] rounded-[10px] rounded-tl-[5px] rounded-tr-[5px]"
+      style="background-color: var(--card-header-background-color); color: var(--card-header-color);">
+      <div class="flex flex-grow flex-basis-full">
+        <span class="text-[1.5rem]">{{ character.character }}</span>
+        <span class="pl-2 text-[1.25rem]" v-if="character.name_suffix">{{ character.name_suffix }}</span>
+        <span class="text-base font-[150] brightness-[0.8]"><br />{{ character.name_in_jp }}</span>
       </div>
-      <div class="card-header-badge-container">
-        <div v-if="character.wip" class="card-header-badge">WIP</div>
+      <div class="flex flex-grow-0 flex-shrink-0 justify-center items-center">
+        <div v-if="character.wip" class="flex p-2 justify-center items-center rounded-[5px] bg-black/[0.11]">WIP</div>
       </div>
     </div>
-    <div class="card-body">
-      <div class="character-notes">
-        <div v-if="character.japanese_speech_quirks && character.japanese_speech_quirks.length">
-          <span class="field-label">Japanese Quirks:<br /></span>
-          <div class="note-list">
+    <div class="p-[10px]">
+      <div class="pt-[10px]">
+        <div v-if="character.japanese_speech_quirks && character.japanese_speech_quirks.length" class="py-[5px]">
+          <span class="font-[250] text-base" style="color: var(--card-color);">Japanese Quirks:<br /></span>
+          <div class="list-disc list-outside rounded-[10px] py-[10px] px-[10px] pr-0 text-base leading-6 text-left"
+            style="background-color: var(--card-contents-background-color); color: var(--card-contents-color);">
             <ul>
-              <li v-for="(quirk, index) in character.japanese_speech_quirks" :key="index">
+              <li v-for="(quirk, index) in character.japanese_speech_quirks" :key="index" class="py-[5px]">
                 <span>{{ quirk }}</span>
               </li>
             </ul>
           </div>
         </div>
 
-        <div v-if="character.english_speech_quirks && character.english_speech_quirks.length">
-          <span class="field-label">English Quirks:<br /></span>
-          <div class="note-list">
+        <div v-if="character.english_speech_quirks && character.english_speech_quirks.length" class="py-[5px]">
+          <span class="font-[250] text-base" style="color: var(--card-color);">English Quirks:<br /></span>
+          <div class="list-disc list-outside rounded-[10px] py-[10px] px-[10px] pr-0 text-base leading-6 text-left"
+            style="background-color: var(--card-contents-background-color); color: var(--card-contents-color);">
             <ul>
-              <li v-for="(quirk, index) in character.english_speech_quirks" :key="index">
+              <li v-for="(quirk, index) in character.english_speech_quirks" :key="index" class="py-[5px]">
                 <span>{{ quirk }}</span>
               </li>
             </ul>
           </div>
         </div>
 
-        <div v-if="character.notes && character.notes.length">
-          <span class="field-label">Notes:<br /></span>
-          <div class="note-list">
+        <div v-if="character.notes && character.notes.length" class="py-[5px]">
+          <span class="font-[250] text-base" style="color: var(--card-color);">Notes:<br /></span>
+          <div class="list-disc list-outside rounded-[10px] py-[10px] px-[10px] pr-0 text-base leading-6 text-left"
+            style="background-color: var(--card-contents-background-color); color: var(--card-contents-color);">
             <ul>
-              <li v-for="(quirk, index) in character.notes" :key="index">
+              <li v-for="(quirk, index) in character.notes" :key="index" class="py-[5px]">
                 <span>{{ quirk }}</span>
               </li>
             </ul>
           </div>
         </div>
       </div>
-      <div class="speech-style">
-        <p v-if="character.self_referral">
-          <span class="field-label">Self-referral:</span> {{ character.self_referral }}
+      <div class="pt-[5px]">
+        <p v-if="character.self_referral" class="pt-[5px]">
+          <span class="font-[250] text-base" style="color: var(--card-color);">Self-referral:</span> {{
+            character.self_referral }}
         </p>
-        <p v-if="character.vocabulary">
-          <span class="field-label">Vocabulary:</span> {{ character.vocabulary }}
+        <p v-if="character.vocabulary" class="pt-[5px]">
+          <span class="font-[250] text-base" style="color: var(--card-color);">Vocabulary:</span> {{
+            character.vocabulary }}
         </p>
-        <p v-if="character.cussing">
-          <span class="field-label">Cussing:</span> {{ character.cussing }}
+        <p v-if="character.cussing" class="pt-[5px]">
+          <span class="font-[250] text-base" style="color: var(--card-color);">Cussing:</span> {{ character.cussing }}
         </p>
-        <p v-if="character.feeling_of_speech">
-          <span class="field-label">Feeling of speech:</span> {{ character.feeling_of_speech }}
+        <p v-if="character.feeling_of_speech" class="pt-[5px]">
+          <span class="font-[250] text-base" style="color: var(--card-color);">Feeling of speech:</span> {{
+            character.feeling_of_speech }}
         </p>
-        <p v-if="character.referral_to_others">
-          <span class="field-label">Referral to others:</span> {{ character.referral_to_others }}
+        <p v-if="character.referral_to_others" class="pt-[5px]">
+          <span class="font-[250] text-base" style="color: var(--card-color);">Referral to others:</span> {{
+            character.referral_to_others }}
         </p>
-        <p v-if="character.contractions">
-          <span class="field-label">Contractions:</span> {{ character.contractions }}
+        <p v-if="character.contractions" class="pt-[5px]">
+          <span class="font-[250] text-base" style="color: var(--card-color);">Contractions:</span> {{
+            character.contractions }}
         </p>
-        <p v-if="contractions" v-html="contractions"></p>
+        <p v-if="contractions" v-html="contractions" class="pt-[5px]"></p>
       </div>
     </div>
   </div>
@@ -89,122 +100,3 @@ export default {
   }
 }
 </script>
-
-<style scoped>
-.character-card {
-  color: var(--card-color);
-  background-color: var(--card-background-color);
-  border: 1px solid var(--card-border-color);
-  border-radius: 10px;
-  padding: 20px;
-  min-width: 0;
-  font-size: 1rem;
-}
-
-@media screen and (max-width: 750px) {
-  .character-card {
-    padding: 14px;
-  }
-}
-
-.category-labels {
-  color: var(--category-label-color);
-  padding-bottom: 5px;
-}
-
-.card-header {
-  display: flex;
-  width: 100%;
-  justify-content: space-between;
-  background-color: var(--card-header-background-color);
-  color: var(--card-header-color);
-  font-weight: 700;
-  padding: 5px;
-  padding-left: 10px;
-  border-radius: 10px;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
-}
-
-.card-header-main {
-  display: flex;
-  flex-grow: 1;
-  flex-basis: 100%;
-}
-
-.card-header-badge-container {
-  display: flex;
-  flex-grow: 0;
-  flex-shrink: 0;
-  justify-content: center;
-  align-items: center;
-}
-
-.card-header-badge {
-  display: flex;
-  padding: 0.5rem;
-  justify-content: center;
-  align-items: center;
-  background-color: rgba(0, 0, 0, 0.11);
-  border-radius: 5px;
-}
-
-.card-title {
-  font-size: 1.5rem;
-}
-
-.suffix {
-  padding-left: 0.5rem;
-  font-size: 1.25rem;
-}
-
-.card-subtitle {
-  font-size: 1rem;
-  font-weight: 150;
-  filter: brightness(80%);
-}
-
-.character-notes {
-  padding-top: 10px;
-}
-
-.character-notes div {
-  padding-top: 5px;
-  padding-bottom: 5px;
-}
-
-.note-list {
-  list-style-type: disc;
-  list-style-position: outside;
-  background-color: var(--card-contents-background-color);
-  padding: 10px 10px 10px 0px;
-  border-radius: 10px;
-  font-size: 1rem;
-  line-height: 1.5;
-  color: var(--card-contents-color);
-  text-align: left;
-  text-anchor: middle;
-}
-
-.note-list ul li {
-  padding-top: 5px;
-  padding-bottom: 5px;
-}
-
-.speech-style {
-  padding-top: 5px;
-}
-
-.field-label {
-  font-weight: 250;
-  font-size: 1rem;
-  color: var(--card-color);
-}
-
-.card-body {
-  padding: 10px;
-}
-.speech-style p {
-  padding-top: 5px;
-}
-</style>

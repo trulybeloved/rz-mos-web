@@ -152,12 +152,12 @@
             "notes": null
         },
         {
-            "japanese": "筆頭宮廷魔導師",
+            "japanese": "筆頭宮廷魔導師 (筆頭宮廷魔術師)",
             "english": "Head Magician of the Court",
             "used for": [
                 "Roswaal L. Mathers"
             ],
-            "notes": null
+            "notes": "筆頭宮廷魔術師 was used in several instances from Arc 2 through Arc 4"
         },
         {
             "japanese": "騎士",
@@ -253,6 +253,22 @@
             "english": "Acolyte Knight(s)",
             "used for": null,
             "notes": "To be settled on"
+        },
+        {
+            "japanese": "大参謀",
+            "english": "Great Strategist",
+            "used for": [
+                "Valga Cromwell/Old Man Rom"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "豚王",
+            "english": "King Pig",
+            "used for": [
+                "Doltero idk"
+            ],
+            "notes": null
         }
     ],
     [
@@ -269,17 +285,17 @@
         {
             "japanese": "オド",
             "english": "Od",
-            "notes": null
+            "notes": "Do not underline"
         },
         {
             "japanese": "マナ",
             "english": "Mana",
-            "notes": null
+            "notes": "Do not underline"
         },
         {
             "japanese": "ゲート",
             "english": "Gate",
-            "notes": null
+            "notes": "Do not underline"
         },
         {
             "japanese": "大災厄",
@@ -288,13 +304,13 @@
         },
         {
             "japanese": "観覧者",
-            "english": "Observers",
+            "english": "Observer(s)",
             "notes": "Unclear if it’s a group"
         },
         {
             "japanese": "オド・ラグナ",
             "english": "Od Lagna",
-            "notes": null
+            "notes": "Do not underline"
         },
         {
             "japanese": "加護",
@@ -348,7 +364,12 @@
         },
         {
             "japanese": "呪術師",
-            "english": "Shaman",
+            "english": "Curse Arts User(s)",
+            "notes": null
+        },
+        {
+            "japanese": "誓い",
+            "english": "vow",
             "notes": null
         },
         {
@@ -396,7 +417,7 @@
         {
             "japanese": "リュリーレ",
             "english": "Lyulyre",
-            "notes": null
+            "notes": "Do not underline"
         },
         {
             "japanese": "魔剣",
@@ -465,7 +486,7 @@
         },
         {
             "japanese": "青龍刀",
-            "english": "Blue Dragon Sword",
+            "english": "dao",
             "notes": null
         },
         {
@@ -476,12 +497,17 @@
         {
             "japanese": "ミーティア",
             "english": "Meteor",
-            "notes": "Used in Light Novel canon and post-Arc 6 Web Novel for the generality of magic devices\\nUsed in Web Novel Arc 5 to refer to a specific device"
+            "notes": "Used in Light Novel canon and post-Arc 6 Web Novel for the generality of magic devices\\nUsed in Web Novel Arc 5 to refer to a specific device\\nDo not underline"
         },
         {
             "japanese": "魔法器",
             "english": "magical device(s)",
             "notes": "Supplanted with “ミーティア” (Meteor) in Light Novel canon (and post Arc 6 Web Novel)"
+        },
+        {
+            "japanese": "輝石",
+            "english": "pyroxene",
+            "notes": null
         },
         {
             "japanese": "魔晶砲",
@@ -491,6 +517,16 @@
         {
             "japanese": "呪具",
             "english": "Curse Tool(s)",
+            "notes": null
+        },
+        {
+            "japanese": "魔核",
+            "english": "Magic Core",
+            "notes": "As in, the Magic Core of the Crystal Palace"
+        },
+        {
+            "japanese": "魔晶巨兵",
+            "english": "Giant Magic Crystal Soldier",
             "notes": null
         }
     ],
@@ -678,6 +714,11 @@
             "notes": null
         },
         {
+            "japanese": "星食",
+            "english": "Star Eating",
+            "notes": null
+        },
+        {
             "japanese": "死に戻り",
             "english": "Return by Death",
             "notes": null
@@ -685,12 +726,12 @@
         {
             "japanese": "コル・リオニス",
             "english": "Cor Leonis",
-            "notes": null
+            "notes": "Do not underline"
         },
         {
             "japanese": "インビジブル・プロヴィデンス",
             "english": "Invisible Providence",
-            "notes": null
+            "notes": "Do not underline"
         },
         {
             "japanese": "見えざる手",
@@ -809,6 +850,13 @@
             "cries (for witchbeasts etc)": null
         },
         {
+            "japanese": "邪精霊",
+            "english": "Evil Spirit",
+            "notes": null,
+            "collective noun": null,
+            "cries (for witchbeasts etc)": null
+        },
+        {
             "japanese": "斑王犬",
             "english": "Spotted Rex",
             "notes": null,
@@ -910,7 +958,7 @@
             "japanese": "龍",
             "english": "Dragon",
             "notes": "Should be capitalized always to make a distinction to 竜, which is only capitalized in certain cases",
-            "collective noun": null,
+            "collective noun": "weyr",
             "cries (for witchbeasts etc)": null
         },
         {
@@ -1076,12 +1124,12 @@
         {
             "japanese": "ハーフエルフ",
             "english": "half-elf",
-            "notes": "Basically Engrish"
+            "notes": "Basically Engrish\\nDo not underline"
         },
         {
             "japanese": "エルフ",
             "english": "elf",
-            "notes": "Basically Engrish"
+            "notes": "Basically Engrish\\nDo not underline"
         }
     ],
     [
@@ -1128,8 +1176,8 @@
             "notes": null
         },
         {
-            "japanese": "魔獣使い",
-            "english": "Beastmaster",
+            "japanese": "魔獣使い\\n猛獣使",
+            "english": "Witchbeast Master",
             "used for": [
                 "Meili Portroute"
             ],
@@ -1375,6 +1423,22 @@
                 "Odglass"
             ],
             "notes": "聖獣/Holy Beast has mistakenly been used in the past"
+        },
+        {
+            "japanese": "紅桜",
+            "english": "Crimson Sakura",
+            "used for": [
+                "Yae Tenzen"
+            ],
+            "notes": null
+        },
+        {
+            "japanese": "無駄飯喰らい",
+            "english": "Parasite",
+            "used for": [
+                "Heinkel Astrea"
+            ],
+            "notes": null
         }
     ],
     [
@@ -1499,6 +1563,21 @@
             "japanese": "(ヴォラキア帝国を)滅亡から救い隊",
             "english": "Rescue (the Vollachian Empire) from Destruction Squad",
             "notes": null
+        },
+        {
+            "japanese": "黒銀貨",
+            "english": "Black Silver Coin",
+            "notes": null
+        },
+        {
+            "japanese": "天秤",
+            "english": "Balance",
+            "notes": null
+        },
+        {
+            "japanese": "華獄園",
+            "english": "Flower Prison Garden",
+            "notes": null
         }
     ],
     [
@@ -1508,13 +1587,48 @@
             "notes": null
         },
         {
+            "japanese": "聖金貨",
+            "english": "holy gold coin(s)",
+            "notes": null
+        },
+        {
+            "japanese": "金貨",
+            "english": "gold coin(s)",
+            "notes": null
+        },
+        {
+            "japanese": "銅貨",
+            "english": "silver coin(s)",
+            "notes": null
+        },
+        {
+            "japanese": "銅貨",
+            "english": "bronze coin(s)",
+            "notes": null
+        },
+        {
             "japanese": "福音\\n福音書",
             "english": "Gospel",
             "notes": "As in, the Witch Cult’s, Beatrice’s and Roswaal’s Gospels. From what I could tell, there’s two distinct ways to refer to it so yeah"
         },
         {
             "japanese": "魔石",
-            "english": "Magic Stones",
+            "english": "Magic Stone",
+            "notes": null
+        },
+        {
+            "japanese": "魔鉱石",
+            "english": "Magic Ore",
+            "notes": null
+        },
+        {
+            "japanese": "魔晶石\\n魔水晶",
+            "english": "Magic Crystal",
+            "notes": null
+        },
+        {
+            "japanese": "結晶石",
+            "english": "Crystal Stone",
             "notes": null
         },
         {
@@ -1540,6 +1654,16 @@
         {
             "japanese": "背負子",
             "english": "wooden rack",
+            "notes": null
+        },
+        {
+            "japanese": "依り代",
+            "english": "Anchor",
+            "notes": "Should be uppercase"
+        },
+        {
+            "japanese": "パイロ樹",
+            "english": "Pyro tree",
             "notes": null
         }
     ],
@@ -1815,7 +1939,7 @@
         {
             "japanese": "イセカイ",
             "english": "Isekai",
-            "notes": "This is not translated into “(an)other world” to distinguish between usages of “異世界” and “イセカイ”"
+            "notes": "This is not translated into “(an)other world” to distinguish between usages of “異世界” and “イセカイ”\\nUnderline"
         },
         {
             "japanese": "魔女の残り香",
@@ -1855,17 +1979,17 @@
         {
             "japanese": "シャトランジ",
             "english": "Shatranj",
-            "notes": null
+            "notes": "Do not underline"
         },
         {
             "japanese": "ワフー",
             "english": "Wafuu",
-            "notes": null
+            "notes": "Underline"
         },
         {
             "japanese": "ワソー",
             "english": "Wasou (?)",
-            "notes": "Corrupted form of the above?"
+            "notes": "Corrupted form of the above\\nDo not underline"
         },
         {
             "japanese": "幼児化",
@@ -1936,103 +2060,158 @@
     [
         {
             "japanese": "親竜王国ルグニカ",
-            "english": "Dragon Kingdom of Lugunica"
+            "english": "Dragon Kingdom of Lugunica",
+            "observations": null
         },
         {
             "japanese": "ルグニカ王国",
-            "english": "Kingdom of Lugunica"
+            "english": "Kingdom of Lugunica",
+            "observations": null
         },
         {
             "japanese": "ルグニカ",
-            "english": "Lugunica"
+            "english": "Lugunica",
+            "observations": null
         },
         {
             "japanese": "王都",
-            "english": "Royal Capital"
+            "english": "Royal Capital",
+            "observations": null
         },
         {
             "japanese": "五大都市",
-            "english": "Five Great Cities"
+            "english": "Five Great Cities",
+            "observations": null
         },
         {
             "japanese": "(水門都市)プリステラ",
-            "english": "(Watergate City of) Pristella"
+            "english": "(Watergate City of) Pristella",
+            "observations": "Also called “水の都” (Capital of Water)"
+        },
+        {
+            "japanese": "(商業都市)ピックタット",
+            "english": "(Commercial City of) Picoutatte",
+            "observations": null
+        },
+        {
+            "japanese": "(工業都市)コスツール",
+            "english": "(Industrial City of) Costuul",
+            "observations": null
+        },
+        {
+            "japanese": "(地竜の都)フランダース",
+            "english": "(Ground Dragon Capital,) Flanders",
+            "observations": null
+        },
+        {
+            "japanese": "(鉱山都市)ガナクス",
+            "english": "(Mining City of) Ganacks",
+            "observations": null
         },
         {
             "japanese": "ミルーラ",
-            "english": "Mirula"
+            "english": "Mirula",
+            "observations": null
         },
         {
             "japanese": "アウグリア砂丘",
-            "english": "Augria Sand Dunes"
+            "english": "Augria Sand Dunes",
+            "observations": null
         },
         {
             "japanese": "魔女の祠",
-            "english": "Witch's Shrine"
+            "english": "Witch's Shrine",
+            "observations": null
         },
         {
             "japanese": "封魔石の祠",
-            "english": "Evil Sealing Stone Shrine"
+            "english": "Evil Sealing Stone Shrine",
+            "observations": null
         },
         {
             "japanese": "リーファウス平原",
-            "english": "Lifaus Plains"
+            "english": "Lifaus Plains",
+            "observations": null
         },
         {
             "japanese": "リーファウス街道",
-            "english": "Lifaus Highway"
+            "english": "Lifaus Highway",
+            "observations": null
         },
         {
             "japanese": "ティグラシー大河",
-            "english": "Tigracy River"
+            "english": "Tigracy River",
+            "observations": null
         },
         {
             "japanese": "ティグラシー大橋",
-            "english": "Great Tigracy Bridge"
+            "english": "Great Tigracy Bridge",
+            "observations": null
         },
         {
             "japanese": "水の羽衣亭",
-            "english": "Water Plumage Pavilion"
+            "english": "Water Plumage Inn",
+            "observations": null
         },
         {
             "japanese": "パッペルト",
-            "english": "Pappelt"
+            "english": "Pappelt",
+            "observations": null
         },
         {
             "japanese": "アーラム村",
-            "english": "Arlam Village"
+            "english": "Arlam Village",
+            "observations": null
         },
         {
             "japanese": "エリオール大森林",
-            "english": "Elior Forest / Great Forest of Elior"
+            "english": "Elior Forest / Great Forest of Elior",
+            "observations": null
         },
         {
             "japanese": "クレマルディ",
-            "english": "Kremaldy"
+            "english": "Kremaldy",
+            "observations": null
         },
         {
             "japanese": "聖域",
-            "english": "Sanctuary"
+            "english": "Sanctuary",
+            "observations": null
         },
         {
             "japanese": "強欲の魔女の墓場",
-            "english": "Witch of Greed’s Tomb"
+            "english": "Witch of Greed’s Tomb",
+            "observations": null
         },
         {
             "japanese": "プレアデス監視塔",
-            "english": "Pleiades Watchtower"
+            "english": "Pleiades Watchtower",
+            "observations": null
+        },
+        {
+            "japanese": "『タイゲタ』の書庫",
+            "english": "Library of Taygeta",
+            "observations": null
         },
         {
             "japanese": "封魔石の祠",
-            "english": "Evil Sealing Stone Shrine"
+            "english": "Evil Sealing Stone Shrine",
+            "observations": null
         },
         {
             "japanese": "大瀑布",
-            "english": "Great Waterfall"
+            "english": "Great Waterfall",
+            "observations": null
         },
         {
             "japanese": "フルール",
-            "english": "Fleur"
+            "english": "Fleur",
+            "observations": null
+        },
+        {
+            "japanese": "禁書庫",
+            "english": "Forbidden Library",
+            "observations": null
         }
     ],
     [
@@ -2121,6 +2300,10 @@
         {
             "japanese": "カララギ都市国家",
             "english": "Kararagi City-States"
+        },
+        {
+            "japanese": "モゴレード大噴口",
+            "english": "Grand Mogolade Geyser"
         }
     ],
     [
@@ -2137,12 +2320,12 @@
         },
         {
             "japanese": "――っ\\n――ッ",
-            "english": "——Hk!",
+            "english": "――Hk!",
             "notes": "When used in speech, usually at the end of sentences.\\nPunctuation may also be a full-stop depending on context.\\nDoes not apply to Ley Batenkaitos, Louis Arneb and Roy Alphard."
         },
         {
             "japanese": "――ッッ！！",
-            "english": "——Roar!",
+            "english": "――Roar!",
             "notes": "Used for roars.\\nA unique sound can be picked for new things"
         }
     ]
