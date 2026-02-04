@@ -32,3 +32,6 @@ gcloud_credentials.json
 token.json
 .env
 venv
+rekai-408314-f1c11bd002a0.json
+.gitignore
+__pycache__
