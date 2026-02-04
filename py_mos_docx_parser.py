@@ -4,10 +4,8 @@ import git
 from bs4 import BeautifulSoup
 import json
 
-
-import csv
-import io
-from typing import List, Dict, Union
+from html.parser import HTMLParser
+from io import StringIO
 
 # List of tuples (name, replacement, suffix)
 name_replacements = [
@@ -180,6 +178,47 @@ def csv_to_json(data: Union[str, io.IOBase], is_file: bool = False) -> Union[Lis
         return f"Error reading CSV data: {str(e)}"
 
 
+def html_table_to_csv(html_string):
+    """
+    Convert an HTML table to CSV format using BeautifulSoup.
+
+    Args:
+        html_string (str): HTML string containing a table
+
+    Returns:
+        str: CSV formatted string
+    """
+
+    # Parse the HTML
+    soup = BeautifulSoup(html_string, 'html.parser')
+
+    # Find the table
+    table = soup.find('table')
+    if not table:
+        return ""
+
+    rows = []
+
+    # Process all rows
+    for tr in table.find_all('tr'):
+        row = []
+        # Get all cells (both th and td)
+        cells = tr.find_all(['th', 'td'])
+        for cell in cells:
+            # Get all text from the cell, joining multiple elements
+            cell_text = cell.get_text(separator=' ', strip=True)
+            row.append(cell_text)
+        if row:  # Only add non-empty rows
+            rows.append(row)
+
+    # Convert to CSV
+    output = StringIO()
+    writer = csv.writer(output)
+    writer.writerows(rows)
+
+    return output.getvalue()
+
+
 if __name__ == "__main__":
     from py_download_mos import download_original_file, download_sheet_as_csv
 
@@ -218,10 +257,10 @@ if __name__ == "__main__":
     #
     # speaking_styles_successful = download_sheet_as_csv(ss_sheet_link, csv_output_file, service_account_file)
     # if speaking_styles_successful:
-    with open(csv_output_file, 'r', encoding='utf-8') as f:
-        speaking_styles_json = csv_to_json(f, is_file=True)
-    with open('public/speaking_styles.json', 'w', encoding='utf-8') as json_file:
-        json_file.write(json.dumps(speaking_styles_json, indent=2, ensure_ascii=False))
+    # with open(csv_output_file, 'r', encoding='utf-8') as f:
+    #     speaking_styles_json = csv_to_json(f, is_file=True)
+    # with open('public/speaking_styles.json', 'w', encoding='utf-8') as json_file:
+    #     json_file.write(json.dumps(speaking_styles_json, indent=2, ensure_ascii=False))
 
 
 
@@ -229,3 +268,19 @@ if __name__ == "__main__":
         # Git.git_pull(working_dir, 'main')
         # Git.git_commit_all(working_dir, 'mos character notes update')
         # Git.git_push(working_dir, 'main')
+    with open('mos_parser_datastore/mos.html', 'r', encoding='utf-8') as mos_html_file:
+        mos_html_string = mos_html_file.read()
+
+    soup = BeautifulSoup(mos_html_string, 'html.parser')
+    tables = soup.find_all('table')
+
+    parsed_tables = []
+
+    for table in tables:
+        json_list = csv_to_json(html_table_to_csv(str(table)))
+        parsed_tables.append(json_list)
+
+    with open('public/mos_dictionary_tables.json', 'w', encoding='utf-8') as f:
+        f.write(json.dumps(parsed_tables, indent=2, ensure_ascii=False))
+
+
