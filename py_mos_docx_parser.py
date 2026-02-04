@@ -155,12 +155,12 @@ def csv_to_json(data: Union[str, io.IOBase], is_file: bool = False) -> Union[Lis
             csv_reader = csv.DictReader(data)
         else:
             # Print first 200 chars for debugging
-            print(f"DEBUG - First 200 chars of input: {repr(data[:200])}")
+            # print(f"DEBUG - First 200 chars of input: {repr(data[:200])}")
             csv_reader = csv.DictReader(io.StringIO(data))
 
         # Debug: print the fieldnames
-        print(f"DEBUG - Field names detected: {csv_reader.fieldnames}")
-        print(f"DEBUG - Number of fields: {len(csv_reader.fieldnames) if csv_reader.fieldnames else 0}")
+        # print(f"DEBUG - Field names detected: {csv_reader.fieldnames}")
+        # print(f"DEBUG - Number of fields: {len(csv_reader.fieldnames) if csv_reader.fieldnames else -1}")
 
         result = []
 
@@ -262,12 +262,6 @@ if __name__ == "__main__":
         with open('public/speaking_styles.json', 'w', encoding='utf-8') as json_file:
             json_file.write(json.dumps(speaking_styles_json, indent=2, ensure_ascii=False))
 
-
-
-        # working_dir = os.getcwd()
-        # Git.git_pull(working_dir, 'main')
-        # Git.git_commit_all(working_dir, 'mos character notes update')
-        # Git.git_push(working_dir, 'main')
     with open('mos_parser_datastore/mos.html', 'r', encoding='utf-8') as mos_html_file:
         mos_html_string = mos_html_file.read()
 

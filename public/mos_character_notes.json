@@ -878,7 +878,7 @@
     "notes": []
   },
   {
-    "wip": true,
+    "wip": false,
     "character": "Filóre",
     "name_suffix": "",
     "name_in_jp": "フィルオーレ",
@@ -895,7 +895,7 @@
     ]
   },
   {
-    "wip": true,
+    "wip": false,
     "character": "Sakura Element",
     "name_suffix": "",
     "name_in_jp": "サクラ・エレメント",
@@ -912,7 +912,7 @@
     ]
   },
   {
-    "wip": true,
+    "wip": false,
     "character": "Tiga Rauleon",
     "name_suffix": "",
     "name_in_jp": "ティーガ・ラウレオン",
