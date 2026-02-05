@@ -884,14 +884,13 @@
     "name_in_jp": "フィルオーレ",
     "japanese_speech_quirks": [
       "First person pronoun – “わたくし”",
-      "Normally speaks formally, but may accidentally misspeak and use a less polite form, or break character and act childishly."
+      "Normally speaks formally, but may accidentally misspeak and use a less polite form, or break character and act childishly.",
+      "When not speaking politely, typically uses わ as a final particle."
     ],
     "english_speech_quirks": [
       "When speaking formally, no contractions, but when she slips up or is acting childish, basic contractions should be used."
     ],
-    "notes": [
-      "None"
-    ]
+    "notes": []
   },
   {
     "wip": false,
@@ -900,15 +899,13 @@
     "name_in_jp": "サクラ・エレメント",
     "japanese_speech_quirks": [
       "First person pronoun – “私”",
-      "Elongates some vowels similarly to Meili, with only a small kana and no elongation mark."
+      "Elongates some vowels"
     ],
     "english_speech_quirks": [
-      "Elongated vowels should be marked like thi~s.",
+      "Elongated vowels should follow basic rules",
       "Uses only basic contractions like I’m, you’re, etc."
     ],
-    "notes": [
-      "None"
-    ]
+    "notes": []
   },
   {
     "wip": false,
@@ -921,9 +918,7 @@
     "english_speech_quirks": [
       "Uses only basic contractions like I’m, you’re, etc."
     ],
-    "notes": [
-      "None"
-    ]
+    "notes": []
   },
   {
     "wip": true,
@@ -1053,12 +1048,12 @@
     "name_suffix": "",
     "name_in_jp": "マーコス・ギルダーク",
     "japanese_speech_quirks": [
-      "First person pronoun – “俺”",
-      "X"
+      "First person pronoun – “私”, used “俺” in the past in side stories",
+      "Quite polite and proper"
     ],
     "english_speech_quirks": [
-      "X",
-      "Y"
+      "No contractions",
+      "Should likewise be courteous and well spoken"
     ],
     "notes": []
   },

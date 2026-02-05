@@ -274,6 +274,7 @@ if __name__ == "__main__":
         with open('public/mos_character_notes.json', 'w', encoding='utf-8') as json_file:
             json_file.write(parsed_json)
 
+        print('Saved public/mos_character_notes.json')
 
     # Speaking Styles XLSX
 
@@ -286,6 +287,8 @@ if __name__ == "__main__":
             speaking_styles_json = csv_to_json(f, is_file=True)
         with open('public/speaking_styles.json', 'w', encoding='utf-8') as json_file:
             json_file.write(json.dumps(speaking_styles_json, indent=2, ensure_ascii=False))
+
+    print('Saved public/speaking_styles.json')
 
     with open('mos_parser_datastore/mos.html', 'r', encoding='utf-8') as mos_html_file:
         mos_html_string = mos_html_file.read()
@@ -302,4 +305,5 @@ if __name__ == "__main__":
     with open('public/mos_dictionary_tables.json', 'w', encoding='utf-8') as f:
         f.write(json.dumps(parsed_tables, indent=2, ensure_ascii=False))
 
+    print('Saved public/mos_dictionary_tables.json')
 
