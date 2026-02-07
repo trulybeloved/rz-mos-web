@@ -307,3 +307,11 @@ if __name__ == "__main__":
 
     print('Saved public/mos_dictionary_tables.json')
 
+    # GIT ADD AND PUSH CURRENT DIR
+
+    working_dir = os.getcwd()
+    Git.git_pull(working_dir, 'main')
+    Git.git_commit_all(working_dir, 'mos character notes update')
+    Git.git_push(working_dir, 'main')
+
+
