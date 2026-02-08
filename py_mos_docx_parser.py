@@ -1,4 +1,7 @@
+import datetime
 import os
+import time
+
 import backoff
 import git
 from bs4 import BeautifulSoup
@@ -46,9 +49,6 @@ class Git:
                 return False
             subprocess.run(["git", "add", "-A"], cwd=repository_path, check=True)
             subprocess.run(["git", "commit", "-m", commit_message], cwd=repository_path, check=True)
-            # repo = git.Repo(repository_path)
-            # repo.git.add(all=True)
-            # repo.index.commit(commit_message)
             print("Committed all changes successfully.")
         except git.GitCommandError as e:
             print("Error:", e)
@@ -268,8 +268,12 @@ if __name__ == "__main__":
     # the mammoth lib is used to convert docx to html, which is then parsed using beautiful soup
     import mammoth
     import git
+    from pathlib import Path
 
-    working_dir = os.getcwd()
+    SCRIPT_DIR = Path(__file__).resolve().parent
+    print('Run started', datetime.datetime.utcnow())
+    working_dir = SCRIPT_DIR
+    print(working_dir)
     Git.git_pull(working_dir, 'main')
 
     # MOS Doc
@@ -330,7 +334,7 @@ if __name__ == "__main__":
 
     # GIT ADD AND PUSH CURRENT DIR
 
-    Git.git_commit_all(working_dir, 'mos character notes update')
+    Git.git_commit_all(working_dir, 'MoS AUTOUPDATE')
     Git.git_push(working_dir, 'main')
 
 
