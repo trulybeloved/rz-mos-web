@@ -17,6 +17,19 @@ name_replacements = [
 # Substring that is used to split the mos at the point after which the character notes begin
 split_point = 'Character Index</h1>'
 
+import subprocess
+
+def has_changes(repo_dir: str) -> bool:
+    result = subprocess.run(
+        ["git", "status", "--porcelain"],
+        cwd=repo_dir,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        text=True,
+    )
+    return bool(result.stdout.strip())
+
+
 class Git:
 
     @staticmethod
@@ -28,9 +41,14 @@ class Git:
     )
     def git_commit_all(repository_path, commit_message):
         try:
-            repo = git.Repo(repository_path)
-            repo.git.add(all=True)
-            repo.index.commit(commit_message)
+            if not has_changes(repository_path):
+                print('No changes to commit')
+                return False
+            subprocess.run(["git", "add", "-A"], cwd=repository_path, check=True)
+            subprocess.run(["git", "commit", "-m", commit_message], cwd=repository_path, check=True)
+            # repo = git.Repo(repository_path)
+            # repo.git.add(all=True)
+            # repo.index.commit(commit_message)
             print("Committed all changes successfully.")
         except git.GitCommandError as e:
             print("Error:", e)
@@ -311,7 +329,6 @@ if __name__ == "__main__":
     print('Saved public/mos_dictionary_tables.json')
 
     # GIT ADD AND PUSH CURRENT DIR
-
 
     Git.git_commit_all(working_dir, 'mos character notes update')
     Git.git_push(working_dir, 'main')
