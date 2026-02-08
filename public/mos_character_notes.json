@@ -780,15 +780,17 @@
     "name_suffix": "",
     "name_in_jp": "ラインハルト・ヴァン・アストレア",
     "japanese_speech_quirks": [
-      "First person pronoun – “僕”",
-      "X"
+      "First person pronoun – “僕”"
     ],
     "english_speech_quirks": [
       "Mix of formal and casual speech",
       "“そこまでだ” should be translated as “That will be as far as you go”",
       "“授かった” should be translated as “I have received it” (when getting new DPs)"
     ],
-    "notes": []
+    "notes": [
+      "Eye color should be written as “sky-blue”",
+      "Hair color should be written as “blazing red”"
+    ]
   },
   {
     "wip": true,
@@ -860,7 +862,9 @@
       "Uses sama (様) for Crusch",
       "Refers to Wilhelm as Wil-jii (ヴィル爺)",
       "Refers to Subaru as Subaru-kyun",
-      "Refers to Rem as Rem-chan"
+      "Refers to Rem as Rem-chan",
+      "Eye color should be written as “amber”",
+      "Hair color should be written as “flaxen”"
     ]
   },
   {
