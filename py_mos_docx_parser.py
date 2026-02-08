@@ -62,7 +62,7 @@ class Git:
     )
     def git_push(repository_path, branch_name):
         try:
-            subprocess.run(["git", "push", "origin", branch_name], cwd=repository_path, check=True)
+            subprocess.run(["git", "push"], cwd=repository_path, check=True)
             print("Pushed changes successfully.")
         except git.GitCommandError as e:
             print("Error:", e)
@@ -332,6 +332,6 @@ if __name__ == "__main__":
     # GIT ADD AND PUSH CURRENT DIR
 
     Git.git_commit_all(working_dir, 'MoS AUTOUPDATE')
-    Git.git_push(working_dir, 'main')
+    # Git.git_push(working_dir, 'main')
 
 

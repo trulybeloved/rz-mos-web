@@ -14,3 +14,11 @@ cd "$SCRIPT_DIR"
 
 # Run the script
 "$VENV_PYTHON" "$PYTHON_SCRIPT" >> "$LOG_FILE" 2>&1
+
+current_date=$(date +"%Y-%m-%d")
+
+echo "🔐 Adding SSH key..."
+export GPG_TTY=$(tty)
+eval "$(ssh-agent -s)"
+ssh-add /home/beloved/.ssh/github || { echo "❌ Failed to add SSH key"; exit 1; }
+git push
