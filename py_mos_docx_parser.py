@@ -62,9 +62,7 @@ class Git:
     )
     def git_push(repository_path, branch_name):
         try:
-            repo = git.Repo(repository_path)
-            origin = repo.remotes.origin
-            origin.push(refspec=branch_name)
+            subprocess.run(["git", "push", "origin", branch_name], cwd=repository_path, check=True)
             print("Pushed changes successfully.")
         except git.GitCommandError as e:
             print("Error:", e)
@@ -78,9 +76,7 @@ class Git:
     )
     def git_pull(repository_path, branch_name):
         try:
-            repo = git.Repo(repository_path)
-            origin = repo.remotes.origin
-            origin.pull(refspec=branch_name)
+            subprocess.run(["git", "pull"], cwd=repository_path, check=True)
             print("Pulled changes successfully.")
         except git.GitCommandError as e:
             print("Error:", e)
