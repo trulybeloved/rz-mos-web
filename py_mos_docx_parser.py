@@ -268,7 +268,7 @@ if __name__ == "__main__":
     from datetime import datetime, timezone
 
     SCRIPT_DIR = Path(__file__).resolve().parent
-    print('Run started: ', datetime.now(timezone.utc))
+    print('\n\n\nRun started: ', datetime.now(timezone.utc))
     working_dir = os.getcwd()
     print(working_dir)
     Git.git_pull(working_dir, 'main')
