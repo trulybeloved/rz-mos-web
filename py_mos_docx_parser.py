@@ -251,6 +251,9 @@ if __name__ == "__main__":
     import mammoth
     import git
 
+    working_dir = os.getcwd()
+    Git.git_pull(working_dir, 'main')
+
     # MOS Doc
 
     shared_link = "https://drive.google.com/file/d/12Z5Jb61kz2QGQibnIukgEjK4oIgMYX45/edit"
@@ -309,8 +312,7 @@ if __name__ == "__main__":
 
     # GIT ADD AND PUSH CURRENT DIR
 
-    working_dir = os.getcwd()
-    Git.git_pull(working_dir, 'main')
+
     Git.git_commit_all(working_dir, 'mos character notes update')
     Git.git_push(working_dir, 'main')
 
