@@ -269,18 +269,19 @@ if __name__ == "__main__":
     import mammoth
     import git
     from pathlib import Path
+    from datetime import datetime, timezone
 
     SCRIPT_DIR = Path(__file__).resolve().parent
-    print('Run started', datetime.datetime.utcnow())
-    working_dir = SCRIPT_DIR
+    print('Run started: ', datetime.now(timezone.utc))
+    working_dir = os.getcwd()
     print(working_dir)
     Git.git_pull(working_dir, 'main')
 
     # MOS Doc
 
     shared_link = "https://drive.google.com/file/d/12Z5Jb61kz2QGQibnIukgEjK4oIgMYX45/edit"
-    output_file = "mos_parser_datastore/mos.docx"
-    service_account_file = "rekai-408314-f1c11bd002a0.json"
+    output_file = os.path.join(SCRIPT_DIR, 'mos_parser_datastore/mos.docx')
+    service_account_file = os.path.join(SCRIPT_DIR, 'rekai-sa.json')
 
     # Downloads the original mos docx file via the Google Drive API
     mos_dl_successful = download_original_file(shared_link, output_file, service_account_file)
@@ -304,7 +305,7 @@ if __name__ == "__main__":
     # Speaking Styles XLSX
 
     ss_sheet_link = "https://docs.google.com/spreadsheets/d/1NyI4xID75sY3UvjT9iQPLIJvMCh0luh0AJYsDdD2KJU/edit"
-    csv_output_file = "mos_parser_datastore/speaking_styles.csv"
+    csv_output_file = os.path.join(SCRIPT_DIR, 'mos_parser_datastore/speaking_styles.csv')
 
     speaking_styles_successful = download_sheet_as_csv(ss_sheet_link, csv_output_file, service_account_file)
     if speaking_styles_successful:
