@@ -889,12 +889,14 @@
     "japanese_speech_quirks": [
       "First person pronoun – “わたくし”",
       "Speaks in two different registers, one highly formal, and one more informal one.",
-      "She will",
-      "Normally speaks formally, but may accidentally misspeak and use a less polite form, or break character and act childishly.",
+      "She naturally speaks in her informal register, but typically tries to use her formal register around others. This often leads to her misspeaking and slipping in and out of her formal register when she gets excited or passionate. She will often restate things she accidentally said informally in a formal manner.",
+      "She will also act childishly on occasion and slip back into an informal register.",
       "When not speaking politely, typically uses “わ” or “のよ” as final particles."
     ],
     "english_speech_quirks": [
-      "When speaking formally, no contractions, but when she slips up or is acting childish, basic contractions should be used."
+      "When speaking formally, no contractions should be used and the replacements below should be used (will -> shall, etc.).",
+      "When speaking informally, some basic contractions should be used (I am -> I’m, you are -> you’re, it is -> it’s, etc), but nothing along the lines of ain’t, gonna, etc.",
+      "Her vocab level should be decently high,"
     ],
     "notes": [
       "Will often quote the scripture of the Divine Dragon Church. These quotations should feel weighty and have high levels of vocab, perhaps even feeling a bit archaic where appropriate.",
