@@ -888,11 +888,13 @@
     "name_in_jp": "フィルオーレ",
     "japanese_speech_quirks": [
       "First person pronoun – “わたくし”",
+      "Speaks in two different registers, one highly formal, and one more informal one.",
+      "She will",
       "Normally speaks formally, but may accidentally misspeak and use a less polite form, or break character and act childishly.",
-      "When not speaking politely, typically uses わ as a final particle."
+      "When not speaking politely, typically uses “わ” or “のよ” as final particles."
     ],
     "english_speech_quirks": [
-      "When speaking formally, no contractions , but when she slips up or is acting childish, basic contractions should be used."
+      "When speaking formally, no contractions, but when she slips up or is acting childish, basic contractions should be used."
     ],
     "notes": [
       "Will often quote the scripture of the Divine Dragon Church. These quotations should feel weighty and have high levels of vocab, perhaps even feeling a bit archaic where appropriate.",
