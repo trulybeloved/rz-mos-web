@@ -331,7 +331,7 @@ if __name__ == "__main__":
 
     # GIT ADD AND PUSH CURRENT DIR
 
-    Git.git_commit_all(working_dir, 'MoS AUTOUPDATE')
+    Git.git_commit_all(working_dir, 'autoupdate: MoS')
     # Git.git_push(working_dir, 'main')
 
 
