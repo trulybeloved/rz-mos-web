@@ -888,10 +888,10 @@
     "name_in_jp": "フィルオーレ",
     "japanese_speech_quirks": [
       "First person pronoun – “わたくし”",
-      "Speaks in two different registers, one highly formal, and one more informal one.",
+      "Speaks in two different registers: a highly formal one and a more informal one.",
       "She naturally speaks in her informal register, but typically tries to use her formal register around others. This often leads to her misspeaking and slipping in and out of her formal register when she gets excited or passionate. She will often restate things she accidentally said informally in a formal manner.",
       "She will also act childishly on occasion and slip back into an informal register.",
-      "When not speaking politely, she typically uses “わ” or “のよ” as final particles."
+      "When not speaking politely, she typically uses “わ” or “のよ” as final particles, but not always every sentence."
     ],
     "english_speech_quirks": [
       "When speaking formally, no contractions should be used and the replacements below should be used (will -> shall, etc.).",
@@ -900,8 +900,9 @@
     ],
     "notes": [
       "Will often quote the scripture of the Church of the Divine Dragon. These quotations should feel weighty and have high levels of vocab, perhaps even feeling a bit archaic where appropriate.",
-      "Before quoting scripture, she often says “教典にもこうあるわ。”, which should be translated as “This too, is in the scriptures.”",
-      "Her hair color should be translated as “golden”, and her eye color should be translated as “crimson”."
+      "Before quoting scripture, she often says “教典にもこうあるわ”, which should be translated as “This too, is in the scriptures”",
+      "Eye color should be written as “crimson”",
+      "Hair color should be written as “golden”"
     ]
   },
   {
@@ -928,7 +929,8 @@
       "First person pronoun – “俺”"
     ],
     "english_speech_quirks": [
-      "Uses only basic contractions like I’m, you’re, etc."
+      "Uses only basic contractions like I’m, you’re, etc.",
+      "Feels quite laidback and friendly, while still having a bit of distance."
     ],
     "notes": []
   },
