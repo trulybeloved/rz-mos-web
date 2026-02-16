@@ -1985,11 +1985,10 @@
     "name_suffix": "",
     "name_in_jp": "",
     "japanese_speech_quirks": [
-      "First person pronoun – “アタクシ”",
-      "X"
+      "First person pronoun – “アタクシ”"
     ],
     "english_speech_quirks": [
-      "Y"
+      "Rants a lot, makes a lot of innuendos and sexual comments."
     ],
     "notes": [
       "None"
@@ -2118,9 +2117,9 @@
     "wip": true,
     "character": "Carmilla",
     "name_suffix": "",
-    "name_in_jp": "",
+    "name_in_jp": "カーミラ",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “私”",
       "X"
     ],
     "english_speech_quirks": [
@@ -2135,9 +2134,9 @@
     "wip": true,
     "character": "Daphne",
     "name_suffix": "",
-    "name_in_jp": "",
+    "name_in_jp": "ダフネ",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “ダフネ”",
       "X"
     ],
     "english_speech_quirks": [
@@ -2152,9 +2151,9 @@
     "wip": true,
     "character": "Echidna",
     "name_suffix": "",
-    "name_in_jp": "",
+    "name_in_jp": "エキドナ",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – わ“”",
       "X"
     ],
     "english_speech_quirks": [
@@ -2171,7 +2170,7 @@
     "name_suffix": "",
     "name_in_jp": "",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “己”",
       "X"
     ],
     "english_speech_quirks": [
