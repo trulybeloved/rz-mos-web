@@ -2153,7 +2153,7 @@
     "name_suffix": "",
     "name_in_jp": "エキドナ",
     "japanese_speech_quirks": [
-      "First person pronoun – わ“”",
+      "First person pronoun – “ワタシ” (normal) and “ボク” (around Subaru, Emilia, and Al)",
       "X"
     ],
     "english_speech_quirks": [
@@ -2168,7 +2168,7 @@
     "wip": true,
     "character": "Hector",
     "name_suffix": "",
-    "name_in_jp": "",
+    "name_in_jp": "ヘクトール",
     "japanese_speech_quirks": [
       "First person pronoun – “己”",
       "X"
@@ -2185,9 +2185,9 @@
     "wip": true,
     "character": "Minerva",
     "name_suffix": "",
-    "name_in_jp": "",
+    "name_in_jp": "ミネルヴァ",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “あたし”",
       "X"
     ],
     "english_speech_quirks": [
@@ -2202,9 +2202,9 @@
     "wip": true,
     "character": "Pandora",
     "name_suffix": "",
-    "name_in_jp": "",
+    "name_in_jp": "パンドラ",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “私”",
       "X"
     ],
     "english_speech_quirks": [
@@ -2219,9 +2219,9 @@
     "wip": true,
     "character": "Satella",
     "name_suffix": "",
-    "name_in_jp": "",
+    "name_in_jp": "サテラ",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “私”",
       "X"
     ],
     "english_speech_quirks": [
@@ -2236,7 +2236,7 @@
     "wip": true,
     "character": "Sekhmet",
     "name_suffix": "",
-    "name_in_jp": "",
+    "name_in_jp": "セクメト",
     "japanese_speech_quirks": [
       "First person pronoun – “”",
       "X"
