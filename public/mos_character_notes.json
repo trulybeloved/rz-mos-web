@@ -888,7 +888,7 @@
     "japanese_speech_quirks": [
       "First person pronoun – “わたくし”",
       "Speaks in two different registers: a highly formal one and a more informal one.",
-      "She naturally speaks in her informal register, but typically tries to use her formal register around others. This often leads to her misspeaking and slipping in and out of her formal register when she gets excited or passionate. She will often restate things she accidentally said informally in a formal manner.",
+      "She naturally speaks in her informal register, but often tries to use her formal register around others. This often leads to her misspeaking and slipping in and out of her formal register when she gets excited or passionate. She will often restate things she accidentally said informally in a formal manner.",
       "She will also act childishly on occasion and slip back into an informal register.",
       "When not speaking politely, she typically uses “わ” or “のよ” as final particles, but not always every sentence."
     ],
@@ -900,7 +900,7 @@
     "notes": [
       "Will often quote the scripture of the Church of the Divine Dragon. These quotations should feel weighty and have high levels of vocab, perhaps even feeling a bit archaic where appropriate.",
       "Before quoting scripture, she says “教典にもこうあるわ”, which should be translated as “This too, is in the scriptures”",
-      "Has a thing with Emilia, where after Filóre quotes scripture, Emilia will say “ええと、それって？”, which should be translated as “Umm, that means?”, and Filóre will respond with “つまり、X” as an explanation, which should be translated as “Basically, X”",
+      "Has a thing with Emilia, where after Filóre quotes scripture, Emilia will say “ええと、それって？”, which should be translated as “Umm, that means?”, and Filóre will typically respond with “つまり、X” as an explanation, which should be translated as “Basically, X”",
       "Eye color should be written as “crimson”",
       "Hair color should be written as “golden”"
     ]
@@ -912,7 +912,8 @@
     "name_in_jp": "サクラ・エレメント",
     "japanese_speech_quirks": [
       "First person pronoun – “私”",
-      "Elongates some vowels."
+      "Elongates some vowels.",
+      "Uses “chan” as an honorific with practically everyone."
     ],
     "english_speech_quirks": [
       "Elongated vowels should follow basic rules.",
