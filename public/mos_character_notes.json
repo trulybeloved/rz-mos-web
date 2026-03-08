@@ -900,7 +900,7 @@
     "notes": [
       "Will often quote the scripture of the Church of the Divine Dragon. These quotations should feel weighty and have high levels of vocab, perhaps even feeling a bit archaic where appropriate.",
       "Before quoting scripture, she says “教典にもこうあるわ”, which should be translated as “This too, is in the scriptures”",
-      "Has a thing with Emilia, where after Filóre quotes scripture, Emilia will say “ええと、それって？”, which should be translated as “Umm, anthat means?”, and Filóre will typically respond with “つまり、X” as an explanation, which should be translated as “In other words, X”",
+      "Has a thing with Emilia, where after Filóre quotes scripture, Emilia will say “ええと、それって？”, which should be translated as “Umm, and that means?”, and Filóre will typically respond with “つまり、X” as an explanation, which should be translated as “In other words, X”",
       "Eye color should be written as “crimson”",
       "Hair color should be written as “golden”"
     ]
@@ -916,7 +916,7 @@
       "Uses “chan” as an honorific with practically everyone."
     ],
     "english_speech_quirks": [
-      "Elongated vowels should follow basic rules.",
+      "Elongated vowels should follow basic rules, adding two extra vowels with no tilde.",
       "Uses only basic contractions like I’m, you’re, etc."
     ],
     "notes": []
@@ -933,7 +933,9 @@
       "Uses only basic contractions like I’m, you’re, etc.",
       "Feels quite laidback and friendly, while still having a bit of distance."
     ],
-    "notes": []
+    "notes": [
+      "Eye color should be written as “yellow”"
+    ]
   },
   {
     "wip": true,
