@@ -833,10 +833,13 @@
     ],
     "english_speech_quirks": [
       "Formal, no contractions.",
-      "More gentle and unsure in her amnesiac-state, but can act more like her former personality.(Given recent developments, this may be more out of date going forward)",
+      "More gentle and unsure in her amnesiac-state, but can act more like her former personality at times.(Given recent developments, this may be more out of date going forward)",
       "(Given recent developments, this may be more out of date going forward)"
     ],
-    "notes": []
+    "notes": [
+      "Eye color should be written as “amber”",
+      "Hair color should be written as “green”"
+    ]
   },
   {
     "wip": false,
