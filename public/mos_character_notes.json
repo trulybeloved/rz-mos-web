@@ -1083,7 +1083,7 @@
     "name_suffix": "",
     "name_in_jp": "ラッセル・フェロー",
     "japanese_speech_quirks": [
-      "First person pronoun – “私” (pronounced わたくし)",
+      "First person pronoun – “私” (pronounced わたくし), also uses “私ども” (pronounced わたくしども), uncertain as to if there is an important difference yet",
       "Uses a lot of formal and humble language normally."
     ],
     "english_speech_quirks": [
@@ -1091,7 +1091,9 @@
       "Turns cold and calculating, though still very well spoken and superficially polite, when revealing his true self.",
       "No contractions, very high level of politeness, to the point of belittling himself."
     ],
-    "notes": []
+    "notes": [
+      "“私ども” should be rendered as “we” or “us”"
+    ]
   },
   {
     "wip": true,
