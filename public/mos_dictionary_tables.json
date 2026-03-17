@@ -288,12 +288,18 @@
     },
     {
       "Japanese": "聖女",
-      "English translation": "Saintess",
+      "English translation": "(The) Saintess",
       "Used for": [
         "Filóre",
         "Pandora (possibly)"
       ],
-      "Notes": "In the context of the Church of the Divine Dragon and the one who held the Witch Factor of"
+      "Notes": "In the context of the Church of the Divine Dragon and the one who held the Witch Factor of Vanagloria; in other contexts other translations may be preferable. “The” should always be used in the context of Vanagloria."
+    },
+    {
+      "Japanese": "勇者",
+      "English translation": "The Valiant",
+      "Used for": "Hector",
+      "Notes": "Only in the context of Hector; in other contexts, it might be better translated as hero."
     },
     {
       "Japanese": "一の騎士",
