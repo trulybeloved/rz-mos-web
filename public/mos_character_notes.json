@@ -1083,13 +1083,14 @@
     "name_suffix": "",
     "name_in_jp": "ラッセル・フェロー",
     "japanese_speech_quirks": [
-      "First person pronoun – “私” (pronounced わたくし), also uses “私ども” (pronounced わたくしども), uncertain as to if there is an important difference yet",
-      "Uses a lot of formal and humble language normally"
+      "First person pronoun – “私” (pronounced わたくし), also uses “私ども” (pronounced わたくしども), uncertain as to if there is an important difference yet.",
+      "Uses a lot of formal and humble language normally, but has dropped it on one occasion, talking with a subordinate (end of Riot in Flanders)."
     ],
     "english_speech_quirks": [
       "Generally incredibly polite and courteous, to the point of belittling himself, well-spoken when the mask is on.",
       "Turns cold and calculating, though still very well spoken and superficially polite, when revealing his true self.",
-      "No contractions at all."
+      "No contractions at all.If he drops his formal and honorific language, then he should use normal contractions (i.e. I’m” / “don’t”, etc, should not use “-in’” / “(y’)ain’t” / “’n” / “y’all”).",
+      "If he drops his formal and honorific language, then he should use normal contractions (i.e. I’m” / “don’t”, etc, should not use “-in’” / “(y’)ain’t” / “’n” / “y’all”)."
     ],
     "notes": [
       "“私ども” should be rendered as “we” or “us”"
