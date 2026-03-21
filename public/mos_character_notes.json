@@ -1114,6 +1114,21 @@
     "notes": []
   },
   {
+    "wip": true,
+    "character": "Fourier Lugunica",
+    "name_suffix": "",
+    "name_in_jp": "フーリエ・ルグニカ",
+    "japanese_speech_quirks": [
+      "First person pronoun – “余”"
+    ],
+    "english_speech_quirks": [
+      "Pronouns should be rendered as “my eminent self”"
+    ],
+    "notes": [
+      "None"
+    ]
+  },
+  {
     "wip": false,
     "character": "Hayden Garo",
     "name_suffix": "",
