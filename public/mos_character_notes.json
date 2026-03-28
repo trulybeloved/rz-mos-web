@@ -156,7 +156,6 @@
       "You get the point."
     ],
     "notes": [
-      "Her teleport skill, noted by the expression “転移”, should be translated as “transfer”",
       "From Arc 8, Chapter 23 onward うあう should be treated as a name, referring to Subaru"
     ]
   },
@@ -2041,7 +2040,7 @@
   },
   {
     "wip": true,
-    "character": "Louis Arneb (Pre-Arc 7)",
+    "character": "Louis Arneb",
     "name_suffix": "",
     "name_in_jp": "ルイ・アルネブ",
     "japanese_speech_quirks": [
@@ -2053,7 +2052,7 @@
       "Y"
     ],
     "notes": [
-      "None"
+      "Pre-Arc 7"
     ]
   },
   {
