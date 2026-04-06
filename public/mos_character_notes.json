@@ -652,7 +652,7 @@
     "name_suffix": "",
     "name_in_jp": "エッゾ・カドナー",
     "japanese_speech_quirks": [
-      "First person pronoun – ?",
+      "First person pronoun – “私”",
       "X"
     ],
     "english_speech_quirks": [
@@ -669,7 +669,8 @@
     "name_suffix": "",
     "name_in_jp": "フェルト",
     "japanese_speech_quirks": [
-      "First person pronoun – “アタシ”"
+      "First person pronoun – “アタシ”",
+      "Second person pronoun – “テメー”"
     ],
     "english_speech_quirks": [
       "Speaks roughly, uses many contractions, but not to the point of characters like Anastasia, Rom, or Garfiel."
@@ -685,7 +686,7 @@
     "name_suffix": "",
     "name_in_jp": "フラム・レメンディス",
     "japanese_speech_quirks": [
-      "First person pronoun – ?",
+      "First person pronoun – “私”",
       "X"
     ],
     "english_speech_quirks": [
