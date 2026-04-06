@@ -1547,6 +1547,12 @@
       "Notes": ""
     },
     {
+      "Japanese": "背剣者",
+      "English TL": "(The) Backstabber",
+      "Used for": "Heinkel Astrea",
+      "Notes": ""
+    },
+    {
       "Japanese": "猛犬",
       "English TL": "Mad Dog",
       "Used for": "Bordeaux Zergev",
@@ -1554,8 +1560,8 @@
     },
     {
       "Japanese": "狂皇子",
-      "English TL": "(Mad Prince",
-      "Used for": "",
+      "English TL": "(The) Mad Prince",
+      "Used for": "Vague Adgard",
       "Notes": ""
     }
   ],
