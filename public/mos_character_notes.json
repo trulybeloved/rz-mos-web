@@ -704,6 +704,7 @@
     "name_in_jp": "ガストン",
     "japanese_speech_quirks": [
       "First person pronoun – “”",
+      "Second person pronoun – “お前”",
       "X"
     ],
     "english_speech_quirks": [
@@ -720,7 +721,7 @@
     "name_suffix": "",
     "name_in_jp": "グラシス・レメンディス",
     "japanese_speech_quirks": [
-      "First person pronoun – ?",
+      "First person pronoun – Unknown, probably “私” like Flam",
       "X"
     ],
     "english_speech_quirks": [
@@ -769,8 +770,8 @@
     "name_suffix": "",
     "name_in_jp": "ラチンス・ホフマン",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
-      "X"
+      "First person pronoun – “俺”",
+      "Second person pronoun – “テメエ” (used to be “てめえ” in WN Arc 5)"
     ],
     "english_speech_quirks": [
       "X",
