@@ -788,7 +788,8 @@
     "name_suffix": "",
     "name_in_jp": "ラインハルト・ヴァン・アストレア",
     "japanese_speech_quirks": [
-      "First person pronoun – “僕”"
+      "First person pronoun – “僕”",
+      "Second person pronoun  – “君” with those of equal or lower rank, “あなた” with those of higher rank"
     ],
     "english_speech_quirks": [
       "Mix of formal and casual speech",
@@ -823,6 +824,7 @@
     "name_in_jp": "トト",
     "japanese_speech_quirks": [
       "First person pronoun – ?",
+      "Second person pronoun – あなた",
       "Hoe"
     ],
     "english_speech_quirks": [
@@ -836,12 +838,13 @@
     "name_suffix": "",
     "name_in_jp": "クルシュ・カルステン",
     "japanese_speech_quirks": [
-      "First person pronoun – “私” (pronounced わたくし)"
+      "First person pronoun – “私” (pronounced わたくし)",
+      "Second person pronoun  – “”, formerly “” before she lost her memories"
     ],
     "english_speech_quirks": [
       "Formal, no contractions.",
-      "More gentle and unsure in her amnesiac-state, but can act more like her former personality at times.(Given recent developments, this may be more out of date going forward)",
-      "(Given recent developments, this may be more out of date going forward)"
+      "More gentle and unsure in her amnesiac-state, but can act more like her former personality at times.(Given recent developments, this may be more out of date going forward from Arc 10 Chapter 12)",
+      "(Given recent developments, this may be more out of date going forward from Arc 10 Chapter 12)"
     ],
     "notes": [
       "Eye color should be written as “amber”",
