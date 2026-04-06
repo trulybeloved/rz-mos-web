@@ -2004,20 +2004,25 @@
     "wip": false,
     "character": "Halibel",
     "name_suffix": "",
-    "name_in_jp": "ハリベル",
+    "name_in_jp": "ヴェイグ・アドガルド",
     "japanese_speech_quirks": [
       "First person pronoun – “僕”",
       "Kansai dialect",
-      "Extremely laidback"
+      "Extremely laidback",
+      "First person pronoun – “我輩”",
+      "Second person pronoun – “”"
     ],
     "english_speech_quirks": [
       "Use contractions whenever possible, all of them “I’m” / “don’t(’cha)” / “-in’” / “kinda” / “tho” / “‘bout” / “‘em” / “‘cause” / “(y’)ain’t” / “y’all” / “’n” / “y’know”",
       "Use contractions whenever possible, such as “don’t(‘cha)” / “’n”/ “(y’)ain’t” / “gotta” / “in’” / “y’all”",
       "“you” to be stylized as “ya”, except in “you’re” and “you’ve”",
-      "“your(s)” to be stylized as “yer(s)”"
+      "“your(s)” to be stylized as “yer(s)”",
+      "X",
+      "Y"
     ],
     "notes": [
-      "Is also called “礼賛者”, “(The) Admirer”"
+      "Is also called “礼賛者”, “(The) Admirer”",
+      "None"
     ]
   },
   {
