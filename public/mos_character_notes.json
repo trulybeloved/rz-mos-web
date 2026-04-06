@@ -900,7 +900,7 @@
     "name_in_jp": "フィルオーレ",
     "japanese_speech_quirks": [
       "First person pronoun – “わたくし”",
-      "Second person pronoun – “わたくし”",
+      "Second person pronoun – “あなた”",
       "Speaks in two different registers: a highly formal one and a more informal one.",
       "She naturally speaks in her informal register, but often tries to use her formal register around others. This often leads to her misspeaking and slipping in and out of her formal register when she gets excited or passionate. She will often restate things she accidentally said informally in a formal manner.",
       "She will also act childishly on occasion and slip back into an informal register.",
@@ -928,6 +928,7 @@
     "name_in_jp": "サクラ・エレメント",
     "japanese_speech_quirks": [
       "First person pronoun – “私”",
+      "Second person pronoun – “あなた”",
       "Typically elongates vowels at the end of a sentence or occasionally at the end of a clause within a sentence, especially with conjunctions or interjections at the start of a sentence (まぁ, ねぇ, さぁ).",
       "Uses “chan” as an honorific with practically everyone."
     ],
@@ -950,6 +951,7 @@
       "Feels quite laidback and friendly, while still having a bit of distance."
     ],
     "notes": [
+      "He and Subaru call each other “my friend” (マイフレンド), which should be underlined like any other loan word.",
       "Eye color should be written as “yellow”"
     ]
   },
@@ -1015,6 +1017,7 @@
     "name_in_jp": "ボルカニカ",
     "japanese_speech_quirks": [
       "First person pronoun – “我”",
+      "Second person pronoun – “汝”",
       "Very archaic and purple-y"
     ],
     "english_speech_quirks": [
