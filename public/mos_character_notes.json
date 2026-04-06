@@ -839,7 +839,7 @@
     "name_in_jp": "クルシュ・カルステン",
     "japanese_speech_quirks": [
       "First person pronoun – “私” (pronounced わたくし)",
-      "Second person pronoun  – “”, formerly “” before she lost her memories"
+      "Second person pronoun  – “あなた”, formerly “卿” before she lost her memories"
     ],
     "english_speech_quirks": [
       "Formal, no contractions.",
@@ -862,7 +862,7 @@
       "Will use きゅん (kyun) for some people"
     ],
     "english_speech_quirks": [
-      "Refers to himself as “Ferri-chan”",
+      "Refers to himself as “Ferri-chan” sometimes",
       "Uses contractions such as “I’m” / “don’t”, etc, does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”, basically similar to Subaru",
       "Uses semi-polite speech that is feminine/neutral.",
       "Anytime にゃ shows up, a cat pun should be used",
@@ -900,6 +900,7 @@
     "name_in_jp": "フィルオーレ",
     "japanese_speech_quirks": [
       "First person pronoun – “わたくし”",
+      "Second person pronoun – “わたくし”",
       "Speaks in two different registers: a highly formal one and a more informal one.",
       "She naturally speaks in her informal register, but often tries to use her formal register around others. This often leads to her misspeaking and slipping in and out of her formal register when she gets excited or passionate. She will often restate things she accidentally said informally in a formal manner.",
       "She will also act childishly on occasion and slip back into an informal register.",
