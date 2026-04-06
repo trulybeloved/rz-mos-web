@@ -410,7 +410,8 @@
     ],
     "notes": [
       "Eye color should be written as “sky-blue”",
-      "Hair color should be written as “blazing red”"
+      "Hair color should be written as “blazing red”",
+      "Sometimes referred to as “背剣者”, translated as “(the) Backstabber”"
     ]
   },
   {
@@ -2004,25 +2005,36 @@
     "wip": false,
     "character": "Halibel",
     "name_suffix": "",
-    "name_in_jp": "ヴェイグ・アドガルド",
+    "name_in_jp": "ハリベル",
     "japanese_speech_quirks": [
       "First person pronoun – “僕”",
       "Kansai dialect",
-      "Extremely laidback",
-      "First person pronoun – “我輩”",
-      "Second person pronoun – “貴君”, “貴公”",
-      "Has a tendency to repeat and restate things."
+      "Extremely laidback"
     ],
     "english_speech_quirks": [
       "Use contractions whenever possible, all of them “I’m” / “don’t(’cha)” / “-in’” / “kinda” / “tho” / “‘bout” / “‘em” / “‘cause” / “(y’)ain’t” / “y’all” / “’n” / “y’know”",
       "Use contractions whenever possible, such as “don’t(‘cha)” / “’n”/ “(y’)ain’t” / “gotta” / “in’” / “y’all”",
       "“you” to be stylized as “ya”, except in “you’re” and “you’ve”",
-      "“your(s)” to be stylized as “yer(s)”",
-      "X",
-      "Y"
+      "“your(s)” to be stylized as “yer(s)”"
     ],
     "notes": [
-      "Is also called “礼賛者”, “(The) Admirer”",
+      "Is also called “礼賛者”, “(The) Admirer”"
+    ]
+  },
+  {
+    "wip": false,
+    "character": "Vague Adgard",
+    "name_suffix": "",
+    "name_in_jp": "ヴェイグ・アドガルド",
+    "japanese_speech_quirks": [
+      "First person pronoun – “我輩”",
+      "Second person pronoun – “貴君”, “貴公”",
+      "Has a tendency to repeat and restate things."
+    ],
+    "english_speech_quirks": [
+      "X"
+    ],
+    "notes": [
       "Called 狂皇子, translated as “the Mad Prince”",
       "Calls spirits 汚穢, “filth”"
     ]
