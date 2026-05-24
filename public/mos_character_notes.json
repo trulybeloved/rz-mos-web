@@ -2385,9 +2385,9 @@
   },
   {
     "wip": true,
-    "character": "Elsa",
+    "character": "Elsa Granhiert",
     "name_suffix": "",
-    "name_in_jp": "テュフォン",
+    "name_in_jp": "エルザ・グランヒルテ",
     "japanese_speech_quirks": [
       "First person pronoun – “テュフォン”",
       "X"
@@ -2401,7 +2401,7 @@
     ]
   },
   {
-    "wip": false,
+    "wip": true,
     "character": "Clarissa",
     "name_suffix": "",
     "name_in_jp": "クラリッサ",
