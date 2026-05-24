@@ -2383,6 +2383,40 @@
     ]
   },
   {
+    "wip": true,
+    "character": "Elsa",
+    "name_suffix": "",
+    "name_in_jp": "テュフォン",
+    "japanese_speech_quirks": [
+      "First person pronoun – “テュフォン”",
+      "X"
+    ],
+    "english_speech_quirks": [
+      "X",
+      "Y"
+    ],
+    "notes": [
+      "None"
+    ]
+  },
+  {
+    "wip": false,
+    "character": "Clarissa",
+    "name_suffix": "",
+    "name_in_jp": "テュフォン",
+    "japanese_speech_quirks": [
+      "First person pronoun – “テュフォン”",
+      "X"
+    ],
+    "english_speech_quirks": [
+      "X",
+      "Y"
+    ],
+    "notes": [
+      "None"
+    ]
+  },
+  {
     "wip": false,
     "character": "Sphinx",
     "name_suffix": "",
