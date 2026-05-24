@@ -879,7 +879,8 @@
       "Refers to Subaru as Subaru-kyun",
       "Refers to Rem as Rem-chan",
       "Eye color should be written as “amber”",
-      "Hair color should be written as “flaxen”"
+      "Hair color should be written as “flaxen”",
+      "Six Tongues codename is Blue Snake (黒狗)"
     ]
   },
   {
@@ -974,7 +975,7 @@
       "If he drops his formal and honorific language, then he should use normal contractions (i.e. I’m” / “don’t”, etc, should not use “-in’” / “(y’)ain’t” / “’n” / “y’all”)."
     ],
     "notes": [
-      "None"
+      "Six Tongues codename is Silver Fox (銀狐)"
     ]
   },
   {
@@ -983,7 +984,7 @@
     "name_suffix": "",
     "name_in_jp": "メルティ・プリスティス",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “わたし”",
       "X"
     ],
     "english_speech_quirks": [
@@ -1017,7 +1018,7 @@
     "name_suffix": "",
     "name_in_jp": "ウォルフ",
     "japanese_speech_quirks": [
-      "First person pronoun – “”",
+      "First person pronoun – “オレ”",
       "X"
     ],
     "english_speech_quirks": [
@@ -1025,7 +1026,7 @@
       "Y"
     ],
     "notes": [
-      "Six Tongues codename is Black Dog ("
+      "Six Tongues codename is Black Dog (黒狗)"
     ]
   },
   {
