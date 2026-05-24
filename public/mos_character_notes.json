@@ -880,7 +880,7 @@
       "Refers to Rem as Rem-chan",
       "Eye color should be written as “amber”",
       "Hair color should be written as “flaxen”",
-      "Six Tongues codename is Blue Snake (黒狗)"
+      "Six Tongues codename is Blue Snake (青蛇)"
     ]
   },
   {
@@ -2397,16 +2397,16 @@
       "Y"
     ],
     "notes": [
-      "None"
+      "Called the Bowel Hunter"
     ]
   },
   {
     "wip": false,
     "character": "Clarissa",
     "name_suffix": "",
-    "name_in_jp": "テュフォン",
+    "name_in_jp": "クラリッサ",
     "japanese_speech_quirks": [
-      "First person pronoun – “テュフォン”",
+      "First person pronoun – Unknown",
       "X"
     ],
     "english_speech_quirks": [
@@ -2414,7 +2414,7 @@
       "Y"
     ],
     "notes": [
-      "None"
+      "Called the Cleaver (tbd) (“割り物”)."
     ]
   },
   {
