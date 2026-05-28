@@ -905,10 +905,9 @@
     "japanese_speech_quirks": [
       "First person pronoun – “わたくし”",
       "Second person pronoun – “あなた”",
-      "Speaks in two different registers: a highly formal one and a more informal one.",
-      "She naturally speaks in her informal register, but often tries to use her formal register around others. This often leads to her misspeaking and slipping in and out of her formal register when she gets excited or passionate. She will often restate things she accidentally said informally in a formal manner.",
-      "She will also act childishly on occasion and slip back into an informal register.",
-      "When not speaking politely, she typically uses “わ” or “のよ” as final particles, but not always every sentence."
+      "Speaks in two different registers: a formal one and a more informal one.",
+      "She naturally speaks in her informal register, but sometimes tries to use her formal register around others in appropriate situations. This often leads to her misspeaking and slipping in and out of her formal register when she gets excited or passionate. She will often restate things she accidentally said informally in a formal manner.",
+      "When not speaking politely, she typically uses “わ” or “のよ” as final particles, but not always every sentence. “かしら” also occurs, make sure not to confuse with Beatrice, who will very consistantly alternate between “のよ” and “かしら”."
     ],
     "english_speech_quirks": [
       "When speaking formally, no contractions should be used and the replacements below should be used (will -> shall, etc.).",
@@ -933,14 +932,15 @@
     "japanese_speech_quirks": [
       "First person pronoun – “私”",
       "Second person pronoun – “あなた”",
-      "Typically elongates vowels at the end of a sentence or occasionally at the end of a clause within a sentence, especially with conjunctions or interjections at the start of a sentence (まぁ, ねぇ, さぁ).",
-      "Uses “chan” as an honorific with practically everyone."
+      "Typically elongates vowels at the end of a sentence or occasionally at the end of a clause within a sentence, especially with conjunctions or interjections at the start of a sentence (まぁ, ねぇ, さぁ)."
     ],
     "english_speech_quirks": [
       "Elongated vowels should follow basic rules, adding two extra vowels with no tilde.",
       "Uses only basic contractions like I’m, you’re, etc."
     ],
-    "notes": []
+    "notes": [
+      "Uses “chan” as an honorific with practically everyone."
+    ]
   },
   {
     "wip": false,
@@ -1020,11 +1020,14 @@
     "name_in_jp": "ウォルフ",
     "japanese_speech_quirks": [
       "First person pronoun – “オレ”",
-      "X"
+      "Second person pronoun – “お前”",
+      "Laughs like “くははは”, with a variable number of “は”.",
+      "Has a speech pattern where he sometimes has a pause at the end of a sentence before “だ”, looks like “X、だ”."
     ],
     "english_speech_quirks": [
-      "Quite rough and rude, but also somehw",
-      "Y"
+      "Quite rough and rude, often quite nasty towards others.",
+      "Likes to yap.",
+      "Laugh should be styled as “Khahaha”, matching the number of times “ha” appears in the Japanese."
     ],
     "notes": [
       "Six Tongues codename is Black Dog (黒狗)"
