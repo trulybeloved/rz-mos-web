@@ -1206,7 +1206,7 @@
       "First person pronoun – “余”"
     ],
     "english_speech_quirks": [
-      "Pronouns should be rendered as “my eminent self”"
+      "Pronouns should be rendered as “my eminent self” when “余” is present"
     ],
     "notes": [
       "None"
@@ -2120,7 +2120,8 @@
     ],
     "english_speech_quirks": [
       "Rants a lot, makes a lot of innuendos and sexual comments.",
-      "Also will often put on a cutesy act."
+      "Also will often put on a cutesy act.",
+      "Use “this lovely lady” as her pronoun when “アタクシ” is used."
     ],
     "notes": [
       "クズ肉 and クズ肉共 should be translated as “rotten meat scraps”."
