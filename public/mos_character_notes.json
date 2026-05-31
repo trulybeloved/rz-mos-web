@@ -950,7 +950,8 @@
       "Uses only basic contractions like I’m, you’re, etc."
     ],
     "notes": [
-      "Uses “chan” as an honorific with practically everyone."
+      "Uses “chan” as an honorific with practically everyone.",
+      "In Prophecy of the Throne, had the nickname of Insect Master (虫使い)."
     ]
   },
   {
@@ -971,7 +972,7 @@
     ]
   },
   {
-    "wip": true,
+    "wip": false,
     "character": "Russell Fellow",
     "name_suffix": "",
     "name_in_jp": "ラッセル・フェロー",
@@ -1000,7 +1001,7 @@
       "X"
     ],
     "english_speech_quirks": [
-      "X",
+      "Overall quite timid and polite. Meek and gentle.",
       "Y"
     ],
     "notes": [
@@ -1025,7 +1026,7 @@
     ]
   },
   {
-    "wip": true,
+    "wip": false,
     "character": "Wolf",
     "name_suffix": "",
     "name_in_jp": "ウォルフ",
@@ -1038,10 +1039,13 @@
     "english_speech_quirks": [
       "Quite rough and rude, often quite nasty towards others.",
       "Likes to yap.",
-      "Laugh should be styled as “Khahaha”, matching the number of times “ha” appears in the Japanese."
+      "Can often have sudden swings in emotions.",
+      "Laugh should be styled as “Kuhahaha”, matching the number of times “ha” appears in the Japanese.",
+      "When “X、だ” appears in the Japanese, if possible, a single word or short phrase should be isolated at the end of the sentence."
     ],
     "notes": [
-      "Six Tongues codename is Black Dog (黒狗)"
+      "Six Tongues codename is Black Dog (黒狗)",
+      "In Prophecy of the Throne, he had the title of “Foul Magician” (卑劣術師)."
     ]
   },
   {
