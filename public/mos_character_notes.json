@@ -1034,14 +1034,16 @@
       "First person pronoun – “オレ”",
       "Second person pronoun – “お前”",
       "Laughs like “くははは”, with a variable number of “は”.",
-      "Has a speech pattern where he sometimes has a pause at the end of a sentence before “だ”, looks like “X、だ”."
+      "Has a speech pattern where he sometimes has a pause at the end of a sentence before “だ”, looks like “X、だ”.",
+      "Often is repetitive, will have sentences with a set structure that repeats certain synonyms."
     ],
     "english_speech_quirks": [
       "Quite rough and rude, often quite nasty towards others.",
       "Likes to yap.",
       "Can often have sudden swings in emotions.",
       "Laugh should be styled as “Kuhahaha”, matching the number of times “ha” appears in the Japanese.",
-      "When “X、だ” appears in the Japanese, if possible, a single word or short phrase should be isolated at the end of the sentence."
+      "When “X、だ” appears in the Japanese, if possible, a single word or short phrase should be isolated at the end of the sentence.",
+      "When encountering repetitive sentences, try to imitate a similar structure with synonyms (it is sort of Gluttony-esque)."
     ],
     "notes": [
       "Six Tongues codename is Black Dog (黒狗)",
