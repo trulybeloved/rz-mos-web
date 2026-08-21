@@ -1,6 +1,6 @@
 [
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Others",
     "Character": "Sphinx",
     "Self-referral": "I",
@@ -36,7 +36,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Witches of Sin",
     "Character": "Echidna",
     "Self-referral": "I",
@@ -72,7 +72,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Witches of Sin",
     "Character": "Sekhmet",
     "Self-referral": "I",
@@ -108,7 +108,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Witches of Sin",
     "Character": "Minerva",
     "Self-referral": "I",
@@ -144,7 +144,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Witches of Sin",
     "Character": "Daphne",
     "Self-referral": "I",
@@ -180,7 +180,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Witches of Sin",
     "Character": "Typhon",
     "Self-referral": "I",
@@ -216,7 +216,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Witches of Sin",
     "Character": "Carmilla",
     "Self-referral": "I",
@@ -252,7 +252,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Witches of Sin",
     "Character": "Satella",
     "Self-referral": "I",
@@ -288,7 +288,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Witches of Sin",
     "Character": "Pandora",
     "Self-referral": "I",
@@ -324,7 +324,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Witches of Sin",
     "Character": "Hector",
     "Self-referral": "I",
@@ -360,7 +360,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Sin Archbishops",
     "Character": "Capella Emerada Lugunica",
     "Self-referral": "I",
@@ -396,7 +396,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Sin Archbishops",
     "Character": "Ley Batenkaitos",
     "Self-referral": "I",
@@ -432,7 +432,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Sin Archbishops",
     "Character": "Roy Alphard",
     "Self-referral": "I",
@@ -468,7 +468,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Sin Archbishops",
     "Character": "Louis Arneb",
     "Self-referral": "I",
@@ -504,7 +504,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Sin Archbishops",
     "Character": "Regulus Corneas",
     "Self-referral": "I",
@@ -540,7 +540,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Sin Archbishops",
     "Character": "Petelgeuse Romanée-Conti",
     "Self-referral": "I",
@@ -576,7 +576,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Sin Archbishops",
     "Character": "Sirius Romanée-Conti",
     "Self-referral": "I",
@@ -612,7 +612,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Sin Archbishops",
     "Character": "Stride Vollachia",
     "Self-referral": "My venerable self",
@@ -648,7 +648,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Beloved Children",
     "Character": "Elsa Granhiert",
     "Self-referral": "I",
@@ -684,7 +684,7 @@
     "Probably": ""
   },
   {
-    "Category": "Evil-doers",
+    "": "Evil-doers",
     "Subcategory": "Beloved Children",
     "Character": "Clarissa",
     "Self-referral": "TBD",
@@ -720,7 +720,7 @@
     "Probably": ""
   },
   {
-    "Category": "Kararagi",
+    "": "Kararagi",
     "Subcategory": "N/A",
     "Character": "Halibel",
     "Self-referral": "I",
@@ -756,7 +756,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "High Government and Nobility",
     "Character": "Miklotov McMahon",
     "Self-referral": "I",
@@ -792,7 +792,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "High Government and Nobility",
     "Character": "Bordeaux Zergev",
     "Self-referral": "I",
@@ -828,7 +828,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "High Government and Nobility",
     "Character": "Marcos Gildark",
     "Self-referral": "I",
@@ -864,7 +864,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "High Government and Nobility",
     "Character": "Fourier Lugunica",
     "Self-referral": "My eminent self",
@@ -900,7 +900,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Six Tongues",
     "Character": "Russell Fellow",
     "Self-referral": "I",
@@ -936,7 +936,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Six Tongues",
     "Character": "Melty Pristis",
     "Self-referral": "I",
@@ -972,7 +972,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Six Tongues",
     "Character": "Salum Pristis",
     "Self-referral": "I",
@@ -1008,7 +1008,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Six Tongues",
     "Character": "Wolf",
     "Self-referral": "I",
@@ -1044,7 +1044,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Anastasia Camp",
     "Character": "Anastasia Hoshin",
     "Self-referral": "I",
@@ -1080,7 +1080,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Anastasia Camp",
     "Character": "Eridna",
     "Self-referral": "I",
@@ -1116,7 +1116,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Anastasia Camp",
     "Character": "Hetaro Pearlbatton",
     "Self-referral": "I",
@@ -1152,7 +1152,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Anastasia Camp",
     "Character": "Julius Juukulius",
     "Self-referral": "I",
@@ -1188,7 +1188,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Anastasia Camp",
     "Character": "Mimi Pearlbatton",
     "Self-referral": "I",
@@ -1224,7 +1224,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Anastasia Camp",
     "Character": "Ricardo Welkin",
     "Self-referral": "I",
@@ -1260,7 +1260,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Anastasia Camp",
     "Character": "Tivey Pearlbatton",
     "Self-referral": "I",
@@ -1296,7 +1296,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Crusch Camp",
     "Character": "Crusch Karsten (pre-Amnesia)",
     "Self-referral": "I",
@@ -1332,7 +1332,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Crusch Camp",
     "Character": "Crusch Karsten (post-Amnesia)",
     "Self-referral": "I",
@@ -1368,7 +1368,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Crusch Camp",
     "Character": "Felix Argyle",
     "Self-referral": "I",
@@ -1404,7 +1404,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Crusch Camp",
     "Character": "Wilhelm van Astrea",
     "Self-referral": "I",
@@ -1440,7 +1440,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Beatrice",
     "Self-referral": "Betty",
@@ -1476,7 +1476,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Clind",
     "Self-referral": "I",
@@ -1512,7 +1512,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Emilia",
     "Self-referral": "I",
@@ -1548,7 +1548,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Frederica Baumann",
     "Self-referral": "I",
@@ -1584,7 +1584,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Garfiel Tinzel",
     "Self-referral": "My amazin' self",
@@ -1620,7 +1620,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Louis Arneb (Arc 7) / Spica",
     "Self-referral": "N/A",
@@ -1656,7 +1656,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Natsuki Subaru",
     "Self-referral": "I",
@@ -1692,7 +1692,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Otto Suwen",
     "Self-referral": "I",
@@ -1728,7 +1728,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Petra Leyte (as maid/noble)",
     "Self-referral": "I",
@@ -1764,7 +1764,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Petra Leyte (casual)",
     "Self-referral": "I",
@@ -1800,7 +1800,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Ram",
     "Self-referral": "Ram",
@@ -1836,7 +1836,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Rem",
     "Self-referral": "Rem (pre-coma, with memories), I (Arc 7, without memories)",
@@ -1872,7 +1872,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Roswaal L. Mathers",
     "Self-referral": "I",
@@ -1908,7 +1908,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Meili Portroute",
     "Self-referral": "I",
@@ -1944,7 +1944,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Emilia Camp",
     "Character": "Ryuzu Meyer",
     "Self-referral": "I",
@@ -1980,7 +1980,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Camberley",
     "Self-referral": "I",
@@ -2016,7 +2016,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Carol Remendis (old)",
     "Self-referral": "I",
@@ -2052,7 +2052,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Cromwell Valga / Rom",
     "Self-referral": "I",
@@ -2088,7 +2088,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Doltero Amule",
     "Self-referral": "I",
@@ -2124,7 +2124,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Ezzo Cadner",
     "Self-referral": "I",
@@ -2160,7 +2160,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Felt",
     "Self-referral": "I",
@@ -2196,7 +2196,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Flam Remendis",
     "Self-referral": "I",
@@ -2232,7 +2232,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Gaston",
     "Self-referral": "I",
@@ -2268,7 +2268,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Grassis Remendis",
     "Self-referral": "I",
@@ -2304,7 +2304,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Grimm Remendis (old)",
     "Self-referral": "I",
@@ -2340,7 +2340,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Rachins",
     "Self-referral": "I",
@@ -2376,7 +2376,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Manfred Madison",
     "Self-referral": "I",
@@ -2412,7 +2412,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Reinhard van Astrea",
     "Self-referral": "I",
@@ -2448,7 +2448,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Felt Camp",
     "Character": "Toto",
     "Self-referral": "I",
@@ -2484,7 +2484,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Divine Dragon Church",
     "Character": "Filóre",
     "Self-referral": "I",
@@ -2520,7 +2520,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Divine Dragon Church",
     "Character": "Sakura Element",
     "Self-referral": "I",
@@ -2556,7 +2556,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Divine Dragon Church",
     "Character": "Tiga Rauleon",
     "Self-referral": "I",
@@ -2592,7 +2592,7 @@
     "Probably": ""
   },
   {
-    "Category": "Others",
+    "": "Others",
     "Subcategory": "",
     "Character": "Reid Astrea",
     "Self-referral": "I",
@@ -2628,7 +2628,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Others",
     "Character": "Volcanica",
     "Self-referral": "I",
@@ -2664,7 +2664,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Priscilla Camp",
     "Character": "Aldebaran",
     "Self-referral": "I",
@@ -2700,7 +2700,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Priscilla Camp",
     "Character": "Heinkel Astrea",
     "Self-referral": "I",
@@ -2736,7 +2736,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Priscilla Camp",
     "Character": "Priscilla Barielle",
     "Self-referral": "I",
@@ -2772,7 +2772,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Priscilla Camp",
     "Character": "Schult",
     "Self-referral": "I",
@@ -2808,7 +2808,7 @@
     "Probably": ""
   },
   {
-    "Category": "Lugunica",
+    "": "Lugunica",
     "Subcategory": "Priscilla Camp",
     "Character": "Yae Tenzen",
     "Self-referral": "I",
@@ -2844,7 +2844,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Gladiator Island",
     "Character": "Gustav Morello",
     "Self-referral": "I, in my capacity",
@@ -2880,7 +2880,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Gladiator Island",
     "Character": "Hiain Yatz",
     "Self-referral": "I",
@@ -2916,7 +2916,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Gladiator Island",
     "Character": "Idra Missanga",
     "Self-referral": "I",
@@ -2952,7 +2952,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Gladiator Island",
     "Character": "Tanza",
     "Self-referral": "I",
@@ -2988,7 +2988,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Gladiator Island",
     "Character": "Weitz Rogen",
     "Self-referral": "I",
@@ -3024,7 +3024,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "High Government and Nobility",
     "Character": "Berstetz Fondalfon",
     "Self-referral": "I",
@@ -3060,7 +3060,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "High Government and Nobility",
     "Character": "Lamia Godwin",
     "Self-referral": "I",
@@ -3096,7 +3096,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "High Government and Nobility",
     "Character": "Serena Dracroy",
     "Self-referral": "I",
@@ -3132,7 +3132,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "High Government and Nobility",
     "Character": "Ubilk",
     "Self-referral": "I",
@@ -3168,7 +3168,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "High Government and Nobility",
     "Character": "Vincent Vollachia / Abel",
     "Self-referral": "I",
@@ -3204,7 +3204,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Nine Divine Generals",
     "Character": "Arakiya",
     "Self-referral": "I",
@@ -3240,7 +3240,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Nine Divine Generals",
     "Character": "Balleroy Temeglyph",
     "Self-referral": "I",
@@ -3276,7 +3276,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Nine Divine Generals",
     "Character": "Cecilus Segmunt",
     "Self-referral": "I",
@@ -3312,7 +3312,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Nine Divine Generals",
     "Character": "Chisha Gold",
     "Self-referral": "I",
@@ -3348,7 +3348,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Nine Divine Generals",
     "Character": "Goz Ralfon",
     "Self-referral": "I",
@@ -3384,7 +3384,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Nine Divine Generals",
     "Character": "Groovy Gumlet",
     "Self-referral": "I",
@@ -3420,7 +3420,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Nine Divine Generals",
     "Character": "Madelyn Eschart",
     "Self-referral": "I, the Dragon",
@@ -3456,7 +3456,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Nine Divine Generals",
     "Character": "Moguro Hagane",
     "Self-referral": "I",
@@ -3492,7 +3492,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Nine Divine Generals",
     "Character": "Olbart Dunklekenn",
     "Self-referral": "I",
@@ -3528,7 +3528,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Nine Divine Generals",
     "Character": "Yorna Mishigure",
     "Self-referral": "I",
@@ -3564,7 +3564,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Other Military",
     "Character": "Jamal Aurélie",
     "Self-referral": "I",
@@ -3600,7 +3600,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Other Military",
     "Character": "Kafma Irulux",
     "Self-referral": "I",
@@ -3636,7 +3636,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Other Military",
     "Character": "Miles",
     "Self-referral": "I",
@@ -3672,7 +3672,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Other Military",
     "Character": "Todd Fang",
     "Self-referral": "I",
@@ -3708,7 +3708,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Other Military",
     "Character": "Zikr Osman",
     "Self-referral": "I",
@@ -3744,7 +3744,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Others",
     "Character": "Flop O'Connell",
     "Self-referral": "I",
@@ -3780,7 +3780,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Others",
     "Character": "Katya Aurélie",
     "Self-referral": "I",
@@ -3816,7 +3816,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Others",
     "Character": "Medium O'Connell",
     "Self-referral": "I",
@@ -3852,7 +3852,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Others",
     "Character": "Mezoreia",
     "Self-referral": "I",
@@ -3888,7 +3888,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "Others",
     "Character": "Rowan Segmunt",
     "Self-referral": "I",
@@ -3924,7 +3924,7 @@
     "Probably": "Prolly"
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "People of Shudraq",
     "Character": "Holly Shudraq",
     "Self-referral": "I",
@@ -3960,7 +3960,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "People of Shudraq",
     "Character": "Kuna Shudraq",
     "Self-referral": "I",
@@ -3996,7 +3996,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "People of Shudraq",
     "Character": "Mariuli Shudraq",
     "Self-referral": "I",
@@ -4032,7 +4032,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "People of Shudraq",
     "Character": "Mizelda Shudraq",
     "Self-referral": "I",
@@ -4068,7 +4068,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "People of Shudraq",
     "Character": "Taritta Shudraq",
     "Self-referral": "I",
@@ -4104,7 +4104,7 @@
     "Probably": ""
   },
   {
-    "Category": "Vollachia",
+    "": "Vollachia",
     "Subcategory": "People of Shudraq",
     "Character": "Utakata Shudraq",
     "Self-referral": "Wu",
@@ -4140,7 +4140,7 @@
     "Probably": ""
   },
   {
-    "Category": "Gusteko",
+    "": "Gusteko",
     "Subcategory": "Other",
     "Character": "Vague Adgard",
     "Self-referral": "This one, in my eminence",
