@@ -200,7 +200,9 @@
     ],
     "english_speech_quirks": [
       "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “’n” / “y’all”, “ain’t” is used scarcely (never “y’ain’t”)",
-      "Relatively simple speaking style, avoid very complicated words",
+      "Relatively simple speaking style, avoid very complicated words"
+    ],
+    "notes": [
       "His “kind-of” catch-phrase, “馬鹿か、俺は。いや、馬鹿だ俺は”, should always be TL’d as “Am I an idiot? No, I am definitely an idiot.”May be “バカ” at times instead of “馬鹿”",
       "May be “バカ” at times instead of “馬鹿”",
       "Has another sort of catch-phrase, “運命様、上等だ”, which has been TLd on multiple instances as “Bring it on, oh inevitable fate”Al also uses this phrase more than once",
@@ -208,9 +210,24 @@
       "HAS YET ANOTHER sort of catch-phrase, “俺が必ずお前を救ってみせる”, which has a bunch of variations (e.g. with “助ける” rather than “救う”, for Shaula in Arc 6 Chapter 70), and has been TLd as “I, no matter what, will save you”",
       "Has a bit of a gag with Emilia with old-timey expressions, to which he replies “Who even says X these days” (...ってきょうび聞かねぇな)",
       "Calls Cecilus “Ceci” (セッシー)"
+    ]
+  },
+  {
+    "wip": false,
+    "character": "Natsumi Schwartz",
+    "name_suffix": "",
+    "name_in_jp": "ナツミ・シュバルツ",
+    "japanese_speech_quirks": [
+      "First person pronoun – わたくし",
+      "Speaks like a refined lady of high-class, uses わ frequently as a sentence-ending particle as well as polite speech.",
+      "Still has some Subaru-like qualities, such as loanwords and expressions."
+    ],
+    "english_speech_quirks": [
+      "Uses essentially no contractions as of Arc 10.",
+      "Uses a more formal tone when in character compared to Natsuki Subaru, and somewhat elevated vocabulary, but not to a major extent."
     ],
     "notes": [
-      "None"
+      "In Arc 7, Natsumi used contractions and was not well distinguished from Subaru’s normal speech patterns. This has been rectified for Azamuku and Arc 10."
     ]
   },
   {
@@ -690,7 +707,7 @@
       "Curses when standoffish, but typically doesn’t swear like a sailor."
     ],
     "notes": [
-      "Eye color should be written as “crimson”",
+      "Eye color should be written as “ruby”",
       "Hair color should be written as “golden”"
     ]
   },
@@ -933,7 +950,7 @@
       "Has a thing with Emilia, where after Filóre quotes scripture, Emilia will say “ええと、それって？”, which should be translated as “Umm, and that means?”, and Filóre will typically respond with “つまり、X” as an explanation, which should be translated as “In other words, X”",
       "Often referred to as “修道女”, which should be translated as “nun”",
       "Also called a Saintess (“聖女”)",
-      "Eye color should be written as “crimson”",
+      "Eye color should be written as “ruby”",
       "Hair color should be written as “golden”"
     ]
   },
@@ -979,7 +996,7 @@
     "name_suffix": "",
     "name_in_jp": "ラッセル・フェロー",
     "japanese_speech_quirks": [
-      "First person pronoun – “私” (pronounced わたくし), also uses “私ども” (pronounced わたくしども), uncertain as to if there is an important difference yet.",
+      "First person pronoun – “私” (pronounced わたくし), also uses “私ども” (pronounced わたくしども)",
       "Uses a lot of formal and humble language normally, but has dropped it on one occasion, talking with a subordinate (end of Riot in Flanders)."
     ],
     "english_speech_quirks": [
@@ -1220,7 +1237,8 @@
       "Pronouns should be rendered as “my eminent self” when “余” is present, “I” otherwise."
     ],
     "notes": [
-      "None"
+      "Eye color should be written as “ruby”",
+      "Hair color should be written as “golden”"
     ]
   },
   {
@@ -2035,23 +2053,6 @@
   },
   {
     "wip": false,
-    "character": "Natsumi Schwartz",
-    "name_suffix": "",
-    "name_in_jp": "ナツミ・シュバルツ",
-    "japanese_speech_quirks": [
-      "First person pronoun – わたくし"
-    ],
-    "english_speech_quirks": [
-      "Uses mostly contractions such as “I’m” / “don’t”, etc, but does not use “-in’” / “(y’)ain’t” / “’n” / “y’all”",
-      "Relatively simple speaking style, avoid very complicated words",
-      "Uses a more polite tone when in character compared to Natsuki Subaru"
-    ],
-    "notes": [
-      "None"
-    ]
-  },
-  {
-    "wip": false,
     "character": "Rowan Segmunt",
     "name_suffix": "",
     "name_in_jp": "ロウアン・セグムント",
@@ -2367,14 +2368,13 @@
     "name_in_jp": "サテラ",
     "japanese_speech_quirks": [
       "First person pronoun – “私”",
-      "X"
+      "愛してる"
     ],
     "english_speech_quirks": [
-      "X",
-      "Y"
+      "I love you."
     ],
     "notes": [
-      "None"
+      "I love you."
     ]
   },
   {
@@ -2429,12 +2429,67 @@
     ]
   },
   {
-    "wip": true,
+    "wip": false,
     "character": "Clarissa",
     "name_suffix": "",
     "name_in_jp": "クラリッサ",
     "japanese_speech_quirks": [
-      "First person pronoun – Unknown",
+      "First person pronoun – 私",
+      "Speaks hesitatingly, often with commas and ellipses interspersed throughout her speech to indicate her faltering speech.",
+      "Uses polite speech"
+    ],
+    "english_speech_quirks": [
+      "Commas used in the Japanese dialogue to indicate pauses in her speech where a comma would not usually be placed should be represented as ellipses. Commas where a comma would usually be placed should be treated normally. Use your judgement."
+    ],
+    "notes": [
+      "Called the Shatterer (“割り物”).",
+      "Where “割る” is used regarding her ability, it should be rendered as “shatter” when possible."
+    ]
+  },
+  {
+    "wip": false,
+    "character": "Reborn",
+    "name_suffix": "",
+    "name_in_jp": "リボーン",
+    "japanese_speech_quirks": [
+      "First person pronoun – 俺",
+      "Second person pronoun – てめえ",
+      "Sometimes has small kana lengthenings (like だぁ)."
+    ],
+    "english_speech_quirks": [
+      "A rough speech pattern with cursing as appropriate. Should generally seem ticked off about most things and people.",
+      "His lengthenings in Japanese should be treated like Garfiel and not be rendered in English, but a high proportion of them (such as だぁまぁれぇ) indicates cursing where appropriate should be added."
+    ],
+    "notes": [
+      "(Come back to add ability names)"
+    ]
+  },
+  {
+    "wip": false,
+    "character": "Arbalest",
+    "name_suffix": "",
+    "name_in_jp": "アルバレスト",
+    "japanese_speech_quirks": [
+      "First person pronoun – 我輩",
+      "Second person pronoun – おぬし",
+      "Likes to talk about things hypothetically often using “仮の話”."
+    ],
+    "english_speech_quirks": [
+      "Should sound a bit old-fashioned and be decently wordy and somewhat formal.",
+      "Contractions should be quite limited, most often using uncontracted forms, but sometimes simple contractions such as “I’m”, “don’t”, etc. where it sounds better.",
+      "“仮の話” or similar variations should use “hypothetically (speaking)” or other variations."
+    ],
+    "notes": [
+      "In reference to his ability, “枷” should be translated as “restraint(s)” and “烙印” as “brand”."
+    ]
+  },
+  {
+    "wip": true,
+    "character": "Tornel",
+    "name_suffix": "",
+    "name_in_jp": "トルネル",
+    "japanese_speech_quirks": [
+      "First person pronoun – 僕",
       "X"
     ],
     "english_speech_quirks": [
@@ -2442,8 +2497,58 @@
       "Y"
     ],
     "notes": [
-      "Called the Cleaver (“割り物”)."
+      "Hair color is “chestnut” (“栗色”)."
     ]
+  },
+  {
+    "wip": true,
+    "character": "Bellaris",
+    "name_suffix": "",
+    "name_in_jp": "ベラリス",
+    "japanese_speech_quirks": [
+      "First person pronoun – わたし",
+      "Doesn’t use polite speech, but does often use わ as a sentence ending particle."
+    ],
+    "english_speech_quirks": [
+      "X",
+      "Y"
+    ],
+    "notes": [
+      "Called the Ring Finger (“薬指”)."
+    ]
+  },
+  {
+    "wip": false,
+    "character": "Dandon",
+    "name_suffix": "",
+    "name_in_jp": "ダンドン",
+    "japanese_speech_quirks": [
+      "First person pronoun – 私",
+      "Does this thing where he puts double bracket quotes around words that aren’t key terms, usually titles or descriptors.."
+    ],
+    "english_speech_quirks": [
+      "Any non-key terms he puts in quotes should be rendered as normal with quotes around them."
+    ],
+    "notes": []
+  },
+  {
+    "wip": false,
+    "character": "Lucciereca",
+    "name_suffix": "",
+    "name_in_jp": "ルチエレカ",
+    "japanese_speech_quirks": [
+      "First person pronoun – 私",
+      "Second person pronoun – あなた",
+      "Often starts her dialogue with “そうね”.",
+      "Uses わ as a sentence ending particle.",
+      "Not much polite speech, only seems to use “でしょう” and “ましょう” but not “です” and “ます”"
+    ],
+    "english_speech_quirks": [
+      "Is super sycophantic and agrees with others a lot, while insulting them at the same time. The only exception so far is Dandon, whom she agrees with while insulting someone else.",
+      "“そうね” at the start of dialogue should be translated as “That’s right”.",
+      "Standard contraction usage."
+    ],
+    "notes": []
   },
   {
     "wip": false,
